@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: backend
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.14
+Description-Content-Type: text/markdown
+Requires-Dist: cloudflared>=1.0.0.2
+Requires-Dist: fastapi[standard]>=0.121.0
+Requires-Dist: playwright>=1.55.0
+Requires-Dist: pydantic>=2.12.4
+Requires-Dist: pydantic-settings>=2.11.0
+Requires-Dist: python-jose>=3.5.0
+Requires-Dist: supabase>=2.23.2
+Requires-Dist: supabase-auth>=2.23.2
+Requires-Dist: supabase-functions>=2.23.2

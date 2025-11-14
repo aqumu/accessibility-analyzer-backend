@@ -1,0 +1,9 @@
+cloudflared>=1.0.0.2
+fastapi[standard]>=0.121.0
+playwright>=1.55.0
+pydantic>=2.12.4
+pydantic-settings>=2.11.0
+python-jose>=3.5.0
+supabase>=2.23.2
+supabase-auth>=2.23.2
+supabase-functions>=2.23.2
