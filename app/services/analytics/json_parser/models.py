@@ -14,8 +14,9 @@ class DocumentInfo:
         lang (str): Язык документа (например, 'en', 'ru')
         parse_errors (List[str]): Список ошибок, возникших при парсинге документа
     """
-    title: str
-    lang: str = "en"  # Язык по умолчанию
+    url: Optional[str] = None
+    title: Optional[str] = None
+    lang: Optional[str] = None  # Язык по умолчанию
     parse_errors: List[str] = field(default_factory=list)
 
 
@@ -129,7 +130,6 @@ class NodeSemantics:
     aria_hidden: Optional[bool] = False
     accessible_name: Optional[str] = None
 
-
 @dataclass
 class NodeInteraction:
     """
@@ -235,7 +235,6 @@ class ElementNode:
 
     semantics: Optional[NodeSemantics] = None
     interaction: Optional[NodeInteraction] = None
-    layout: Optional[NodeLayout] = None
     form: Optional[FormInfo] = None
     media: Optional[MediaInfo] = None
 
@@ -260,6 +259,7 @@ class ElementNode:
         """
         tag = data.get("tag", "")
         attributes = dict(data.get("attributes", {}) or {})
+
         classes = data.get("classes", []) or []
         element_id = data.get("id") or attributes.get("id")  # предпочитаем data["id"] если есть
         text = data.get("text") or attributes.get("text") or ""
@@ -273,7 +273,7 @@ class ElementNode:
 
         # Количество детей (из данных или посчитать)
         children_data = data.get("children", []) or []
-        num_children = data.get("num_children", len(children_data) if children_data is not None else 0)
+        num_children = data.get("num_children", len(children_data))
 
         # Извлечение отдельных стилевых свойств (если есть)
         font_size = computed_styles.get("fontSize")
@@ -301,18 +301,20 @@ class ElementNode:
                 styles[key] = attributes.get(key)
 
         # Семантика/interaction/layout/form/media — если есть, пробуем создать/скопировать
-        semantics = data.get("semantics")
+        semanticsDict = data.get("semantics")
+        semantics = None
+        if semanticsDict:
+            semantics = NodeSemantics(**semanticsDict)
+
         interaction = data.get("interaction")
-        layout = data.get("layout")
         form = data.get("form")
-        media = data.get("media")
 
         # Создаём сам узел
         node = cls(
             tag=tag,
             text=text,
-            alt=attributes.get("alt"),
-            title=attributes.get("title"),
+            alt=data.get("alt") or attributes.get("alt"),
+            title=data.get("title"),
             placeholder=attributes.get("placeholder"),
             width=width,
             height=height,
@@ -335,9 +337,7 @@ class ElementNode:
             pseudo=pseudo,
             semantics=semantics,
             interaction=interaction,
-            layout=layout,
             form=form,
-            media=media,
             dom_path=data.get("dom_path") or (f"{parent.dom_path}/{tag}" if parent and parent.dom_path else None),
             parent=parent,
             children=[],  # заполним ниже
@@ -432,6 +432,7 @@ class DocumentFactory:
         meta = data.get("meta", {})
 
         doc_info = DocumentInfo(
+            url = meta.get("url"),
             title=meta.get("title", "Analyzed Document"),
             lang=meta.get("lang", "en"),
             parse_errors=data.get("parse_errors", [])
