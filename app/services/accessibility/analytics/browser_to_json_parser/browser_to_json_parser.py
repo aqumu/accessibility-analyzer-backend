@@ -1,204 +1,150 @@
-import json
-import sys
-# Используем async_api
-from playwright.async_api import async_playwright, Page, ElementHandle
-from typing import List, Dict, Any, Optional
+import aiohttp
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin
 
 
-# --- Вспомогательные асинхронные функции ---
+# -----------------------
+# Helpers
+# -----------------------
 
-async def get_element_depth(element: ElementHandle) -> int:
-    """Вспомогательная функция для получения глубины вложенности DOM."""
-    return await element.evaluate("""(el) => {
-        let depth = 0;
-        let current = el;
-        while (current.parentElement) {
-            depth++;
-            current = current.parentElement;
-        }
-        return depth;
-    }""")
-
-
-async def get_specific_attributes(element: ElementHandle) -> Dict[str, Optional[str]]:
-    """Получает только те атрибуты, что указаны в примере JSON."""
-    return await element.evaluate("""(el) => {
-        const attrs = [
-            'src', 'alt', 'aria-label', 'aria-hidden', 'tabindex', 
-            'href', 'for', 'type', 'placeholder'
-        ];
-        const result = {};
-        for (const attr of attrs) {
-            result[attr] = el.getAttribute(attr) || null;
-        }
-        return result;
-    }""")
-
-
-async def get_computed_styles(element: ElementHandle) -> Dict[str, Any]:
-    """Получает вычисленные стили, как в примере."""
-    try:
-        styles = await element.evaluate("""(el) => {
-            const style = window.getComputedStyle(el);
-            return {
-                fontSize: style.fontSize,
-                fontWeight: style.fontWeight,
-                lineHeight: style.lineHeight,
-                color: style.color,
-                backgroundColor: style.backgroundColor,
-                display: style.display,
-                position: style.position,
-                opacity: style.opacity,
-                visibility: style.visibility
-            };
-        }""")
-        styles["contrastWithBackground"] = None  # Placeholder
-        return styles
-    except Exception:
-        return {
-            "fontSize": None, "fontWeight": None, "lineHeight": None,
-            "color": None, "backgroundColor": None, "display": None,
-            "position": None, "opacity": None, "visibility": None,
-            "contrastWithBackground": None
-        }
-
-
-async def get_box_model(element: ElementHandle) -> Dict[str, Any]:
-    """Получает геометрию элемента."""
-    try:
-        box = await element.bounding_box()
-        if box:
-            return {
-                "width": box['width'],
-                "height": box['height'],
-                "top": box['top'],
-                "left": box['left']
-            }
-        return {"width": 0, "height": 0, "top": 0, "left": 0}
-    except Exception:
-        return {"width": 0, "height": 0, "top": 0, "left": 0}
-
-
-async def get_tree_info(element: ElementHandle) -> Dict[str, Any]:
-    """Получает информацию о дереве DOM."""
-    try:
-        return {
-            "depth": await get_element_depth(element),
-            "parentTag": await element.evaluate(
-                '(el) => el.parentElement ? el.parentElement.tagName.toLowerCase() : null'),
-            "childrenTags": await element.evaluate(
-                '(el) => Array.from(el.children).map(child => child.tagName.toLowerCase())')
-        }
-    except Exception:
-        return {"depth": 0, "parentTag": None, "childrenTags": []}
-
-
-async def get_accessibility_info(element: ElementHandle, tag: str) -> Dict[str, Any]:
-    """Упрощенное получение данных о доступности."""
-    role = await element.get_attribute('role')
-    is_interactive = tag in ['a', 'button', 'input', 'select', 'textarea'] or \
-                     role in ['button', 'link', 'checkbox', 'menuitem']
-
-    return {
-        "name": await element.get_attribute('aria-label') or None,
-        "description": await element.get_attribute('aria-describedby') or None,
-        "role": role or tag,
-        "isInteractive": is_interactive
-    }
-
-
-async def get_interactivity_info(element: ElementHandle) -> Dict[str, Any]:
-    """Упрощенное получение данных об интерактивности."""
-    try:
-        tab_index_str = await element.get_attribute('tabindex')
-        tab_index_order = int(tab_index_str) if tab_index_str and tab_index_str.isdigit() else None
-
-        is_focusable = await element.evaluate("""(el) => {
-            try {
-                el.focus();
-                const focused = document.activeElement === el;
-                if (focused) el.blur();
-                return focused;
-            } catch (e) {
-                return false;
-            }
-        }""")
-
-        return {
-            "focusable": is_focusable,
-            "keyboardAccessible": is_focusable,
-            "tabIndexOrder": tab_index_order
-        }
-    except Exception:
-        return {"focusable": None, "keyboardAccessible": None, "tabIndexOrder": None}
-
-
-# --- Главная асинхронная функция ---
-
-async def parse_url(url: str, selectors: List[str] = None) -> Optional[Dict[str, Any]]:
+def css_prop_to_camel(prop: str) -> str:
     """
-    Главная асинхронная функция парсера.
+    Преобразует CSS ключи:
+    font-weight → fontWeight
+    background-color → backgroundColor
     """
+    parts = prop.split("-")
+    return parts[0] + "".join(p.capitalize() for p in parts[1:])
 
-    if selectors is None:
-        selectors = ['a', 'button', 'img', 'input', 'label', '[role="button"]']
 
-    query_selector = ", ".join(selectors)
+def parse_inline_styles(style: str) -> dict:
+    """
+    Разбирает inline CSS из атрибута style=""
+    Возвращает camelCase свойства.
+    """
+    result = {}
+    if not style:
+        return result
 
-    async with async_playwright() as p:
-        browser = None
-        try:
-            browser = await p.chromium.launch()
-            page = await browser.new_page()
-            await page.goto(url, wait_until='load', timeout=60000)
+    parts = style.split(";")
+    for part in parts:
+        if ":" not in part:
+            continue
+        key, value = part.split(":", 1)
+        camel = css_prop_to_camel(key.strip())
+        result[camel] = value.strip()
 
-            # 1. Meta Data
-            meta_data = {
+    return result
+
+
+async def fetch_html(url: str) -> str | None:
+    """
+    Загружает HTML c помощью aiohttp с улучшенной обработкой ошибок
+    """
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        timeout = aiohttp.ClientTimeout(total=30)
+
+        async with aiohttp.ClientSession(headers=headers) as session:
+            async with session.get(url, timeout=timeout) as resp:
+                if resp.status != 200:
+                    print(f"HTTP Error: {resp.status} for {url}")
+                    return None
+                return await resp.text()
+    except aiohttp.ClientError as e:
+        print(f"Network error for {url}: {e}")
+        return None
+    except Exception as e:
+        print(f"Unexpected error for {url}: {e}")
+        return None
+
+
+async def parse_url(url: str, selectors: list[str] | None = None) -> dict | None:
+    """
+    Основная функция парсера с улучшенной обработкой ошибок
+    """
+    try:
+        html = await fetch_html(url)
+        if not html:
+            return None
+
+        soup = BeautifulSoup(html, "html.parser")
+
+        # META SECTION (без изменений)
+        title = soup.title.string.strip() if soup.title and soup.title.string else ""
+        html_tag = soup.find("html")
+        lang = html_tag.get("lang", "") if html_tag else ""
+        charset = None
+
+        meta_charset = soup.find("meta", charset=True)
+        if meta_charset:
+            charset = meta_charset.get("charset")
+
+        meta_http = soup.find("meta", attrs={"http-equiv": "Content-Type"})
+        if not charset and meta_http:
+            content = meta_http.get("content", "")
+            if "charset=" in content:
+                charset = content.split("charset=")[-1]
+
+        charset = (charset or "").upper()
+
+        result = {
+            "meta": {
                 "url": url,
-                "title": await page.title(),
-                "lang": await page.locator('html').get_attribute('lang') or None,
-                "charset": await page.evaluate('() => document.characterSet') or "utf-8"
-            }
+                "title": title,
+                "lang": lang,
+                "charset": charset,
+            },
+            "elements": []
+        }
 
-            elements_data = []
+        # ELEMENTS SECTION с улучшенной обработкой
+        if selectors:
+            unique_elements = set()
 
-            # 2. Elements Data
-            elements = await page.locator(query_selector).all()
-            print(f"Найдено {len(elements)} элементов по селекторам: {query_selector}")
-
-            for el in elements:
+            for selector in selectors:
                 try:
-                    tag = await el.evaluate('(el) => el.tagName.toLowerCase()')
+                    elements = soup.select(selector)
+                    unique_elements.update(elements)
+                except Exception as e:
+                    print(f"Selector error '{selector}': {e}")
+                    continue
 
+            for el in unique_elements:
+                try:
                     element_info = {
-                        "tag": tag,
-                        "id": await el.get_attribute('id') or None,
-                        "classes": (await el.get_attribute('class') or "").split(),
-                        "role": await el.get_attribute('role') or None,
-                        "text": (await el.text_content(timeout=500) or "").strip(),
-                        "html": await el.evaluate('(el) => el.outerHTML', timeout=500),
-
-                        "attributes": await get_specific_attributes(el),
-                        "computedStyles": await get_computed_styles(el),
-                        "box": await get_box_model(el),
-                        "interactivity": await get_interactivity_info(el),
-                        "accessibility": await get_accessibility_info(el, tag),
-                        "tree": await get_tree_info(el)
+                        "tag": el.name,
+                        "id": el.get("id", ""),
+                        "classes": el.get("class", []),
+                        "text": el.get_text(strip=True)[:500],  # ограничиваем длину текста
+                        "attributes": {},
+                        "computedStyles": {},
                     }
-                    elements_data.append(element_info)
+
+                    # атрибуты
+                    for attr, value in el.attrs.items():
+                        if attr == "class":
+                            continue
+                        # Сериализуем значения в строку для JSON
+                        if isinstance(value, list):
+                            element_info["attributes"][attr] = ' '.join(value)
+                        else:
+                            element_info["attributes"][attr] = str(value)
+
+                    # inline computed styles
+                    inline_css = el.get("style", "")
+                    element_info["computedStyles"] = parse_inline_styles(inline_css)
+
+                    result["elements"].append(element_info)
 
                 except Exception as e:
-                    print(f"Не удалось обработать элемент: {e}", file=sys.stderr)
+                    print(f"Element parsing error: {e}")
+                    continue
 
-            await browser.close()
+        return result
 
-            return {
-                "meta": meta_data,
-                "elements": elements_data
-            }
-
-        except Exception as e:
-            print(f"Ошибка во время парсинга URL {url}: {e}", file=sys.stderr)
-            if browser:
-                await browser.close()
-            return None
+    except Exception as e:
+        print(f"Parse URL error: {e}")
+        return None
