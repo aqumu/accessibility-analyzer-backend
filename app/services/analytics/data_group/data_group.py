@@ -274,4 +274,3 @@ class DataGroupExtractor:
     def extract_document_structure_data(doc_model: DocumentModel) -> DocumentStructureData:
         """Извлекает данные для проверки общей структуры документа."""
         return DocumentStructureData(doc_model)
-

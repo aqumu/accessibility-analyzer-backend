@@ -46,7 +46,6 @@ async def analyze_webpage(
             run_id=run["id"],
             webpage_id=webpage["id"],
             url=str(payload.url),
-            selectors=None,
         )
 
         # 5. Return JSON-safe response
@@ -68,7 +67,6 @@ async def analyze_webpage_background(
     run_id: str,
     webpage_id: str,
     url: HttpUrl,
-    selectors: list[str] | None = None,
 ):
     try:
         # Mark running
@@ -77,7 +75,7 @@ async def analyze_webpage_background(
         await state_manager.set_running(UUID(run_id))
 
         # 1. Parse webpage into raw structured DOM JSON (in-memory only)
-        raw_json = await parse_url(str(url), selectors=selectors)
+        raw_json = await parse_url(str(url))
 
         if raw_json is None:
             raise RuntimeError("Parser returned None (URL unreachable or invalid).")
