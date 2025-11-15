@@ -1,4 +1,4 @@
-from app.services.accessibility.analytics.json_parser.models import DocumentInfo
+from app.services.analytics.json_parser.models import DocumentInfo
 
 class Rule311Language:
     id = "3.1.1"

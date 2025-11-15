@@ -1,4 +1,3 @@
-# test_model.py
 import pytest
 from app.services.analytics.json_parser.models import (
     DocumentInfo,
