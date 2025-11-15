@@ -1,6 +1,6 @@
 import asyncio
 import json
-from app.services.fetch_page import fetch_page
+from app.services.accessibility.analytics.browser_to_json_parser.browser_to_json_parser import fetch_page
 from app.services.accessibility.collector import run_extractors
 from app.utils.playwright_utils import startup_browser, shutdown_browser
 

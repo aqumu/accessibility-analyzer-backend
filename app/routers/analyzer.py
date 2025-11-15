@@ -1,13 +1,11 @@
 # app/routers/analyzer.py
-from fastapi import APIRouter, BackgroundTasks, Depends, HTTPException, Path
+from fastapi import APIRouter, BackgroundTasks, Depends, HTTPException
 from pydantic import HttpUrl
-from datetime import datetime
-from uuid import uuid4, UUID
-from app.schemas import WebpageCreate, WebpageInDB, RunInDB, RunStatus, InternalRunState
+from uuid import UUID
+from app.schemas import WebpageCreate, RunStatus, InternalRunState
 from app.auth import verify_token
-from app.services import fetch_page
-from app.services.accessibility.collector import run_extractors
-from app.services import state_manager, transformers
+from app.services.accessibility.analytics.browser_to_json_parser import browser_to_json_parser
+from app.services import state_manager
 from app.utils.db_helpers import (
     upsert_webpage_record,
     create_run_record,
