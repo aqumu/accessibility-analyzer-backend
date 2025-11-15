@@ -7,8 +7,8 @@ from app.services.analytics.json_parser.models import DocumentModel, ElementNode
 @dataclass
 class RuleViolation:
     rule_id: str
+    element_id: str
     message: str
-    node_path: str
 
 
 class WCAGRule(Protocol):
