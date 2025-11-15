@@ -87,7 +87,7 @@ async def test_real_json_save(local_server, tmp_path):
 
 @pytest.mark.asyncio
 async def test_real_json_save_from_live_site():
-    live_url = "https://wwe2.glitch.me"
+    live_url = "https://www.yahoo.com/"
     output_dir = Path("test_output")
     output_dir.mkdir(exist_ok=True)
 

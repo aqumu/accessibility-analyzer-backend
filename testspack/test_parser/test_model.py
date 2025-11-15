@@ -197,20 +197,157 @@ class TestElementNode:
 
         assert node.tag == "h1"
         assert node.text == "Main Title"
+        assert node.alt is None
         assert node.title == "Main Title"
-
-        assert node.fontSize == "32px"
-        assert node.fontWeight == "700"
-        assert node.color == "rgb(33, 37, 41)"
-        assert node.backgroundColor == "rgb(255, 255, 255)"
+        assert node.placeholder is None
         assert node.width == "720px"
         assert node.height == "48px"
+        assert node.top == "20px"
+        assert node.left == "50px"
         assert node.depth == 2
         assert node.num_children == 0
+        assert node.fontSize == "32px"
+        assert node.fontWeight == "700"
+        assert node.lineHeight == "1.2"
+        assert node.opacity == "1"
+        assert node.letterSpacing == "normal"
+        assert node.color == "rgb(33, 37, 41)"
+        assert node.backgroundColor == "rgb(255, 255, 255)"
+        assert node.position == "static"
+        assert node.display == "block"
+        assert node.textAlign == "left"
 
-        assert "color" in node.styles
         assert node.styles["color"] == "rgb(33, 37, 41)"
+        assert node.styles["backgroundColor"] == "rgb(255, 255, 255)"
         assert node.styles["fontSize"] == "32px"
+        assert node.styles["fontWeight"] == "700"
+        assert node.styles["lineHeight"] == "1.2"
+        assert node.styles["letterSpacing"] == "normal"
+        assert node.styles["position"] == "static"
+        assert node.styles["display"] == "block"
+        assert node.styles["textAlign"] == "left"
+        assert node.styles["width"] == "720px"
+        assert node.styles["height"] == "48px"
+        assert node.styles["top"] == "20px"
+        assert node.styles["left"] == "50px"
+        assert node.styles["opacity"] == "1"
+
+        assert node.semantics is None
+        assert node.interaction is None
+        assert node.layout is not None
+        assert node.layout.depth == 2
+        assert node.layout.num_children == 0
+        assert node.form is None
+        assert node.media is None
+        assert node.dom_path is None
+        assert node.children == []
+
+    """
+    def test_element_node_from_json_with_all_extended_data(self):
+        json_data = {
+            "tag": "input",
+            "text": "",
+            "alt": "Поле для ввода email",
+            "title": "Введите ваш адрес электронной почты",
+            "placeholder": "user@example.com",
+            "width": "300px",
+            "height": "38px",
+            "top": "140px",
+            "left": "auto",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "normal",
+            "opacity": "1",
+            "letterSpacing": "normal",
+            "color": "rgb(73, 80, 87)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "position": "static",
+            "display": "block",
+            "textAlign": "start",
+            "depth": 3,
+            "num_children": 0,
+            "semantics": {
+                "role": "textbox",
+                "aria_label": "Email input",
+                "aria_hidden": False,
+                "accessible_name": "Email"
+            },
+            "interaction": {
+                "focusable": True,
+                "programmable_focusable": True,
+                "tabindex": 0,
+                "has_click_handler": False,
+                "has_key_handler": True
+            },
+            "layout": {
+                "order_dom": 1,
+                "order_visual": 2,
+                "position": "static"
+            },
+            "form": {
+                "type": "email",
+                "required": True,
+                "label": "Email",
+                "described_by": ["error1"],
+                "error_messages": ["Required field"]
+            }
+        }
+
+        node = ElementNode.from_json(json_data)
+
+        assert node.tag == "input"
+        assert node.text == ""
+        assert node.alt == "Поле для ввода email"
+        assert node.title == "Введите ваш адрес электронной почты"
+        assert node.placeholder == "user@example.com"
+        assert node.width == "300px"
+        assert node.height == "38px"
+        assert node.top == "140px"
+        assert node.left == "auto"
+        assert node.depth == 3
+        assert node.num_children == 0
+        assert node.fontSize == "16px"
+        assert node.fontWeight == "400"
+        assert node.lineHeight == "normal"
+        assert node.opacity == "1"
+        assert node.letterSpacing == "normal"
+        assert node.color == "rgb(73, 80, 87)"
+        assert node.backgroundColor == "rgb(255, 255, 255)"
+        assert node.position == "static"
+        assert node.display == "block"
+        assert node.textAlign == "start"
+
+        assert node.semantics is not None
+        assert node.semantics.role == "textbox"
+        assert node.semantics.aria_label == "Email input"
+        assert node.semantics.aria_hidden is False
+        assert node.semantics.accessible_name == "Email"
+
+        assert node.interaction is not None
+        assert node.interaction.focusable is True
+        assert node.interaction.programmable_focusable is True
+        assert node.interaction.tabindex == 0
+        assert node.interaction.has_click_handler is False
+        assert node.interaction.has_key_handler is True
+
+        assert node.layout is not None
+        assert node.layout.order_dom == 1
+        assert node.layout.order_visual == 2
+        assert node.layout.position == "static"
+        assert node.layout.depth == 3
+        assert node.layout.num_children == 0
+
+        assert node.form is not None
+        assert node.form.type == "email"
+        assert node.form.required is True
+        assert node.form.label == "Email"
+        assert node.form.described_by == ["error1"]
+        assert node.form.error_messages == ["Required field"]
+
+        assert node.media is None
+        assert node.dom_path is None
+        assert node.children == []
+        """
 
     def test_element_node_from_json_with_media(self):
         json_data = {
@@ -242,6 +379,7 @@ class TestElementNode:
         assert node.media is not None
         assert node.media.alt == "Description of image"
         assert node.media.title == "Image title"
+        assert node.media.src is None
 
     def test_element_node_from_json_with_semantics(self):
         json_data = {
@@ -269,7 +407,10 @@ class TestElementNode:
             "semantics": {
                 "role": "button",
                 "aria_label": "Submit form",
-                "aria_hidden": False
+                "aria_hidden": False,
+                "aria_labelledby": ["label1", "label2"],
+                "aria_describedby": ["desc1"],
+                "accessible_name": "Submit button"
             }
         }
 
@@ -278,6 +419,10 @@ class TestElementNode:
         assert node.semantics is not None
         assert node.semantics.role == "button"
         assert node.semantics.aria_label == "Submit form"
+        assert node.semantics.aria_hidden is False
+        assert node.semantics.aria_labelledby == ["label1", "label2"]
+        assert node.semantics.aria_describedby == ["desc1"]
+        assert node.semantics.accessible_name == "Submit button"
 
     def test_element_node_with_children(self):
         json_data = {
@@ -334,6 +479,68 @@ class TestElementNode:
         assert len(node.children) == 1
         assert node.children[0].tag == "span"
         assert node.children[0].text == "Child"
+        assert node.children[0].fontSize == "14px"
+        assert node.children[0].display == "inline"
+
+    def test_element_node_from_json_with_missing_fields(self):
+        json_data = {
+            "tag": "div",
+            "text": "Minimal data",
+            "alt": None,
+            "title": None,
+            "placeholder": None,
+            "width": None,
+            "height": None,
+            "top": None,
+            "left": None,
+            "fontSize": None,
+            "fontWeight": None,
+            "lineHeight": None,
+            "opacity": None,
+            "letterSpacing": None,
+            "color": None,
+            "backgroundColor": None,
+            "position": None,
+            "display": None,
+            "textAlign": None,
+            "depth": None,
+            "num_children": None
+        }
+
+        node = ElementNode.from_json(json_data)
+
+        assert node.tag == "div"
+        assert node.text == "Minimal data"
+        assert node.alt is None
+        assert node.title is None
+        assert node.placeholder is None
+        assert node.width is None
+        assert node.height is None
+        assert node.top is None
+        assert node.left is None
+        assert node.depth is None
+        assert node.num_children is None
+        assert node.fontSize is None
+        assert node.fontWeight is None
+        assert node.lineHeight is None
+        assert node.opacity is None
+        assert node.letterSpacing is None
+        assert node.color is None
+        assert node.backgroundColor is None
+        assert node.position is None
+        assert node.display is None
+        assert node.textAlign is None
+
+        assert node.styles == {}
+        assert node.semantics is None
+        assert node.interaction is None
+        assert node.layout is not None
+        assert node.layout.depth is None
+        assert node.layout.num_children is None
+        assert node.form is None
+        assert node.media is None
+        assert node.dom_path is None
+        assert node.children == []
 
 
 class TestDocumentFactory:
@@ -547,29 +754,156 @@ def test_full_feature_example():
     h1_element = document.elements[0]
     assert h1_element.tag == "h1"
     assert h1_element.text == "Главный заголовок страницы"
+    assert h1_element.alt is None
     assert h1_element.title == "Заголовок первого уровня"
-    assert h1_element.fontSize == "32px"
-    assert h1_element.color == "rgb(33, 37, 41)"
+    assert h1_element.placeholder is None
+    assert h1_element.width == "720px"
+    assert h1_element.height == "48px"
+    assert h1_element.top == "20px"
+    assert h1_element.left == "50px"
     assert h1_element.depth == 2
     assert h1_element.num_children == 0
+    assert h1_element.fontSize == "32px"
+    assert h1_element.fontWeight == "700"
+    assert h1_element.lineHeight == "1.2"
+    assert h1_element.opacity == "1"
+    assert h1_element.letterSpacing == "normal"
+    assert h1_element.color == "rgb(33, 37, 41)"
+    assert h1_element.backgroundColor == "rgb(255, 255, 255)"
+    assert h1_element.position == "static"
+    assert h1_element.display == "block"
+    assert h1_element.textAlign == "left"
 
     button_element = document.elements[1]
     assert button_element.tag == "button"
     assert button_element.text == "Нажми меня"
+    assert button_element.alt is None
     assert button_element.title == "Кнопка для отправки формы"
-    assert button_element.backgroundColor == "rgb(0, 123, 255)"
+    assert button_element.placeholder is None
+    assert button_element.width == "120px"
+    assert button_element.height == "40px"
+    assert button_element.top == "80px"
+    assert button_element.left == "50px"
     assert button_element.depth == 3
     assert button_element.num_children == 1
+    assert button_element.fontSize == "16px"
+    assert button_element.fontWeight == "500"
+    assert button_element.lineHeight == "1.5"
+    assert button_element.opacity == "0.95"
+    assert button_element.letterSpacing == "0.5px"
+    assert button_element.color == "rgb(255, 255, 255)"
+    assert button_element.backgroundColor == "rgb(0, 123, 255)"
+    assert button_element.position == "relative"
+    assert button_element.display == "inline-block"
+    assert button_element.textAlign == "center"
 
     input_element = document.elements[2]
     assert input_element.tag == "input"
     assert input_element.text == ""
     assert input_element.alt == "Поле для ввода email"
+    assert input_element.title == "Введите ваш адрес электронной почты"
     assert input_element.placeholder == "user@example.com"
-    assert input_element.fontSize == "16px"
+    assert input_element.width == "300px"
+    assert input_element.height == "38px"
+    assert input_element.top == "140px"
+    assert input_element.left == "auto"
     assert input_element.depth == 3
     assert input_element.num_children == 0
+    assert input_element.fontSize == "16px"
+    assert input_element.fontWeight == "400"
+    assert input_element.lineHeight == "normal"
+    assert input_element.opacity == "1"
+    assert input_element.letterSpacing == "normal"
+    assert input_element.color == "rgb(73, 80, 87)"
+    assert input_element.backgroundColor == "rgb(255, 255, 255)"
+    assert input_element.position == "static"
+    assert input_element.display == "block"
+    assert input_element.textAlign == "start"
+
+# test_parse_and_write_dto.py
+import json
+
+# Путь к файлу с "сырыми" данными элементов (представим, что это массив JSON-объектов)
+INPUT_FILE_PATH = "testspack/test_parser/test_output/hack_bank_data.json"
+OUTPUT_FILE_PATH = "testspack/test_parser/test_output/dto_output.txt"
+
+
+def test_parse_json_file_and_write_dto():
+    """
+    Тест: читает JSON из hack_bank_data.json, преобразует в DTO и записывает результат в другой файл.
+    """
+    # 1. Читаем содержимое файла
+    with open(INPUT_FILE_PATH, 'r', encoding='utf-8') as f:
+        json_string_content = f.read()
+
+    # 2. Преобразуем строку в Python-объект (предполагаем, что это валидный JSON)
+    try:
+        parsed_data = json.loads(json_string_content)
+        print("JSON успешно разобран из файла.")
+    except json.JSONDecodeError as e:
+        print(f"Ошибка при парсинге JSON из файла {INPUT_FILE_PATH}: {e}")
+        raise e
+
+    # 3. Преобразуем в DTO с помощью DocumentFactory
+    #    DocumentFactory.load_from_json ожидает формат:
+    #    {"elements": [...], "url": "...", "lang": "...", "parse_errors": "..."}
+    #    или хотя бы {"elements": [...]}
+    document_model = DocumentFactory.load_from_json(parsed_data)
+
+    # 4. Записываем текстовое представление DTO в выходной файл
+    with open(OUTPUT_FILE_PATH, 'w', encoding='utf-8') as f:
+        f.write("Текстовое представление DocumentModel DTO:\n")
+        f.write("=" * 50 + "\n")
+        f.write("\n\n")
+        f.write("Информация о документе:\n")
+        f.write("\n\n")
+        f.write("Количество элементов в плоском списке: " + str(len(document_model.elements)) + "\n")
+        f.write("Количество элементов в корневом узле: " + str(len(document_model.root.children)) + "\n")
+
+        f.write("\n--- Детали ВСЕХ элементов ---\n")
+        for i, elem in enumerate(document_model.elements):
+            f.write(f"\n--- Элемент {i + 1} ---\n")
+            f.write(f"Тег: {elem.tag}\n")
+            f.write(f"Текст: {elem.text}\n")
+            f.write(f"Alt: {elem.alt}\n")
+            f.write(f"Title: {elem.title}\n")
+            f.write(f"Placeholder: {elem.placeholder}\n")
+            f.write(f"Ширина: {elem.width}\n")
+            f.write(f"Высота: {elem.height}\n")
+            f.write(f"Позиция (top, left): {elem.top}, {elem.left}\n")
+            f.write(f"Глубина: {elem.depth}\n")
+            f.write(f"Кол-во детей: {elem.num_children}\n")
+            f.write(f"Размер шрифта: {elem.fontSize}\n")
+            f.write(f"Жирность шрифта: {elem.fontWeight}\n")
+            f.write(f"Цвет текста: {elem.color}\n")
+            f.write(f"Цвет фона: {elem.backgroundColor}\n")
+            f.write(f"Позиционирование: {elem.position}\n")
+            f.write(f"Отображение: {elem.display}\n")
+            f.write(f"Выравнивание текста: {elem.textAlign}\n")
+            f.write(f"Прозрачность: {elem.opacity}\n")
+            f.write(f"Интервал между буквами: {elem.letterSpacing}\n")
+            f.write(f"Высота строки: {elem.lineHeight}\n")
+            f.write(f"Стили (styles dict): {elem.styles}\n")
+            f.write(f"Семантика: {elem.semantics}\n")
+            f.write(f"Интерактивность: {elem.interaction}\n")
+            f.write(f"Макет: {elem.layout}\n")
+            f.write(f"Форма: {elem.form}\n")
+            f.write(f"Медиа: {elem.media}\n")
+            f.write(f"DOM Path: {elem.dom_path}\n")
+            f.write(f"Количество детей: {len(elem.children)}\n")
+            f.write(f"Полное представление элемента:\n{repr(elem)}\n")
+            f.write("-" * 30 + "\n")  # Разделитель между элементами
+
+    # 5. Проверяем, что файл был создан и не пуст
+    import os
+    assert os.path.exists(OUTPUT_FILE_PATH), f"Выходной файл {OUTPUT_FILE_PATH} не был создан."
+    assert os.path.getsize(OUTPUT_FILE_PATH) > 0, f"Выходной файл {OUTPUT_FILE_PATH} пустой."
+
+    print(f"DTO успешно преобразованы и записаны в {OUTPUT_FILE_PATH}")
+    print(f"Количество элементов в DTO: {len(document_model.elements)}")
+    if document_model.elements:
+        print(f"Детали всех элементов записаны в {OUTPUT_FILE_PATH}")
 
 
 if __name__ == "__main__":
-    pytest.main([__file__])
+    pytest.main([__file__, "-v"])
