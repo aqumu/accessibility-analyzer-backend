@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "url": "https://wwe2.glitch.me",
+    "title": "Why this project is shutting down",
+    "lang": "en",
+    "charset": "UTF-8"
+  },
+  "elements": [
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "tiago",
+      "attributes": {
+        "href": "/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "find me on twitter",
+      "attributes": {
+        "href": "https://x.com/0xtiago_"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h1",
+      "id": "",
+      "classes": [],
+      "text": "Notice on Glitch-hosted projects",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [],
+      "text": "Notify me",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "would be permanently shutting down",
+      "attributes": {
+        "href": "https://blog.glitch.com/post/changes-are-coming-to-glitch/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "footer",
+      "id": "",
+      "classes": [],
+      "text": "built bytiago• questions?find me on twitter",
+      "attributes": {},
+      "computedStyles": {}
+    }
+  ]
+}
