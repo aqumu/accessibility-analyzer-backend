@@ -2,7 +2,7 @@ import numpy as np
 from sklearn.preprocessing import StandardScaler
 import os
 import json
-from app.services.accessibility.analytics.json_parser.models import DocumentModel, ElementNode
+from app.services.accessibility.json_parser import DocumentModel, ElementNode
 from app.services.llm.config import FEATURE_MAPPING
 
 
@@ -61,7 +61,7 @@ def extract_numeric_features(document_model: DocumentModel, normalize=True):
 
 
 if __name__ == '__main__':
-    from app.services.accessibility.analytics.json_parser.models import DocumentFactory
+    from app.services.accessibility.json_parser import DocumentFactory
     PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     try:
         example_json_path = os.path.join(PROJECT_ROOT, 'dataset', '1.json')

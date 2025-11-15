@@ -1,6 +1,6 @@
 # test_model.py
 import pytest
-from app.services.accessibility.analytics.json_parser.models import (
+from app.services.accessibility.json_parser import (
     DocumentInfo,
     MediaInfo,
     NodeStyles,

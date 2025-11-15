@@ -1,7 +1,7 @@
 import tensorflow_hub as hub
 import numpy as np
 import os
-from app.services.accessibility.analytics.json_parser.models import DocumentModel, ElementNode
+from app.services.accessibility.json_parser import DocumentModel, ElementNode
 
 MODELS_DIR = 'models'
 MODEL_URL = "https://tfhub.dev/google/universal-sentence-encoder/4"
@@ -51,7 +51,7 @@ def extract_text_features(document_model: DocumentModel):
 
 if __name__ == '__main__':
     import json
-    from app.services.accessibility.analytics.json_parser.models import DocumentFactory
+    from app.services.accessibility.json_parser import DocumentFactory
     try:
         setup_model_cache()
         

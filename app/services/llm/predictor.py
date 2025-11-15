@@ -1,10 +1,9 @@
 import os
 import numpy as np
 from tensorflow import keras
-import json
 from typing import Dict, Any
 
-from app.services.accessibility.analytics.json_parser.models import DocumentFactory
+from app.services.accessibility.json_parser import DocumentFactory
 from app.services.llm.feature_extractor.text_feature_extractor import extract_text_features, setup_model_cache
 from app.services.llm.feature_extractor.numeric_feature_extractor import extract_numeric_features
 from app.services.llm.feature_extractor.color_feature_extractor import extract_color_features
@@ -19,7 +18,7 @@ def _get_model_path() -> str:
     """Определяет абсолютный путь к сохраненной модели."""
     global MODEL_PATH
     if MODEL_PATH is None:
-        project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        project_root = os.path.dirname(os.path.abspath(__file__))
         MODEL_PATH = os.path.join(project_root, 'trained_model.keras')
     return MODEL_PATH
 

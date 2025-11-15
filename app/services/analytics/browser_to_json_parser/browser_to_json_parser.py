@@ -353,34 +353,3 @@ def dict_to_element_node(data: Dict[str, Any]) -> ElementNode:
         node.children.append(child_node)
 
     return node
-
-
-# Пример использования
-async def main():
-    url = "https://www.yahoo.com/"
-    selectors = ["header", "main", "footer", "a", "button"]  # опционально
-
-    result = await parse_url(url, selectors)
-
-    if result:
-        # Сохраняем в файл
-        with open("dom_tree.json", "w", encoding="utf-8") as f:
-            json.dump(result, f, indent=2, ensure_ascii=False)
-
-        # Загружаем обратно в ElementNode для работы
-        root_nodes = [dict_to_element_node(root_data) for root_data in result["root_elements"]]
-
-        # Печатаем структуру
-        for root_node in root_nodes:
-            print_node_structure(root_node)
-
-        total_elements = sum(count_nodes(node) for node in root_nodes)
-        print(f"\nTotal elements: {total_elements}")
-
-        # Пример поиска
-        all_links = []
-        for root_node in root_nodes:
-            all_links.extend(find_nodes_by_tag(root_node, "a"))
-
-        print(f"Found {len(all_links)} links")
-

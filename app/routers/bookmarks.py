@@ -1,7 +1,7 @@
 # app/routes/bookmarks.py
 from fastapi import APIRouter, HTTPException, Depends
 from app.database.supabase_client import supabase
-from app.auth import verify_token
+from app.database.auth import verify_token
 from supabase import SupabaseException
 
 router = APIRouter(tags=["bookmarks"])

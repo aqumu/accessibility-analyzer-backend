@@ -1,6 +1,6 @@
 import numpy as np
 import re
-from app.services.accessibility.analytics.json_parser.models import DocumentModel, ElementNode
+from app.services.accessibility.json_parser import DocumentModel, ElementNode
 
 
 def _parse_rgb(color_str):

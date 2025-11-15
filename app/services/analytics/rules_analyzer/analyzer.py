@@ -1,7 +1,7 @@
 # rules.py
 from dataclasses import dataclass
 from typing import List, Protocol
-from app.services.accessibility.analytics.json_parser.models import DocumentModel, ElementNode
+from app.services.accessibility.json_parser.models import DocumentModel
 
 
 @dataclass

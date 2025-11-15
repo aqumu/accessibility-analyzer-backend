@@ -1,6 +1,6 @@
 from fastapi import APIRouter, Depends, HTTPException
 from app.database.supabase_client import supabase
-from app.auth import verify_token
+from app.database.auth import verify_token
 from datetime import datetime
 from app.schemas import UserResponse, UserUpdate, UserStats, UserQuota
 

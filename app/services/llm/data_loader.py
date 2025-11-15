@@ -1,7 +1,7 @@
 import json
 import os
 import numpy as np
-from app.services.accessibility.analytics.json_parser.models import DocumentFactory
+from app.services.accessibility.json_parser import DocumentFactory
 from app.services.llm.feature_extractor.text_feature_extractor import extract_text_features
 from app.services.llm.feature_extractor.numeric_feature_extractor import extract_numeric_features
 from app.services.llm.feature_extractor.color_feature_extractor import extract_color_features

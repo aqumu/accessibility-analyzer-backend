@@ -1,21 +1,28 @@
-# app/routers/analyzer.py
 from fastapi import APIRouter, BackgroundTasks, Depends, HTTPException
-from pydantic import HttpUrl
 from uuid import UUID
+from fastapi.encoders import jsonable_encoder
 from app.schemas import WebpageCreate, RunStatus, InternalRunState
-from app.auth import verify_token
-from app.services.accessibility.analytics.browser_to_json_parser import browser_to_json_parser
+from app.database.auth import verify_token
 from app.services import state_manager
-from app.utils.db_helpers import (
+from app.database.db_helpers import (
     upsert_webpage_record,
     create_run_record,
     update_run_status,
     update_webpage_status,
-    save_run_result,
 )
+from app.services.analytics.browser_to_json_parser.browser_to_json_parser import parse_url
+from app.services.analytics.json_parser.models import DocumentFactory
+# from app.services.analytics.rules_analyzer.analyzer import
+from app.services.report_generator import generate_report
+import pprint
+from pydantic import BaseModel, HttpUrl
+
 
 router = APIRouter()
 
+# ============================================================
+#                PUBLIC ENDPOINT: START ANALYSIS
+# ============================================================
 
 @router.post("/webpages/analyze", response_model=dict)
 async def analyze_webpage(
@@ -24,50 +31,74 @@ async def analyze_webpage(
     user_id=Depends(verify_token),
 ):
     try:
-        # 1. Upsert webpage
+        # 1. Upsert webpage (JSON-safe)
         webpage = await upsert_webpage_record(user_id, payload.url)
 
-        # 2. Create run record in DB (this returns run with id)
+        # 2. Create in-memory run record
         run = await create_run_record(user_id, webpage["id"])
 
-        # 2.5 create in-memory state
+        # 3. Initialize in-memory state
         await state_manager.create_run_state(run["id"], webpage["id"], user_id)
 
-        # 3. Kick off background parsing
-        background_tasks.add_task(analyze_webpage_background, run["id"], webpage["id"], str(payload.url))
+        # 4. Start background analysis task
+        background_tasks.add_task(
+            analyze_webpage_background,
+            run_id=run["id"],
+            webpage_id=webpage["id"],
+            url=str(payload.url),
+            selectors=None,
+        )
 
-        # 4. Return initial status immediately
-        return {"webpage_id": webpage["id"], "run_id": run["id"], "status": "pending"}
+        # 5. Return JSON-safe response
+        return jsonable_encoder({
+            "webpage_id": webpage["id"],
+            "run_id": run["id"],
+            "status": "pending",
+        })
 
     except Exception as e:
         raise HTTPException(status_code=400, detail=str(e))
 
 
-from app.services.accessibility.collector import run_extractors
-from app.services.accessibility.analytics.runner import run_analyzers
-from app.services.report_generator import generate_report
+# ============================================================
+#          BACKGROUND EXECUTION: NEW PARSER PIPELINE
+# ============================================================
 
-async def analyze_webpage_background(run_id: str, webpage_id: str, url: HttpUrl):
+async def analyze_webpage_background(
+    run_id: str,
+    webpage_id: str,
+    url: HttpUrl,
+    selectors: list[str] | None = None,
+):
     try:
+        # Mark running
         await update_run_status(run_id, RunStatus.running)
         await update_webpage_status(webpage_id, RunStatus.running)
         await state_manager.set_running(UUID(run_id))
 
-        raw_data = await fetch_page(str(url))
-        extracted_data = run_extractors(raw_data["elements"])
+        # 1. Parse webpage into raw structured DOM JSON (in-memory only)
+        raw_json = await parse_url(str(url), selectors=selectors)
 
-        # 🧠 new part: run analyzers + generate report
-        analyzer_results = run_analyzers(extracted_data)
-        report = generate_report(analyzer_results)
+        if raw_json is None:
+            raise RuntimeError("Parser returned None (URL unreachable or invalid).")
 
-        # You can store the report under `organized_data` or a separate key
-        organized_data = {
-            "summary": raw_data["summary"],
-            "elements": raw_data["elements"],
-            "analysis_report": report,
-        }
+        # 2. Convert to DocumentModel
+        document = DocumentFactory.load_from_json(raw_json)
 
-        await save_run_result(run_id, organized_data)
+        # 3. Run analyzers
+        # analyzer_results = run_model_analyzers(document)
+
+        # 4. Generate report for frontend
+        # report = generate_report(analyzer_results)
+
+        # 5. Store ONLY the report in DB
+        # save_payload = {
+        #     "analysis_report": report,
+        # }
+
+        # await save_run_result(run_id, save_payload)
+
+        # Mark completed
         await update_run_status(run_id, RunStatus.completed)
         await update_webpage_status(webpage_id, RunStatus.completed)
         await state_manager.set_completed(UUID(run_id))
@@ -79,7 +110,9 @@ async def analyze_webpage_background(run_id: str, webpage_id: str, url: HttpUrl)
 
 
 
-# --- endpoints to query in-memory state ----
+# ============================================================
+#                    IN-MEMORY RUN STATE
+# ============================================================
 
 @router.get("/runs/{run_id}", response_model=InternalRunState)
 async def get_run_state(run_id: UUID, user_id=Depends(verify_token)):
@@ -92,4 +125,3 @@ async def get_run_state(run_id: UUID, user_id=Depends(verify_token)):
 @router.get("/webpages/{webpage_id}/runs", response_model=list[InternalRunState])
 async def list_runs_for_webpage(webpage_id: UUID, user_id=Depends(verify_token)):
     return await state_manager.list_runs_for_webpage(webpage_id, user_id)
-

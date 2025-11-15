@@ -13,19 +13,16 @@ from uuid import UUID
 
 class UserBase(BaseModel):
     """Shared user properties."""
-
     public_name: Optional[str] = None
 
 
 class UserCreate(UserBase):
     """Used for creating a user profile (optional if using Supabase Auth)."""
-
     pass
 
 
 class UserUpdate(BaseModel):
     """Used for profile editing via /users/me PUT."""
-
     public_name: Optional[str] = Field(None, max_length=50)
 
 
