@@ -275,21 +275,3 @@ class DataGroupExtractor:
         """Извлекает данные для проверки общей структуры документа."""
         return DocumentStructureData(doc_model)
 
-
-# # --- Пример использования ---
-# if __name__ == "__main__":
-#     # Предположим, у вас есть загруженный DocumentModel
-#     # doc_model = DocumentFactory.load_from_json(parsed_json_data)
-#
-#     # Пример: извлекаем только данные для проверки изображений
-#     # image_data_list = DataGroupExtractor.extract_image_data(doc_model)
-#     # for img_data in image_data_list:
-#     #     print(img_data)
-#     #     # Передаём img_data в алгоритм проверки изображений
-#     #     # check_alt_present(img_data)
-#
-#     # Аналогично для других групп:
-#     # form_data_list = DataGroupExtractor.extract_form_field_data(doc_model)
-#     # interactive_data_list = DataGroupExtractor.extract_interactive_data(doc_model)
-#     # и т.д.
-#     pass

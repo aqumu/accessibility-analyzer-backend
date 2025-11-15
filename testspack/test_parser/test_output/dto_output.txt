@@ -15,7 +15,7 @@ Root children count: 2
 ### Element 1 ###
 tag: virtual_root
 text: 
-node_id: 2bddeaa2-2f55-41dd-90b8-c3382d842e57
+node_id: a1bf5a0d-f28a-49af-9f1e-489c68abae34
 path: virtual_root
 children count: 2
 parent: None
@@ -51,17 +51,17 @@ form: None
 media: None
 dom_path: None
 parent: None
-children: [ElementNode(tag='head', text='Банк Пример — главная', children=4, parent='None', id='35cf2e26-cfcd-420a-bb48-154e4fba866c'), ElementNode(tag='body', text='Банк Пример
-        Надёжный б...', children=4, parent='None', id='b68743c9-808c-4e16-86f6-b0c7c8affebd')]
+children: [ElementNode(tag='head', text='Банк Пример — главная', children=4, parent='None', id='9d67ecbe-d0e3-46b2-b796-6ec0f4bed9ac'), ElementNode(tag='body', text='Банк Пример
+        Надёжный б...', children=4, parent='None', id='d50e4eb6-070a-4bc6-9076-979515c5e159')]
 attributes: {}
 classes: []
-node_id: 2bddeaa2-2f55-41dd-90b8-c3382d842e57
+node_id: a1bf5a0d-f28a-49af-9f1e-489c68abae34
 ----------------------------------------
 
 ### Element 2 ###
 tag: head
 text: Банк Пример — главная
-node_id: 35cf2e26-cfcd-420a-bb48-154e4fba866c
+node_id: 9d67ecbe-d0e3-46b2-b796-6ec0f4bed9ac
 path: head
 children count: 4
 parent: None
@@ -97,16 +97,16 @@ form: None
 media: None
 dom_path: None
 parent: None
-children: [ElementNode(tag='meta', text='', children=0, parent='head', id='783e97ea-45c5-4bc2-b787-fbf5e899ff8c'), ElementNode(tag='meta', text='', children=0, parent='head', id='c3aa6301-d44e-4fe5-909a-94ce40cfc899'), ElementNode(tag='title', text='Банк Пример — главная', children=0, parent='head', id='6fa324b7-b08d-4516-8395-51f54bca8616'), ElementNode(tag='link', text='', children=0, parent='head', id='d25e3c4b-2948-49aa-9127-522bd533ddba')]
+children: [ElementNode(tag='meta', text='', children=0, parent='head', id='0614aa7d-0dc0-4d2f-ab16-9c5121f76cc5'), ElementNode(tag='meta', text='', children=0, parent='head', id='19e22327-b230-4c6f-874f-a676029e4a0d'), ElementNode(tag='title', text='Банк Пример — главная', children=0, parent='head', id='e54137ae-7bc7-4ee3-9626-2bccac99e3c5'), ElementNode(tag='link', text='', children=0, parent='head', id='dd29d2e7-f73b-4429-accb-a8ce405fffa0')]
 attributes: {}
 classes: []
-node_id: 35cf2e26-cfcd-420a-bb48-154e4fba866c
+node_id: 9d67ecbe-d0e3-46b2-b796-6ec0f4bed9ac
 ----------------------------------------
 
 ### Element 3 ###
 tag: meta
 text: 
-node_id: 783e97ea-45c5-4bc2-b787-fbf5e899ff8c
+node_id: 0614aa7d-0dc0-4d2f-ab16-9c5121f76cc5
 path: head > meta
 children count: 0
 parent: head
@@ -141,17 +141,17 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='head', text='Банк Пример — главная', children=4, parent='None', id='35cf2e26-cfcd-420a-bb48-154e4fba866c')
+parent: ElementNode(tag='head', text='Банк Пример — главная', children=4, parent='None', id='9d67ecbe-d0e3-46b2-b796-6ec0f4bed9ac')
 children: []
 attributes: {'charset': 'utf-8'}
 classes: []
-node_id: 783e97ea-45c5-4bc2-b787-fbf5e899ff8c
+node_id: 0614aa7d-0dc0-4d2f-ab16-9c5121f76cc5
 ----------------------------------------
 
 ### Element 4 ###
 tag: meta
 text: 
-node_id: c3aa6301-d44e-4fe5-909a-94ce40cfc899
+node_id: 19e22327-b230-4c6f-874f-a676029e4a0d
 path: head > meta
 children count: 0
 parent: head
@@ -186,17 +186,17 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='head', text='Банк Пример — главная', children=4, parent='None', id='35cf2e26-cfcd-420a-bb48-154e4fba866c')
+parent: ElementNode(tag='head', text='Банк Пример — главная', children=4, parent='None', id='9d67ecbe-d0e3-46b2-b796-6ec0f4bed9ac')
 children: []
 attributes: {'name': 'viewport', 'content': 'width=device-width,initial-scale=1'}
 classes: []
-node_id: c3aa6301-d44e-4fe5-909a-94ce40cfc899
+node_id: 19e22327-b230-4c6f-874f-a676029e4a0d
 ----------------------------------------
 
 ### Element 5 ###
 tag: title
 text: Банк Пример — главная
-node_id: 6fa324b7-b08d-4516-8395-51f54bca8616
+node_id: e54137ae-7bc7-4ee3-9626-2bccac99e3c5
 path: head > title
 children count: 0
 parent: head
@@ -231,17 +231,17 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='head', text='Банк Пример — главная', children=4, parent='None', id='35cf2e26-cfcd-420a-bb48-154e4fba866c')
+parent: ElementNode(tag='head', text='Банк Пример — главная', children=4, parent='None', id='9d67ecbe-d0e3-46b2-b796-6ec0f4bed9ac')
 children: []
 attributes: {}
 classes: []
-node_id: 6fa324b7-b08d-4516-8395-51f54bca8616
+node_id: e54137ae-7bc7-4ee3-9626-2bccac99e3c5
 ----------------------------------------
 
 ### Element 6 ###
 tag: link
 text: 
-node_id: d25e3c4b-2948-49aa-9127-522bd533ddba
+node_id: dd29d2e7-f73b-4429-accb-a8ce405fffa0
 path: head > link
 children count: 0
 parent: head
@@ -276,11 +276,11 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='head', text='Банк Пример — главная', children=4, parent='None', id='35cf2e26-cfcd-420a-bb48-154e4fba866c')
+parent: ElementNode(tag='head', text='Банк Пример — главная', children=4, parent='None', id='9d67ecbe-d0e3-46b2-b796-6ec0f4bed9ac')
 children: []
 attributes: {'rel': 'stylesheet', 'href': 'index.css'}
 classes: []
-node_id: d25e3c4b-2948-49aa-9127-522bd533ddba
+node_id: dd29d2e7-f73b-4429-accb-a8ce405fffa0
 ----------------------------------------
 
 ### Element 7 ###
@@ -321,7 +321,7 @@ text: Банк Пример
           
              
        
-node_id: b68743c9-808c-4e16-86f6-b0c7c8affebd
+node_id: d50e4eb6-070a-4bc6-9076-979515c5e159
 path: body
 children count: 4
 parent: None
@@ -393,10 +393,10 @@ media: None
 dom_path: None
 parent: None
 children: [ElementNode(tag='header', text='Банк Пример
-        Надёжный б...', children=2, parent='body', id='fc333c02-6835-4180-b1ca-c49c51560b0a'), ElementNode(tag='main', text='Онлайн-банк для бизнеса и част...', children=5, parent='body', id='b03e9fe0-341a-41b2-b862-7be11a100e7b'), ElementNode(tag='footer', text='© 1890–2025 Банк Пример', children=2, parent='body', id='7c8ce9d5-4a5b-4c4e-8e58-c6d032389324'), ElementNode(tag='div', text='Сервер обновлён', children=0, parent='body', id='b2f00411-9538-4e10-af55-4c42310cdf9f')]
+        Надёжный б...', children=2, parent='body', id='7edc0330-cafa-4ff6-92bf-daf718fb7a3f'), ElementNode(tag='main', text='Онлайн-банк для бизнеса и част...', children=5, parent='body', id='fdde9978-7e9d-4f20-a4a6-cc005d229111'), ElementNode(tag='footer', text='© 1890–2025 Банк Пример', children=2, parent='body', id='82ceea35-77be-47ba-adfb-6f414b168bff'), ElementNode(tag='div', text='Сервер обновлён', children=0, parent='body', id='1d21364e-5b59-43a2-ac0c-ced0fcb5bdea')]
 attributes: {}
 classes: []
-node_id: b68743c9-808c-4e16-86f6-b0c7c8affebd
+node_id: d50e4eb6-070a-4bc6-9076-979515c5e159
 ----------------------------------------
 
 ### Element 8 ###
@@ -410,7 +410,7 @@ text: Банк Пример
       Продукты
       О банке
       Контакты
-node_id: fc333c02-6835-4180-b1ca-c49c51560b0a
+node_id: 7edc0330-cafa-4ff6-92bf-daf718fb7a3f
 path: body > header.header
 children count: 2
 parent: body
@@ -454,21 +454,21 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='body', text='Банк Пример
-        Надёжный б...', children=4, parent='None', id='b68743c9-808c-4e16-86f6-b0c7c8affebd')
+        Надёжный б...', children=4, parent='None', id='d50e4eb6-070a-4bc6-9076-979515c5e159')
 children: [ElementNode(tag='div', text='Банк Пример
-        Надёжный б...', children=2, parent='header', id='637b0f00-c2b7-42e7-8959-7d8d090234b2'), ElementNode(tag='nav', text='Продукты
+        Надёжный б...', children=2, parent='header', id='3918398d-2d9d-40d0-827d-e2a6bcc110a1'), ElementNode(tag='nav', text='Продукты
       О банке
-      К...', children=4, parent='header', id='e567af53-66bc-4541-9c51-cd7ac8175457')]
+      К...', children=4, parent='header', id='a3a1ea5c-5009-476a-9086-d550686421b9')]
 attributes: {}
 classes: ['header']
-node_id: fc333c02-6835-4180-b1ca-c49c51560b0a
+node_id: 7edc0330-cafa-4ff6-92bf-daf718fb7a3f
 ----------------------------------------
 
 ### Element 9 ###
 tag: div
 text: Банк Пример
         Надёжный банк с 1890
-node_id: 637b0f00-c2b7-42e7-8959-7d8d090234b2
+node_id: 3918398d-2d9d-40d0-827d-e2a6bcc110a1
 path: body > header.header > div.logo
 children count: 2
 parent: header
@@ -505,18 +505,18 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='header', text='Банк Пример
-        Надёжный б...', children=2, parent='body', id='fc333c02-6835-4180-b1ca-c49c51560b0a')
-children: [ElementNode(tag='img', text='', children=0, parent='div', id='8a2fa17d-72f3-42c3-bb20-559492262f08'), ElementNode(tag='div', text='Банк Пример
-        Надёжный б...', children=2, parent='div', id='bc3bf885-45a7-48f8-a608-cbcb37c43a60')]
+        Надёжный б...', children=2, parent='body', id='7edc0330-cafa-4ff6-92bf-daf718fb7a3f')
+children: [ElementNode(tag='img', text='', children=0, parent='div', id='ad175a4f-02d2-4211-aa0c-1d9915a6f4ae'), ElementNode(tag='div', text='Банк Пример
+        Надёжный б...', children=2, parent='div', id='6b473043-5a47-4d41-83df-37eacc40699f')]
 attributes: {}
 classes: ['logo']
-node_id: 637b0f00-c2b7-42e7-8959-7d8d090234b2
+node_id: 3918398d-2d9d-40d0-827d-e2a6bcc110a1
 ----------------------------------------
 
 ### Element 10 ###
 tag: img
 text: 
-node_id: 8a2fa17d-72f3-42c3-bb20-559492262f08
+node_id: ad175a4f-02d2-4211-aa0c-1d9915a6f4ae
 path: body > header.header > div.logo > img
 children count: 0
 parent: div
@@ -552,18 +552,18 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='div', text='Банк Пример
-        Надёжный б...', children=2, parent='header', id='637b0f00-c2b7-42e7-8959-7d8d090234b2')
+        Надёжный б...', children=2, parent='header', id='3918398d-2d9d-40d0-827d-e2a6bcc110a1')
 children: []
 attributes: {'src': '/images/logo-bank.svg', 'alt': ''}
 classes: []
-node_id: 8a2fa17d-72f3-42c3-bb20-559492262f08
+node_id: ad175a4f-02d2-4211-aa0c-1d9915a6f4ae
 ----------------------------------------
 
 ### Element 11 ###
 tag: div
 text: Банк Пример
         Надёжный банк с 1890
-node_id: bc3bf885-45a7-48f8-a608-cbcb37c43a60
+node_id: 6b473043-5a47-4d41-83df-37eacc40699f
 path: body > header.header > div.logo > div
 children count: 2
 parent: div
@@ -600,17 +600,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='div', text='Банк Пример
-        Надёжный б...', children=2, parent='header', id='637b0f00-c2b7-42e7-8959-7d8d090234b2')
-children: [ElementNode(tag='div', text='Банк Пример', children=0, parent='div', id='cff698a3-f391-4239-8c91-52b8ecf86288'), ElementNode(tag='div', text='Надёжный банк с 1890', children=0, parent='div', id='d88fe23f-7b4a-4c8b-8c20-15b8b54184a1')]
+        Надёжный б...', children=2, parent='header', id='3918398d-2d9d-40d0-827d-e2a6bcc110a1')
+children: [ElementNode(tag='div', text='Банк Пример', children=0, parent='div', id='57c16824-f6e9-450f-8713-4bfddd6e6011'), ElementNode(tag='div', text='Надёжный банк с 1890', children=0, parent='div', id='e0d6b245-8f9c-41b1-9cb2-798642e816ab')]
 attributes: {}
 classes: []
-node_id: bc3bf885-45a7-48f8-a608-cbcb37c43a60
+node_id: 6b473043-5a47-4d41-83df-37eacc40699f
 ----------------------------------------
 
 ### Element 12 ###
 tag: div
 text: Банк Пример
-node_id: cff698a3-f391-4239-8c91-52b8ecf86288
+node_id: 57c16824-f6e9-450f-8713-4bfddd6e6011
 path: body > header.header > div.logo > div > div.bank-name
 children count: 0
 parent: div
@@ -646,17 +646,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='div', text='Банк Пример
-        Надёжный б...', children=2, parent='div', id='bc3bf885-45a7-48f8-a608-cbcb37c43a60')
+        Надёжный б...', children=2, parent='div', id='6b473043-5a47-4d41-83df-37eacc40699f')
 children: []
 attributes: {}
 classes: ['bank-name']
-node_id: cff698a3-f391-4239-8c91-52b8ecf86288
+node_id: 57c16824-f6e9-450f-8713-4bfddd6e6011
 ----------------------------------------
 
 ### Element 13 ###
 tag: div
 text: Надёжный банк с 1890
-node_id: d88fe23f-7b4a-4c8b-8c20-15b8b54184a1
+node_id: e0d6b245-8f9c-41b1-9cb2-798642e816ab
 path: body > header.header > div.logo > div > div.bank-sub
 children count: 0
 parent: div
@@ -692,11 +692,11 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='div', text='Банк Пример
-        Надёжный б...', children=2, parent='div', id='bc3bf885-45a7-48f8-a608-cbcb37c43a60')
+        Надёжный б...', children=2, parent='div', id='6b473043-5a47-4d41-83df-37eacc40699f')
 children: []
 attributes: {}
 classes: ['bank-sub']
-node_id: d88fe23f-7b4a-4c8b-8c20-15b8b54184a1
+node_id: e0d6b245-8f9c-41b1-9cb2-798642e816ab
 ----------------------------------------
 
 ### Element 14 ###
@@ -704,7 +704,7 @@ tag: nav
 text: Продукты
       О банке
       Контакты
-node_id: e567af53-66bc-4541-9c51-cd7ac8175457
+node_id: a3a1ea5c-5009-476a-9086-d550686421b9
 path: body > header.header > nav
 children count: 4
 parent: header
@@ -742,17 +742,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='header', text='Банк Пример
-        Надёжный б...', children=2, parent='body', id='fc333c02-6835-4180-b1ca-c49c51560b0a')
-children: [ElementNode(tag='a', text='Продукты', children=0, parent='nav', id='9bc94321-a6fe-4b93-9438-941ed9b72015'), ElementNode(tag='a', text='О банке', children=0, parent='nav', id='735ace0b-4ad1-492c-b4b3-cffdd1bbae3e'), ElementNode(tag='a', text='Контакты', children=0, parent='nav', id='d1cbae02-900a-4cd4-9583-686d74568ad1'), ElementNode(tag='a', text='', children=0, parent='nav', id='3863f8b4-a5ec-4194-a64c-aa6f0aa4fd5c')]
+        Надёжный б...', children=2, parent='body', id='7edc0330-cafa-4ff6-92bf-daf718fb7a3f')
+children: [ElementNode(tag='a', text='Продукты', children=0, parent='nav', id='17a0208f-a37f-40f8-9f28-971e8629fe28'), ElementNode(tag='a', text='О банке', children=0, parent='nav', id='33a0a1ab-f2a9-4e19-be6e-c1a1b2744bf6'), ElementNode(tag='a', text='Контакты', children=0, parent='nav', id='cd6aaf03-0fb8-4f40-94e5-6f49e2c59444'), ElementNode(tag='a', text='', children=0, parent='nav', id='b38e8eba-fa81-47c5-805d-241c38c01f6a')]
 attributes: {}
 classes: []
-node_id: e567af53-66bc-4541-9c51-cd7ac8175457
+node_id: a3a1ea5c-5009-476a-9086-d550686421b9
 ----------------------------------------
 
 ### Element 15 ###
 tag: a
 text: Продукты
-node_id: 9bc94321-a6fe-4b93-9438-941ed9b72015
+node_id: 17a0208f-a37f-40f8-9f28-971e8629fe28
 path: body > header.header > nav > a
 children count: 0
 parent: nav
@@ -789,17 +789,17 @@ media: None
 dom_path: None
 parent: ElementNode(tag='nav', text='Продукты
       О банке
-      К...', children=4, parent='header', id='e567af53-66bc-4541-9c51-cd7ac8175457')
+      К...', children=4, parent='header', id='a3a1ea5c-5009-476a-9086-d550686421b9')
 children: []
 attributes: {'href': '#products'}
 classes: []
-node_id: 9bc94321-a6fe-4b93-9438-941ed9b72015
+node_id: 17a0208f-a37f-40f8-9f28-971e8629fe28
 ----------------------------------------
 
 ### Element 16 ###
 tag: a
 text: О банке
-node_id: 735ace0b-4ad1-492c-b4b3-cffdd1bbae3e
+node_id: 33a0a1ab-f2a9-4e19-be6e-c1a1b2744bf6
 path: body > header.header > nav > a
 children count: 0
 parent: nav
@@ -836,17 +836,17 @@ media: None
 dom_path: None
 parent: ElementNode(tag='nav', text='Продукты
       О банке
-      К...', children=4, parent='header', id='e567af53-66bc-4541-9c51-cd7ac8175457')
+      К...', children=4, parent='header', id='a3a1ea5c-5009-476a-9086-d550686421b9')
 children: []
 attributes: {'href': '#about'}
 classes: []
-node_id: 735ace0b-4ad1-492c-b4b3-cffdd1bbae3e
+node_id: 33a0a1ab-f2a9-4e19-be6e-c1a1b2744bf6
 ----------------------------------------
 
 ### Element 17 ###
 tag: a
 text: Контакты
-node_id: d1cbae02-900a-4cd4-9583-686d74568ad1
+node_id: cd6aaf03-0fb8-4f40-94e5-6f49e2c59444
 path: body > header.header > nav > a
 children count: 0
 parent: nav
@@ -883,17 +883,17 @@ media: None
 dom_path: None
 parent: ElementNode(tag='nav', text='Продукты
       О банке
-      К...', children=4, parent='header', id='e567af53-66bc-4541-9c51-cd7ac8175457')
+      К...', children=4, parent='header', id='a3a1ea5c-5009-476a-9086-d550686421b9')
 children: []
 attributes: {'href': '#contacts'}
 classes: []
-node_id: d1cbae02-900a-4cd4-9583-686d74568ad1
+node_id: cd6aaf03-0fb8-4f40-94e5-6f49e2c59444
 ----------------------------------------
 
 ### Element 18 ###
 tag: a
 text: 
-node_id: 3863f8b4-a5ec-4194-a64c-aa6f0aa4fd5c
+node_id: b38e8eba-fa81-47c5-805d-241c38c01f6a
 path: body > header.header > nav > a.empty-link
 children count: 0
 parent: nav
@@ -930,11 +930,11 @@ media: None
 dom_path: None
 parent: ElementNode(tag='nav', text='Продукты
       О банке
-      К...', children=4, parent='header', id='e567af53-66bc-4541-9c51-cd7ac8175457')
+      К...', children=4, parent='header', id='a3a1ea5c-5009-476a-9086-d550686421b9')
 children: []
 attributes: {'href': '#'}
 classes: ['empty-link']
-node_id: 3863f8b4-a5ec-4194-a64c-aa6f0aa4fd5c
+node_id: b38e8eba-fa81-47c5-805d-241c38c01f6a
 ----------------------------------------
 
 ### Element 19 ###
@@ -969,7 +969,7 @@ text: Онлайн-банк для бизнеса и частных лиц
             
           
      
-node_id: b03e9fe0-341a-41b2-b862-7be11a100e7b
+node_id: fdde9978-7e9d-4f20-a4a6-cc005d229111
 path: body > main
 children count: 5
 parent: body
@@ -1034,18 +1034,18 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='body', text='Банк Пример
-        Надёжный б...', children=4, parent='None', id='b68743c9-808c-4e16-86f6-b0c7c8affebd')
-children: [ElementNode(tag='section', text='Онлайн-банк для бизнеса и част...', children=2, parent='main', id='ff7dbd5c-db7c-4670-a0de-b521c9830ad2'), ElementNode(tag='section', text='Наши преимущества
+        Надёжный б...', children=4, parent='None', id='d50e4eb6-070a-4bc6-9076-979515c5e159')
+children: [ElementNode(tag='section', text='Онлайн-банк для бизнеса и част...', children=2, parent='main', id='aed8519e-ff57-449d-aab8-102176a25018'), ElementNode(tag='section', text='Наши преимущества
       
-     ...', children=2, parent='main', id='a0ef44c7-df10-4dca-8143-1b9e4177b0c7'), ElementNode(tag='section', text='Курсы валют
+     ...', children=2, parent='main', id='f45f5405-32fd-45a3-9aa0-d8ce95e9b31d'), ElementNode(tag='section', text='Курсы валют
       
-        USD...', children=2, parent='main', id='ab3e4e5d-bb0c-48c3-aace-adfb4e635fb5'), ElementNode(tag='section', text='Новости
+        USD...', children=2, parent='main', id='47b07a94-32c2-4879-a2c7-8c14e46582e5'), ElementNode(tag='section', text='Новости
       
-        Новый т...', children=2, parent='main', id='48237e57-d835-41c3-9da1-a700af84bd83'), ElementNode(tag='section', text='Полезные сервисы
-      Инструм...', children=3, parent='main', id='1fbaa7bf-1aed-419c-8cd3-c6b45de46966')]
+        Новый т...', children=2, parent='main', id='0739342d-3f06-441f-993d-b77b18d83e3f'), ElementNode(tag='section', text='Полезные сервисы
+      Инструм...', children=3, parent='main', id='0cc04c8e-afb4-4155-84d2-7a5451957460')]
 attributes: {}
 classes: []
-node_id: b03e9fe0-341a-41b2-b862-7be11a100e7b
+node_id: fdde9978-7e9d-4f20-a4a6-cc005d229111
 ----------------------------------------
 
 ### Element 20 ###
@@ -1080,7 +1080,7 @@ text: Онлайн-банк для бизнеса и частных лиц
             
           
      
-node_id: ff7dbd5c-db7c-4670-a0de-b521c9830ad2
+node_id: aed8519e-ff57-449d-aab8-102176a25018
 path: body > main > section.hero
 children count: 2
 parent: main
@@ -1144,13 +1144,13 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='main', text='Онлайн-банк для бизнеса и част...', children=5, parent='body', id='b03e9fe0-341a-41b2-b862-7be11a100e7b')
-children: [ElementNode(tag='div', text='Онлайн-банк для бизнеса и част...', children=6, parent='section', id='cd3b4a88-c3d4-40fc-8403-e0c3f83eac51'), ElementNode(tag='aside', text='Быстрый вход
+parent: ElementNode(tag='main', text='Онлайн-банк для бизнеса и част...', children=5, parent='body', id='fdde9978-7e9d-4f20-a4a6-cc005d229111')
+children: [ElementNode(tag='div', text='Онлайн-банк для бизнеса и част...', children=6, parent='section', id='6dcd825e-8c82-4ee8-a1ab-9e89990eff5c'), ElementNode(tag='aside', text='Быстрый вход
         
-        ...', children=3, parent='section', id='64feccad-5cad-4d32-b85a-04c49d0ddb86')]
+        ...', children=3, parent='section', id='0875ba4d-04b7-48f4-909e-dd1d018282f9')]
 attributes: {'aria-label': 'Главный блок'}
 classes: ['hero']
-node_id: ff7dbd5c-db7c-4670-a0de-b521c9830ad2
+node_id: aed8519e-ff57-449d-aab8-102176a25018
 ----------------------------------------
 
 ### Element 21 ###
@@ -1164,7 +1164,7 @@ text: Онлайн-банк для бизнеса и частных лиц
            
           Открыть счёт 
           Перевести
-node_id: cd3b4a88-c3d4-40fc-8403-e0c3f83eac51
+node_id: 6dcd825e-8c82-4ee8-a1ab-9e89990eff5c
 path: body > main > section.hero > div
 children count: 6
 parent: section
@@ -1207,18 +1207,18 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='section', text='Онлайн-банк для бизнеса и част...', children=2, parent='main', id='ff7dbd5c-db7c-4670-a0de-b521c9830ad2')
-children: [ElementNode(tag='h1', text='Онлайн-банк для бизнеса и част...', children=0, parent='div', id='4f73abd5-0c25-48c5-bb44-daf6a0d619f9'), ElementNode(tag='h1', text='Ваши финансы — под контролем', children=0, parent='div', id='4be94f47-2b59-46bb-883b-126eb9388dfe'), ElementNode(tag='h3', text='Откройте счёт за 5 минут', children=0, parent='div', id='74e82059-7501-41f0-8328-7b61f667e76f'), ElementNode(tag='p', text='Удобное управление счетами, пе...', children=0, parent='div', id='b3d892cf-e4dc-47eb-ad25-944f9def2ba5'), ElementNode(tag='div', text='Открыть счёт 
-          Переве...', children=3, parent='div', id='953b03dd-34f5-404d-8cd0-33ec996cf664'), ElementNode(tag='iframe', text='', children=0, parent='div', id='a98b79b4-0959-49c6-987b-6f99ac192785')]
+parent: ElementNode(tag='section', text='Онлайн-банк для бизнеса и част...', children=2, parent='main', id='aed8519e-ff57-449d-aab8-102176a25018')
+children: [ElementNode(tag='h1', text='Онлайн-банк для бизнеса и част...', children=0, parent='div', id='84437455-201e-4061-b56d-f96e1a76adca'), ElementNode(tag='h1', text='Ваши финансы — под контролем', children=0, parent='div', id='69960599-309d-4420-ab2b-fd073703cfa0'), ElementNode(tag='h3', text='Откройте счёт за 5 минут', children=0, parent='div', id='96cecd96-888a-4501-ba03-48ad1de868cc'), ElementNode(tag='p', text='Удобное управление счетами, пе...', children=0, parent='div', id='cf065cba-d5d9-4d12-930a-d0733d295c8f'), ElementNode(tag='div', text='Открыть счёт 
+          Переве...', children=3, parent='div', id='33da4e60-fe1c-4463-8dc4-cd823b7eada3'), ElementNode(tag='iframe', text='', children=0, parent='div', id='ea2b1d67-c604-49ed-9e6b-b7808212242a')]
 attributes: {}
 classes: []
-node_id: cd3b4a88-c3d4-40fc-8403-e0c3f83eac51
+node_id: 6dcd825e-8c82-4ee8-a1ab-9e89990eff5c
 ----------------------------------------
 
 ### Element 22 ###
 tag: h1
 text: Онлайн-банк для бизнеса и частных лиц
-node_id: 4f73abd5-0c25-48c5-bb44-daf6a0d619f9
+node_id: 84437455-201e-4061-b56d-f96e1a76adca
 path: body > main > section.hero > div > h1
 children count: 0
 parent: div
@@ -1253,17 +1253,17 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='div', text='Онлайн-банк для бизнеса и част...', children=6, parent='section', id='cd3b4a88-c3d4-40fc-8403-e0c3f83eac51')
+parent: ElementNode(tag='div', text='Онлайн-банк для бизнеса и част...', children=6, parent='section', id='6dcd825e-8c82-4ee8-a1ab-9e89990eff5c')
 children: []
 attributes: {}
 classes: []
-node_id: 4f73abd5-0c25-48c5-bb44-daf6a0d619f9
+node_id: 84437455-201e-4061-b56d-f96e1a76adca
 ----------------------------------------
 
 ### Element 23 ###
 tag: h1
 text: Ваши финансы — под контролем
-node_id: 4be94f47-2b59-46bb-883b-126eb9388dfe
+node_id: 69960599-309d-4420-ab2b-fd073703cfa0
 path: body > main > section.hero > div > h1
 children count: 0
 parent: div
@@ -1298,17 +1298,17 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='div', text='Онлайн-банк для бизнеса и част...', children=6, parent='section', id='cd3b4a88-c3d4-40fc-8403-e0c3f83eac51')
+parent: ElementNode(tag='div', text='Онлайн-банк для бизнеса и част...', children=6, parent='section', id='6dcd825e-8c82-4ee8-a1ab-9e89990eff5c')
 children: []
 attributes: {}
 classes: []
-node_id: 4be94f47-2b59-46bb-883b-126eb9388dfe
+node_id: 69960599-309d-4420-ab2b-fd073703cfa0
 ----------------------------------------
 
 ### Element 24 ###
 tag: h3
 text: Откройте счёт за 5 минут
-node_id: 74e82059-7501-41f0-8328-7b61f667e76f
+node_id: 96cecd96-888a-4501-ba03-48ad1de868cc
 path: body > main > section.hero > div > h3
 children count: 0
 parent: div
@@ -1343,17 +1343,17 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='div', text='Онлайн-банк для бизнеса и част...', children=6, parent='section', id='cd3b4a88-c3d4-40fc-8403-e0c3f83eac51')
+parent: ElementNode(tag='div', text='Онлайн-банк для бизнеса и част...', children=6, parent='section', id='6dcd825e-8c82-4ee8-a1ab-9e89990eff5c')
 children: []
 attributes: {}
 classes: []
-node_id: 74e82059-7501-41f0-8328-7b61f667e76f
+node_id: 96cecd96-888a-4501-ba03-48ad1de868cc
 ----------------------------------------
 
 ### Element 25 ###
 tag: p
 text: Удобное управление счетами, переводы и инвестиции — всё в одном приложении.
-node_id: b3d892cf-e4dc-47eb-ad25-944f9def2ba5
+node_id: cf065cba-d5d9-4d12-930a-d0733d295c8f
 path: body > main > section.hero > div > p.muted
 children count: 0
 parent: div
@@ -1388,18 +1388,18 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='div', text='Онлайн-банк для бизнеса и част...', children=6, parent='section', id='cd3b4a88-c3d4-40fc-8403-e0c3f83eac51')
+parent: ElementNode(tag='div', text='Онлайн-банк для бизнеса и част...', children=6, parent='section', id='6dcd825e-8c82-4ee8-a1ab-9e89990eff5c')
 children: []
 attributes: {}
 classes: ['muted']
-node_id: b3d892cf-e4dc-47eb-ad25-944f9def2ba5
+node_id: cf065cba-d5d9-4d12-930a-d0733d295c8f
 ----------------------------------------
 
 ### Element 26 ###
 tag: div
 text: Открыть счёт 
           Перевести
-node_id: 953b03dd-34f5-404d-8cd0-33ec996cf664
+node_id: 33da4e60-fe1c-4463-8dc4-cd823b7eada3
 path: body > main > section.hero > div > div.cta
 children count: 3
 parent: div
@@ -1435,17 +1435,17 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='div', text='Онлайн-банк для бизнеса и част...', children=6, parent='section', id='cd3b4a88-c3d4-40fc-8403-e0c3f83eac51')
-children: [ElementNode(tag='button', text='', children=0, parent='div', id='77d56b21-e093-42ae-a47a-af502438597f'), ElementNode(tag='button', text='Открыть счёт', children=0, parent='div', id='3758d5f9-c10f-4db6-9180-8307e5a93eab'), ElementNode(tag='button', text='Перевести', children=0, parent='div', id='bde9ef2b-96f0-46da-9faf-6326c57f2e8b')]
+parent: ElementNode(tag='div', text='Онлайн-банк для бизнеса и част...', children=6, parent='section', id='6dcd825e-8c82-4ee8-a1ab-9e89990eff5c')
+children: [ElementNode(tag='button', text='', children=0, parent='div', id='7e999e6f-7716-4628-af6a-996f5f5b9872'), ElementNode(tag='button', text='Открыть счёт', children=0, parent='div', id='4a82e978-cb35-4ddf-aed3-eee84146e1b4'), ElementNode(tag='button', text='Перевести', children=0, parent='div', id='ddfb59a7-bddf-4863-91f5-05d0f139e1bf')]
 attributes: {}
 classes: ['cta']
-node_id: 953b03dd-34f5-404d-8cd0-33ec996cf664
+node_id: 33da4e60-fe1c-4463-8dc4-cd823b7eada3
 ----------------------------------------
 
 ### Element 27 ###
 tag: button
 text: 
-node_id: 77d56b21-e093-42ae-a47a-af502438597f
+node_id: 7e999e6f-7716-4628-af6a-996f5f5b9872
 path: body > main > section.hero > div > div.cta > button.btn
 children count: 0
 parent: div
@@ -1481,17 +1481,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='div', text='Открыть счёт 
-          Переве...', children=3, parent='div', id='953b03dd-34f5-404d-8cd0-33ec996cf664')
+          Переве...', children=3, parent='div', id='33da4e60-fe1c-4463-8dc4-cd823b7eada3')
 children: []
 attributes: {'aria-hidden': 'true'}
 classes: ['btn']
-node_id: 77d56b21-e093-42ae-a47a-af502438597f
+node_id: 7e999e6f-7716-4628-af6a-996f5f5b9872
 ----------------------------------------
 
 ### Element 28 ###
 tag: button
 text: Открыть счёт
-node_id: 3758d5f9-c10f-4db6-9180-8307e5a93eab
+node_id: 4a82e978-cb35-4ddf-aed3-eee84146e1b4
 path: body > main > section.hero > div > div.cta > button.btn
 children count: 0
 parent: div
@@ -1527,17 +1527,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='div', text='Открыть счёт 
-          Переве...', children=3, parent='div', id='953b03dd-34f5-404d-8cd0-33ec996cf664')
+          Переве...', children=3, parent='div', id='33da4e60-fe1c-4463-8dc4-cd823b7eada3')
 children: []
 attributes: {'role': 'link'}
 classes: ['btn']
-node_id: 3758d5f9-c10f-4db6-9180-8307e5a93eab
+node_id: 4a82e978-cb35-4ddf-aed3-eee84146e1b4
 ----------------------------------------
 
 ### Element 29 ###
 tag: button
 text: Перевести
-node_id: bde9ef2b-96f0-46da-9faf-6326c57f2e8b
+node_id: ddfb59a7-bddf-4863-91f5-05d0f139e1bf
 path: body > main > section.hero > div > div.cta > button.btn
 children count: 0
 parent: div
@@ -1573,17 +1573,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='div', text='Открыть счёт 
-          Переве...', children=3, parent='div', id='953b03dd-34f5-404d-8cd0-33ec996cf664')
+          Переве...', children=3, parent='div', id='33da4e60-fe1c-4463-8dc4-cd823b7eada3')
 children: []
 attributes: {'tabindex': '3'}
 classes: ['btn']
-node_id: bde9ef2b-96f0-46da-9faf-6326c57f2e8b
+node_id: ddfb59a7-bddf-4863-91f5-05d0f139e1bf
 ----------------------------------------
 
 ### Element 30 ###
 tag: iframe
 text: 
-node_id: a98b79b4-0959-49c6-987b-6f99ac192785
+node_id: ea2b1d67-c604-49ed-9e6b-b7808212242a
 path: body > main > section.hero > div > iframe
 children count: 0
 parent: div
@@ -1618,11 +1618,11 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='div', text='Онлайн-банк для бизнеса и част...', children=6, parent='section', id='cd3b4a88-c3d4-40fc-8403-e0c3f83eac51')
+parent: ElementNode(tag='div', text='Онлайн-банк для бизнеса и част...', children=6, parent='section', id='6dcd825e-8c82-4ee8-a1ab-9e89990eff5c')
 children: []
 attributes: {'src': 'https://www.example.com/financial-widget', 'width': '100%', 'height': '200'}
 classes: []
-node_id: a98b79b4-0959-49c6-987b-6f99ac192785
+node_id: ea2b1d67-c604-49ed-9e6b-b7808212242a
 ----------------------------------------
 
 ### Element 31 ###
@@ -1648,7 +1648,7 @@ text: Быстрый вход
         
           
           Ваш браузер не поддерживает видео.
-node_id: 64feccad-5cad-4d32-b85a-04c49d0ddb86
+node_id: 0875ba4d-04b7-48f4-909e-dd1d018282f9
 path: body > main > section.hero > aside.form-card
 children count: 3
 parent: section
@@ -1703,18 +1703,18 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='section', text='Онлайн-банк для бизнеса и част...', children=2, parent='main', id='ff7dbd5c-db7c-4670-a0de-b521c9830ad2')
-children: [ElementNode(tag='h2', text='Быстрый вход', children=0, parent='aside', id='0a4ae15c-bc06-438c-af63-7398c7b30379'), ElementNode(tag='form', text='Выберите счёт
-              Те...', children=5, parent='aside', id='bfa7fce6-e72e-46d7-ad50-8e5c4ca84521'), ElementNode(tag='video', text='Ваш браузер не поддерживает ви...', children=1, parent='aside', id='2cc5e4f5-8ee0-4653-944d-f9ff0882a22b')]
+parent: ElementNode(tag='section', text='Онлайн-банк для бизнеса и част...', children=2, parent='main', id='aed8519e-ff57-449d-aab8-102176a25018')
+children: [ElementNode(tag='h2', text='Быстрый вход', children=0, parent='aside', id='e78d4b02-e057-4519-85f4-56ce30a3a662'), ElementNode(tag='form', text='Выберите счёт
+              Те...', children=5, parent='aside', id='49d848c3-e4dc-4dfd-bc7e-df686a534cc3'), ElementNode(tag='video', text='Ваш браузер не поддерживает ви...', children=1, parent='aside', id='9209c315-a4a9-4fdc-907c-f36634cd3b25')]
 attributes: {}
 classes: ['form-card']
-node_id: 64feccad-5cad-4d32-b85a-04c49d0ddb86
+node_id: 0875ba4d-04b7-48f4-909e-dd1d018282f9
 ----------------------------------------
 
 ### Element 32 ###
 tag: h2
 text: Быстрый вход
-node_id: 0a4ae15c-bc06-438c-af63-7398c7b30379
+node_id: e78d4b02-e057-4519-85f4-56ce30a3a662
 path: body > main > section.hero > aside.form-card > h2
 children count: 0
 parent: aside
@@ -1751,11 +1751,11 @@ media: None
 dom_path: None
 parent: ElementNode(tag='aside', text='Быстрый вход
         
-        ...', children=3, parent='section', id='64feccad-5cad-4d32-b85a-04c49d0ddb86')
+        ...', children=3, parent='section', id='0875ba4d-04b7-48f4-909e-dd1d018282f9')
 children: []
 attributes: {}
 classes: []
-node_id: 0a4ae15c-bc06-438c-af63-7398c7b30379
+node_id: e78d4b02-e057-4519-85f4-56ce30a3a662
 ----------------------------------------
 
 ### Element 33 ###
@@ -1766,7 +1766,7 @@ text: Выберите счёт
           
            
           Секретная подсказка
-node_id: bfa7fce6-e72e-46d7-ad50-8e5c4ca84521
+node_id: 49d848c3-e4dc-4dfd-bc7e-df686a534cc3
 path: body > main > section.hero > aside.form-card > form
 children count: 5
 parent: aside
@@ -1808,18 +1808,18 @@ media: None
 dom_path: None
 parent: ElementNode(tag='aside', text='Быстрый вход
         
-        ...', children=3, parent='section', id='64feccad-5cad-4d32-b85a-04c49d0ddb86')
-children: [ElementNode(tag='div', text='', children=1, parent='form', id='5f20927c-7648-4a18-9a64-9aa2deb8d689'), ElementNode(tag='div', text='', children=1, parent='form', id='b09904f5-83b8-4212-9771-dc1a6f584bd8'), ElementNode(tag='div', text='Выберите счёт
-              Те...', children=1, parent='form', id='c4daa204-fad1-40a0-b216-54a72c9a32b0'), ElementNode(tag='button', text='', children=0, parent='form', id='93c67c06-e96f-45a2-bccb-160d3fd69d8c'), ElementNode(tag='div', text='Секретная подсказка', children=0, parent='form', id='429ab846-ca72-4590-83e2-1272fdea46a0')]
+        ...', children=3, parent='section', id='0875ba4d-04b7-48f4-909e-dd1d018282f9')
+children: [ElementNode(tag='div', text='', children=1, parent='form', id='99ff7db4-f7bb-4c39-baed-95f4b6d78f47'), ElementNode(tag='div', text='', children=1, parent='form', id='6548cba2-d12b-4fec-8ab8-048dc5bea0b5'), ElementNode(tag='div', text='Выберите счёт
+              Те...', children=1, parent='form', id='83e2db87-28dd-4bf1-b7f6-917eed741c1b'), ElementNode(tag='button', text='', children=0, parent='form', id='f0520c76-ba6e-42ae-9611-ef03c21effa3'), ElementNode(tag='div', text='Секретная подсказка', children=0, parent='form', id='69e1ea6a-6f51-4ddb-84be-8285a3c76b6c')]
 attributes: {}
 classes: []
-node_id: bfa7fce6-e72e-46d7-ad50-8e5c4ca84521
+node_id: 49d848c3-e4dc-4dfd-bc7e-df686a534cc3
 ----------------------------------------
 
 ### Element 34 ###
 tag: div
 text: 
-node_id: 5f20927c-7648-4a18-9a64-9aa2deb8d689
+node_id: 99ff7db4-f7bb-4c39-baed-95f4b6d78f47
 path: body > main > section.hero > aside.form-card > form > div.form-row
 children count: 1
 parent: form
@@ -1855,17 +1855,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='form', text='Выберите счёт
-              Те...', children=5, parent='aside', id='bfa7fce6-e72e-46d7-ad50-8e5c4ca84521')
-children: [ElementNode(tag='input', text='', children=0, parent='div', id='1553daaf-f8e7-4bbe-b97d-fd3d8b5d8c15')]
+              Те...', children=5, parent='aside', id='49d848c3-e4dc-4dfd-bc7e-df686a534cc3')
+children: [ElementNode(tag='input', text='', children=0, parent='div', id='d724ab29-4a93-4e26-9d71-da1aa83e78aa')]
 attributes: {}
 classes: ['form-row']
-node_id: 5f20927c-7648-4a18-9a64-9aa2deb8d689
+node_id: 99ff7db4-f7bb-4c39-baed-95f4b6d78f47
 ----------------------------------------
 
 ### Element 35 ###
 tag: input
 text: 
-node_id: 1553daaf-f8e7-4bbe-b97d-fd3d8b5d8c15
+node_id: d724ab29-4a93-4e26-9d71-da1aa83e78aa
 path: body > main > section.hero > aside.form-card > form > div.form-row > input
 children count: 0
 parent: div
@@ -1900,17 +1900,17 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='div', text='', children=1, parent='form', id='5f20927c-7648-4a18-9a64-9aa2deb8d689')
+parent: ElementNode(tag='div', text='', children=1, parent='form', id='99ff7db4-f7bb-4c39-baed-95f4b6d78f47')
 children: []
 attributes: {'type': 'text', 'name': 'user', 'placeholder': 'Логин'}
 classes: []
-node_id: 1553daaf-f8e7-4bbe-b97d-fd3d8b5d8c15
+node_id: d724ab29-4a93-4e26-9d71-da1aa83e78aa
 ----------------------------------------
 
 ### Element 36 ###
 tag: div
 text: 
-node_id: b09904f5-83b8-4212-9771-dc1a6f584bd8
+node_id: 6548cba2-d12b-4fec-8ab8-048dc5bea0b5
 path: body > main > section.hero > aside.form-card > form > div.form-row
 children count: 1
 parent: form
@@ -1946,17 +1946,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='form', text='Выберите счёт
-              Те...', children=5, parent='aside', id='bfa7fce6-e72e-46d7-ad50-8e5c4ca84521')
-children: [ElementNode(tag='input', text='', children=0, parent='div', id='3c67d0ea-b731-4387-8503-6b5ac897e4d8')]
+              Те...', children=5, parent='aside', id='49d848c3-e4dc-4dfd-bc7e-df686a534cc3')
+children: [ElementNode(tag='input', text='', children=0, parent='div', id='58cba2a1-142e-415d-a7aa-2733f52da869')]
 attributes: {}
 classes: ['form-row']
-node_id: b09904f5-83b8-4212-9771-dc1a6f584bd8
+node_id: 6548cba2-d12b-4fec-8ab8-048dc5bea0b5
 ----------------------------------------
 
 ### Element 37 ###
 tag: input
 text: 
-node_id: 3c67d0ea-b731-4387-8503-6b5ac897e4d8
+node_id: 58cba2a1-142e-415d-a7aa-2733f52da869
 path: body > main > section.hero > aside.form-card > form > div.form-row > input
 children count: 0
 parent: div
@@ -1991,18 +1991,18 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='div', text='', children=1, parent='form', id='b09904f5-83b8-4212-9771-dc1a6f584bd8')
+parent: ElementNode(tag='div', text='', children=1, parent='form', id='6548cba2-d12b-4fec-8ab8-048dc5bea0b5')
 children: []
 attributes: {'type': 'password', 'name': 'pass', 'placeholder': 'Пароль'}
 classes: []
-node_id: 3c67d0ea-b731-4387-8503-6b5ac897e4d8
+node_id: 58cba2a1-142e-415d-a7aa-2733f52da869
 ----------------------------------------
 
 ### Element 38 ###
 tag: div
 text: Выберите счёт
               Текущий
-node_id: c4daa204-fad1-40a0-b216-54a72c9a32b0
+node_id: 83e2db87-28dd-4bf1-b7f6-917eed741c1b
 path: body > main > section.hero > aside.form-card > form > div.form-row
 children count: 1
 parent: form
@@ -2039,19 +2039,19 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='form', text='Выберите счёт
-              Те...', children=5, parent='aside', id='bfa7fce6-e72e-46d7-ad50-8e5c4ca84521')
+              Те...', children=5, parent='aside', id='49d848c3-e4dc-4dfd-bc7e-df686a534cc3')
 children: [ElementNode(tag='select', text='Выберите счёт
-              Те...', children=2, parent='div', id='e7834912-59c9-4430-9ade-e2ea011d0789')]
+              Те...', children=2, parent='div', id='e219e4ff-5349-41e2-82b7-6f396488904c')]
 attributes: {}
 classes: ['form-row']
-node_id: c4daa204-fad1-40a0-b216-54a72c9a32b0
+node_id: 83e2db87-28dd-4bf1-b7f6-917eed741c1b
 ----------------------------------------
 
 ### Element 39 ###
 tag: select
 text: Выберите счёт
               Текущий
-node_id: e7834912-59c9-4430-9ade-e2ea011d0789
+node_id: e219e4ff-5349-41e2-82b7-6f396488904c
 path: body > main > section.hero > aside.form-card > form > div.form-row > select
 children count: 2
 parent: div
@@ -2088,17 +2088,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='div', text='Выберите счёт
-              Те...', children=1, parent='form', id='c4daa204-fad1-40a0-b216-54a72c9a32b0')
-children: [ElementNode(tag='option', text='Выберите счёт', children=0, parent='select', id='7a30783e-2ca9-4adb-84fe-ad755a4217b8'), ElementNode(tag='option', text='Текущий', children=0, parent='select', id='c9424663-fdaf-4215-8b82-b556fe9aa411')]
+              Те...', children=1, parent='form', id='83e2db87-28dd-4bf1-b7f6-917eed741c1b')
+children: [ElementNode(tag='option', text='Выберите счёт', children=0, parent='select', id='efa60230-2755-4547-835e-2df5fba2cfcd'), ElementNode(tag='option', text='Текущий', children=0, parent='select', id='ec8bd829-1af9-4248-ba85-99dca97e74a9')]
 attributes: {'name': 'account'}
 classes: []
-node_id: e7834912-59c9-4430-9ade-e2ea011d0789
+node_id: e219e4ff-5349-41e2-82b7-6f396488904c
 ----------------------------------------
 
 ### Element 40 ###
 tag: option
 text: Выберите счёт
-node_id: 7a30783e-2ca9-4adb-84fe-ad755a4217b8
+node_id: efa60230-2755-4547-835e-2df5fba2cfcd
 path: body > main > section.hero > aside.form-card > form > div.form-row > select > option
 children count: 0
 parent: select
@@ -2134,17 +2134,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='select', text='Выберите счёт
-              Те...', children=2, parent='div', id='e7834912-59c9-4430-9ade-e2ea011d0789')
+              Те...', children=2, parent='div', id='e219e4ff-5349-41e2-82b7-6f396488904c')
 children: []
 attributes: {}
 classes: []
-node_id: 7a30783e-2ca9-4adb-84fe-ad755a4217b8
+node_id: efa60230-2755-4547-835e-2df5fba2cfcd
 ----------------------------------------
 
 ### Element 41 ###
 tag: option
 text: Текущий
-node_id: c9424663-fdaf-4215-8b82-b556fe9aa411
+node_id: ec8bd829-1af9-4248-ba85-99dca97e74a9
 path: body > main > section.hero > aside.form-card > form > div.form-row > select > option
 children count: 0
 parent: select
@@ -2180,17 +2180,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='select', text='Выберите счёт
-              Те...', children=2, parent='div', id='e7834912-59c9-4430-9ade-e2ea011d0789')
+              Те...', children=2, parent='div', id='e219e4ff-5349-41e2-82b7-6f396488904c')
 children: []
 attributes: {}
 classes: []
-node_id: c9424663-fdaf-4215-8b82-b556fe9aa411
+node_id: ec8bd829-1af9-4248-ba85-99dca97e74a9
 ----------------------------------------
 
 ### Element 42 ###
 tag: button
 text: 
-node_id: 93c67c06-e96f-45a2-bccb-160d3fd69d8c
+node_id: f0520c76-ba6e-42ae-9611-ef03c21effa3
 path: body > main > section.hero > aside.form-card > form > button.btn-full
 children count: 0
 parent: form
@@ -2226,17 +2226,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='form', text='Выберите счёт
-              Те...', children=5, parent='aside', id='bfa7fce6-e72e-46d7-ad50-8e5c4ca84521')
+              Те...', children=5, parent='aside', id='49d848c3-e4dc-4dfd-bc7e-df686a534cc3')
 children: []
 attributes: {'type': 'submit'}
 classes: ['btn-full']
-node_id: 93c67c06-e96f-45a2-bccb-160d3fd69d8c
+node_id: f0520c76-ba6e-42ae-9611-ef03c21effa3
 ----------------------------------------
 
 ### Element 43 ###
 tag: div
 text: Секретная подсказка
-node_id: 429ab846-ca72-4590-83e2-1272fdea46a0
+node_id: 69e1ea6a-6f51-4ddb-84be-8285a3c76b6c
 path: body > main > section.hero > aside.form-card > form > div
 children count: 0
 parent: form
@@ -2272,17 +2272,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='form', text='Выберите счёт
-              Те...', children=5, parent='aside', id='bfa7fce6-e72e-46d7-ad50-8e5c4ca84521')
+              Те...', children=5, parent='aside', id='49d848c3-e4dc-4dfd-bc7e-df686a534cc3')
 children: []
 attributes: {'aria-hidden': 'false'}
 classes: []
-node_id: 429ab846-ca72-4590-83e2-1272fdea46a0
+node_id: 69e1ea6a-6f51-4ddb-84be-8285a3c76b6c
 ----------------------------------------
 
 ### Element 44 ###
 tag: video
 text: Ваш браузер не поддерживает видео.
-node_id: 2cc5e4f5-8ee0-4653-944d-f9ff0882a22b
+node_id: 9209c315-a4a9-4fdc-907c-f36634cd3b25
 path: body > main > section.hero > aside.form-card > video
 children count: 1
 parent: aside
@@ -2319,17 +2319,17 @@ media: None
 dom_path: None
 parent: ElementNode(tag='aside', text='Быстрый вход
         
-        ...', children=3, parent='section', id='64feccad-5cad-4d32-b85a-04c49d0ddb86')
-children: [ElementNode(tag='source', text='Ваш браузер не поддерживает ви...', children=0, parent='video', id='8674786f-9a46-4782-b65a-efe22ec0f1d1')]
+        ...', children=3, parent='section', id='0875ba4d-04b7-48f4-909e-dd1d018282f9')
+children: [ElementNode(tag='source', text='Ваш браузер не поддерживает ви...', children=0, parent='video', id='a827f693-9a4b-40bb-8e65-6002c24080d4')]
 attributes: {'controls': '', 'autoplay': ''}
 classes: []
-node_id: 2cc5e4f5-8ee0-4653-944d-f9ff0882a22b
+node_id: 9209c315-a4a9-4fdc-907c-f36634cd3b25
 ----------------------------------------
 
 ### Element 45 ###
 tag: source
 text: Ваш браузер не поддерживает видео.
-node_id: 8674786f-9a46-4782-b65a-efe22ec0f1d1
+node_id: a827f693-9a4b-40bb-8e65-6002c24080d4
 path: body > main > section.hero > aside.form-card > video > source
 children count: 0
 parent: video
@@ -2364,11 +2364,11 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='video', text='Ваш браузер не поддерживает ви...', children=1, parent='aside', id='2cc5e4f5-8ee0-4653-944d-f9ff0882a22b')
+parent: ElementNode(tag='video', text='Ваш браузер не поддерживает ви...', children=1, parent='aside', id='9209c315-a4a9-4fdc-907c-f36634cd3b25')
 children: []
 attributes: {'src': '/media/intro.mp4', 'type': 'video/mp4'}
 classes: []
-node_id: 8674786f-9a46-4782-b65a-efe22ec0f1d1
+node_id: a827f693-9a4b-40bb-8e65-6002c24080d4
 ----------------------------------------
 
 ### Element 46 ###
@@ -2389,7 +2389,7 @@ text: Наши преимущества
              
             Быстрые переводы
             Переводы внутри банка — мгновенно.
-node_id: a0ef44c7-df10-4dca-8143-1b9e4177b0c7
+node_id: f45f5405-32fd-45a3-9aa0-d8ce95e9b31d
 path: body > main > section.features
 children count: 2
 parent: main
@@ -2439,12 +2439,12 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='main', text='Онлайн-банк для бизнеса и част...', children=5, parent='body', id='b03e9fe0-341a-41b2-b862-7be11a100e7b')
+parent: ElementNode(tag='main', text='Онлайн-банк для бизнеса и част...', children=5, parent='body', id='fdde9978-7e9d-4f20-a4a6-cc005d229111')
 children: [ElementNode(tag='h2', text='Наши преимущества', children=0, parent='section', id='featuresTitle'), ElementNode(tag='div', text='Безопасность
-            Ваши ...', children=3, parent='section', id='af0e147a-b763-4ae6-99d1-8870193c40c4')]
+            Ваши ...', children=3, parent='section', id='26a8f15a-eb4e-4e73-8aac-358b25a76ef5')]
 attributes: {'aria-labelledby': 'featuresTitle'}
 classes: ['features']
-node_id: a0ef44c7-df10-4dca-8143-1b9e4177b0c7
+node_id: f45f5405-32fd-45a3-9aa0-d8ce95e9b31d
 ----------------------------------------
 
 ### Element 47 ###
@@ -2487,7 +2487,7 @@ media: None
 dom_path: None
 parent: ElementNode(tag='section', text='Наши преимущества
       
-     ...', children=2, parent='main', id='a0ef44c7-df10-4dca-8143-1b9e4177b0c7')
+     ...', children=2, parent='main', id='f45f5405-32fd-45a3-9aa0-d8ce95e9b31d')
 children: []
 attributes: {}
 classes: []
@@ -2508,7 +2508,7 @@ text: Безопасность
              
             Быстрые переводы
             Переводы внутри банка — мгновенно.
-node_id: af0e147a-b763-4ae6-99d1-8870193c40c4
+node_id: 26a8f15a-eb4e-4e73-8aac-358b25a76ef5
 path: body > main > section.features > div.features-grid
 children count: 3
 parent: section
@@ -2556,21 +2556,21 @@ media: None
 dom_path: None
 parent: ElementNode(tag='section', text='Наши преимущества
       
-     ...', children=2, parent='main', id='a0ef44c7-df10-4dca-8143-1b9e4177b0c7')
+     ...', children=2, parent='main', id='f45f5405-32fd-45a3-9aa0-d8ce95e9b31d')
 children: [ElementNode(tag='article', text='Безопасность
-            Ваши ...', children=3, parent='div', id='28b1800b-7a1f-43ec-8bbd-a4c715516c98'), ElementNode(tag='article', text='Поддержка 24/7
-            Мы ...', children=3, parent='div', id='373d544d-0e71-442a-ae31-ace6ed3e13c7'), ElementNode(tag='article', text='Быстрые переводы
-            П...', children=3, parent='div', id='93ff3706-05f6-4fcf-95e8-a03488a64e65')]
+            Ваши ...', children=3, parent='div', id='e699e45d-bfb3-43eb-a3bc-b3d97c05d2a2'), ElementNode(tag='article', text='Поддержка 24/7
+            Мы ...', children=3, parent='div', id='50f94666-3a71-450f-9e7d-4e57aab79de3'), ElementNode(tag='article', text='Быстрые переводы
+            П...', children=3, parent='div', id='670b4bec-1819-4a8e-9232-e2a0f08df24f')]
 attributes: {}
 classes: ['features-grid']
-node_id: af0e147a-b763-4ae6-99d1-8870193c40c4
+node_id: 26a8f15a-eb4e-4e73-8aac-358b25a76ef5
 ----------------------------------------
 
 ### Element 49 ###
 tag: article
 text: Безопасность
             Ваши деньги защищены многоуровневой концепцией.
-node_id: 28b1800b-7a1f-43ec-8bbd-a4c715516c98
+node_id: e699e45d-bfb3-43eb-a3bc-b3d97c05d2a2
 path: body > main > section.features > div.features-grid > article.feature
 children count: 3
 parent: div
@@ -2607,17 +2607,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='div', text='Безопасность
-            Ваши ...', children=3, parent='section', id='af0e147a-b763-4ae6-99d1-8870193c40c4')
-children: [ElementNode(tag='img', text='', children=0, parent='article', id='d203af1d-d143-481f-9b96-14bcc6687350'), ElementNode(tag='h3', text='Безопасность', children=0, parent='article', id='8088bab9-d412-4a91-a119-6ea41d6f2cfb'), ElementNode(tag='p', text='Ваши деньги защищены многоуров...', children=0, parent='article', id='e2e709c1-b9d7-4170-bfc9-47f35567a299')]
+            Ваши ...', children=3, parent='section', id='26a8f15a-eb4e-4e73-8aac-358b25a76ef5')
+children: [ElementNode(tag='img', text='', children=0, parent='article', id='52c236a6-ab20-4686-a2d7-a03f4ede7b81'), ElementNode(tag='h3', text='Безопасность', children=0, parent='article', id='0d232264-618f-4d6f-99ab-c2cc3cc4bc36'), ElementNode(tag='p', text='Ваши деньги защищены многоуров...', children=0, parent='article', id='0b48d9ed-99bd-4019-adba-b8d96ba5b34b')]
 attributes: {}
 classes: ['feature']
-node_id: 28b1800b-7a1f-43ec-8bbd-a4c715516c98
+node_id: e699e45d-bfb3-43eb-a3bc-b3d97c05d2a2
 ----------------------------------------
 
 ### Element 50 ###
 tag: img
 text: 
-node_id: d203af1d-d143-481f-9b96-14bcc6687350
+node_id: 52c236a6-ab20-4686-a2d7-a03f4ede7b81
 path: body > main > section.features > div.features-grid > article.feature > img
 children count: 0
 parent: article
@@ -2653,17 +2653,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='article', text='Безопасность
-            Ваши ...', children=3, parent='div', id='28b1800b-7a1f-43ec-8bbd-a4c715516c98')
+            Ваши ...', children=3, parent='div', id='e699e45d-bfb3-43eb-a3bc-b3d97c05d2a2')
 children: []
 attributes: {'src': './lock.png', 'alt': ''}
 classes: []
-node_id: d203af1d-d143-481f-9b96-14bcc6687350
+node_id: 52c236a6-ab20-4686-a2d7-a03f4ede7b81
 ----------------------------------------
 
 ### Element 51 ###
 tag: h3
 text: Безопасность
-node_id: 8088bab9-d412-4a91-a119-6ea41d6f2cfb
+node_id: 0d232264-618f-4d6f-99ab-c2cc3cc4bc36
 path: body > main > section.features > div.features-grid > article.feature > h3
 children count: 0
 parent: article
@@ -2699,17 +2699,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='article', text='Безопасность
-            Ваши ...', children=3, parent='div', id='28b1800b-7a1f-43ec-8bbd-a4c715516c98')
+            Ваши ...', children=3, parent='div', id='e699e45d-bfb3-43eb-a3bc-b3d97c05d2a2')
 children: []
 attributes: {}
 classes: []
-node_id: 8088bab9-d412-4a91-a119-6ea41d6f2cfb
+node_id: 0d232264-618f-4d6f-99ab-c2cc3cc4bc36
 ----------------------------------------
 
 ### Element 52 ###
 tag: p
 text: Ваши деньги защищены многоуровневой концепцией.
-node_id: e2e709c1-b9d7-4170-bfc9-47f35567a299
+node_id: 0b48d9ed-99bd-4019-adba-b8d96ba5b34b
 path: body > main > section.features > div.features-grid > article.feature > p.muted
 children count: 0
 parent: article
@@ -2745,18 +2745,18 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='article', text='Безопасность
-            Ваши ...', children=3, parent='div', id='28b1800b-7a1f-43ec-8bbd-a4c715516c98')
+            Ваши ...', children=3, parent='div', id='e699e45d-bfb3-43eb-a3bc-b3d97c05d2a2')
 children: []
 attributes: {}
 classes: ['muted']
-node_id: e2e709c1-b9d7-4170-bfc9-47f35567a299
+node_id: 0b48d9ed-99bd-4019-adba-b8d96ba5b34b
 ----------------------------------------
 
 ### Element 53 ###
 tag: article
 text: Поддержка 24/7
             Мы всегда на связи.
-node_id: 373d544d-0e71-442a-ae31-ace6ed3e13c7
+node_id: 50f94666-3a71-450f-9e7d-4e57aab79de3
 path: body > main > section.features > div.features-grid > article.feature
 children count: 3
 parent: div
@@ -2793,17 +2793,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='div', text='Безопасность
-            Ваши ...', children=3, parent='section', id='af0e147a-b763-4ae6-99d1-8870193c40c4')
-children: [ElementNode(tag='img', text='', children=0, parent='article', id='8299aebb-111e-482e-8c07-9beffbfcd64e'), ElementNode(tag='h3', text='Поддержка 24/7', children=0, parent='article', id='3849539f-f75b-4a02-9d41-ce49d6000e07'), ElementNode(tag='p', text='Мы всегда на связи.', children=0, parent='article', id='8f6597b5-91c8-439d-a676-7f34ab05c553')]
+            Ваши ...', children=3, parent='section', id='26a8f15a-eb4e-4e73-8aac-358b25a76ef5')
+children: [ElementNode(tag='img', text='', children=0, parent='article', id='c4e3d8f7-6698-4caf-b9b2-f0247c4ef0fc'), ElementNode(tag='h3', text='Поддержка 24/7', children=0, parent='article', id='9cd789ca-fde4-4d22-8b61-ba8da2fe0445'), ElementNode(tag='p', text='Мы всегда на связи.', children=0, parent='article', id='5f692a2f-5e26-4ac8-9baa-997dc99c8a21')]
 attributes: {}
 classes: ['feature']
-node_id: 373d544d-0e71-442a-ae31-ace6ed3e13c7
+node_id: 50f94666-3a71-450f-9e7d-4e57aab79de3
 ----------------------------------------
 
 ### Element 54 ###
 tag: img
 text: 
-node_id: 8299aebb-111e-482e-8c07-9beffbfcd64e
+node_id: c4e3d8f7-6698-4caf-b9b2-f0247c4ef0fc
 path: body > main > section.features > div.features-grid > article.feature > img
 children count: 0
 parent: article
@@ -2839,17 +2839,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='article', text='Поддержка 24/7
-            Мы ...', children=3, parent='div', id='373d544d-0e71-442a-ae31-ace6ed3e13c7')
+            Мы ...', children=3, parent='div', id='50f94666-3a71-450f-9e7d-4e57aab79de3')
 children: []
 attributes: {'src': './support.png', 'alt': 'иконка'}
 classes: []
-node_id: 8299aebb-111e-482e-8c07-9beffbfcd64e
+node_id: c4e3d8f7-6698-4caf-b9b2-f0247c4ef0fc
 ----------------------------------------
 
 ### Element 55 ###
 tag: h3
 text: Поддержка 24/7
-node_id: 3849539f-f75b-4a02-9d41-ce49d6000e07
+node_id: 9cd789ca-fde4-4d22-8b61-ba8da2fe0445
 path: body > main > section.features > div.features-grid > article.feature > h3
 children count: 0
 parent: article
@@ -2885,17 +2885,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='article', text='Поддержка 24/7
-            Мы ...', children=3, parent='div', id='373d544d-0e71-442a-ae31-ace6ed3e13c7')
+            Мы ...', children=3, parent='div', id='50f94666-3a71-450f-9e7d-4e57aab79de3')
 children: []
 attributes: {}
 classes: []
-node_id: 3849539f-f75b-4a02-9d41-ce49d6000e07
+node_id: 9cd789ca-fde4-4d22-8b61-ba8da2fe0445
 ----------------------------------------
 
 ### Element 56 ###
 tag: p
 text: Мы всегда на связи.
-node_id: 8f6597b5-91c8-439d-a676-7f34ab05c553
+node_id: 5f692a2f-5e26-4ac8-9baa-997dc99c8a21
 path: body > main > section.features > div.features-grid > article.feature > p.muted
 children count: 0
 parent: article
@@ -2931,18 +2931,18 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='article', text='Поддержка 24/7
-            Мы ...', children=3, parent='div', id='373d544d-0e71-442a-ae31-ace6ed3e13c7')
+            Мы ...', children=3, parent='div', id='50f94666-3a71-450f-9e7d-4e57aab79de3')
 children: []
 attributes: {}
 classes: ['muted']
-node_id: 8f6597b5-91c8-439d-a676-7f34ab05c553
+node_id: 5f692a2f-5e26-4ac8-9baa-997dc99c8a21
 ----------------------------------------
 
 ### Element 57 ###
 tag: article
 text: Быстрые переводы
             Переводы внутри банка — мгновенно.
-node_id: 93ff3706-05f6-4fcf-95e8-a03488a64e65
+node_id: 670b4bec-1819-4a8e-9232-e2a0f08df24f
 path: body > main > section.features > div.features-grid > article.feature
 children count: 3
 parent: div
@@ -2979,17 +2979,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='div', text='Безопасность
-            Ваши ...', children=3, parent='section', id='af0e147a-b763-4ae6-99d1-8870193c40c4')
-children: [ElementNode(tag='img', text='', children=0, parent='article', id='11e91b76-3427-426a-8d16-161df97fcc4a'), ElementNode(tag='h3', text='Быстрые переводы', children=0, parent='article', id='cc4a125c-ba0c-4076-95e8-db45744d5c4b'), ElementNode(tag='p', text='Переводы внутри банка — мгнове...', children=0, parent='article', id='a19b06e8-382c-495c-a672-d512bba723f2')]
+            Ваши ...', children=3, parent='section', id='26a8f15a-eb4e-4e73-8aac-358b25a76ef5')
+children: [ElementNode(tag='img', text='', children=0, parent='article', id='f0b4a358-c3c7-4b87-af32-77cb90e23e82'), ElementNode(tag='h3', text='Быстрые переводы', children=0, parent='article', id='2db4d59b-6bd5-43ad-ac42-35c6cfadc3fa'), ElementNode(tag='p', text='Переводы внутри банка — мгнове...', children=0, parent='article', id='bc38b08d-489f-42dc-a0fe-19b7eee75df1')]
 attributes: {}
 classes: ['feature']
-node_id: 93ff3706-05f6-4fcf-95e8-a03488a64e65
+node_id: 670b4bec-1819-4a8e-9232-e2a0f08df24f
 ----------------------------------------
 
 ### Element 58 ###
 tag: img
 text: 
-node_id: 11e91b76-3427-426a-8d16-161df97fcc4a
+node_id: f0b4a358-c3c7-4b87-af32-77cb90e23e82
 path: body > main > section.features > div.features-grid > article.feature > img
 children count: 0
 parent: article
@@ -3025,17 +3025,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='article', text='Быстрые переводы
-            П...', children=3, parent='div', id='93ff3706-05f6-4fcf-95e8-a03488a64e65')
+            П...', children=3, parent='div', id='670b4bec-1819-4a8e-9232-e2a0f08df24f')
 children: []
 attributes: {'src': './lightning.png', 'alt': ''}
 classes: []
-node_id: 11e91b76-3427-426a-8d16-161df97fcc4a
+node_id: f0b4a358-c3c7-4b87-af32-77cb90e23e82
 ----------------------------------------
 
 ### Element 59 ###
 tag: h3
 text: Быстрые переводы
-node_id: cc4a125c-ba0c-4076-95e8-db45744d5c4b
+node_id: 2db4d59b-6bd5-43ad-ac42-35c6cfadc3fa
 path: body > main > section.features > div.features-grid > article.feature > h3
 children count: 0
 parent: article
@@ -3071,17 +3071,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='article', text='Быстрые переводы
-            П...', children=3, parent='div', id='93ff3706-05f6-4fcf-95e8-a03488a64e65')
+            П...', children=3, parent='div', id='670b4bec-1819-4a8e-9232-e2a0f08df24f')
 children: []
 attributes: {}
 classes: []
-node_id: cc4a125c-ba0c-4076-95e8-db45744d5c4b
+node_id: 2db4d59b-6bd5-43ad-ac42-35c6cfadc3fa
 ----------------------------------------
 
 ### Element 60 ###
 tag: p
 text: Переводы внутри банка — мгновенно.
-node_id: a19b06e8-382c-495c-a672-d512bba723f2
+node_id: bc38b08d-489f-42dc-a0fe-19b7eee75df1
 path: body > main > section.features > div.features-grid > article.feature > p.muted
 children count: 0
 parent: article
@@ -3117,11 +3117,11 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='article', text='Быстрые переводы
-            П...', children=3, parent='div', id='93ff3706-05f6-4fcf-95e8-a03488a64e65')
+            П...', children=3, parent='div', id='670b4bec-1819-4a8e-9232-e2a0f08df24f')
 children: []
 attributes: {}
 classes: ['muted']
-node_id: a19b06e8-382c-495c-a672-d512bba723f2
+node_id: bc38b08d-489f-42dc-a0fe-19b7eee75df1
 ----------------------------------------
 
 ### Element 61 ###
@@ -3130,7 +3130,7 @@ text: Курсы валют
       
         USD76.23
         EUR82.10
-node_id: ab3e4e5d-bb0c-48c3-aace-adfb4e635fb5
+node_id: 47b07a94-32c2-4879-a2c7-8c14e46582e5
 path: body > main > section.rates
 children count: 2
 parent: main
@@ -3168,18 +3168,18 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='main', text='Онлайн-банк для бизнеса и част...', children=5, parent='body', id='b03e9fe0-341a-41b2-b862-7be11a100e7b')
-children: [ElementNode(tag='h2', text='Курсы валют', children=0, parent='section', id='838f3d10-939f-4b0a-a091-28486ef84bcf'), ElementNode(tag='table', text='USD76.23
-        EUR82.10', children=2, parent='section', id='af1b7804-d280-4d27-bff4-aa4d0b4c2e98')]
+parent: ElementNode(tag='main', text='Онлайн-банк для бизнеса и част...', children=5, parent='body', id='fdde9978-7e9d-4f20-a4a6-cc005d229111')
+children: [ElementNode(tag='h2', text='Курсы валют', children=0, parent='section', id='ab6c27a3-0bc5-4ad4-8fe8-a418e9c928e7'), ElementNode(tag='table', text='USD76.23
+        EUR82.10', children=2, parent='section', id='14f794be-88aa-4a91-93dc-e84471f1658b')]
 attributes: {}
 classes: ['rates']
-node_id: ab3e4e5d-bb0c-48c3-aace-adfb4e635fb5
+node_id: 47b07a94-32c2-4879-a2c7-8c14e46582e5
 ----------------------------------------
 
 ### Element 62 ###
 tag: h2
 text: Курсы валют
-node_id: 838f3d10-939f-4b0a-a091-28486ef84bcf
+node_id: ab6c27a3-0bc5-4ad4-8fe8-a418e9c928e7
 path: body > main > section.rates > h2
 children count: 0
 parent: section
@@ -3216,18 +3216,18 @@ media: None
 dom_path: None
 parent: ElementNode(tag='section', text='Курсы валют
       
-        USD...', children=2, parent='main', id='ab3e4e5d-bb0c-48c3-aace-adfb4e635fb5')
+        USD...', children=2, parent='main', id='47b07a94-32c2-4879-a2c7-8c14e46582e5')
 children: []
 attributes: {}
 classes: []
-node_id: 838f3d10-939f-4b0a-a091-28486ef84bcf
+node_id: ab6c27a3-0bc5-4ad4-8fe8-a418e9c928e7
 ----------------------------------------
 
 ### Element 63 ###
 tag: table
 text: USD76.23
         EUR82.10
-node_id: af1b7804-d280-4d27-bff4-aa4d0b4c2e98
+node_id: 14f794be-88aa-4a91-93dc-e84471f1658b
 path: body > main > section.rates > table
 children count: 2
 parent: section
@@ -3265,17 +3265,17 @@ media: None
 dom_path: None
 parent: ElementNode(tag='section', text='Курсы валют
       
-        USD...', children=2, parent='main', id='ab3e4e5d-bb0c-48c3-aace-adfb4e635fb5')
-children: [ElementNode(tag='tr', text='USD76.23', children=2, parent='table', id='a0391c0e-12c0-430c-85de-a3dd885b3f81'), ElementNode(tag='tr', text='EUR82.10', children=2, parent='table', id='ba665f33-c13d-4fb7-bde6-d8d8249af1ae')]
+        USD...', children=2, parent='main', id='47b07a94-32c2-4879-a2c7-8c14e46582e5')
+children: [ElementNode(tag='tr', text='USD76.23', children=2, parent='table', id='4e3227fd-0b58-42a4-ba3f-b48286cde69f'), ElementNode(tag='tr', text='EUR82.10', children=2, parent='table', id='fe416b88-69d6-47d7-996e-98231fa1ada5')]
 attributes: {}
 classes: []
-node_id: af1b7804-d280-4d27-bff4-aa4d0b4c2e98
+node_id: 14f794be-88aa-4a91-93dc-e84471f1658b
 ----------------------------------------
 
 ### Element 64 ###
 tag: tr
 text: USD76.23
-node_id: a0391c0e-12c0-430c-85de-a3dd885b3f81
+node_id: 4e3227fd-0b58-42a4-ba3f-b48286cde69f
 path: body > main > section.rates > table > tr
 children count: 2
 parent: table
@@ -3311,17 +3311,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='table', text='USD76.23
-        EUR82.10', children=2, parent='section', id='af1b7804-d280-4d27-bff4-aa4d0b4c2e98')
-children: [ElementNode(tag='td', text='USD', children=0, parent='tr', id='43f3e144-34f1-4161-a0e1-76a3aa1f28ec'), ElementNode(tag='td', text='76.23', children=0, parent='tr', id='9ee95e29-f324-4e0e-8f5d-d84c702e4c9c')]
+        EUR82.10', children=2, parent='section', id='14f794be-88aa-4a91-93dc-e84471f1658b')
+children: [ElementNode(tag='td', text='USD', children=0, parent='tr', id='715e3e8c-07b2-4d29-bba9-ef76f1b7e1fd'), ElementNode(tag='td', text='76.23', children=0, parent='tr', id='eb124282-1a49-44c1-9999-baa0a49910a3')]
 attributes: {}
 classes: []
-node_id: a0391c0e-12c0-430c-85de-a3dd885b3f81
+node_id: 4e3227fd-0b58-42a4-ba3f-b48286cde69f
 ----------------------------------------
 
 ### Element 65 ###
 tag: td
 text: USD
-node_id: 43f3e144-34f1-4161-a0e1-76a3aa1f28ec
+node_id: 715e3e8c-07b2-4d29-bba9-ef76f1b7e1fd
 path: body > main > section.rates > table > tr > td
 children count: 0
 parent: tr
@@ -3356,17 +3356,17 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='tr', text='USD76.23', children=2, parent='table', id='a0391c0e-12c0-430c-85de-a3dd885b3f81')
+parent: ElementNode(tag='tr', text='USD76.23', children=2, parent='table', id='4e3227fd-0b58-42a4-ba3f-b48286cde69f')
 children: []
 attributes: {}
 classes: []
-node_id: 43f3e144-34f1-4161-a0e1-76a3aa1f28ec
+node_id: 715e3e8c-07b2-4d29-bba9-ef76f1b7e1fd
 ----------------------------------------
 
 ### Element 66 ###
 tag: td
 text: 76.23
-node_id: 9ee95e29-f324-4e0e-8f5d-d84c702e4c9c
+node_id: eb124282-1a49-44c1-9999-baa0a49910a3
 path: body > main > section.rates > table > tr > td
 children count: 0
 parent: tr
@@ -3401,17 +3401,17 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='tr', text='USD76.23', children=2, parent='table', id='a0391c0e-12c0-430c-85de-a3dd885b3f81')
+parent: ElementNode(tag='tr', text='USD76.23', children=2, parent='table', id='4e3227fd-0b58-42a4-ba3f-b48286cde69f')
 children: []
 attributes: {}
 classes: []
-node_id: 9ee95e29-f324-4e0e-8f5d-d84c702e4c9c
+node_id: eb124282-1a49-44c1-9999-baa0a49910a3
 ----------------------------------------
 
 ### Element 67 ###
 tag: tr
 text: EUR82.10
-node_id: ba665f33-c13d-4fb7-bde6-d8d8249af1ae
+node_id: fe416b88-69d6-47d7-996e-98231fa1ada5
 path: body > main > section.rates > table > tr
 children count: 2
 parent: table
@@ -3447,17 +3447,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='table', text='USD76.23
-        EUR82.10', children=2, parent='section', id='af1b7804-d280-4d27-bff4-aa4d0b4c2e98')
-children: [ElementNode(tag='td', text='EUR', children=0, parent='tr', id='df044bfe-3604-4e2a-b190-95608509d8d4'), ElementNode(tag='td', text='82.10', children=0, parent='tr', id='81a378eb-f48d-4128-9b6a-319d8431771e')]
+        EUR82.10', children=2, parent='section', id='14f794be-88aa-4a91-93dc-e84471f1658b')
+children: [ElementNode(tag='td', text='EUR', children=0, parent='tr', id='a319c838-0997-4dda-a56a-a26c319d0de7'), ElementNode(tag='td', text='82.10', children=0, parent='tr', id='bedbd5f1-8c79-4862-bd57-3f0490e270d9')]
 attributes: {}
 classes: []
-node_id: ba665f33-c13d-4fb7-bde6-d8d8249af1ae
+node_id: fe416b88-69d6-47d7-996e-98231fa1ada5
 ----------------------------------------
 
 ### Element 68 ###
 tag: td
 text: EUR
-node_id: df044bfe-3604-4e2a-b190-95608509d8d4
+node_id: a319c838-0997-4dda-a56a-a26c319d0de7
 path: body > main > section.rates > table > tr > td
 children count: 0
 parent: tr
@@ -3492,17 +3492,17 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='tr', text='EUR82.10', children=2, parent='table', id='ba665f33-c13d-4fb7-bde6-d8d8249af1ae')
+parent: ElementNode(tag='tr', text='EUR82.10', children=2, parent='table', id='fe416b88-69d6-47d7-996e-98231fa1ada5')
 children: []
 attributes: {}
 classes: []
-node_id: df044bfe-3604-4e2a-b190-95608509d8d4
+node_id: a319c838-0997-4dda-a56a-a26c319d0de7
 ----------------------------------------
 
 ### Element 69 ###
 tag: td
 text: 82.10
-node_id: 81a378eb-f48d-4128-9b6a-319d8431771e
+node_id: bedbd5f1-8c79-4862-bd57-3f0490e270d9
 path: body > main > section.rates > table > tr > td
 children count: 0
 parent: tr
@@ -3537,11 +3537,11 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='tr', text='EUR82.10', children=2, parent='table', id='ba665f33-c13d-4fb7-bde6-d8d8249af1ae')
+parent: ElementNode(tag='tr', text='EUR82.10', children=2, parent='table', id='fe416b88-69d6-47d7-996e-98231fa1ada5')
 children: []
 attributes: {}
 classes: []
-node_id: 81a378eb-f48d-4128-9b6a-319d8431771e
+node_id: bedbd5f1-8c79-4862-bd57-3f0490e270d9
 ----------------------------------------
 
 ### Element 70 ###
@@ -3550,7 +3550,7 @@ text: Новости
       
         Новый тариф для VIP-клиентов
         Узнайте подробности
-node_id: 48237e57-d835-41c3-9da1-a700af84bd83
+node_id: 0739342d-3f06-441f-993d-b77b18d83e3f
 path: body > main > section.news
 children count: 2
 parent: main
@@ -3588,18 +3588,18 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='main', text='Онлайн-банк для бизнеса и част...', children=5, parent='body', id='b03e9fe0-341a-41b2-b862-7be11a100e7b')
-children: [ElementNode(tag='h2', text='Новости', children=0, parent='section', id='b801621a-ee96-489b-ba59-b12ec4b5c4e5'), ElementNode(tag='article', text='Новый тариф для VIP-клиентов
- ...', children=2, parent='section', id='df235484-510c-4445-af3b-62242090b429')]
+parent: ElementNode(tag='main', text='Онлайн-банк для бизнеса и част...', children=5, parent='body', id='fdde9978-7e9d-4f20-a4a6-cc005d229111')
+children: [ElementNode(tag='h2', text='Новости', children=0, parent='section', id='3a43e579-3103-4008-bbbb-88ffb7eec22e'), ElementNode(tag='article', text='Новый тариф для VIP-клиентов
+ ...', children=2, parent='section', id='06987e57-96d5-4c94-82d5-d85d4983cee5')]
 attributes: {}
 classes: ['news']
-node_id: 48237e57-d835-41c3-9da1-a700af84bd83
+node_id: 0739342d-3f06-441f-993d-b77b18d83e3f
 ----------------------------------------
 
 ### Element 71 ###
 tag: h2
 text: Новости
-node_id: b801621a-ee96-489b-ba59-b12ec4b5c4e5
+node_id: 3a43e579-3103-4008-bbbb-88ffb7eec22e
 path: body > main > section.news > h2
 children count: 0
 parent: section
@@ -3636,18 +3636,18 @@ media: None
 dom_path: None
 parent: ElementNode(tag='section', text='Новости
       
-        Новый т...', children=2, parent='main', id='48237e57-d835-41c3-9da1-a700af84bd83')
+        Новый т...', children=2, parent='main', id='0739342d-3f06-441f-993d-b77b18d83e3f')
 children: []
 attributes: {}
 classes: []
-node_id: b801621a-ee96-489b-ba59-b12ec4b5c4e5
+node_id: 3a43e579-3103-4008-bbbb-88ffb7eec22e
 ----------------------------------------
 
 ### Element 72 ###
 tag: article
 text: Новый тариф для VIP-клиентов
         Узнайте подробности
-node_id: df235484-510c-4445-af3b-62242090b429
+node_id: 06987e57-96d5-4c94-82d5-d85d4983cee5
 path: body > main > section.news > article
 children count: 2
 parent: section
@@ -3685,17 +3685,17 @@ media: None
 dom_path: None
 parent: ElementNode(tag='section', text='Новости
       
-        Новый т...', children=2, parent='main', id='48237e57-d835-41c3-9da1-a700af84bd83')
-children: [ElementNode(tag='h3', text='Новый тариф для VIP-клиентов', children=0, parent='article', id='724bd75b-e670-43f3-bb2d-7d31e98b68e3'), ElementNode(tag='p', text='Узнайте подробности', children=1, parent='article', id='0cd45cda-722b-4b87-aed2-5e3a620cda07')]
+        Новый т...', children=2, parent='main', id='0739342d-3f06-441f-993d-b77b18d83e3f')
+children: [ElementNode(tag='h3', text='Новый тариф для VIP-клиентов', children=0, parent='article', id='3ac578d2-9b5b-4fe2-bd03-e547fee51bf3'), ElementNode(tag='p', text='Узнайте подробности', children=1, parent='article', id='00a4a1b8-00b0-4fbb-b363-395c5652603b')]
 attributes: {}
 classes: []
-node_id: df235484-510c-4445-af3b-62242090b429
+node_id: 06987e57-96d5-4c94-82d5-d85d4983cee5
 ----------------------------------------
 
 ### Element 73 ###
 tag: h3
 text: Новый тариф для VIP-клиентов
-node_id: 724bd75b-e670-43f3-bb2d-7d31e98b68e3
+node_id: 3ac578d2-9b5b-4fe2-bd03-e547fee51bf3
 path: body > main > section.news > article > h3
 children count: 0
 parent: article
@@ -3731,17 +3731,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='article', text='Новый тариф для VIP-клиентов
- ...', children=2, parent='section', id='df235484-510c-4445-af3b-62242090b429')
+ ...', children=2, parent='section', id='06987e57-96d5-4c94-82d5-d85d4983cee5')
 children: []
 attributes: {}
 classes: []
-node_id: 724bd75b-e670-43f3-bb2d-7d31e98b68e3
+node_id: 3ac578d2-9b5b-4fe2-bd03-e547fee51bf3
 ----------------------------------------
 
 ### Element 74 ###
 tag: p
 text: Узнайте подробности
-node_id: 0cd45cda-722b-4b87-aed2-5e3a620cda07
+node_id: 00a4a1b8-00b0-4fbb-b363-395c5652603b
 path: body > main > section.news > article > p.muted
 children count: 1
 parent: article
@@ -3777,17 +3777,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='article', text='Новый тариф для VIP-клиентов
- ...', children=2, parent='section', id='df235484-510c-4445-af3b-62242090b429')
-children: [ElementNode(tag='a', text='', children=0, parent='p', id='835fdb26-27b5-449c-98a5-577a23a23727')]
+ ...', children=2, parent='section', id='06987e57-96d5-4c94-82d5-d85d4983cee5')
+children: [ElementNode(tag='a', text='', children=0, parent='p', id='7dd2ef18-7c07-4d63-a87a-4c345be0b321')]
 attributes: {}
 classes: ['muted']
-node_id: 0cd45cda-722b-4b87-aed2-5e3a620cda07
+node_id: 00a4a1b8-00b0-4fbb-b363-395c5652603b
 ----------------------------------------
 
 ### Element 75 ###
 tag: a
 text: 
-node_id: 835fdb26-27b5-449c-98a5-577a23a23727
+node_id: 7dd2ef18-7c07-4d63-a87a-4c345be0b321
 path: body > main > section.news > article > p.muted > a
 children count: 0
 parent: p
@@ -3822,11 +3822,11 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='p', text='Узнайте подробности', children=1, parent='article', id='0cd45cda-722b-4b87-aed2-5e3a620cda07')
+parent: ElementNode(tag='p', text='Узнайте подробности', children=1, parent='article', id='00a4a1b8-00b0-4fbb-b363-395c5652603b')
 children: []
 attributes: {'href': '#'}
 classes: []
-node_id: 835fdb26-27b5-449c-98a5-577a23a23727
+node_id: 7dd2ef18-7c07-4d63-a87a-4c345be0b321
 ----------------------------------------
 
 ### Element 76 ###
@@ -3834,7 +3834,7 @@ tag: section
 text: Полезные сервисы
       Инструмент онлайн 
       Связаться с нами
-node_id: 1fbaa7bf-1aed-419c-8cd3-c6b45de46966
+node_id: 0cc04c8e-afb4-4155-84d2-7a5451957460
 path: body > main > section.services
 children count: 3
 parent: main
@@ -3871,17 +3871,17 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='main', text='Онлайн-банк для бизнеса и част...', children=5, parent='body', id='b03e9fe0-341a-41b2-b862-7be11a100e7b')
-children: [ElementNode(tag='h2', text='Полезные сервисы', children=0, parent='section', id='04a579aa-aba6-4355-9698-f4cb978799e2'), ElementNode(tag='div', text='Инструмент онлайн', children=0, parent='section', id='035dd45d-6d9b-4f6c-a261-76e59dd292e2'), ElementNode(tag='a', text='Связаться с нами', children=0, parent='section', id='201088f1-2ab4-472f-a1b8-0ab7ef15cb8b')]
+parent: ElementNode(tag='main', text='Онлайн-банк для бизнеса и част...', children=5, parent='body', id='fdde9978-7e9d-4f20-a4a6-cc005d229111')
+children: [ElementNode(tag='h2', text='Полезные сервисы', children=0, parent='section', id='9a200cb7-e969-4c2d-819b-34eb21c4c7b1'), ElementNode(tag='div', text='Инструмент онлайн', children=0, parent='section', id='96c04c9c-c96c-4885-9d37-2b623ae2e3d9'), ElementNode(tag='a', text='Связаться с нами', children=0, parent='section', id='361595aa-ea05-4945-814c-82dc51b3cf96')]
 attributes: {}
 classes: ['services']
-node_id: 1fbaa7bf-1aed-419c-8cd3-c6b45de46966
+node_id: 0cc04c8e-afb4-4155-84d2-7a5451957460
 ----------------------------------------
 
 ### Element 77 ###
 tag: h2
 text: Полезные сервисы
-node_id: 04a579aa-aba6-4355-9698-f4cb978799e2
+node_id: 9a200cb7-e969-4c2d-819b-34eb21c4c7b1
 path: body > main > section.services > h2
 children count: 0
 parent: section
@@ -3917,17 +3917,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='section', text='Полезные сервисы
-      Инструм...', children=3, parent='main', id='1fbaa7bf-1aed-419c-8cd3-c6b45de46966')
+      Инструм...', children=3, parent='main', id='0cc04c8e-afb4-4155-84d2-7a5451957460')
 children: []
 attributes: {}
 classes: []
-node_id: 04a579aa-aba6-4355-9698-f4cb978799e2
+node_id: 9a200cb7-e969-4c2d-819b-34eb21c4c7b1
 ----------------------------------------
 
 ### Element 78 ###
 tag: div
 text: Инструмент онлайн
-node_id: 035dd45d-6d9b-4f6c-a261-76e59dd292e2
+node_id: 96c04c9c-c96c-4885-9d37-2b623ae2e3d9
 path: body > main > section.services > div.flat-card
 children count: 0
 parent: section
@@ -3963,17 +3963,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='section', text='Полезные сервисы
-      Инструм...', children=3, parent='main', id='1fbaa7bf-1aed-419c-8cd3-c6b45de46966')
+      Инструм...', children=3, parent='main', id='0cc04c8e-afb4-4155-84d2-7a5451957460')
 children: []
 attributes: {'role': 'button'}
 classes: ['flat-card']
-node_id: 035dd45d-6d9b-4f6c-a261-76e59dd292e2
+node_id: 96c04c9c-c96c-4885-9d37-2b623ae2e3d9
 ----------------------------------------
 
 ### Element 79 ###
 tag: a
 text: Связаться с нами
-node_id: 201088f1-2ab4-472f-a1b8-0ab7ef15cb8b
+node_id: 361595aa-ea05-4945-814c-82dc51b3cf96
 path: body > main > section.services > a
 children count: 0
 parent: section
@@ -4009,17 +4009,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='section', text='Полезные сервисы
-      Инструм...', children=3, parent='main', id='1fbaa7bf-1aed-419c-8cd3-c6b45de46966')
+      Инструм...', children=3, parent='main', id='0cc04c8e-afb4-4155-84d2-7a5451957460')
 children: []
 attributes: {'href': '#contacts', 'tabindex': '-1'}
 classes: []
-node_id: 201088f1-2ab4-472f-a1b8-0ab7ef15cb8b
+node_id: 361595aa-ea05-4945-814c-82dc51b3cf96
 ----------------------------------------
 
 ### Element 80 ###
 tag: footer
 text: © 1890–2025 Банк Пример
-node_id: 7c8ce9d5-4a5b-4c4e-8e58-c6d032389324
+node_id: 82ceea35-77be-47ba-adfb-6f414b168bff
 path: body > footer
 children count: 2
 parent: body
@@ -4055,17 +4055,17 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='body', text='Банк Пример
-        Надёжный б...', children=4, parent='None', id='b68743c9-808c-4e16-86f6-b0c7c8affebd')
-children: [ElementNode(tag='p', text='© 1890–2025 Банк Пример', children=0, parent='footer', id='7a9a8ba6-080b-4d8f-ad60-6f04f9f7496c'), ElementNode(tag='a', text='', children=0, parent='footer', id='f0a0e0aa-2ceb-4c03-9348-21a7278b5c7b')]
+        Надёжный б...', children=4, parent='None', id='d50e4eb6-070a-4bc6-9076-979515c5e159')
+children: [ElementNode(tag='p', text='© 1890–2025 Банк Пример', children=0, parent='footer', id='0359f588-3b7e-4dd5-9edb-f71c58a6a535'), ElementNode(tag='a', text='', children=0, parent='footer', id='cab01ac2-1868-4ee8-a8f8-e860ea75a873')]
 attributes: {}
 classes: []
-node_id: 7c8ce9d5-4a5b-4c4e-8e58-c6d032389324
+node_id: 82ceea35-77be-47ba-adfb-6f414b168bff
 ----------------------------------------
 
 ### Element 81 ###
 tag: p
 text: © 1890–2025 Банк Пример
-node_id: 7a9a8ba6-080b-4d8f-ad60-6f04f9f7496c
+node_id: 0359f588-3b7e-4dd5-9edb-f71c58a6a535
 path: body > footer > p
 children count: 0
 parent: footer
@@ -4100,17 +4100,17 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='footer', text='© 1890–2025 Банк Пример', children=2, parent='body', id='7c8ce9d5-4a5b-4c4e-8e58-c6d032389324')
+parent: ElementNode(tag='footer', text='© 1890–2025 Банк Пример', children=2, parent='body', id='82ceea35-77be-47ba-adfb-6f414b168bff')
 children: []
 attributes: {}
 classes: []
-node_id: 7a9a8ba6-080b-4d8f-ad60-6f04f9f7496c
+node_id: 0359f588-3b7e-4dd5-9edb-f71c58a6a535
 ----------------------------------------
 
 ### Element 82 ###
 tag: a
 text: 
-node_id: f0a0e0aa-2ceb-4c03-9348-21a7278b5c7b
+node_id: cab01ac2-1868-4ee8-a8f8-e860ea75a873
 path: body > footer > a
 children count: 0
 parent: footer
@@ -4145,17 +4145,17 @@ interaction: None
 form: None
 media: None
 dom_path: None
-parent: ElementNode(tag='footer', text='© 1890–2025 Банк Пример', children=2, parent='body', id='7c8ce9d5-4a5b-4c4e-8e58-c6d032389324')
+parent: ElementNode(tag='footer', text='© 1890–2025 Банк Пример', children=2, parent='body', id='82ceea35-77be-47ba-adfb-6f414b168bff')
 children: []
 attributes: {'href': '/help', 'aria-hidden': 'true'}
 classes: []
-node_id: f0a0e0aa-2ceb-4c03-9348-21a7278b5c7b
+node_id: cab01ac2-1868-4ee8-a8f8-e860ea75a873
 ----------------------------------------
 
 ### Element 83 ###
 tag: div
 text: Сервер обновлён
-node_id: b2f00411-9538-4e10-af55-4c42310cdf9f
+node_id: 1d21364e-5b59-43a2-ac0c-ced0fcb5bdea
 path: body > div
 children count: 0
 parent: body
@@ -4191,9 +4191,9 @@ form: None
 media: None
 dom_path: None
 parent: ElementNode(tag='body', text='Банк Пример
-        Надёжный б...', children=4, parent='None', id='b68743c9-808c-4e16-86f6-b0c7c8affebd')
+        Надёжный б...', children=4, parent='None', id='d50e4eb6-070a-4bc6-9076-979515c5e159')
 children: []
 attributes: {'hidden': '', 'role': 'status', 'aria-live': 'polite'}
 classes: []
-node_id: b2f00411-9538-4e10-af55-4c42310cdf9f
+node_id: 1d21364e-5b59-43a2-ac0c-ced0fcb5bdea
 ----------------------------------------
