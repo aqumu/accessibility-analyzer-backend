@@ -210,7 +210,7 @@ async def test_real_json_save_from_live_site():
     """
     Тест парсинга реального сайта с сохранением древовидной структуры.
     """
-    live_url = "https://www.yahoo.com/"
+    live_url = "https://www.nasa.gov"
     output_dir = Path("test_output")
     output_dir.mkdir(exist_ok=True)
 
