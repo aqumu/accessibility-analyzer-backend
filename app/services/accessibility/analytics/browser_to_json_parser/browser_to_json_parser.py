@@ -142,7 +142,7 @@ async def parse_url(url: str, selectors: list[str] | None = None) -> dict | None
                 except Exception as e:
                     print(f"Element parsing error: {e}")
                     continue
-
+    #
         return result
 
     except Exception as e:
