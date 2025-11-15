@@ -1,0 +1,921 @@
+{
+  "meta": {
+    "url": "https://hack-mock-bank.vercel.app/",
+    "title": "Банк Пример — главная",
+    "lang": null,
+    "charset": "UTF-8"
+  },
+  "elements": [
+    {
+      "tag": "img",
+      "id": null,
+      "classes": [],
+      "role": null,
+      "text": "",
+      "html": "<img src=\"/images/logo-bank.svg\" alt=\"\">",
+      "attributes": {
+        "src": "/images/logo-bank.svg",
+        "alt": null,
+        "aria-label": null,
+        "aria-hidden": null,
+        "tabindex": null,
+        "href": null,
+        "for": null,
+        "type": null,
+        "placeholder": null
+      },
+      "computedStyles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "25.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "opacity": "1",
+        "visibility": "visible",
+        "contrastWithBackground": null
+      },
+      "box": {
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "left": 0
+      },
+      "interactivity": {
+        "focusable": false,
+        "keyboardAccessible": false,
+        "tabIndexOrder": null
+      },
+      "accessibility": {
+        "name": null,
+        "description": null,
+        "role": "img",
+        "isInteractive": false
+      },
+      "tree": {
+        "depth": 4,
+        "parentTag": "div",
+        "childrenTags": []
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "classes": [],
+      "role": null,
+      "text": "Продукты",
+      "html": "<a href=\"#products\">Продукты</a>",
+      "attributes": {
+        "src": null,
+        "alt": null,
+        "aria-label": null,
+        "aria-hidden": null,
+        "tabindex": null,
+        "href": "#products",
+        "for": null,
+        "type": null,
+        "placeholder": null
+      },
+      "computedStyles": {
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "lineHeight": "25.6px",
+        "color": "rgba(255, 255, 255, 0.9)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "inline",
+        "position": "static",
+        "opacity": "1",
+        "visibility": "visible",
+        "contrastWithBackground": null
+      },
+      "box": {
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "left": 0
+      },
+      "interactivity": {
+        "focusable": true,
+        "keyboardAccessible": true,
+        "tabIndexOrder": null
+      },
+      "accessibility": {
+        "name": null,
+        "description": null,
+        "role": "a",
+        "isInteractive": true
+      },
+      "tree": {
+        "depth": 4,
+        "parentTag": "nav",
+        "childrenTags": []
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "classes": [],
+      "role": null,
+      "text": "О банке",
+      "html": "<a href=\"#about\">О банке</a>",
+      "attributes": {
+        "src": null,
+        "alt": null,
+        "aria-label": null,
+        "aria-hidden": null,
+        "tabindex": null,
+        "href": "#about",
+        "for": null,
+        "type": null,
+        "placeholder": null
+      },
+      "computedStyles": {
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "lineHeight": "25.6px",
+        "color": "rgba(255, 255, 255, 0.9)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "inline",
+        "position": "static",
+        "opacity": "1",
+        "visibility": "visible",
+        "contrastWithBackground": null
+      },
+      "box": {
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "left": 0
+      },
+      "interactivity": {
+        "focusable": true,
+        "keyboardAccessible": true,
+        "tabIndexOrder": null
+      },
+      "accessibility": {
+        "name": null,
+        "description": null,
+        "role": "a",
+        "isInteractive": true
+      },
+      "tree": {
+        "depth": 4,
+        "parentTag": "nav",
+        "childrenTags": []
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "classes": [],
+      "role": null,
+      "text": "Контакты",
+      "html": "<a href=\"#contacts\">Контакты</a>",
+      "attributes": {
+        "src": null,
+        "alt": null,
+        "aria-label": null,
+        "aria-hidden": null,
+        "tabindex": null,
+        "href": "#contacts",
+        "for": null,
+        "type": null,
+        "placeholder": null
+      },
+      "computedStyles": {
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "lineHeight": "25.6px",
+        "color": "rgba(255, 255, 255, 0.9)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "inline",
+        "position": "static",
+        "opacity": "1",
+        "visibility": "visible",
+        "contrastWithBackground": null
+      },
+      "box": {
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "left": 0
+      },
+      "interactivity": {
+        "focusable": true,
+        "keyboardAccessible": true,
+        "tabIndexOrder": null
+      },
+      "accessibility": {
+        "name": null,
+        "description": null,
+        "role": "a",
+        "isInteractive": true
+      },
+      "tree": {
+        "depth": 4,
+        "parentTag": "nav",
+        "childrenTags": []
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "classes": [
+        "empty-link"
+      ],
+      "role": null,
+      "text": "",
+      "html": "<a href=\"#\" class=\"empty-link\"></a>",
+      "attributes": {
+        "src": null,
+        "alt": null,
+        "aria-label": null,
+        "aria-hidden": null,
+        "tabindex": null,
+        "href": "#",
+        "for": null,
+        "type": null,
+        "placeholder": null
+      },
+      "computedStyles": {
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "lineHeight": "25.6px",
+        "color": "rgba(255, 255, 255, 0.9)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "inline",
+        "position": "static",
+        "opacity": "1",
+        "visibility": "visible",
+        "contrastWithBackground": null
+      },
+      "box": {
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "left": 0
+      },
+      "interactivity": {
+        "focusable": true,
+        "keyboardAccessible": true,
+        "tabIndexOrder": null
+      },
+      "accessibility": {
+        "name": null,
+        "description": null,
+        "role": "a",
+        "isInteractive": true
+      },
+      "tree": {
+        "depth": 4,
+        "parentTag": "nav",
+        "childrenTags": []
+      }
+    },
+    {
+      "tag": "button",
+      "id": null,
+      "classes": [
+        "btn"
+      ],
+      "role": null,
+      "text": "",
+      "html": "<button class=\"btn\" aria-hidden=\"true\"></button>",
+      "attributes": {
+        "src": null,
+        "alt": null,
+        "aria-label": null,
+        "aria-hidden": "true",
+        "tabindex": null,
+        "href": null,
+        "for": null,
+        "type": null,
+        "placeholder": null
+      },
+      "computedStyles": {
+        "fontSize": "13.3333px",
+        "fontWeight": "600",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(27, 115, 232)",
+        "display": "block",
+        "position": "static",
+        "opacity": "1",
+        "visibility": "visible",
+        "contrastWithBackground": null
+      },
+      "box": {
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "left": 0
+      },
+      "interactivity": {
+        "focusable": true,
+        "keyboardAccessible": true,
+        "tabIndexOrder": null
+      },
+      "accessibility": {
+        "name": null,
+        "description": null,
+        "role": "button",
+        "isInteractive": true
+      },
+      "tree": {
+        "depth": 6,
+        "parentTag": "div",
+        "childrenTags": []
+      }
+    },
+    {
+      "tag": "button",
+      "id": null,
+      "classes": [
+        "btn"
+      ],
+      "role": "link",
+      "text": "Открыть счёт",
+      "html": "<button class=\"btn\" role=\"link\">Открыть счёт</button>",
+      "attributes": {
+        "src": null,
+        "alt": null,
+        "aria-label": null,
+        "aria-hidden": null,
+        "tabindex": null,
+        "href": null,
+        "for": null,
+        "type": null,
+        "placeholder": null
+      },
+      "computedStyles": {
+        "fontSize": "13.3333px",
+        "fontWeight": "600",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(27, 115, 232)",
+        "display": "block",
+        "position": "static",
+        "opacity": "1",
+        "visibility": "visible",
+        "contrastWithBackground": null
+      },
+      "box": {
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "left": 0
+      },
+      "interactivity": {
+        "focusable": true,
+        "keyboardAccessible": true,
+        "tabIndexOrder": null
+      },
+      "accessibility": {
+        "name": null,
+        "description": null,
+        "role": "link",
+        "isInteractive": true
+      },
+      "tree": {
+        "depth": 6,
+        "parentTag": "div",
+        "childrenTags": []
+      }
+    },
+    {
+      "tag": "button",
+      "id": null,
+      "classes": [
+        "btn"
+      ],
+      "role": null,
+      "text": "Перевести",
+      "html": "<button class=\"btn\" tabindex=\"3\">Перевести</button>",
+      "attributes": {
+        "src": null,
+        "alt": null,
+        "aria-label": null,
+        "aria-hidden": null,
+        "tabindex": "3",
+        "href": null,
+        "for": null,
+        "type": null,
+        "placeholder": null
+      },
+      "computedStyles": {
+        "fontSize": "13.3333px",
+        "fontWeight": "600",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(27, 115, 232)",
+        "display": "block",
+        "position": "static",
+        "opacity": "1",
+        "visibility": "visible",
+        "contrastWithBackground": null
+      },
+      "box": {
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "left": 0
+      },
+      "interactivity": {
+        "focusable": true,
+        "keyboardAccessible": true,
+        "tabIndexOrder": 3
+      },
+      "accessibility": {
+        "name": null,
+        "description": null,
+        "role": "button",
+        "isInteractive": true
+      },
+      "tree": {
+        "depth": 6,
+        "parentTag": "div",
+        "childrenTags": []
+      }
+    },
+    {
+      "tag": "input",
+      "id": null,
+      "classes": [],
+      "role": null,
+      "text": "",
+      "html": "<input type=\"text\" name=\"user\" placeholder=\"Логин\">",
+      "attributes": {
+        "src": null,
+        "alt": null,
+        "aria-label": null,
+        "aria-hidden": null,
+        "tabindex": null,
+        "href": null,
+        "for": null,
+        "type": "text",
+        "placeholder": "Логин"
+      },
+      "computedStyles": {
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "display": "inline-block",
+        "position": "static",
+        "opacity": "1",
+        "visibility": "visible",
+        "contrastWithBackground": null
+      },
+      "box": {
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "left": 0
+      },
+      "interactivity": {
+        "focusable": true,
+        "keyboardAccessible": true,
+        "tabIndexOrder": null
+      },
+      "accessibility": {
+        "name": null,
+        "description": null,
+        "role": "input",
+        "isInteractive": true
+      },
+      "tree": {
+        "depth": 7,
+        "parentTag": "div",
+        "childrenTags": []
+      }
+    },
+    {
+      "tag": "input",
+      "id": null,
+      "classes": [],
+      "role": null,
+      "text": "",
+      "html": "<input type=\"password\" name=\"pass\" placeholder=\"Пароль\">",
+      "attributes": {
+        "src": null,
+        "alt": null,
+        "aria-label": null,
+        "aria-hidden": null,
+        "tabindex": null,
+        "href": null,
+        "for": null,
+        "type": "password",
+        "placeholder": "Пароль"
+      },
+      "computedStyles": {
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "display": "inline-block",
+        "position": "static",
+        "opacity": "1",
+        "visibility": "visible",
+        "contrastWithBackground": null
+      },
+      "box": {
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "left": 0
+      },
+      "interactivity": {
+        "focusable": true,
+        "keyboardAccessible": true,
+        "tabIndexOrder": null
+      },
+      "accessibility": {
+        "name": null,
+        "description": null,
+        "role": "input",
+        "isInteractive": true
+      },
+      "tree": {
+        "depth": 7,
+        "parentTag": "div",
+        "childrenTags": []
+      }
+    },
+    {
+      "tag": "button",
+      "id": null,
+      "classes": [
+        "btn-full"
+      ],
+      "role": null,
+      "text": "",
+      "html": "<button type=\"submit\" class=\"btn-full\"></button>",
+      "attributes": {
+        "src": null,
+        "alt": null,
+        "aria-label": null,
+        "aria-hidden": null,
+        "tabindex": null,
+        "href": null,
+        "for": null,
+        "type": "submit",
+        "placeholder": null
+      },
+      "computedStyles": {
+        "fontSize": "13.3333px",
+        "fontWeight": "700",
+        "lineHeight": "normal",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(27, 115, 232)",
+        "display": "inline-block",
+        "position": "static",
+        "opacity": "1",
+        "visibility": "visible",
+        "contrastWithBackground": null
+      },
+      "box": {
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "left": 0
+      },
+      "interactivity": {
+        "focusable": true,
+        "keyboardAccessible": true,
+        "tabIndexOrder": null
+      },
+      "accessibility": {
+        "name": null,
+        "description": null,
+        "role": "button",
+        "isInteractive": true
+      },
+      "tree": {
+        "depth": 6,
+        "parentTag": "form",
+        "childrenTags": []
+      }
+    },
+    {
+      "tag": "img",
+      "id": null,
+      "classes": [],
+      "role": null,
+      "text": "",
+      "html": "<img src=\"./lock.png\" alt=\"\">",
+      "attributes": {
+        "src": "./lock.png",
+        "alt": null,
+        "aria-label": null,
+        "aria-hidden": null,
+        "tabindex": null,
+        "href": null,
+        "for": null,
+        "type": null,
+        "placeholder": null
+      },
+      "computedStyles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "25.6px",
+        "color": "rgb(30, 42, 54)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "inline",
+        "position": "static",
+        "opacity": "1",
+        "visibility": "visible",
+        "contrastWithBackground": null
+      },
+      "box": {
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "left": 0
+      },
+      "interactivity": {
+        "focusable": false,
+        "keyboardAccessible": false,
+        "tabIndexOrder": null
+      },
+      "accessibility": {
+        "name": null,
+        "description": null,
+        "role": "img",
+        "isInteractive": false
+      },
+      "tree": {
+        "depth": 6,
+        "parentTag": "article",
+        "childrenTags": []
+      }
+    },
+    {
+      "tag": "img",
+      "id": null,
+      "classes": [],
+      "role": null,
+      "text": "",
+      "html": "<img src=\"./support.png\" alt=\"иконка\">",
+      "attributes": {
+        "src": "./support.png",
+        "alt": "иконка",
+        "aria-label": null,
+        "aria-hidden": null,
+        "tabindex": null,
+        "href": null,
+        "for": null,
+        "type": null,
+        "placeholder": null
+      },
+      "computedStyles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "25.6px",
+        "color": "rgb(30, 42, 54)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "inline",
+        "position": "static",
+        "opacity": "1",
+        "visibility": "visible",
+        "contrastWithBackground": null
+      },
+      "box": {
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "left": 0
+      },
+      "interactivity": {
+        "focusable": false,
+        "keyboardAccessible": false,
+        "tabIndexOrder": null
+      },
+      "accessibility": {
+        "name": null,
+        "description": null,
+        "role": "img",
+        "isInteractive": false
+      },
+      "tree": {
+        "depth": 6,
+        "parentTag": "article",
+        "childrenTags": []
+      }
+    },
+    {
+      "tag": "img",
+      "id": null,
+      "classes": [],
+      "role": null,
+      "text": "",
+      "html": "<img src=\"./lightning.png\" alt=\"\">",
+      "attributes": {
+        "src": "./lightning.png",
+        "alt": null,
+        "aria-label": null,
+        "aria-hidden": null,
+        "tabindex": null,
+        "href": null,
+        "for": null,
+        "type": null,
+        "placeholder": null
+      },
+      "computedStyles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "25.6px",
+        "color": "rgb(30, 42, 54)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "inline",
+        "position": "static",
+        "opacity": "1",
+        "visibility": "visible",
+        "contrastWithBackground": null
+      },
+      "box": {
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "left": 0
+      },
+      "interactivity": {
+        "focusable": false,
+        "keyboardAccessible": false,
+        "tabIndexOrder": null
+      },
+      "accessibility": {
+        "name": null,
+        "description": null,
+        "role": "img",
+        "isInteractive": false
+      },
+      "tree": {
+        "depth": 6,
+        "parentTag": "article",
+        "childrenTags": []
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "classes": [],
+      "role": null,
+      "text": "",
+      "html": "<a href=\"#\"></a>",
+      "attributes": {
+        "src": null,
+        "alt": null,
+        "aria-label": null,
+        "aria-hidden": null,
+        "tabindex": null,
+        "href": "#",
+        "for": null,
+        "type": null,
+        "placeholder": null
+      },
+      "computedStyles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "25.6px",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "inline",
+        "position": "static",
+        "opacity": "1",
+        "visibility": "visible",
+        "contrastWithBackground": null
+      },
+      "box": {
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "left": 0
+      },
+      "interactivity": {
+        "focusable": true,
+        "keyboardAccessible": true,
+        "tabIndexOrder": null
+      },
+      "accessibility": {
+        "name": null,
+        "description": null,
+        "role": "a",
+        "isInteractive": true
+      },
+      "tree": {
+        "depth": 6,
+        "parentTag": "p",
+        "childrenTags": []
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "classes": [],
+      "role": null,
+      "text": "Связаться с нами",
+      "html": "<a href=\"#contacts\" tabindex=\"-1\">Связаться с нами</a>",
+      "attributes": {
+        "src": null,
+        "alt": null,
+        "aria-label": null,
+        "aria-hidden": null,
+        "tabindex": "-1",
+        "href": "#contacts",
+        "for": null,
+        "type": null,
+        "placeholder": null
+      },
+      "computedStyles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "25.6px",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "inline",
+        "position": "static",
+        "opacity": "1",
+        "visibility": "visible",
+        "contrastWithBackground": null
+      },
+      "box": {
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "left": 0
+      },
+      "interactivity": {
+        "focusable": true,
+        "keyboardAccessible": true,
+        "tabIndexOrder": null
+      },
+      "accessibility": {
+        "name": null,
+        "description": null,
+        "role": "a",
+        "isInteractive": true
+      },
+      "tree": {
+        "depth": 4,
+        "parentTag": "section",
+        "childrenTags": []
+      }
+    },
+    {
+      "tag": "a",
+      "id": null,
+      "classes": [],
+      "role": null,
+      "text": "",
+      "html": "<a href=\"/help\" aria-hidden=\"true\"></a>",
+      "attributes": {
+        "src": null,
+        "alt": null,
+        "aria-label": null,
+        "aria-hidden": "true",
+        "tabindex": null,
+        "href": "/help",
+        "for": null,
+        "type": null,
+        "placeholder": null
+      },
+      "computedStyles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "25.6px",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "inline",
+        "position": "static",
+        "opacity": "1",
+        "visibility": "visible",
+        "contrastWithBackground": null
+      },
+      "box": {
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "left": 0
+      },
+      "interactivity": {
+        "focusable": true,
+        "keyboardAccessible": true,
+        "tabIndexOrder": null
+      },
+      "accessibility": {
+        "name": null,
+        "description": null,
+        "role": "a",
+        "isInteractive": true
+      },
+      "tree": {
+        "depth": 3,
+        "parentTag": "footer",
+        "childrenTags": []
+      }
+    }
+  ]
+}
