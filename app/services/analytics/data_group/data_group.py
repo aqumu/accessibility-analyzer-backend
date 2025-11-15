@@ -1,5 +1,5 @@
 from typing import List, Optional
-from app.services.accessibility.analytics.json_parser.models import ElementNode, DocumentModel  # Предполагается, что ElementNode и DocumentModel определены в model.py
+from app.services.analytics.json_parser.models import ElementNode, DocumentModel  # Предполагается, что ElementNode и DocumentModel определены в model.py
 
 
 # --- Группы данных для проверок ---

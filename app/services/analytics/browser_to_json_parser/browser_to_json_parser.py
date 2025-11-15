@@ -1,14 +1,15 @@
 import aiohttp
-from bs4 import BeautifulSoup, Tag
-from urllib.parse import urljoin
-from typing import List, Optional, Dict, Any
-import json
 from dataclasses import dataclass, field
+from typing import Dict, List, Optional, Any
+from urllib.parse import urljoin
+import cssutils
+from cssselect import GenericTranslator
+from lxml import html, etree
+import json
 
-
-# -----------------------
-# Data Classes
-# -----------------------
+# ============================================================
+# DATA CLASSES
+# ============================================================
 
 @dataclass
 class ElementNode:
@@ -21,112 +22,240 @@ class ElementNode:
     depth: int = 0
     index: int = 0
     parent_id: Optional[str] = None
-    children: List['ElementNode'] = field(default_factory=list)
+    children: List["ElementNode"] = field(default_factory=list)
 
 
-# -----------------------
-# Helpers
-# -----------------------
+# ============================================================
+# HELPERS
+# ============================================================
 
 def css_prop_to_camel(prop: str) -> str:
-    """
-    Преобразует CSS ключи:
-    font-weight → fontWeight
-    background-color → backgroundColor
-    """
     parts = prop.split("-")
     return parts[0] + "".join(p.capitalize() for p in parts[1:])
 
 
 def parse_inline_styles(style: str) -> dict:
-    """
-    Разбирает inline CSS из атрибута style=""
-    Возвращает camelCase свойства.
-    """
     result = {}
     if not style:
         return result
-
-    parts = style.split(";")
-    for part in parts:
+    for part in style.split(";"):
         if ":" not in part:
             continue
-        key, value = part.split(":", 1)
-        camel = css_prop_to_camel(key.strip())
-        result[camel] = value.strip()
-
+        k, v = part.split(":", 1)
+        result[css_prop_to_camel(k.strip())] = v.strip()
     return result
 
 
-async def fetch_html(url: str) -> str | None:
-    """
-    Загружает HTML c помощью aiohttp с улучшенной обработкой ошибок
-    """
+async def fetch_html(url: str) -> Optional[str]:
     try:
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-        }
+        headers = {"User-Agent": "Mozilla/5.0"}
         timeout = aiohttp.ClientTimeout(total=30)
-
         async with aiohttp.ClientSession(headers=headers) as session:
             async with session.get(url, timeout=timeout) as resp:
                 if resp.status != 200:
-                    print(f"HTTP Error: {resp.status} for {url}")
                     return None
                 return await resp.text()
-    except aiohttp.ClientError as e:
-        print(f"Network error for {url}: {e}")
-        return None
-    except Exception as e:
-        print(f"Unexpected error for {url}: {e}")
+    except:
         return None
 
 
-def element_to_node(el: Tag, depth: int = 0, index: int = 0, parent_id: str = None) -> ElementNode:
-    """
-    Рекурсивно преобразует BeautifulSoup элемент в ElementNode с детьми
-    """
-    element_id = el.get('id', '')
+async def fetch_css(url: str) -> Optional[str]:
+    return await fetch_html(url)
 
-    # Создаем узел
+
+# ============================================================
+# CSS PARSER — FULL CASCADE
+# ============================================================
+
+@dataclass
+class CSSRule:
+    selector: str
+    declarations: Dict[str, Any]
+    specificity: tuple
+    important: Dict[str, Any]
+    order: int
+
+
+def compute_specificity(selector: str) -> tuple:
+    # A realistic specificity calculator
+    # counts ID = 100, class = 10, tag = 1
+    id_count = selector.count("#")
+    class_count = selector.count(".")
+    tag_count = sum(1 for p in selector.split() if p.isalnum())
+    return (id_count, class_count, tag_count)
+
+
+async def load_all_css(doc, base_url: str) -> List[str]:
+    css_blocks = []
+
+    # <style>
+    for style_el in doc.xpath("//style"):
+        text = style_el.text or ""
+        css_blocks.append(text)
+
+    # <link rel=stylesheet>
+    for link in doc.xpath("//link[@rel='stylesheet']"):
+        href = link.get("href")
+        if href:
+            css_url = urljoin(base_url, href)
+            css = await fetch_css(css_url)
+            if css:
+                css_blocks.append(css)
+
+    return css_blocks
+
+
+def parse_css(css_blocks: List[str]) -> List[CSSRule]:
+    rules = []
+    order = 0
+
+    for block in css_blocks:
+        sheet = cssutils.parseString(block)
+        for r in sheet:
+            if r.type != r.STYLE_RULE:
+                continue
+
+            selector = r.selectorText
+            declarations = {}
+            important = {}
+
+            for prop in r.style:
+                camel = css_prop_to_camel(prop.name)
+                if prop.priority == "important":
+                    important[camel] = prop.value
+                else:
+                    declarations[camel] = prop.value
+
+            spec = compute_specificity(selector)
+            rules.append(CSSRule(
+                selector=selector,
+                declarations=declarations,
+                important=important,
+                specificity=spec,
+                order=order
+            ))
+            order += 1
+
+    return rules
+
+
+# ============================================================
+# APPLY CSS TO DOM
+# ============================================================
+
+def apply_css_to_dom(doc, rules: List[CSSRule]):
+    translator = GenericTranslator()
+
+    # Pre-cache XPath for selectors
+    selector_cache = {}
+
+    # node → style dict
+    node_style_map: Dict[etree.ElementBase, Dict[str, Any]] = {}
+
+    for rule in rules:
+        selector = rule.selector
+        if selector not in selector_cache:
+            try:
+                selector_cache[selector] = translator.css_to_xpath(selector)
+            except:
+                continue
+
+        xp = selector_cache[selector]
+        try:
+            matches = doc.xpath(xp)
+        except:
+            continue
+
+        for el in matches:
+            if el not in node_style_map:
+                node_style_map[el] = {}
+
+            # normal declarations
+            for k, v in rule.declarations.items():
+                existing = node_style_map[el].get(k)
+                if existing:
+                    # compare specificity & order
+                    if rule.specificity < existing["spec"]:
+                        continue
+                    if rule.specificity == existing["spec"] and rule.order < existing["order"]:
+                        continue
+                node_style_map[el][k] = {
+                    "value": v,
+                    "spec": rule.specificity,
+                    "order": rule.order,
+                    "important": False
+                }
+
+            # important declarations always override
+            for k, v in rule.important.items():
+                node_style_map[el][k] = {
+                    "value": v,
+                    "spec": (999, 999, 999),
+                    "order": rule.order,
+                    "important": True
+                }
+
+    # Inline style (highest priority)
+    for el in doc.iter():
+        inline = el.get("style")
+        if not inline:
+            continue
+        parsed = parse_inline_styles(inline)
+        if el not in node_style_map:
+            node_style_map[el] = {}
+
+        for k, v in parsed.items():
+            node_style_map[el][k] = {
+                "value": v,
+                "spec": (9999, 9999, 9999),
+                "order": 9999,
+                "important": True
+            }
+
+    # Produce final style dicts
+    final_styles = {}
+    for el, styles in node_style_map.items():
+        final_styles[el] = {k: v["value"] for k, v in styles.items()}
+
+    return final_styles
+
+
+# ============================================================
+# DOM → ElementNode
+# ============================================================
+
+def build_tree(el, computed, depth=0, index=0, parent_id=None) -> ElementNode:
+    tag = el.tag if isinstance(el.tag, str) else ""
+
     node = ElementNode(
-        tag=el.name,
-        id=element_id,
-        classes=el.get("class", []),
-        text=el.get_text(strip=True)[:500],
+        tag=tag,
+        id=el.get("id"),
+        classes=el.get("class", "").split() if el.get("class") else [],
+        text=("".join(el.itertext()) or "").strip()[:500],
+        attributes={k: v for k, v in el.attrib.items() if k not in ("id", "class", "style")},
+        computedStyles=computed.get(el, {}),
         depth=depth,
         index=index,
         parent_id=parent_id
     )
 
-    # Атрибуты
-    for attr, value in el.attrs.items():
-        if attr == "class":
-            continue
-        if isinstance(value, list):
-            node.attributes[attr] = ' '.join(value)
-        else:
-            node.attributes[attr] = str(value)
-
-    # Inline styles
-    inline_css = el.get("style", "")
-    node.computedStyles = parse_inline_styles(inline_css)
-
-    # Рекурсивно обрабатываем детей
-    child_index = 0
-    for child in el.children:
-        if isinstance(child, Tag):
-            child_node = element_to_node(child, depth + 1, child_index, element_id)
+    children = list(el)
+    for i, child in enumerate(children):
+        # Only element nodes
+        if isinstance(child.tag, str):
+            child_node = build_tree(
+                child,
+                computed,
+                depth + 1,
+                i,
+                node.id
+            )
             node.children.append(child_node)
-            child_index += 1
 
     return node
 
 
-def element_node_to_dict(node: ElementNode) -> Dict[str, Any]:
-    """
-    Рекурсивно преобразует ElementNode в словарь для JSON
-    """
+def node_to_dict(node: ElementNode):
     return {
         "tag": node.tag,
         "id": node.id,
@@ -137,219 +266,61 @@ def element_node_to_dict(node: ElementNode) -> Dict[str, Any]:
         "depth": node.depth,
         "index": node.index,
         "parent_id": node.parent_id,
-        "children": [element_node_to_dict(child) for child in node.children]
+        "children": [node_to_dict(ch) for ch in node.children]
     }
 
 
-def filter_nodes_by_selectors(root_nodes: List[ElementNode], selectors: List[str], soup: BeautifulSoup) -> List[
-    ElementNode]:
-    """
-    Фильтрует элементы по CSS селекторам, сохраняя структуру
-    """
-    if not selectors:
-        return root_nodes
+# ============================================================
+# MAIN PARSER
+# ============================================================
 
-    # Находим все элементы по селекторам
-    selected_elements = set()
-    for selector in selectors:
-        try:
-            elements = soup.select(selector)
-            selected_elements.update(elements)
-        except Exception as e:
-            print(f"Selector error '{selector}': {e}")
-            continue
-
-    def filter_tree(node: ElementNode, soup_elements: set) -> Optional[ElementNode]:
-        # Находим соответствующий BeautifulSoup элемент
-        soup_element = find_soup_element_for_node(node, soup)
-        if soup_element in soup_elements:
-            return node
-
-        # Рекурсивно фильтруем детей
-        filtered_children = []
-        for child in node.children:
-            filtered_child = filter_tree(child, soup_elements)
-            if filtered_child:
-                filtered_children.append(filtered_child)
-
-        if filtered_children:
-            # Создаем копию узла с отфильтрованными детьми
-            node_copy = ElementNode(
-                tag=node.tag,
-                id=node.id,
-                classes=node.classes.copy(),
-                text=node.text,
-                attributes=node.attributes.copy(),
-                computedStyles=node.computedStyles.copy(),
-                depth=node.depth,
-                index=node.index,
-                parent_id=node.parent_id,
-                children=filtered_children
-            )
-            return node_copy
-
+async def parse_url(url: str):
+    html_text = await fetch_html(url)
+    if not html_text:
         return None
 
-    # Применяем фильтрацию ко всем корневым узлам
-    filtered_root = []
-    for node in root_nodes:
-        filtered_node = filter_tree(node, selected_elements)
-        if filtered_node:
-            filtered_root.append(filtered_node)
+    doc = html.fromstring(html_text)
 
-    return filtered_root
+    # META
+    title_el = doc.xpath("//title")
+    title = title_el[0].text.strip() if title_el else ""
 
+    html_el = doc.xpath("//html")
+    lang = html_el[0].get("lang", "") if html_el else ""
 
-def find_soup_element_for_node(node: ElementNode, soup: BeautifulSoup) -> Optional[Tag]:
-    """
-    Находит BeautifulSoup элемент для ElementNode
-    """
-    try:
-        tag = node.tag
-        element_id = node.id
-        classes = node.classes
-        text = node.text
+    charset = ""
+    meta_charset = doc.xpath("//meta[@charset]")
+    if meta_charset:
+        charset = meta_charset[0].get("charset", "").upper()
 
-        # Пытаемся найти по ID
-        if element_id:
-            selector = f"#{element_id}"
-            elements = soup.select(selector)
-            if elements:
-                return elements[0]
+    # CSS
+    css_blocks = await load_all_css(doc, url)
+    rules = parse_css(css_blocks)
+    computed = apply_css_to_dom(doc, rules)
 
-        # Пытаемся найти по комбинации тега, классов и текста
-        selector_parts = [tag]
-        if classes:
-            for cls in classes:
-                selector_parts.append(f".{cls}")
+    # DOM ROOTS
+    roots = []
+    for i, el in enumerate(doc.iterchildren()):
+        if isinstance(el.tag, str):
+            roots.append(build_tree(el, computed, 0, i))
 
-        selector = "".join(selector_parts)
-        elements = soup.select(selector)
-
-        for el in elements:
-            if el.get_text(strip=True)[:500] == text:
-                return el
-
-        return None
-    except Exception:
-        return None
+    return {
+        "meta": {
+            "url": url,
+            "title": title,
+            "lang": lang,
+            "charset": charset
+        },
+        "root_elements": [node_to_dict(r) for r in roots]
+    }
 
 
-async def parse_url(url: str, selectors: list[str] | None = None) -> dict | None:
-    """
-    Основная функция парсера с поддержкой древовидной структуры ElementNode
-    """
-    try:
-        html = await fetch_html(url)
-        if not html:
-            return None
+# ============================================================
+# TEST CALL
+# ============================================================
 
-        soup = BeautifulSoup(html, "html.parser")
-
-        # META SECTION
-        title = soup.title.string.strip() if soup.title and soup.title.string else ""
-        html_tag = soup.find("html")
-        lang = html_tag.get("lang", "") if html_tag else ""
-        charset = None
-
-        meta_charset = soup.find("meta", charset=True)
-        if meta_charset:
-            charset = meta_charset.get("charset")
-
-        meta_http = soup.find("meta", attrs={"http-equiv": "Content-Type"})
-        if not charset and meta_http:
-            content = meta_http.get("content", "")
-            if "charset=" in content:
-                charset = content.split("charset=")[-1]
-
-        charset = (charset or "").upper()
-
-        # Строим полное дерево ElementNode
-        root_nodes = []
-
-        # Обрабатываем корневые элементы
-        for i, child in enumerate(soup.children):
-            if isinstance(child, Tag):
-                root_node = element_to_node(child, depth=0, index=i, parent_id=None)
-                root_nodes.append(root_node)
-
-        # Если указаны селекторы, фильтруем дерево
-        if selectors:
-            root_nodes = filter_nodes_by_selectors(root_nodes, selectors, soup)
-
-        # Преобразуем ElementNode в словари для JSON
-        root_elements_dict = [element_node_to_dict(node) for node in root_nodes]
-
-        result = {
-            "meta": {
-                "url": url,
-                "title": title,
-                "lang": lang,
-                "charset": charset,
-            },
-            "root_elements": root_elements_dict
-        }
-
-        return result
-
-    except Exception as e:
-        print(f"Parse URL error: {e}")
-        return None
-
-
-# Утилиты для работы с ElementNode
-def count_nodes(node: ElementNode) -> int:
-    """Считает общее количество элементов в дереве"""
-    count = 1
-    for child in node.children:
-        count += count_nodes(child)
-    return count
-
-
-def find_nodes_by_tag(node: ElementNode, tag: str) -> List[ElementNode]:
-    """Находит все элементы с указанным тегом"""
-    results = []
-    if node.tag == tag:
-        results.append(node)
-
-    for child in node.children:
-        results.extend(find_nodes_by_tag(child, tag))
-
-    return results
-
-
-def print_node_structure(node: ElementNode, level: int = 0):
-    """Печатает структуру дерева ElementNode"""
-    indent = "  " * level
-    tag = node.tag
-    element_id = f"#{node.id}" if node.id else ""
-    classes = "." + ".".join(node.classes) if node.classes else ""
-    text_preview = node.text[:30] + "..." if node.text and len(node.text) > 30 else node.text
-
-    print(f"{indent}{tag}{element_id}{classes}: {text_preview}")
-
-    for child in node.children:
-        print_node_structure(child, level + 1)
-
-
-# Функция для загрузки из JSON обратно в ElementNode
-def dict_to_element_node(data: Dict[str, Any]) -> ElementNode:
-    """Преобразует словарь обратно в ElementNode"""
-    node = ElementNode(
-        tag=data["tag"],
-        id=data["id"],
-        classes=data["classes"],
-        text=data["text"],
-        attributes=data["attributes"],
-        computedStyles=data["computedStyles"],
-        depth=data["depth"],
-        index=data["index"],
-        parent_id=data["parent_id"]
-    )
-
-    # Рекурсивно обрабатываем детей
-    for child_data in data.get("children", []):
-        child_node = dict_to_element_node(child_data)
-        node.children.append(child_node)
-
-    return node
+async def main():
+    data = await parse_url("https://example.com")
+    if data:
+        with open("output.json", "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)

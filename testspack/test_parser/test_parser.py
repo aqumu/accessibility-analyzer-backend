@@ -3,7 +3,7 @@ import json
 import os
 from pathlib import Path
 # Ваш импорт, который теперь указывает на асинхронный модуль
-from app.services.accessibility.browser_to_json_parser import parse_url
+from app.services.analytics.browser_to_json_parser.browser_to_json_parser import parse_url
 
 
 # --- Тесты функциональности (Асинхронные) ---

@@ -1,5 +1,5 @@
 import pytest
-from app.services.accessibility.analytics.json_parser.models import ElementNode
+from app.services.analytics.json_parser.models import ElementNode
 
 
 # ------------------------------------------------------------

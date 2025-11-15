@@ -1,5 +1,5 @@
 import pytest
-from  app.services.accessibility.analytics.json_parser.models import (
+from  app.services.analytics.json_parser.models import (
     DocumentInfo,
     DocumentModel,
     DocumentFactory,
@@ -7,7 +7,7 @@ from  app.services.accessibility.analytics.json_parser.models import (
     NodeSemantics,
     NodeInteraction
 )
-from app.services.accessibility.analytics.data_group.data_group import (
+from app.services.analytics.data_group.data_group import (
     DataGroupExtractor,
     ImageData,
     FormFieldData,
