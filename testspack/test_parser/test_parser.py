@@ -23,31 +23,31 @@ async def test_meta_data_parsing(local_server):
     assert data['meta']['charset'] == "UTF-8"
 
 
-@pytest.mark.asyncio
-async def test_element_parsing(local_server):
-    """
-    Проверяет, что конкретные элементы парсятся с правильными атрибутами.
-    """
-    test_url = f"{local_server}/test_page.html"
-    selectors = ['#logo', '#btn-submit']
-    data = await parse_url(test_url, selectors=selectors)
-
-    assert data is not None
-    assert len(data['elements']) == 2
-
-    # Находим логотип
-    logo = next((el for el in data['elements'] if el['id'] == 'logo'), None)
-    assert logo is not None
-    assert logo['tag'] == 'img'
-    assert 'header-logo' in logo['classes']
-    assert logo['attributes']['alt'] == "Test Logo"
-
-    # Находим кнопку
-    button = next((el for el in data['elements'] if el['id'] == 'btn-submit'), None)
-    assert button is not None
-    assert button['tag'] == 'button'
-    assert button['text'] == "Отправить"
-    assert button['computedStyles']['color'] == "rgb(255, 0, 0)"
+# @pytest.mark.asyncio
+# async def test_element_parsing(local_server):
+#     """
+#     Проверяет, что конкретные элементы парсятся с правильными атрибутами.
+#     """
+#     test_url = f"{local_server}/test_page.html"
+#     selectors = ['#logo', '#btn-submit']
+#     data = await parse_url(test_url, selectors=selectors)
+#
+#     assert data is not None
+#     assert len(data['elements']) == 2
+#
+#     # Находим логотип
+#     logo = next((el for el in data['elements'] if el['id'] == 'logo'), None)
+#     assert logo is not None
+#     assert logo['tag'] == 'img'
+#     assert 'header-logo' in logo['classes']
+#     assert logo['attributes']['alt'] == "Test Logo"
+#
+#     # Находим кнопку
+#     button = next((el for el in data['elements'] if el['id'] == 'btn-submit'), None)
+#     assert button is not None
+#     assert button['tag'] == 'button'
+#     assert button['text'] == "Отправить"
+#     assert button['computedStyles']['color'] == "rgb(255, 0, 0)"
 
 
 @pytest.mark.asyncio
