@@ -1,229 +1,135 @@
 import pytest
-import pytest_asyncio
 import json
-from unittest.mock import AsyncMock, MagicMock, patch
-from typing import Any, Dict
+import os
+from pathlib import Path
+# Ваш импорт, который теперь указывает на асинхронный модуль
+from app.services.accessibility.analytics.browser_to_json_parser.browser_to_json_parser import parse_url
 
-# ==========================================================
-# Константа с полным путем к модулю (только один раз)
-# ==========================================================
-MODULE_PATH = "app.services.accessibility.analytics.browser_to_json_parser.browser_to_json_parser"
 
-# ==========================================================
-# Импортируем функции
-# ==========================================================
-try:
-    mod = __import__(MODULE_PATH, fromlist=["fetch_page", "safe_get_dom", "BUILD_DOM_JS"])
-    fetch_page = mod.fetch_page
-    safe_get_dom = mod.safe_get_dom
-    BUILD_DOM_JS = mod.BUILD_DOM_JS
-except ImportError:
-    print(f"Не удалось импортировать {MODULE_PATH}, используются заглушки.")
-
-    BUILD_DOM_JS = "() => {}"
-
-    async def fetch_page(url: str) -> Dict[str, Any]:
-        return {}
-
-    async def safe_get_dom(page):
-        return {}
-
-# ==========================================================
-# Вспомогательная функция для создания мок-страницы
-# ==========================================================
-def create_mock_page():
-    page = AsyncMock()
-    page.url = "https://mock.com"
-    page.title.return_value = "Mock Title"
-    page.evaluate.return_value = {"tag": "body", "children": []}
-
-    page.main_frame = MagicMock()
-    page.main_frame.is_detached.return_value = False
-    return page
-
-def create_mock_browser(mock_page):
-    browser = AsyncMock()
-    browser.new_page.return_value = mock_page
-    return browser
+# --- Тесты функциональности (Асинхронные) ---
 
 @pytest.mark.asyncio
-async def test_fetch_page_success():
-    mock_page = AsyncMock()
-    mock_dom = {
-        "tag": "body",
-        "attributes": {},
-        "children": [],
-        "dom_path": "body[1]",
-        "styles": {},
-        "computed": {},
-        "pseudo": {}
-    }
+async def test_meta_data_parsing(local_server):
+    """
+    Проверяет, что мета-данные (title, lang, charset) парсятся корректно.
+    """
+    test_url = f"{local_server}/test_page.html"
+    data = await parse_url(test_url)
 
-    # evaluate возвращает DOM сразу
-    mock_page.evaluate.return_value = mock_dom
-    mock_page.url = "https://example.com"
-    mock_page.title.return_value = "Example"
-    mock_page.main_frame = MagicMock()
-    mock_page.main_frame.is_detached.return_value = False
-
-    mock_browser = AsyncMock()
-    mock_browser.new_page.return_value = mock_page
-
-    with patch(f"{MODULE_PATH}.get_browser", new_callable=AsyncMock) as mock_get_browser:
-        mock_get_browser.return_value = mock_browser
-
-        result = await fetch_page("https://example.com")
-
-    # Проверяем вызовы
-    mock_page.goto.assert_called_with("https://example.com", wait_until="load")
-    mock_page.wait_for_load_state.assert_called_with("networkidle")
-    # evaluate может быть вызван 1+ раз, но результат успешный
-    assert mock_page.evaluate.call_count >= 1
-    mock_page.close.assert_called_once()
-
-    # Проверяем результат
-    assert result["dom"]["tag"] == "body"
-    assert result["dom"]["dom_path"] == "body[1]"
+    assert data is not None
+    assert data['meta']['url'] == test_url
+    assert data['meta']['title'] == "Test Page Title"
+    assert data['meta']['lang'] == "en"
+    assert data['meta']['charset'] == "UTF-8"
 
 
 @pytest.mark.asyncio
-async def test_fetch_page_evaluate_retry_success():
-    mock_page = AsyncMock()
-    mock_dom = {"tag": "body", "children": [{"tag": "div"}]}
+async def test_element_parsing(local_server):
+    """
+    Проверяет, что конкретные элементы парсятся с правильными атрибутами.
+    """
+    test_url = f"{local_server}/test_page.html"
+    selectors = ['#logo', '#btn-submit']
+    data = await parse_url(test_url, selectors=selectors)
 
-    # 2 ошибки, потом успешный результат
-    mock_page.evaluate.side_effect = [
-        Exception("JS error 1"),
-        Exception("JS error 2"),
-        mock_dom
-    ]
-    mock_page.url = "https://retry-me.com"
-    mock_page.title.return_value = "Retry Example"
-    mock_page.main_frame = MagicMock()
-    mock_page.main_frame.is_detached.return_value = False
+    assert data is not None
+    assert len(data['elements']) == 2
 
-    mock_browser = AsyncMock()
-    mock_browser.new_page.return_value = mock_page
+    # Находим логотип
+    logo = next((el for el in data['elements'] if el['id'] == 'logo'), None)
+    assert logo is not None
+    assert logo['tag'] == 'img'
+    assert 'header-logo' in logo['classes']
+    assert logo['attributes']['alt'] == "Test Logo"
+    assert logo['computedStyles']['fontWeight'] == "600"
 
-    with patch(f"{MODULE_PATH}.get_browser", new_callable=AsyncMock) as mock_get_browser:
-        mock_get_browser.return_value = mock_browser
-
-        result = await fetch_page("https://retry-me.com")
-
-    assert mock_page.evaluate.call_count == 4
-    assert result["dom"] == mock_dom
-    assert result["document"]["lang"] == "en"
-    mock_page.close.assert_called_once()
-
-
-@pytest.mark.asyncio
-async def test_fetch_page_evaluate_fails_all_attempts():
-    mock_page = create_mock_page()
-    mock_page.evaluate.side_effect = [Exception(f"JS error {i}") for i in range(5)]
-    mock_browser = create_mock_browser(mock_page)
-
-    with patch(f"{MODULE_PATH}.get_browser", new_callable=AsyncMock) as mock_get_browser:
-        mock_get_browser.return_value = mock_browser
-        with pytest.raises(RuntimeError, match="Не удалось получить DOM после 5 попыток"):
-            await fetch_page("https://fail-me.com")
-
-    assert mock_page.evaluate.call_count == 5
-    mock_page.close.assert_called_once()
+    # Находим кнопку
+    button = next((el for el in data['elements'] if el['id'] == 'btn-submit'), None)
+    assert button is not None
+    assert button['tag'] == 'button'
+    assert button['text'] == "Отправить"
+    assert button['interactivity']['tabIndexOrder'] == 1
+    assert button['computedStyles']['color'] == "rgb(255, 0, 0)"
 
 
 @pytest.mark.asyncio
-async def test_fetch_page_frame_detached():
-    mock_page = create_mock_page()
-    mock_page.main_frame.is_detached.return_value = True
-    mock_browser = create_mock_browser(mock_page)
+async def test_no_elements_found(local_server):
+    """
+    Проверяет, что парсер корректно возвращает пустой список, если ничего не найдено.
+    """
+    test_url = f"{local_server}/test_page.html"
+    selectors = ['#non-existent-id', '.fake-class']
+    data = await parse_url(test_url, selectors=selectors)
 
-    with patch(f"{MODULE_PATH}.get_browser", new_callable=AsyncMock) as mock_get_browser:
-        mock_get_browser.return_value = mock_browser
-        with pytest.raises(RuntimeError, match="Frame is detached"):
-            await fetch_page("https://detached.com")
-
-    mock_page.close.assert_called_once()
-
-
-@pytest.mark.asyncio
-async def test_fetch_page_goto_fails():
-    mock_page = create_mock_page()
-    mock_page.goto.side_effect = Exception("Network timeout")
-    mock_browser = create_mock_browser(mock_page)
-
-    with patch(f"{MODULE_PATH}.get_browser", new_callable=AsyncMock) as mock_get_browser:
-        mock_get_browser.return_value = mock_browser
-        with pytest.raises(Exception, match="Network timeout"):
-            await fetch_page("https://timeout.com")
-
-    mock_page.close.assert_called_once()
-    mock_page.evaluate.assert_not_called()
-
-# ==========================================================
-# Тесты safe_get_dom без фикстур
-# ==========================================================
-@pytest.mark.asyncio
-async def test_safe_get_dom_success():
-    mock_page = create_mock_page()
-    mock_page.evaluate.return_value = {"tag": "html"}
-
-    result = await safe_get_dom(mock_page)
-
-    assert result == {"tag": "html"}
-    mock_page.evaluate.assert_called_once_with(BUILD_DOM_JS)
+    assert data is not None
+    assert len(data['elements']) == 0
 
 
 @pytest.mark.asyncio
-async def test_safe_get_dom_retry_success():
-    mock_page = create_mock_page()
-    mock_dom = {"tag": "success"}
-    mock_page.evaluate.side_effect = [Exception("JS error 1"), mock_dom]
+async def test_invalid_url_handling():
+    """
+    Проверяет, что парсер возвращает None при ошибке (например, неверный URL).
+    """
+    data = await parse_url("http://thissitedoesnotexist.invalid")
+    assert data is None
 
-    result = await safe_get_dom(mock_page)
 
-    assert result == mock_dom
-    assert mock_page.evaluate.call_count == 2
+# --- Тест, который реально сохраняет файл (Асинхронный) ---
+
+@pytest.mark.asyncio
+async def test_real_json_save(local_server, tmp_path):
+    """
+    Этот тест выполняет парсинг и РЕАЛЬНО сохраняет результат
+    во временную папку (tmp_path), а затем проверяет содержимое файла.
+    """
+    print(f"\nФайлы будут сохранены в: {tmp_path}")
+    test_url = f"{local_server}/test_page.html"
+    output_filename = tmp_path / "saved_data.json"
+
+    # 1. Запускаем парсер (асинхронно)
+    data = await parse_url(test_url, selectors=['a', 'img'])
+
+    assert data is not None
+    assert len(data['elements']) == 2  # Нашли <img> и <a>
+
+    # 2. Сохраняем файл (это синхронная операция, и это нормально)
+    try:
+        with open(output_filename, 'w', encoding='utf-8') as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+    except Exception as e:
+        pytest.fail(f"Не удалось записать JSON-файл: {e}")
+
+    # 3. Проверяем, что файл существует
+    assert os.path.exists(output_filename), "JSON-файл не был создан!"
+
+    # 4. Читаем файл обратно (тоже синхронно)
+    with open(output_filename, 'r', encoding='utf-8') as f:
+        saved_data = json.load(f)
+
+    assert saved_data['meta']['title'] == "Test Page Title"
+    assert len(saved_data['elements']) == 2
+
+    link_el = next((el for el in saved_data['elements'] if el['tag'] == 'a'), None)
+    assert link_el is not None
+    assert link_el['attributes']['href'] == "#top"
 
 
 @pytest.mark.asyncio
-async def test_safe_get_dom_fails_both():
-    mock_page = create_mock_page()
-    mock_page.evaluate.side_effect = [Exception("JS error 1"), Exception("JS error 2")]
+async def test_real_json_save_from_live_site():
+    live_url = "https://hack-mock-bank.vercel.app/"
+    output_dir = Path("test_output")
+    output_dir.mkdir(exist_ok=True)
 
-    with pytest.raises(Exception, match="JS error 2"):
-        await safe_get_dom(mock_page)
+    output_filename = output_dir / "hack_bank_data.json"
+    selectors_to_parse = ['img', 'button', 'input', 'a']
 
-    assert mock_page.evaluate.call_count == 2
+    data = await parse_url(live_url, selectors=selectors_to_parse)
 
+    assert data is not None
+    assert data['meta']['title'] == "Банк Пример — главная"
+    assert data['meta']['url'] == live_url
 
-@pytest.mark.asyncio
-async def test_safe_get_dom_frame_detached():
-    mock_page = create_mock_page()
-    mock_page.main_frame.is_detached.return_value = True
+    with open(output_filename, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
-    with pytest.raises(RuntimeError, match="Frame is detached"):
-        await safe_get_dom(mock_page)
-
-    mock_page.evaluate.assert_not_called()
-
-# ==========================================================
-# Интеграционный тест — остаётся без изменений
-# ==========================================================
-@pytest.mark.asyncio
-@pytest.mark.integration
-async def test_dump_real_dom_json():
-    from app.utils.playwright_utils import startup_browser
-
-    await startup_browser()
-
-    url = "https://en.wikipedia.org/wiki/Cat"
-    result = await fetch_page(url)
-
-    assert isinstance(result, dict)
-    assert "dom" in result
-    assert "document" in result
-
-    with open("example_dom.json", "w", encoding="utf-8") as f:
-        json.dump(result, f, ensure_ascii=False, indent=2)
-
-    print("\n[OK] JSON сохранён в example_dom.json")
+    assert output_filename.exists()

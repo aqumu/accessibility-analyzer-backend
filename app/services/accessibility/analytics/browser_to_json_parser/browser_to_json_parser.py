@@ -1,134 +1,204 @@
 import json
-from typing import Any, Dict
-from app.utils.playwright_utils import get_browser
+import sys
+# Используем async_api
+from playwright.async_api import async_playwright, Page, ElementHandle
+from typing import List, Dict, Any, Optional
 
-# ==========================================================
-# JS для построения DOM JSON совместимого с ElementNode
-# ==========================================================
-BUILD_DOM_JS = r"""
-() => {
-    function extract(node, path = "body[1]") {
-        if (!node) return null;
 
-        // Текстовые узлы
-        if (node.nodeType === Node.TEXT_NODE) {
-            const text = node.textContent.trim();
-            if (!text) return null;
-            return { tag: "#text", text, dom_path: path };
+# --- Вспомогательные асинхронные функции ---
+
+async def get_element_depth(element: ElementHandle) -> int:
+    """Вспомогательная функция для получения глубины вложенности DOM."""
+    return await element.evaluate("""(el) => {
+        let depth = 0;
+        let current = el;
+        while (current.parentElement) {
+            depth++;
+            current = current.parentElement;
         }
+        return depth;
+    }""")
 
-        const obj = {
-            tag: node.tagName?.toLowerCase() || "unknown",
-            attributes: {},
-            children: [],
-            dom_path: path,
-            styles: {},
-            computed: {},
-            pseudo: {}
-        };
 
-        // Атрибуты
-        for (const attr of node.attributes || []) {
-            obj.attributes[attr.name] = attr.value;
+async def get_specific_attributes(element: ElementHandle) -> Dict[str, Optional[str]]:
+    """Получает только те атрибуты, что указаны в примере JSON."""
+    return await element.evaluate("""(el) => {
+        const attrs = [
+            'src', 'alt', 'aria-label', 'aria-hidden', 'tabindex', 
+            'href', 'for', 'type', 'placeholder'
+        ];
+        const result = {};
+        for (const attr of attrs) {
+            result[attr] = el.getAttribute(attr) || null;
         }
+        return result;
+    }""")
 
-        // Дети
-        let indexMap = {};
-        for (const child of node.children || []) {
-            const tag = child.tagName?.toLowerCase() || "unknown";
-            indexMap[tag] = (indexMap[tag] || 0) + 1;
-            const childPath = `${path} > ${tag}[${indexMap[tag]}]`;
-            const c = extract(child, childPath);
-            if (c) obj.children.push(c);
-        }
 
-        return obj;
-    }
-
-    return extract(document.body);
-}
-"""
-
-# ==========================================================
-# БЕЗОПАСНЫЙ fetch_page()
-# ==========================================================
-async def fetch_page(url: str) -> dict:
-    """
-    Возвращает JSON строго в формате:
-    {
-        "document": {
-            "url": "...",
-            "title": "...",
-            "lang": "...",
-            "parse_errors": []
-        },
-        "dom": { ElementNode JSON }
-    }
-    """
-    browser = await get_browser()
-    page = await browser.new_page()
-
+async def get_computed_styles(element: ElementHandle) -> Dict[str, Any]:
+    """Получает вычисленные стили, как в примере."""
     try:
-        # -----------------------------
-        # Шаг 1: загрузка страницы
-        # -----------------------------
-        await page.goto(url, wait_until="load")
-        await page.wait_for_load_state("networkidle")
-        await page.wait_for_timeout(500)  # небольшой буфер для динамики
-
-        # -----------------------------
-        # Шаг 2: безопасное получение DOM
-        # -----------------------------
-        dom = None
-        for attempt in range(5):
-            if page.main_frame.is_detached():
-                raise RuntimeError("Frame is detached")
-            try:
-                dom = await page.evaluate(BUILD_DOM_JS)
-                if dom:
-                    break
-            except Exception:
-                await page.wait_for_timeout(300)
-        else:
-            raise RuntimeError("Не удалось получить DOM после 5 попыток")
-
-        # -----------------------------
-        # Шаг 3: получение информации о документе
-        # -----------------------------
-        # title
-        title = await page.title()
-
-        # lang (попробуем достать из <html lang="...">)
-        try:
-            lang = await page.evaluate("document.documentElement.lang || 'en'")
-        except Exception:
-            lang = "en"
-
-        document_info = {
-            "url": page.url,
-            "title": title,
-            "lang": lang,
-            "parse_errors": []
+        styles = await element.evaluate("""(el) => {
+            const style = window.getComputedStyle(el);
+            return {
+                fontSize: style.fontSize,
+                fontWeight: style.fontWeight,
+                lineHeight: style.lineHeight,
+                color: style.color,
+                backgroundColor: style.backgroundColor,
+                display: style.display,
+                position: style.position,
+                opacity: style.opacity,
+                visibility: style.visibility
+            };
+        }""")
+        styles["contrastWithBackground"] = None  # Placeholder
+        return styles
+    except Exception:
+        return {
+            "fontSize": None, "fontWeight": None, "lineHeight": None,
+            "color": None, "backgroundColor": None, "display": None,
+            "position": None, "opacity": None, "visibility": None,
+            "contrastWithBackground": None
         }
+
+
+async def get_box_model(element: ElementHandle) -> Dict[str, Any]:
+    """Получает геометрию элемента."""
+    try:
+        box = await element.bounding_box()
+        if box:
+            return {
+                "width": box['width'],
+                "height": box['height'],
+                "top": box['top'],
+                "left": box['left']
+            }
+        return {"width": 0, "height": 0, "top": 0, "left": 0}
+    except Exception:
+        return {"width": 0, "height": 0, "top": 0, "left": 0}
+
+
+async def get_tree_info(element: ElementHandle) -> Dict[str, Any]:
+    """Получает информацию о дереве DOM."""
+    try:
+        return {
+            "depth": await get_element_depth(element),
+            "parentTag": await element.evaluate(
+                '(el) => el.parentElement ? el.parentElement.tagName.toLowerCase() : null'),
+            "childrenTags": await element.evaluate(
+                '(el) => Array.from(el.children).map(child => child.tagName.toLowerCase())')
+        }
+    except Exception:
+        return {"depth": 0, "parentTag": None, "childrenTags": []}
+
+
+async def get_accessibility_info(element: ElementHandle, tag: str) -> Dict[str, Any]:
+    """Упрощенное получение данных о доступности."""
+    role = await element.get_attribute('role')
+    is_interactive = tag in ['a', 'button', 'input', 'select', 'textarea'] or \
+                     role in ['button', 'link', 'checkbox', 'menuitem']
+
+    return {
+        "name": await element.get_attribute('aria-label') or None,
+        "description": await element.get_attribute('aria-describedby') or None,
+        "role": role or tag,
+        "isInteractive": is_interactive
+    }
+
+
+async def get_interactivity_info(element: ElementHandle) -> Dict[str, Any]:
+    """Упрощенное получение данных об интерактивности."""
+    try:
+        tab_index_str = await element.get_attribute('tabindex')
+        tab_index_order = int(tab_index_str) if tab_index_str and tab_index_str.isdigit() else None
+
+        is_focusable = await element.evaluate("""(el) => {
+            try {
+                el.focus();
+                const focused = document.activeElement === el;
+                if (focused) el.blur();
+                return focused;
+            } catch (e) {
+                return false;
+            }
+        }""")
 
         return {
-            "document": document_info,
-            "dom": dom
+            "focusable": is_focusable,
+            "keyboardAccessible": is_focusable,
+            "tabIndexOrder": tab_index_order
         }
-
-    finally:
-        await page.close()
-
-# ==========================================================
-# SAFE DOM EXTRACTOR
-# ==========================================================
-async def safe_get_dom(page):
-    if page.main_frame.is_detached():
-        raise RuntimeError("Frame is detached")
-
-    try:
-        return await page.evaluate(BUILD_DOM_JS)
     except Exception:
-        await page.wait_for_load_state("domcontentloaded")
-        await page.wait_for_timeout(150)
-        return await page.evaluate(BUILD_DOM_JS)
+        return {"focusable": None, "keyboardAccessible": None, "tabIndexOrder": None}
+
+
+# --- Главная асинхронная функция ---
+
+async def parse_url(url: str, selectors: List[str] = None) -> Optional[Dict[str, Any]]:
+    """
+    Главная асинхронная функция парсера.
+    """
+
+    if selectors is None:
+        selectors = ['a', 'button', 'img', 'input', 'label', '[role="button"]']
+
+    query_selector = ", ".join(selectors)
+
+    async with async_playwright() as p:
+        browser = None
+        try:
+            browser = await p.chromium.launch()
+            page = await browser.new_page()
+            await page.goto(url, wait_until='load', timeout=60000)
+
+            # 1. Meta Data
+            meta_data = {
+                "url": url,
+                "title": await page.title(),
+                "lang": await page.locator('html').get_attribute('lang') or None,
+                "charset": await page.evaluate('() => document.characterSet') or "utf-8"
+            }
+
+            elements_data = []
+
+            # 2. Elements Data
+            elements = await page.locator(query_selector).all()
+            print(f"Найдено {len(elements)} элементов по селекторам: {query_selector}")
+
+            for el in elements:
+                try:
+                    tag = await el.evaluate('(el) => el.tagName.toLowerCase()')
+
+                    element_info = {
+                        "tag": tag,
+                        "id": await el.get_attribute('id') or None,
+                        "classes": (await el.get_attribute('class') or "").split(),
+                        "role": await el.get_attribute('role') or None,
+                        "text": (await el.text_content(timeout=500) or "").strip(),
+                        "html": await el.evaluate('(el) => el.outerHTML', timeout=500),
+
+                        "attributes": await get_specific_attributes(el),
+                        "computedStyles": await get_computed_styles(el),
+                        "box": await get_box_model(el),
+                        "interactivity": await get_interactivity_info(el),
+                        "accessibility": await get_accessibility_info(el, tag),
+                        "tree": await get_tree_info(el)
+                    }
+                    elements_data.append(element_info)
+
+                except Exception as e:
+                    print(f"Не удалось обработать элемент: {e}", file=sys.stderr)
+
+            await browser.close()
+
+            return {
+                "meta": meta_data,
+                "elements": elements_data
+            }
+
+        except Exception as e:
+            print(f"Ошибка во время парсинга URL {url}: {e}", file=sys.stderr)
+            if browser:
+                await browser.close()
+            return None
