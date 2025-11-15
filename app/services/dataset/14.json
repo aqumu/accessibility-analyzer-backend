@@ -1,0 +1,1292 @@
+{
+  "meta": {
+    "url": "https://usa.gov",
+    "title": "Making government services easier to find | USAGov",
+    "lang": "en",
+    "charset": "UTF-8"
+  },
+  "elements": [
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "/",
+        "title": "USAGov Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Scams and fraud",
+      "attributes": {
+        "href": "/scams-and-fraud"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Government benefits and financial assistance",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Complaints",
+      "attributes": {
+        "href": "/complaints"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Small business",
+      "attributes": {
+        "href": "/small-business"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [
+        "usa-identifier__section",
+        "usa-identifier__section--required-links"
+      ],
+      "text": "GSA accessibility supportGSA privacy policyFOIA requests",
+      "attributes": {
+        "aria-label": "Important links"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Jobs, labor laws, and unemployment",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "usa-search__submit-icon"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/themes/custom/usagov/components/searchbar/images/search--dark.svg",
+        "alt": "Search"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "The U.S. and its government",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Find how to get a REAL ID",
+      "attributes": {
+        "href": "/real-id"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Housing help",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Disability services",
+      "attributes": {
+        "href": "/disability-services"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Immigration and U.S. citizenship",
+      "attributes": {
+        "href": "/immigration-and-citizenship"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "usa-button",
+        "usagov-button"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "submit"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Directory of U.S. government agencies and departments",
+      "attributes": {
+        "href": "/agency-index"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "usa-nav__close"
+      ],
+      "text": "",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "How do I ...",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Branches of government",
+      "attributes": {
+        "href": "/branches-of-government"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "src": "/themes/custom/usagov/images/topics/ICONS_Reimagined_Benefits.svg",
+        "height": "56"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [
+        "usa-footer__nav"
+      ],
+      "text": "Government informationAll topics and servicesDirectory of U.S. government agencies and departmentsBranches of governmentAbout usAbout USAGovPrivacy and security policiesAccessibility policyReport a website issueWebsite usage dataFor federal agenciesPartner with usRead our blogFor mediaUSAGov OutreachFeature articles",
+      "attributes": {
+        "aria-label": "Footer navigation"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "The U.S. and its governmentLearn about U.S. laws, history, and more. Buy government property. Contact elected officials and federal agencies.",
+      "attributes": {
+        "href": "/about-the-us"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Health",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "usa-gov-footer__primary-link"
+      ],
+      "text": "Government information",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "usa-nav__link"
+      ],
+      "text": "Travel",
+      "attributes": {
+        "href": "/travel"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Report a website issue",
+      "attributes": {
+        "href": "/site-issue-report-form"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "TravelLearn about passports, travel documents for minors, and travel to, from, and within the U.S.",
+      "attributes": {
+        "href": "/travel"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "All topics and services",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Money and creditFind government grants, loans, and unclaimed money. Learn about taxes. Get credit reports and scores.",
+      "attributes": {
+        "href": "/money"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [
+        "usa-nav",
+        "usagov-mobile-menu"
+      ],
+      "text": "HomeCloseSearch1-844-USAGOV1All topics and servicesThe U.S. and its governmentComplaintsDisability servicesDisasters and emergenciesEducationGovernment benefitsHealthHousing helpImmigration and U.S. citizenshipJobs, labor laws and unemploymentLaws and legal issuesMilitary and veteransMoney and creditScams and fraudSmall businessTaxesTravelVoting and electionsLife eventsAbout USAGov",
+      "attributes": {
+        "aria-label": "Primary navigation"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "usa-banner__header-flag"
+      ],
+      "text": "",
+      "attributes": {
+        "aria-hidden": "true",
+        "src": "/themes/custom/usagov/images/favicon-57.png",
+        "alt": "U.S Flag"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [
+        "usa-nav"
+      ],
+      "text": "All topics and servicesThe U.S. and its governmentGovernment benefitsImmigration and U.S. citizenshipMoney and creditTaxesTravel",
+      "attributes": {
+        "aria-label": "Primary navigation"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Military and veteransLearn how to join the military. Find benefits and services as a member or veteran, including how to apply for housing, financial, health, and other support.",
+      "attributes": {
+        "href": "/military-and-veterans"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Money and credit",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Health",
+      "attributes": {
+        "href": "/health"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Education",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "usa-nav__link"
+      ],
+      "text": "All topics and services",
+      "attributes": {
+        "href": "/#all-topics-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Money and credit",
+      "attributes": {
+        "href": "/money"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "All topics and services",
+      "attributes": {
+        "href": "/#all-topics-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Voting and elections",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "usa-nav__link"
+      ],
+      "text": "Taxes",
+      "attributes": {
+        "href": "/taxes"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Read our blog",
+      "attributes": {
+        "href": "https://blog.usa.gov/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Find unclaimed money",
+      "attributes": {
+        "href": "/unclaimed-money"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Call us at 1-844-USAGOV1",
+      "attributes": {
+        "href": "/phone",
+        "style": "white-space: nowrap;"
+      },
+      "computedStyles": {
+        "whiteSpace": "nowrap"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "The U.S. and its government",
+      "attributes": {
+        "href": "/about-the-us"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Travel",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "ComplaintsFile complaints involving government agencies, telemarketers, products and services, travel, housing, and banking.",
+      "attributes": {
+        "href": "/complaints"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/themes/custom/usagov/images/USAGov_logo_51px.png",
+        "srcset": "/themes/custom/usagov/images/USAGov_Logo_80px.png 80w,\n\t\t\t\t\t\t\t\t\t/themes/custom/usagov/images/USAGov_Logo_51px.png 51w",
+        "sizes": "(min-width: 1024px) 80px, 51px",
+        "alt": "USAGov Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Scams and fraudLearn about identity theft, Social Security scams, and how to report scams and fraud.",
+      "attributes": {
+        "href": "/scams-and-fraud"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Education",
+      "attributes": {
+        "href": "/education"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "usa-nav__link"
+      ],
+      "text": "Government benefits",
+      "attributes": {
+        "href": "/benefits"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Complaints",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Disability services",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "usa-button",
+        "benefits-link"
+      ],
+      "text": "Find benefits",
+      "attributes": {
+        "href": "/benefit-finder",
+        "role": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "1-844-USAGOV1",
+      "attributes": {
+        "href": "/phone"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Get or renew a passport",
+      "attributes": {
+        "href": "/passport"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Jump to all topics and services",
+      "attributes": {
+        "href": "#all-topics-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "usa-nav__link"
+      ],
+      "text": "Money and credit",
+      "attributes": {
+        "href": "/money"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Housing helpLearn about rental and buyer assistance programs. Find emergency housing and avoid eviction.",
+      "attributes": {
+        "href": "/housing-help"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Government benefits",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "usa-identifier__required-link",
+        "usa-link"
+      ],
+      "text": "GSA accessibility support",
+      "attributes": {
+        "href": "https://www.gsa.gov/website-information/accessibility-statement?footer="
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "usa-button"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "submit"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Disasters and emergenciesLearn about disaster assistance and find government benefits for other emergencies.",
+      "attributes": {
+        "href": "/disasters-and-emergencies"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "usa-gov-footer__primary-link"
+      ],
+      "text": "For federal agencies",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Immigration and U.S. citizenship",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "File for unemployment benefits",
+      "attributes": {
+        "href": "/unemployment-benefits"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "usa-identifier__required-link",
+        "usa-link"
+      ],
+      "text": "FOIA requests",
+      "attributes": {
+        "href": "https://www.gsa.gov/reference/freedom-of-information-act-foia"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Travel",
+      "attributes": {
+        "href": "/travel"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Small business",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Immigration and U.S. citizenshipLearn about U.S. residency, Green Cards, citizenship requirements, and related issues.",
+      "attributes": {
+        "href": "/immigration-and-citizenship"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Scams and fraud",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "usa-nav__close"
+      ],
+      "text": "Close",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Laws and legal issuesLearn how to replace vital records, get child support enforcement, find legal help, and more.",
+      "attributes": {
+        "href": "/laws-and-legal-issues"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Website usage data",
+      "attributes": {
+        "href": "/website-analytics/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "usa-identifier__required-link",
+        "usa-link"
+      ],
+      "text": "GSA privacy policy",
+      "attributes": {
+        "href": "https://www.gsa.gov/website-information/website-policies#privacy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "usa-button",
+        "language-link"
+      ],
+      "text": "Español",
+      "attributes": {
+        "href": "/es/",
+        "hreflang": "es",
+        "role": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "EducationLearn about Federal Student Aid and studying in the U.S. Find early intervention, special education, and Head Start programs.",
+      "attributes": {
+        "href": "/education"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "USAGov Outreach",
+      "attributes": {
+        "href": "/outreach"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h1",
+      "id": "skip-to-h1",
+      "classes": [],
+      "text": "Making government services easier to find",
+      "attributes": {
+        "id": "skip-to-h1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Partner with us",
+      "attributes": {
+        "href": "/partner-with-usagov"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "usa-gov-footer__primary-link"
+      ],
+      "text": "For media",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "header",
+      "id": "header",
+      "classes": [
+        "usa-header",
+        "usa-header--extended"
+      ],
+      "text": "An official website of the United States governmentHere's how you knowHere's how you knowOfficial websites use .govA.govwebsite belongs to an official government organization in the United States.Secure .gov websites use HTTPSAlock(LockLocked padlock icon) orhttps://means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.HomeCloseSearch1-844-USAGOV1All topics and servicesThe U.S. and its governmentComplaintsDisability servicesDisasters and",
+      "attributes": {
+        "id": "header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "usa-gov-footer__primary-link"
+      ],
+      "text": "About us",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Laws and legal issues",
+      "attributes": {
+        "href": "/laws-and-legal-issues"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "home-link-mobile-menu",
+      "classes": [],
+      "text": "Home",
+      "attributes": {
+        "id": "home-link-mobile-menu",
+        "href": "/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Privacy and security policies",
+      "attributes": {
+        "href": "/privacy-security"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Laws and legal issues",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Life events",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "usa-skipnav",
+        "usa-sr-only",
+        "focusable"
+      ],
+      "text": "Skip to main content",
+      "attributes": {
+        "href": "#skip-to-h1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "usa-accordion__button",
+        "usa-banner__button"
+      ],
+      "text": "Here's how you know",
+      "attributes": {
+        "type": "button",
+        "aria-expanded": "false",
+        "aria-controls": "gov-banner-default"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Taxes",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Disasters and emergencies",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Government benefits",
+      "attributes": {
+        "href": "/benefits"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "HealthGet information about health insurance, various health conditions, and help with medical bills.",
+      "attributes": {
+        "href": "/health"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Voting and electionsFind out how to register to vote, where your voting location is, how presidential elections work, and more about voting in the United States.",
+      "attributes": {
+        "href": "/voting-and-elections"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Disasters and emergencies",
+      "attributes": {
+        "href": "/disasters-and-emergencies"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "TaxesLearn about filing federal income tax. Find out how to pay, how to check your refund, and more.",
+      "attributes": {
+        "href": "/taxes"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/themes/custom/usagov/assets/img/usa-icons/close.svg",
+        "alt": "Close"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Jobs, labor laws, and unemploymentGet resources for finding a job. Learn about unemployment insurance and important labor laws.",
+      "attributes": {
+        "href": "/jobs-labor-laws-unemployment"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Small businessLearn how to start your own business, including imports and exports.",
+      "attributes": {
+        "href": "/small-business"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "back-to-top",
+      "classes": [],
+      "text": "Top",
+      "attributes": {
+        "id": "back-to-top",
+        "href": "#main-content",
+        "aria-label": "Back to top"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "usa-menu-btn"
+      ],
+      "text": "Menu",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "usa-banner__icon",
+        "usa-media-block__img"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/themes/custom/usagov/assets/img/icon-https.svg",
+        "alt": "",
+        "aria-hidden": "true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "U.S. General Services Administration",
+      "attributes": {
+        "href": "https://www.gsa.gov/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Feature articles",
+      "attributes": {
+        "href": "/features"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Jobs, labor laws and unemployment",
+      "attributes": {
+        "href": "/jobs-labor-laws-unemployment"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Housing help",
+      "attributes": {
+        "href": "/housing-help"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Government benefitsFind government programs that may help pay for food, housing, health care, and more.",
+      "attributes": {
+        "href": "/benefits"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "usa-banner__icon",
+        "usa-media-block__img"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/themes/custom/usagov/assets/img/icon-dot-gov.svg",
+        "alt": "",
+        "aria-hidden": "true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Military and veterans",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "usa-nav__link"
+      ],
+      "text": "Immigration and U.S. citizenship",
+      "attributes": {
+        "href": "/immigration-and-citizenship"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/themes/custom/usagov/images/Reimagined_Jump_to_Arrow.svg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Life events",
+      "attributes": {
+        "href": "/life-events"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Taxes",
+      "attributes": {
+        "href": "/taxes"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "usa-nav__link"
+      ],
+      "text": "The U.S. and its government",
+      "attributes": {
+        "href": "/about-the-us"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Life eventsDiscover government benefits and services to help you and your family through every stage of life.",
+      "attributes": {
+        "href": "/life-events"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Accessibility policy",
+      "attributes": {
+        "href": "/accessibility-policy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "About USAGov",
+      "attributes": {
+        "href": "/about"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "1-844-USAGOV1 (1-844-872-4681)",
+      "attributes": {
+        "href": "/phone"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "main",
+      "id": "main-content",
+      "classes": [
+        "main-content",
+        "usa-layout-docs",
+        "no-footer-gap"
+      ],
+      "text": "Making government services easier to findUSA.gov helps you locate and understand government benefits, programs, and information.How do I ...Get or renew a passportFind unclaimed moneyFind how to get a REAL IDFile for unemployment benefitsJump to all topics and servicesGovernment benefits and financial assistanceDiscover government benefits that you may be eligible for and learn how to apply.Find benefitsAll topics and servicesThe U.S. and its governmentLearn about U.S. laws, history, and more. B",
+      "attributes": {
+        "id": "main-content",
+        "data-pagetype": "Home Page"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Voting and elections",
+      "attributes": {
+        "href": "/voting-and-elections"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Military and veterans",
+      "attributes": {
+        "href": "/military-and-veterans"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "footer",
+      "id": "",
+      "classes": [
+        "usa-footer",
+        "usa-footer--big"
+      ],
+      "text": "Government informationAll topics and servicesDirectory of U.S. government agencies and departmentsBranches of governmentAbout usAbout USAGovPrivacy and security policiesAccessibility policyReport a website issueWebsite usage dataFor federal agenciesPartner with usRead our blogFor mediaUSAGov OutreachFeature articlesUSAGov Contact CenterAsk USA.gov a question at1-844-USAGOV1 (1-844-872-4681)USAGov is the official guide to government information and servicesAn official website of theU.S. General S",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Disability servicesFind government benefits and programs for people with disabilities and their families.",
+      "attributes": {
+        "href": "/disability-services"
+      },
+      "computedStyles": {}
+    }
+  ]
+}

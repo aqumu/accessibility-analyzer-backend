@@ -1,0 +1,6093 @@
+{
+  "meta": {
+    "url": "https://nytimes.com",
+    "title": "The New York Times - Breaking News, US News, World News and Videos",
+    "lang": "en",
+    "charset": "UTF-8"
+  },
+  "elements": [
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Moving",
+      "attributes": {
+        "href": "https://www.nytimes.com/wirecutter/make-a-plan/moving/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "NFL",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/nfl/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-rgq5s4"
+      ],
+      "text": "Michelle CottleDemocrats Need a Wartime Consigliere. Hakeem Jeffries Isn’t One.8 min read",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/opinion/hakeem-jeffries-democrats.html",
+        "data-uri": "nyt://article/129c41fe-655a-58b7-be2e-4d05a449424e",
+        "aria-hidden": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-b3grxh"
+      ],
+      "text": "See all newsletters",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tpl-lbl",
+        "css-5mgoji"
+      ],
+      "text": "Trump Pulls Nominee for Top I.R.S. Lawyer",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/us/politics/donald-korb-irs-trump.html",
+        "data-tpl": "l"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "What to Watch and Read",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Vows",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/vows"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "MLB Standings",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/mlb/standings/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "U.S.-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "",
+      "attributes": {
+        "id": "U.S.-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "The Upshot",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/upshot"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/vi-assets/static-assets/icon-games-easymode_144x144-307b8f657d987516abff44220313daae.webp",
+        "alt": "Easy Mode Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Thanksgiving Recipes",
+      "attributes": {
+        "href": "https://cooking.nytimes.com/thanksgiving"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-1baq5tz"
+      ],
+      "text": "中文",
+      "attributes": {
+        "lang": "zh-hans",
+        "href": "https://cn.nytimes.com"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Mini to Maestro",
+      "attributes": {
+        "href": "https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-1.html"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Zeynep Tufekci",
+      "attributes": {
+        "href": "https://www.nytimes.com/by/zeynep-tufekci"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Cannonball",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/cannonball-with-wesley-morris"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-jq1cx6"
+      ],
+      "text": "Canada",
+      "attributes": {
+        "data-testid": "footer-link",
+        "href": "https://www.nytimes.com/ca/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Science",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/science"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "On TechOur best tech reporting from the week.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/on-tech"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2020/09/21/podcasts/modernlove-logo/modernlove-logo-thumbLarge-v3.jpg?quality=75&auto=webp&disable=upscale",
+        "alt": "Modern Love Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Tech",
+      "attributes": {
+        "href": "https://www.nytimes.com/wirecutter/electronics/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "css-19wyrnd"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "aria-label": "open Lifestyle submenu",
+        "data-navid": "Lifestyle"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Energy Transition",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/business/energy-environment"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Opinion",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/opinion"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-777zgl"
+      ],
+      "text": "SKIP ADVERTISEMENT",
+      "attributes": {
+        "href": "#after-dfp-ad-mid1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Robot Vacuum",
+      "attributes": {
+        "href": "https://www.nytimes.com/wirecutter/reviews/best-robot-vacuum/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Politics",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/politics"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/vi-assets/static-assets/icon-gameplay_144x144-b6cc5e2a7cc27a43096274a02921329c.webp",
+        "alt": "Gameplay Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h1",
+      "id": "",
+      "classes": [
+        "css-1dv1kvn"
+      ],
+      "text": "New York Times - Top Stories",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "DealBook",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/business/dealbook"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "Interesting Times with Ross DouthatMapping the new world order through interviews and conversations.",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/interesting-times"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "The VeggieDelicious vegetarian recipes and tips from Tanya Sichynsky.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/the-veggie"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Travel",
+      "attributes": {
+        "href": "https://www.nytimes.com/wirecutter/travel/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/vi-assets/static-assets/icon-cooking_144x144-5a8be1ef711d4ba5e66b0be7a2ca8bfe.webp",
+        "alt": "The Cooking Newsletter Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Abortion",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/abortion-news"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Australia",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/world/australia"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2023/04/05/podcasts/ezra-klein-album-art/ezra-klein-album-art-thumbLarge-v3.png",
+        "alt": "The Ezra Klein Show Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-jq1cx6"
+      ],
+      "text": "Terms of Service",
+      "attributes": {
+        "data-testid": "footer-link",
+        "href": "https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-Service"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://static.nytimes.com/email-images/Sub_Only_Icons/NYT-OnTech-Icon.png",
+        "alt": "On Tech Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Business",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/opinion/business-economics"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-jq1cx6"
+      ],
+      "text": "Privacy Policy",
+      "attributes": {
+        "data-testid": "footer-link",
+        "href": "https://help.nytimes.com/hc/en-us/articles/10940941449492-The-New-York-Times-Company-Privacy-Policy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Arts-thumbnail-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Newsletters",
+      "attributes": {
+        "id": "Arts-thumbnail-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "New York",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/nyregion"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Russia-Ukraine Crisis",
+      "attributes": {
+        "href": "https://www.nytimes.com/video/ukraine"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-ed0o7b"
+      ],
+      "text": "Wordle",
+      "attributes": {
+        "href": "https://www.nytimes.com/games/wordle/index.html"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-jq1cx6"
+      ],
+      "text": "©2025The New York Times Company",
+      "attributes": {
+        "href": "https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-Notice"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "css-19wyrnd"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "aria-label": "open Opinion submenu",
+        "data-navid": "Opinion"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Dinner",
+      "attributes": {
+        "href": "https://cooking.nytimes.com/topics/dinner-recipes"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tpl-lbl",
+        "css-5mgoji"
+      ],
+      "text": "Pioneering U.S. Street Photography, With Vienna in the Background",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/13/arts/design/lisette-model-albertina-veinna.html",
+        "data-tpl": "l"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "Easy ModeGet an easy version of one of the hardest crossword puzzles of the week.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/easy-mode"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-u90q6n"
+      ],
+      "text": "Lifestyle",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/lifestyle",
+        "data-navid": "Lifestyle"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-ed0o7b"
+      ],
+      "text": "Connections",
+      "attributes": {
+        "href": "https://www.nytimes.com/games/connections"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Best Sellers",
+      "attributes": {
+        "href": "https://www.nytimes.com/books/best-sellers"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "World-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Sections",
+      "attributes": {
+        "id": "World-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-u90q6n"
+      ],
+      "text": "Opinion",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/opinion",
+        "data-navid": "Opinion"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-jq1cx6"
+      ],
+      "text": "NYTCo",
+      "attributes": {
+        "data-testid": "footer-link",
+        "href": "https://www.nytco.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "DealBookThe most crucial business and policy news you need to know.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/dealbook"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-u90q6n"
+      ],
+      "text": "Wirecutter",
+      "attributes": {
+        "href": "https://www.nytimes.com/wirecutter/",
+        "data-navid": "Wirecutter"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "site-index",
+      "classes": [
+        "css-1jmk4jh"
+      ],
+      "text": "Site Index",
+      "attributes": {
+        "id": "site-index",
+        "aria-labelledby": "site-index-label",
+        "data-testid": "site-index"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/vi-assets/static-assets/icon-well_144x144-433c9d15dc985dded9b705942592c6fb.webp",
+        "alt": "Well Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Arts-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Recommendations",
+      "attributes": {
+        "id": "Arts-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Games-thumbnail-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Newsletters",
+      "attributes": {
+        "id": "Games-thumbnail-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "css-1dv1kvn"
+      ],
+      "text": "Site Information Navigation",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "css-19wyrnd"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "aria-label": "open Arts submenu",
+        "data-navid": "Arts"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-ed0o7b"
+      ],
+      "text": "Letter Boxed",
+      "attributes": {
+        "href": "https://www.nytimes.com/puzzles/letter-boxed"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Europe",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/world/europe"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Breakfast",
+      "attributes": {
+        "href": "https://cooking.nytimes.com/topics/breakfast"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/vi-assets/static-assets/icon-athletic-pulse_144x144-393cbda91e2678278456723b62a9b21f.webp",
+        "alt": "The Pulse Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Well",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/well"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-1ii2lp6"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "Michelle Goldberg",
+        "loading": "lazy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Opinion-thumbnail-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Podcasts",
+      "attributes": {
+        "id": "Opinion-thumbnail-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Modern Love",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/modern-love"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Home and Garden",
+      "attributes": {
+        "href": "https://www.nytimes.com/wirecutter/home-garden/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Healthy Breakfast Ideas",
+      "attributes": {
+        "href": "https://cooking.nytimes.com/68861692-nyt-cooking/16596-healthy-breakfast-ideas"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Canada",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/world/canada"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-ed0o7b"
+      ],
+      "text": "The Mini Crossword",
+      "attributes": {
+        "href": "https://www.nytimes.com/crosswords/game/mini"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tpl-lbl",
+        "css-5mgoji"
+      ],
+      "text": "Trump Administration Lifts Some Food Tariffs in Effort to Ease Prices",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/business/economy/trump-food-tariffs-inflation.html",
+        "data-tpl": "l"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/03/25/multimedia/tamc-032525-connections-sports-edition-hp-img/tamc-032525-connections-sports-edition-hp-img-smallSquare252.png?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "css-1qle2ps"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "aria-label": "Next",
+        "data-testid": "Disappearing-Next",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "World",
+      "attributes": {
+        "href": "https://www.nytimes.com/video/world"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Wirecutter-thumbnail-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Newsletters",
+      "attributes": {
+        "id": "Wirecutter-thumbnail-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2020/03/23/crosswords/crossword-logo-nytgames-hires/crossword-logo-nytgames-hires-smallSquare252-v3.png?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Reporter Reads",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/reporter-reads"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/09/22/multimedia/00biz-pulte-homes-qwpv/00biz-pulte-homes-qwpv-threeByTwoMediumAt2X.jpg?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": "A row of mobile homes with cars parked outside. Plywood covers the windows at the end of the home in the foreground. "
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "The Ethicist",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/the-ethicist"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "The Athletic-thumbnail-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Newsletters",
+      "attributes": {
+        "id": "The Athletic-thumbnail-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-9mylee"
+      ],
+      "text": "Housing Official Who Attacked Democrats Invokes a Disputed Family LegacyBill Pulte has called out prominent Democrats for issues with mortgage documents. Some at his family’s business bristle at how he has enhanced his reputation.10 min readSaul Martinez for The New York Times",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/business/bill-pulte-mobile-homes-fhfa.html",
+        "data-uri": "nyt://article/18aab0aa-4891-589b-adfd-f8f713a1890e",
+        "aria-hidden": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-ed0o7b"
+      ],
+      "text": "The Crossword",
+      "attributes": {
+        "href": "https://www.nytimes.com/crosswords/game/daily/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Gail Collins",
+      "attributes": {
+        "href": "https://www.nytimes.com/by/gail-collins"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Politics",
+      "attributes": {
+        "href": "https://www.nytimes.com/video/politics"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "The Book Review Podcast",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/book-review-podcast"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-dzl7b5"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "An exterior view of a skyscraper housing A.I.G.’s headquarters in Manhattan.",
+        "loading": "lazy",
+        "fetchpriority": "auto"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-jq1cx6"
+      ],
+      "text": "Contact Us",
+      "attributes": {
+        "data-testid": "footer-link",
+        "href": "https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-The-New-York-Times"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "The Athletic-links-icons-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Play",
+      "attributes": {
+        "id": "The Athletic-links-icons-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-dzl7b5"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "John Beam, wearing a green track suit, leans against bleachers.",
+        "loading": "lazy",
+        "fetchpriority": "auto"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-1baq5tz"
+      ],
+      "text": "International",
+      "attributes": {
+        "lang": "en",
+        "href": "/international/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "The Magazine",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/magazine"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-dzl7b5"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "Melissa Parker Leonard, one of Ely Parker’s descendants, at the podium.",
+        "loading": "lazy",
+        "fetchpriority": "auto"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2017/01/29/podcasts/the-daily-album-art/the-daily-album-art-mediumSquare149-v3.jpg?quality=75&auto=webp&disable=upscale",
+        "alt": "The Daily Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2022/09/28/podcasts/hard-fork-album-art/hard-fork-album-art-mediumSquare149-v2.png?quality=75&auto=webp&disable=upscale",
+        "alt": "Hard Fork Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2020/03/23/crosswords/spelling-bee-logo-nytgames-hi-res/spelling-bee-logo-nytgames-hi-res-smallSquare252-v4.png?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "All Lifestyle",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/lifestyle"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Lifestyle-thumbnail-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Podcasts",
+      "attributes": {
+        "id": "Lifestyle-thumbnail-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Well",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Education",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/education"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Sports",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/sports"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Ask the Therapist",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/ask-the-therapist"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-jq1cx6"
+      ],
+      "text": "Advertise",
+      "attributes": {
+        "data-testid": "footer-link",
+        "href": "https://advertising.nytimes.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-9mylee"
+      ],
+      "text": "The CrosswordGet clued in with wordplay, every day.",
+      "attributes": {
+        "href": "https://www.nytimes.com/crosswords/game/daily",
+        "data-uri": "nyt://promo/f7f1225d-6bba-5864-ad80-682122a9fbbf",
+        "aria-hidden": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "css-19wyrnd"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "aria-label": "open U.S. submenu",
+        "data-navid": "U.S."
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tpl-lbl",
+        "css-5mgoji"
+      ],
+      "text": "Judge Orders U.S. Officials Not to Threaten University of California’s Funding",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/us/trump-university-of-california-funding.html",
+        "data-tpl": "l"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Audio-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Listen",
+      "attributes": {
+        "id": "Audio-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "U.S. Economy",
+      "attributes": {
+        "href": "https://www.nytimes.com/news-event/economy-business-us"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-jq1cx6"
+      ],
+      "text": "Cookie Policy",
+      "attributes": {
+        "data-testid": "footer-link",
+        "href": "https://www.nytimes.com/privacy/cookie-policy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Business-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "",
+      "attributes": {
+        "id": "Business-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/vi-assets/static-assets/icon-the-interpreter_144x144-b29b74b2ebedb8e74823f33b16fb8167.webp",
+        "alt": "The Interpreter Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-hdqqnp"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/12/14/multimedia/14trump-homepage/14trump-news-header2145-wbzq-threeByTwoMediumAt2X.jpg?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": "",
+        "fetchpriority": "high"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Office Chair",
+      "attributes": {
+        "href": "https://www.nytimes.com/wirecutter/reviews/best-office-chair/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-u90q6n"
+      ],
+      "text": "Arts",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/arts",
+        "data-navid": "Arts"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Music",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/arts/music"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Leer en Español",
+      "attributes": {
+        "href": "https://www.nytimes.com/es/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Middle East",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/world/middleeast"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Science",
+      "attributes": {
+        "href": "https://www.nytimes.com/video/science"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tpl-lbl",
+        "css-5mgoji"
+      ],
+      "text": "Trump Cuts Ties With Marjorie Taylor Greene, Calling Her ‘Wacky’",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/us/politics/trump-marjorie-taylor-greene-split.html",
+        "data-tpl": "l"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Learn more.",
+      "attributes": {
+        "href": "https://www.nytimes.com/subscription/all-access"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-1baq5tz"
+      ],
+      "text": "Canada",
+      "attributes": {
+        "lang": "en-CA",
+        "href": "/ca/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Editorials",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/opinion/editorials"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Easy Weeknight",
+      "attributes": {
+        "href": "https://cooking.nytimes.com/topics/easy-weeknight"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-jq1cx6"
+      ],
+      "text": "Site Map",
+      "attributes": {
+        "data-testid": "footer-link",
+        "href": "/sitemap/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Cooking-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Recipes",
+      "attributes": {
+        "id": "Cooking-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Soccer Transfers",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/tag/transfer-news/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "The MorningMake sense of the day’s news and ideas.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/morning-briefing"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-1pd1msn"
+      ],
+      "text": "Today’s Paper",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/todayspaper"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "css-1pvdjg1"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "aria-label": "Next",
+        "data-testid": "Disappearing-Next",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Movies",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/movies"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Cheap and Easy Dinner Ideas",
+      "attributes": {
+        "href": "https://cooking.nytimes.com/68861692-nyt-cooking/41238156-cheap-and-easy-dinner-ideas"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/04/02/podcasts/ross-douthat-album-art/ross-douthat-album-art-thumbLarge.jpg",
+        "alt": "Interesting Times with Ross Douthat Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/vi-assets/static-assets/icon-the-morning_144x144-b12a6923b6ad9102b766352261b1a847.webp",
+        "alt": "The Morning Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Food",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/food"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Artificial Intelligence",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/artificial-intelligence"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/11/11/briefing/12nat-immig-separations-F-slide-OFX3/12nat-immig-separations-F-slide-OFX3-threeByTwoMediumAt2X.jpg?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Bret Stephens",
+      "attributes": {
+        "href": "https://www.nytimes.com/by/bret-stephens"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Media",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/business/media"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Quick",
+      "attributes": {
+        "href": "https://cooking.nytimes.com/68861692-nyt-cooking/43843372-quick-recipes"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-9mylee"
+      ],
+      "text": "Andrew Leyden for The New York TimesFlight Cuts Imposed During Shutdown Will Be Reduced by HalfThe leaders of the F.A.A. and the Department of Transportation said they would continue monitoring air traffic controller staffing.3 min read",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/us/politics/flights-restrictions-travel-faa.html",
+        "data-uri": "nyt://article/8bdb0048-7c72-57e3-8ea1-31af31ae3e3c",
+        "aria-hidden": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Michelle Goldberg",
+      "attributes": {
+        "href": "https://www.nytimes.com/by/michelle-goldberg"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "The OpinionsYou've heard the news, here's what to make of it.",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/the-opinions"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Climate",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/opinion/environment"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "footer",
+      "classes": [
+        "css-1qa4qp6"
+      ],
+      "text": "Site Information Navigation©2025The New York Times CompanyNYTCoContact UsAccessibilityWork with usAdvertiseT Brand StudioPrivacy PolicyCookie PolicyTerms of ServiceTerms of SaleSite MapCanadaInternationalHelpSubscriptionsManage Privacy Preferences",
+      "attributes": {
+        "id": "footer",
+        "data-testid": "footer"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/11/11/briefing/12nat-immig-separations-F-slide-PSFB/12nat-immig-separations-F-slide-PSFB-threeByTwoMediumAt2X.jpg?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "PopcastPop music news, new songs and albums, and artists of note.",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/popcast-pop-music-podcast"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Sleep",
+      "attributes": {
+        "href": "https://www.nytimes.com/wirecutter/sleep/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Arts-thumbnail-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Podcasts",
+      "attributes": {
+        "id": "Arts-thumbnail-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/12/14/multimedia/14trump-homepage/14trump-news-header2145-wbzq-threeByTwoMediumAt2X.jpg?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/vi-assets/static-assets/icon_scoop_city_144x144-d0fc86b7506a3e8c0558a4e72a29a963.webp",
+        "alt": "Scoop City Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-dzl7b5"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "A pedestrian with an umbrella walks on a bridge over a rain-soaked freeway.",
+        "loading": "lazy",
+        "fetchpriority": "auto"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [],
+      "text": "U.S.SectionsU.S.PoliticsNew YorkCaliforniaEducationHealthObituariesScienceClimateWeatherSportsBusinessTechThe UpshotThe MagazineTop StoriesDonald TrumpSupreme CourtCongressImmigrationAbortionNewslettersThe MorningMake sense of the day’s news and ideas.The EveningCatch up on big news, and wind down to end your day.See all newslettersPodcastsThe DailyThe biggest stories of our time, in 20 minutes a day.See all podcastsWorldSectionsWorldAfricaAmericasAsiaAustraliaCanadaEuropeMiddle EastScienceClima",
+      "attributes": {
+        "aria-label": "Main",
+        "data-testid": "desktop-nested-nav"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Economy",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/business/economy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Slow Cooker Recipes",
+      "attributes": {
+        "href": "https://cooking.nytimes.com/68861692-nyt-cooking/950138-amazing-slow-cooker-recipes"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Wordplay Column",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/daily-crossword-column"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Wirecutter-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "The Best...",
+      "attributes": {
+        "id": "Wirecutter-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "The RecommendationThe best independent reviews, expert advice and intensively researched deals.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/the-recommendation"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Books",
+      "attributes": {
+        "href": "https://www.nytimes.com/video/Books"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-ed0o7b"
+      ],
+      "text": "Connections Coach",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/tag/connections-sports-edition-coach/",
+        "style": "white-space:pre-wrap"
+      },
+      "computedStyles": {
+        "whiteSpace": "pre-wrap"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "Book ReviewThe podcast that takes you inside the literary world.",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/book-review-podcast"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-dzl7b5"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "An older Elizabeth Franz sits on a bed behind a heavyset man with thinning white hair wearing a plaid vest and pants, her hands on his shoulders.",
+        "loading": "lazy",
+        "fetchpriority": "auto"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "U.S.",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/us"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/13/arts/design/lisette-model-albertina-veinna.html",
+        "aria-label": "Link to article page"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Kitchen",
+      "attributes": {
+        "href": "https://www.nytimes.com/wirecutter/kitchen-dining/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Africa",
+      "attributes": {
+        "href": "https://www.nytimes.com/video/africa"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "College Football",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/college-football/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Business",
+      "attributes": {
+        "href": "https://www.nytimes.com/video/business"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "The DailyThe biggest stories of our time, in 20 minutes a day.",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/the-daily"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "CookingRecipes, advice and inspiration for everyday cooking, special occasions and more.",
+      "attributes": {
+        "href": "https://cooking.nytimes.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "css-19wyrnd"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "aria-label": "open Cooking submenu",
+        "data-navid": "Cooking"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-9mylee"
+      ],
+      "text": "Seneca Soldier and Statesman Can Finally Add Lawyer to His LegacyEly Samuel Parker, a Native American who died in 1895, was finally admitted to the bar on Friday and celebrated by members of the Seneca Nation.4 min readTony Cenicola/The New York Times",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/nyregion/ely-samuel-parker-new-york-native-american.html",
+        "data-uri": "nyt://article/2e573748-99f6-5357-b22d-bcab0e8e4390",
+        "aria-hidden": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "_poster_9lakg_19"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/11/12/arts/SOTW_JOJI/SOTW_JOJI-verticalTwoByThree735.png?auto=webp&quality=30&disable=upscale&format=pjpg",
+        "data-testid": "betamax-poster",
+        "fetchpriority": "high"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "footer",
+      "id": "",
+      "classes": [
+        "css-1e1s8k7"
+      ],
+      "text": "Site Information Navigation©2025The New York Times CompanyNYTCoContact UsAccessibilityWork with usAdvertiseT Brand StudioPrivacy PolicyCookie PolicyTerms of ServiceTerms of SaleSite MapCanadaInternationalHelpSubscriptionsManage Privacy Preferences",
+      "attributes": {
+        "role": "contentinfo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tpl-lbl",
+        "css-5mgoji"
+      ],
+      "text": "The Editorial BoardTrump’s Spending Abuses Are Out of Control",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/opinion/trump-congress-spending-power.html",
+        "data-tpl": "l"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-9mylee"
+      ],
+      "text": "A.I.G. Parts Ways With Incoming President Before He Assumes RoleJohn Neal’s withdrawal from the insurer comes as the company grapples with another high-profile departure.5 min readJames Estrin/The New York Times",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/nyregion/aig-president-relationship-job.html",
+        "data-uri": "nyt://article/d229b36e-bd3d-51d1-9190-7256529e5375",
+        "aria-hidden": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Health",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/health"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Tennis",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/tennis/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Tech",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/opinion/technology"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2022/10/12/podcasts/headlines-albumartwork-audioapp-2/headlines-albumartwork-audioapp-2-thumbLarge.png?quality=75&auto=webp&disable=upscale",
+        "alt": "The Headlines Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "The WeekenderUnwind with stories about culture and the way we live.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/weekender"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Culture",
+      "attributes": {
+        "href": "https://www.nytimes.com/video/arts"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "NCAAM",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/college-basketball/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-1baq5tz"
+      ],
+      "text": "U.S.",
+      "attributes": {
+        "lang": "en-US",
+        "aria-current": "page",
+        "href": "/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Dessert",
+      "attributes": {
+        "href": "https://cooking.nytimes.com/topics/desserts"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Submit a Crossword",
+      "attributes": {
+        "href": "https://www.nytimes.com/article/submit-crossword-puzzles-the-new-york-times.html"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "World-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Top Stories",
+      "attributes": {
+        "id": "World-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "The HeadlinesYour morning listen. Top stories, in 10 minutes.",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/the-headlines"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tpl-lbl",
+        "css-5mgoji"
+      ],
+      "text": "She Was Deported in Error. Her Child Was Left Behind.",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/us/trump-deportations-families.html",
+        "data-tpl": "l"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "The Opinions",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/the-opinions"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "NY Region",
+      "attributes": {
+        "href": "https://www.nytimes.com/video/n-y-region"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-jq1cx6"
+      ],
+      "text": "International",
+      "attributes": {
+        "data-testid": "footer-link",
+        "href": "https://www.nytimes.com/international/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Baby and Kid",
+      "attributes": {
+        "href": "https://www.nytimes.com/wirecutter/baby-kid/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2021/03/23/multimedia/alpha-mini-promo-1616527576800/alpha-mini-promo-1616527576800-smallSquare252-v4.png?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Middle East Crisis",
+      "attributes": {
+        "href": "https://www.nytimes.com/news-event/israel-hamas-gaza"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2022/03/02/crosswords/alpha-wordle-icon-new/alpha-wordle-icon-new-smallSquare252-v3.png?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2011/05/20/multimedia/music-popcast/music-popcast-thumbLarge-v3.jpg?quality=75&auto=webp&disable=upscale",
+        "alt": "Popcast Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "5 Minutes to Make You Love Music",
+      "attributes": {
+        "href": "https://www.nytimes.com/interactive/2023/10/27/arts/music/music-fivemins-collection.html"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Premier League",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/football/premier-league/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Finance and Markets",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/markets-overview"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Watch Today’s Videos",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-9mylee"
+      ],
+      "text": "Mamdani Urged Lander to Run for Congress After Passing Him Over for PostZohran Mamdani’s decision not to offer Brad Lander a job in City Hall demonstrates the incoming mayor’s unsentimental calculations as he builds his team.6 min readHiroko Masuike/The New York Times",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/nyregion/mamdani-lander-dan-goldman.html",
+        "data-uri": "nyt://article/e4dff15a-518c-5c23-b62d-f47746a02ee2",
+        "aria-hidden": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-1baq5tz"
+      ],
+      "text": "Español",
+      "attributes": {
+        "lang": "es-ES",
+        "href": "https://www.nytimes.com/es/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/11/14/multimedia/14met-upstate-parker-homepage/14met-upstate-parker-homepage-threeByTwoMediumAt2X.jpg?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": "Melissa Parker Leonard, one of Ely Parker’s descendants, at the podium."
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Immigration",
+      "attributes": {
+        "href": "https://www.nytimes.com/news-event/immigration-us"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-b3grxh"
+      ],
+      "text": "See all newsletters",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/5803046/2024/09/30/the-athletic-newsletters-sign-up/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Pressure Washer",
+      "attributes": {
+        "href": "https://www.nytimes.com/wirecutter/reviews/best-pressure-washer/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2023/08/25/crosswords/alpha-connections-icon-original/alpha-connections-icon-original-smallSquare252.png?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "NCAAW",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/womens-college-basketball/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [],
+      "text": "U.S.SectionsU.S.PoliticsNew YorkCaliforniaEducationHealthObituariesScienceClimateWeatherSportsBusinessTechThe UpshotThe MagazineTop StoriesDonald TrumpSupreme CourtCongressImmigrationAbortionNewslettersThe MorningMake sense of the day’s news and ideas.The EveningCatch up on big news, and wind down to end your day.See all newslettersPodcastsThe DailyThe biggest stories of our time, in 20 minutes a day.See all podcastsWorldSectionsWorldAfricaAmericasAsiaAustraliaCanadaEuropeMiddle EastScienceClima",
+      "attributes": {
+        "aria-label": "Main",
+        "data-testid": "floating-desktop-nested-nav"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "css-19wyrnd"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "aria-label": "open Games submenu",
+        "data-navid": "Games"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "The PulseDelivering the top stories in sports, Sunday to Friday.",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/newsletters/the-pulse/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Audio-thumbnail-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Featured",
+      "attributes": {
+        "id": "Audio-thumbnail-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "What to Watch",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/what-to-watch"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tpl-lbl",
+        "css-5mgoji"
+      ],
+      "text": "Disney and YouTube TV End Blackout",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/business/disney-youtube-tv-deal.html",
+        "data-tpl": "l"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tpl-lbl",
+        "css-5mgoji"
+      ],
+      "text": "Dog Accidentally Shoots and Injures a Pennsylvania Man, the Police Say",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/us/dog-shoots-owner-pennsylvania.html",
+        "data-tpl": "l"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-u90q6n"
+      ],
+      "text": "World",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/world",
+        "data-navid": "World"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-ed0o7b"
+      ],
+      "text": "Connections:\nSports Edition",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/connections-sports-edition",
+        "style": "white-space:pre-wrap"
+      },
+      "computedStyles": {
+        "whiteSpace": "pre-wrap"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "California",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/california-news"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [],
+      "text": "Cooking",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-u90q6n"
+      ],
+      "text": "Audio",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/podcasts",
+        "data-navid": "Audio"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/vi-assets/static-assets/icon-audio_144x144-dc00c6581be29065cbd19ec7a83a3767.webp",
+        "alt": "Audio Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "css-1pvdjg1"
+      ],
+      "text": "",
+      "attributes": {
+        "disabled": "",
+        "type": "button",
+        "aria-label": "Next",
+        "data-testid": "Disappearing-Next",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Culture and Lifestyle",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Tressie McMillan Cottom",
+      "attributes": {
+        "href": "https://www.nytimes.com/by/tressie-mcmillan-cottom"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-9mylee"
+      ],
+      "text": "Todd Heisler/The New York TimesTodd Heisler/The New York TimesTodd Heisler/The New York TimesTodd Heisler/The New York Times",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/us/trump-deportations-families.html",
+        "data-uri": "nyt://article/356513ff-7166-590b-bf5c-b94ec2572a78",
+        "aria-hidden": "true",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-9mylee"
+      ],
+      "text": "Eric U. Exit/Goodman TheaterElizabeth Franz, Versatile Tony-Winning Actress, Is Dead at 84She won the award for her performance as Linda Loman in a Broadway revival of “Death of a Salesman” and played Kate Jerome in two Neil Simon comedies.5 min read",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/theater/elizabeth-franz-dead.html",
+        "data-uri": "nyt://article/0ad75cd8-f044-5bbb-90cd-487db730b8c9",
+        "aria-hidden": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "GameplayPuzzles, brain teasers, solving tips and more.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/gameplay"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "U.S.-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Sections",
+      "attributes": {
+        "id": "U.S.-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "World-thumbnail-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "",
+      "attributes": {
+        "id": "World-thumbnail-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "css-19wyrnd"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "aria-label": "open Wirecutter submenu",
+        "data-navid": "Wirecutter"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "The WorldA guide to understanding the news, made for readers around the globe.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/the-world"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://static.nytimes.com/email-images/NYT-Newsletters-Serial-Icon-500px.jpg",
+        "alt": "Serial Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-jq1cx6"
+      ],
+      "text": "Manage Privacy Preferences",
+      "attributes": {
+        "data-testid": "privacy-preferences-link",
+        "rel": "noreferrer noopener",
+        "target": "_blank",
+        "href": "/privacy/manage-settings"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Arts-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Sections",
+      "attributes": {
+        "id": "Arts-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "AudioOur editors share their favorite listens from The Times and beyond.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/audio"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "More News",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-9mylee"
+      ],
+      "text": "The Heaviest Rain Is Yet to Come for Southern CaliforniansAn unusually powerful storm moving through the region prompted some evacuation orders before heavy rain on Saturday.4 min readJae C. Hong/Associated Press",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/weather/california-rain-flood-storm-los-angeles-forecast.html",
+        "data-uri": "nyt://article/0bbd2fd4-26fa-5e05-a11c-791b6e8cd112",
+        "aria-hidden": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tpl-lbl",
+        "css-5mgoji"
+      ],
+      "text": "Trump Escalates Pressure on Venezuela, but Endgame Is Unclear",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/us/politics/trump-pressure-venezuela.html",
+        "data-tpl": "l"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Climate",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/climate"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-u90q6n"
+      ],
+      "text": "Cooking",
+      "attributes": {
+        "href": "https://cooking.nytimes.com/",
+        "data-navid": "Cooking"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-jq1cx6"
+      ],
+      "text": "T Brand Studio",
+      "attributes": {
+        "data-testid": "footer-link",
+        "href": "https://advertising.nytimes.com/custom-content/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "main",
+      "id": "site-content",
+      "classes": [],
+      "text": "New York Times - Top StoriesAnalysisJustice Department to Investigate Epstein Ties, but Not to TrumpThe move appeared to be retaliation after Democrats released emails suggesting President Trump knew about Jeffrey Epstein’s sex-trafficking operation.6 min readTrump Cuts Ties With Marjorie Taylor Greene, Calling Her ‘Wacky’The rupture exposes the splits within President Trump’s MAGA base over the Epstein files and more.3 min readPete Marovich for The New York TimesA Tiny West Wing Office Is Big o",
+      "attributes": {
+        "id": "site-content"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/11/14/multimedia/14met-aig-bldg-vzqk/14met-aig-bldg-vzqk-threeByTwoMediumAt2X.jpg?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": "An exterior view of a skyscraper housing A.I.G.’s headquarters in Manhattan."
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "_next-button_15rhh_66"
+      ],
+      "text": "",
+      "attributes": {
+        "aria-label": "Next"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Business-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Top Stories",
+      "attributes": {
+        "id": "Business-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "SerialBe the first to know about our new shows.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/serial"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Ross Douthat",
+      "attributes": {
+        "href": "https://www.nytimes.com/by/ross-douthat"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Americas",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/world/americas"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Carlos Lozada",
+      "attributes": {
+        "href": "https://www.nytimes.com/by/carlos-lozada"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "NBA",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/nba/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kgn7zc"
+      ],
+      "text": "Skip to site index",
+      "attributes": {
+        "href": "#site-index"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/06/24/podcasts/retrievals-season-2-album-art/retrievals-season-2-02-square320.jpg",
+        "alt": "Serial: The Retrievals\nSeason 2 Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Your Money",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/your-money"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Social Q’s",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/social-qs"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "WellEssential news and guidance to live your healthiest life.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/well"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-1qcrlqu",
+        "eoab3xr0"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "/",
+        "aria-label": "New York Times homepage"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Nicholas Kristof",
+      "attributes": {
+        "href": "https://www.nytimes.com/by/nicholas-kristof"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "South Asia",
+      "attributes": {
+        "href": "https://www.nytimes.com/video/india"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-c38y3b"
+      ],
+      "text": "See all videos",
+      "attributes": {
+        "href": "https://www.nytimes.com/video"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-777zgl"
+      ],
+      "text": "SKIP ADVERTISEMENT",
+      "attributes": {
+        "href": "#after-dfp-ad-top"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Weather",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/weather"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Opinion-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Columnists",
+      "attributes": {
+        "id": "Opinion-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Games-links-icons-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "",
+      "attributes": {
+        "id": "Games-links-icons-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Hard Fork",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/hard-fork"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "The Global Profile",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/the-global-profile"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Today's Videos",
+      "attributes": {
+        "href": "https://www.nytimes.com/video/watch",
+        "rel": "nofollow"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kgn7zc"
+      ],
+      "text": "Skip to content",
+      "attributes": {
+        "href": "#site-content"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Interesting Times",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/interesting-times"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "WatchingStreaming TV and movie recommendations.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/watching"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-9mylee"
+      ],
+      "text": "ConnectionsGroup words that share a common thread.",
+      "attributes": {
+        "href": "https://www.nytimes.com/games/connections?GAMES_connectionsRollout_1130=1_ConnectionsV2",
+        "data-uri": "nyt://promo/03b461e3-31bb-5fd0-be52-8fa3e27c8e6b",
+        "aria-hidden": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Popcast",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/popcast-pop-music-podcast"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/11/07/multimedia/14flight-homepage/14flight-homepage-threeByTwoMediumAt2X.jpg?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/11/13/multimedia/13xp-beam-khpf/13xp-beam-khpf-threeByTwoMediumAt2X.jpg?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": "John Beam, wearing a green track suit, leans against bleachers."
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-9mylee"
+      ],
+      "text": "Play Connections: Sports Edition",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/connections-sports-edition",
+        "data-uri": "nyt://promo/33c6cf3c-8cb0-5a2d-a8a7-00100ea32be4",
+        "aria-hidden": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Americas",
+      "attributes": {
+        "href": "https://www.nytimes.com/video/americas"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Critic’s Picks",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/critics-picks"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "David Brooks",
+      "attributes": {
+        "href": "https://www.nytimes.com/by/david-brooks"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "The Cooking NewsletterNew recipes, easy dinner ideas and smart kitchen tips from Melissa Clark, Sam Sifton and our New York Times Cooking editors.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/cooking"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Jamelle Bouie",
+      "attributes": {
+        "href": "https://www.nytimes.com/by/jamelle-bouie"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "WNBA",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/wnba/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Lydia Polgreen",
+      "attributes": {
+        "href": "https://www.nytimes.com/by/lydia-polgreen"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Op-Docs",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/op-docs"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Cooking-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Editors' Picks",
+      "attributes": {
+        "id": "Cooking-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Russia-Ukraine War",
+      "attributes": {
+        "href": "https://www.nytimes.com/news-event/ukraine-russia"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Cooking-thumbnail-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Newsletters",
+      "attributes": {
+        "id": "Cooking-thumbnail-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Culture",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/opinion/culture"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-ed0o7b"
+      ],
+      "text": "Spelling Bee",
+      "attributes": {
+        "href": "https://www.nytimes.com/puzzles/spelling-bee"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "The Ezra Klein Show",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/ezra-klein-podcast"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://static.nytimes.com/email-images/newsletters/Weekender/NYT-TheWeekender-Icon.jpg",
+        "alt": "The Weekender Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/vi-assets/static-assets/icon-the-recommendation_144x144-3e66bd6cc82013bd511c31a8f04d4ff7.webp",
+        "alt": "The Recommendation Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Asia",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/world/asia"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "Five Weeknight DishesDinner ideas for busy people from Emily Weinstein.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/five-weeknight-dishes"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Dance",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/arts/dance"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "css-19wyrnd"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "aria-label": "open Business submenu",
+        "data-navid": "Business"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-ed0o7b"
+      ],
+      "text": "Strands",
+      "attributes": {
+        "href": "https://www.nytimes.com/games/strands"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Spelling Bee Forum",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/spelling-bee-forum"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "Hard ForkOur tech journalists help you make sense of the rapidly changing tech world.",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/hard-fork"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "_poster_9lakg_19"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/11/12/multimedia/12xp-penny-kwjv/12xp-penny-kwjv-verticalTwoByThree735-v2.jpg?auto=webp&quality=30&disable=upscale&format=pjpg",
+        "data-testid": "betamax-poster",
+        "fetchpriority": "high"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Letters",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/opinion/letters"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Television",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/arts/television"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/vi-assets/static-assets/icon-canada-letter_144x144-65d899377edbcce9773d31fd03a77e8d.webp",
+        "alt": "Canada Letter Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Gifts",
+      "attributes": {
+        "href": "https://www.nytimes.com/wirecutter/gifts/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "css-u9thtu"
+      ],
+      "text": "",
+      "attributes": {
+        "disabled": "",
+        "type": "button",
+        "aria-label": "Previous",
+        "data-testid": "Disappearing-Next",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Personal Tech",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/technology/personaltech"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Supreme Court",
+      "attributes": {
+        "href": "https://www.nytimes.com/topic/organization/us-supreme-court"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-9mylee"
+      ],
+      "text": "Spelling BeeHow many words can you make with 7 letters?",
+      "attributes": {
+        "href": "https://www.nytimes.com/puzzles/spelling-bee",
+        "data-uri": "nyt://promo/8788a6e9-0db1-5c7c-a8e8-d82c37ccfdd0",
+        "aria-hidden": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/vi-assets/static-assets/icon-yourplaces-globalupdate_144x144-c25aba1c2904f301a08ad33183f723c6.webp",
+        "alt": "Your Places: Global Update Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "F1",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/formula-1/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "The Athletic-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Top Stories",
+      "attributes": {
+        "id": "The Athletic-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Book Review",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/books"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "Your Places: Global UpdateThe latest news for any part of the world you select.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/your-places-global-update"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Ezra Klein",
+      "attributes": {
+        "href": "https://www.nytimes.com/by/ezra-klein"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Visual Arts",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/arts/design"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "The AthleticPersonalized coverage of your sports teams and leagues.",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-jq1cx6"
+      ],
+      "text": "Terms of Sale",
+      "attributes": {
+        "data-testid": "footer-link",
+        "href": "https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-Sale"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/06/09/podcasts/cannonball-album-art/cannonball-album-art-thumbLarge.png",
+        "alt": "Cannonball with Wesley Morris Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "css-19wyrnd"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "aria-label": "open World submenu",
+        "data-navid": "World"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-ed0o7b"
+      ],
+      "text": "PipsNEW",
+      "attributes": {
+        "href": "http://nytimes.com/games/pips"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://static.nytimes.com/email-images/Newsletter%20Icons/NYT-Newsletters-TheWorld-Icon%20(3).jpg",
+        "alt": "The World Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-9mylee"
+      ],
+      "text": "The AthleticSports coverage",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/",
+        "data-uri": "",
+        "aria-hidden": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Audio-thumbnail-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Newsletters",
+      "attributes": {
+        "id": "Audio-thumbnail-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Appliances",
+      "attributes": {
+        "href": "https://www.nytimes.com/wirecutter/appliances/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Donald Trump",
+      "attributes": {
+        "href": "https://www.nytimes.com/video/donald-trump"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "World",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/opinion/international-world"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tpl-lbl",
+        "css-5mgoji"
+      ],
+      "text": "Interesting Times With Ross Douthat‘This Is the War Against Human Nature’",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/opinion/paul-kingsnorth-humanity-technology.html",
+        "data-tpl": "l"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://static.nytimes.com/email-images/NYT-Newsletters-TheEvening-Icon.jpg ",
+        "alt": "The Evening Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-jq1cx6"
+      ],
+      "text": "Accessibility",
+      "attributes": {
+        "data-testid": "footer-link",
+        "href": "https://help.nytimes.com/hc/en-us/articles/115015727108-Accessibility"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Pop Culture",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/pop-culture"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-9mylee"
+      ],
+      "text": "Football Coach From Netflix’s ‘Last Chance U’ Dies After Being ShotJohn Beam died after being shot at Laney College in Oakland, Calif., where he was athletic director. A man was charged in connection with the shooting.4 min readAndres Gonzalez for The New York Times",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/13/us/john-beam-laney-college-shooting-last-chance.html",
+        "data-uri": "nyt://article/b7f81d4f-fad7-580a-9436-a506b86e2433",
+        "aria-hidden": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Donald Trump",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/donald-trump"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Real Estate",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/realestate"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "The Ezra Klein ShowDiscussions of ideas that matter, plus book recommendations.",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/ezra-klein-podcast"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-9mylee"
+      ],
+      "text": "PipsPlace every domino in the right spot.",
+      "attributes": {
+        "href": "/games/pips",
+        "data-uri": "nyt://promo/c829c867-9ed8-5dd5-a81f-011769941a07",
+        "aria-hidden": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Vegetarian",
+      "attributes": {
+        "href": "https://cooking.nytimes.com/topics/vegetarian"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Africa",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/world/africa"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Serial Productions",
+      "attributes": {
+        "href": "https://www.nytimes.com/interactive/2022/podcasts/serial-productions.html"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Visual Investigations",
+      "attributes": {
+        "href": "https://www.nytimes.com/video/investigations"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Lifestyle-thumbnail-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Newsletters",
+      "attributes": {
+        "id": "Lifestyle-thumbnail-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "site-index-label",
+      "classes": [
+        "css-1dv1kvn"
+      ],
+      "text": "Site Index",
+      "attributes": {
+        "id": "site-index-label"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "_play-button_ubejr_89"
+      ],
+      "text": "",
+      "attributes": {
+        "aria-label": "Play"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-jq1cx6"
+      ],
+      "text": "Work with us",
+      "attributes": {
+        "data-testid": "footer-link",
+        "href": "https://www.nytco.com/careers/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "BooksReviews, news and features to help you find your next read.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/books-review"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Electric Toothbrush",
+      "attributes": {
+        "href": "https://www.nytimes.com/wirecutter/reviews/best-electric-toothbrush/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-u90q6n"
+      ],
+      "text": "U.S.",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/us",
+        "data-navid": "U.S."
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/vi-assets/static-assets/icon-dealbook_144x144-28e8f71aafff426804c3a92b1b176e07.webp",
+        "alt": "DealBook Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/03/19/crosswords/alpha-pips-icon/Pips-Icon-smallSquare252.png?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Lifestyle-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Sections",
+      "attributes": {
+        "id": "Lifestyle-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Lifestyle-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "",
+      "attributes": {
+        "id": "Lifestyle-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Easy",
+      "attributes": {
+        "href": "https://cooking.nytimes.com/topics/easy-recipes"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-u90q6n"
+      ],
+      "text": "Video",
+      "attributes": {
+        "href": "https://www.nytimes.com/video",
+        "data-navid": "Video"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Chicken",
+      "attributes": {
+        "href": "https://cooking.nytimes.com/topics/our-best-chicken-recipes"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "U.S.-thumbnail-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Newsletters",
+      "attributes": {
+        "id": "U.S.-thumbnail-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "China International Relations",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/china-relations"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Wirecutter-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "",
+      "attributes": {
+        "id": "Wirecutter-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/vi-assets/static-assets/icon-five-weeknight-dishes_144x144-97d51c5d4ba98233667b4057e3d852ab.webp",
+        "alt": "Five Weeknight Dishes Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-dzl7b5"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "Zohran Mamdani and Brad Lander each walk a Citi Bike on a sunny day just outside Prospect Park.",
+        "loading": "lazy",
+        "fetchpriority": "auto"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "GamesWord games, logic puzzles and crosswords, including an extensive archive.",
+      "attributes": {
+        "href": "https://www.nytimes.com/crosswords"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Wordle Review",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/wordle-review"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Health",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/opinion/health"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Wordlebot",
+      "attributes": {
+        "href": "https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-b3grxh"
+      ],
+      "text": "See all podcasts",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/podcasts"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Vegan",
+      "attributes": {
+        "href": "https://cooking.nytimes.com/topics/vegan-recipes"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tpl-lbl",
+        "css-5mgoji"
+      ],
+      "text": "ICE Scouted Site to Hold Immigrant Detainees in New York City",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/nyregion/ice-detention-facility-staten-island.html",
+        "data-tpl": "l"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-jq1cx6"
+      ],
+      "text": "Subscriptions",
+      "attributes": {
+        "data-testid": "footer-link",
+        "rel": "nofollow",
+        "href": "https://www.nytimes.com/subscription?campaignId=37WXW"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "css-19wyrnd"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "aria-label": "open The Athletic submenu",
+        "data-navid": "The Athletic"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Easy Salmon Recipes",
+      "attributes": {
+        "href": "https://cooking.nytimes.com/68861692-nyt-cooking/1334836-easy-salmon-recipes"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "NHL",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/nhl/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "The AthleticSports coverage",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Where to Eat",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/best-restaurants"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "Canada LetterBackstories and analysis from our Canadian correspondents.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/canada-letter"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-9mylee"
+      ],
+      "text": "Pete Marovich for The New York Times",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/us/politics/trump-epstein-inquiry-democrats.html",
+        "data-uri": "nyt://article/84e505ac-7cdd-5c2c-8889-0a734bcb728c",
+        "aria-hidden": "true",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "The Hunt",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/the-hunt"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Games-links-icons-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Play",
+      "attributes": {
+        "id": "Games-links-icons-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Business-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Sections",
+      "attributes": {
+        "id": "Business-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "Cannonball with Wesley MorrisCome on in, the culture's fine.",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/cannonball-with-wesley-morris"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [],
+      "text": "The Athletic",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/11/14/multimedia/14Cali-Rain-01-bcvz/14Cali-Rain-01-bcvz-threeByTwoMediumAt2X.jpg?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": "A pedestrian with an umbrella walks on a bridge over a rain-soaked freeway."
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Maureen Dowd",
+      "attributes": {
+        "href": "https://www.nytimes.com/by/maureen-dowd"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-ed0o7b"
+      ],
+      "text": "Sudoku",
+      "attributes": {
+        "href": "https://www.nytimes.com/puzzles/sudoku"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-9mylee"
+      ],
+      "text": "The Mini CrosswordSolve this bite-sized puzzle in just a few minutes.",
+      "attributes": {
+        "href": "http://www.nytimes.com/crosswords/game/mini",
+        "data-uri": "nyt://promo/c397d2d2-758a-5a3a-a897-2add6cf9ae78",
+        "aria-hidden": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Air Purifier",
+      "attributes": {
+        "href": "https://www.nytimes.com/wirecutter/reviews/best-air-purifier/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Politics",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/opinion/politics"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-9mylee"
+      ],
+      "text": "WordleGuess the 5-letter word with 6 chances.",
+      "attributes": {
+        "href": "https://www.nytimes.com/games/wordle/index.html",
+        "data-uri": "nyt://promo/c526680a-46b9-5c63-8313-c3aefb0c2df3",
+        "aria-hidden": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Middle East Crisis",
+      "attributes": {
+        "href": "https://www.nytimes.com/video/middle-east-crisis"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/vi-assets/static-assets/icon-watching_144x144-631a1da177f9fda1a7f4614ad8e607bd.webp",
+        "alt": "Watching Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "_poster_9lakg_19"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/10/03/arts/PENN-THUMB-OPTION-1/PENN-THUMB-OPTION-1-verticalTwoByThree735.jpg?auto=webp&quality=30&disable=upscale&format=pjpg",
+        "data-testid": "betamax-poster",
+        "fetchpriority": "high"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-c38y3b"
+      ],
+      "text": "See all audio",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/podcasts"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [],
+      "text": "Wirecutter",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Healthy",
+      "attributes": {
+        "href": "https://cooking.nytimes.com/topics/healthy-recipes"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Fantasy & Betting",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/sports-betting/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/email-images/newsletters/books/Books-REV.png",
+        "alt": "Books Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "css-6gfk0j"
+      ],
+      "text": "",
+      "attributes": {
+        "disabled": "",
+        "type": "button",
+        "aria-label": "Previous",
+        "data-testid": "Disappearing-Next",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "WirecutterReviews and recommendations for thousands of products.",
+      "attributes": {
+        "href": "https://www.nytimes.com/wirecutter"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/11/16/multimedia/13franz-thvw-print1/13franz-thvw-threeByTwoMediumAt2X.jpg?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": "An older Elizabeth Franz sits on a bed behind a heavyset man with thinning white hair wearing a plaid vest and pants, her hands on his shoulders."
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2018/03/27/books/book-review-album-art-v2/book-review-album-art-v2-thumbLarge-v3.jpg?quality=75&auto=webp&disable=upscale",
+        "alt": "Book Review Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Style",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/style"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Cordless Stick Vacuum",
+      "attributes": {
+        "href": "https://www.nytimes.com/wirecutter/reviews/best-cordless-stick-vacuum/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "M. Gessen",
+      "attributes": {
+        "href": "https://www.nytimes.com/by/m-gessen"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Business-thumbnail-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Podcasts",
+      "attributes": {
+        "id": "Business-thumbnail-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "slideshow-animate",
+        "css-3kzcvh"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Obituaries",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/obituaries"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "T Magazine",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/t-magazine"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Grilling Recipes",
+      "attributes": {
+        "href": "https://cooking.nytimes.com/topics/grilling-recipes"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "css-19wyrnd"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "aria-label": "open Audio submenu",
+        "data-navid": "Audio"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "AudioPodcasts and narrated articles",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/vi-assets/static-assets/icon-the-veggie_144x144-f99606e1ca100f88cdfd8d763bf442c5.webp",
+        "alt": "The Veggie Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Travel",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/travel"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Newest Recipes",
+      "attributes": {
+        "href": "https://cooking.nytimes.com/68861692-nyt-cooking/32998034-our-newest-recipes"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Deals",
+      "attributes": {
+        "href": "https://www.nytimes.com/wirecutter/deals/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tpl-lbl",
+        "css-5mgoji"
+      ],
+      "text": "Justice Department to Investigate Epstein Ties, but Not to Trump",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/us/politics/trump-epstein-inquiry-democrats.html",
+        "data-tpl": "l"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "The Daily",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/the-daily"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-dzl7b5"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "A row of mobile homes with cars parked outside. Plywood covers the windows at the end of the home in the foreground. ",
+        "loading": "lazy",
+        "fetchpriority": "auto"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-nhjhh0",
+        "ell52qj1"
+      ],
+      "text": "",
+      "attributes": {
+        "data-testid": "masthead-mobile-logo",
+        "aria-label": "New York Times homepage",
+        "href": "/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Videos",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/opinion-video"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Love",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/fashion/weddings"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Stock Market",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/markets-overview"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "World",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/world"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "The Athletic-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Leagues",
+      "attributes": {
+        "id": "The Athletic-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "David French",
+      "attributes": {
+        "href": "https://www.nytimes.com/by/david-french"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Wirecutter-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Reviews",
+      "attributes": {
+        "id": "Wirecutter-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/11/11/briefing/12nat-immig-separations-F-slide-U568/12nat-immig-separations-F-slide-U568-threeByTwoMediumAt2X-v2.jpg?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "What to Read",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/books-to-read"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tpl-lbl",
+        "css-5mgoji"
+      ],
+      "text": "",
+      "attributes": {
+        "data-tpl": "l"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/11/13/multimedia/oomet-lander-fqzg/oomet-lander-fqzg-threeByTwoMediumAt2X.jpg?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": "Zohran Mamdani and Brad Lander each walk a Citi Bike on a sunny day just outside Prospect Park."
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-u90q6n"
+      ],
+      "text": "Business",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/business",
+        "data-navid": "Business"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Opinion-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Sections",
+      "attributes": {
+        "id": "Opinion-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "What to Listen To",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/playlist"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Take the Puzzle Personality Quiz",
+      "attributes": {
+        "href": "https://www.nytimes.com/puzzle-personality"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "World-thumbnail-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Newsletters",
+      "attributes": {
+        "id": "World-thumbnail-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tpl-lbl",
+        "css-5mgoji"
+      ],
+      "text": "Boston University Student Faces Backlash After He Called ICE on Workers",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/us/boston-university-republican-student-ice-carwash-workers.html",
+        "data-tpl": "l"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "The InterpreterOriginal analysis on the week’s biggest global stories.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/the-interpreter"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Tech",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/technology"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Today's Arts",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/arts"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "The Headlines",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/the-headlines"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "MLB",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/mlb/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "U.S.-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Top Stories",
+      "attributes": {
+        "id": "U.S.-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-ed0o7b"
+      ],
+      "text": "Tiles",
+      "attributes": {
+        "href": "https://www.nytimes.com/puzzles/tiles"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/vi-assets/static-assets/icon-clean-everything_144x144-97312e349d7284039a2153cb541b7fda.webp",
+        "alt": "Clean Everything Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2023/11/27/opinion/the-opinions-art/the-opinions-art-thumbLarge.jpg",
+        "alt": "The Opinions Logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tpl-lbl",
+        "css-5mgoji"
+      ],
+      "text": "San Francisco Mayor Has First Major Error With Embarrassing Appointment",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/us/san-francisco-mayor-lurie-alcaraz-resign.html",
+        "data-tpl": "l"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/11/11/briefing/12nat-immig-separations-F-slide-5LQD/12nat-immig-separations-F-slide-5LQD-threeByTwoMediumAt2X-v2.jpg?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Wellness",
+      "attributes": {
+        "href": "https://www.nytimes.com/video/health-well"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "_poster_9lakg_19"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/06/27/multimedia/kf-shrimp-aguachile-fwcl/kf-shrimp-aguachile-fwcl-verticalTwoByThree735-v2.jpg?auto=webp&quality=30&disable=upscale&format=pjpg",
+        "data-testid": "betamax-poster",
+        "fetchpriority": "high"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "_next-button_15rhh_66"
+      ],
+      "text": "",
+      "attributes": {
+        "disabled": "",
+        "aria-label": "Previous"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tpl-lbl",
+        "css-5mgoji"
+      ],
+      "text": "Michelle GoldbergWhy Is Ghislaine Maxwell Being Pampered in Prison?",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/opinion/ghislaine-maxwell-trump-epstein-prison.html",
+        "data-tpl": "l"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Business",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/business"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "NBA Playoffs",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/tag/nba-playoffs/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Business-thumbnail-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Newsletters",
+      "attributes": {
+        "id": "Business-thumbnail-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Theater",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/theater"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2018/04/02/opinion/michelle-goldberg/michelle-goldberg-thumbLarge-v2.png?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": "Michelle Goldberg"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Got a Tip?The Times offers several ways to send important information confidentially ›",
+      "attributes": {
+        "href": "https://www.nytimes.com/tips"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "Clean EverythingStep-by-step advice on how to keep everything in your home squeaky clean.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/clean-everything"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Immigration",
+      "attributes": {
+        "href": "https://www.nytimes.com/video/immigration"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "The Interview",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/the-interview"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Congress",
+      "attributes": {
+        "href": "https://www.nytimes.com/topic/organization/us-congress"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Opinion-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Topics",
+      "attributes": {
+        "id": "Opinion-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "100 Best Movies of the 21st Century",
+      "attributes": {
+        "href": "https://www.nytimes.com/interactive/2025/movies/best-movies-21st-century.html"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-u90q6n"
+      ],
+      "text": "The Athletic",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/",
+        "data-navid": "The Athletic"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-dzl7b5"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "fetchpriority": "auto"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Opinion",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/opinion"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Opinion Video",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/opinion-video"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "_play-button_ubejr_89"
+      ],
+      "text": "",
+      "attributes": {
+        "aria-label": "Pause"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [],
+      "text": "Games",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-u90q6n"
+      ],
+      "text": "Games",
+      "attributes": {
+        "href": "https://www.nytimes.com/crosswords",
+        "data-navid": "Games"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Meet Our Crossword Constructors",
+      "attributes": {
+        "href": "https://www.nytimes.com/spotlight/puzzle-making"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Arts-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "",
+      "attributes": {
+        "id": "Arts-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "U.S.-thumbnail-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Podcasts",
+      "attributes": {
+        "id": "U.S.-thumbnail-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "U.S.",
+      "attributes": {
+        "href": "https://www.nytimes.com/video/u-s"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Health and Fitness",
+      "attributes": {
+        "href": "https://www.nytimes.com/wirecutter/health-fitness/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Video-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Playlists",
+      "attributes": {
+        "id": "Video-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "Serial: The Retrievals\nSeason 2An investigation into\nC-sections.",
+      "attributes": {
+        "href": "https://www.nytimes.com/article/serial-the-retrievals.html"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-122y91a"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/11/16/multimedia/14cottle1-zvqf/14cottle1-zvqf-smallSquare252.jpg?format=pjpg&quality=75&auto=webp&disable=upscale",
+        "alt": "A photo of a man in a hallway being photographed or videotaped by three smartphones."
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-hcfrni"
+      ],
+      "text": "Scoop CityThe top stories in the NFL, from Jacob Robinson with Dianna Russini.",
+      "attributes": {
+        "href": "https://www.nytimes.com/athletic/newsletters/scoop-city/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Pasta",
+      "attributes": {
+        "href": "https://cooking.nytimes.com/topics/our-best-pasta-recipes"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "css-dzl7b5"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "A photo of a man in a hallway being photographed or videotaped by three smartphones.",
+        "loading": "lazy",
+        "fetchpriority": "auto"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "The EveningCatch up on big news, and wind down to end your day.",
+      "attributes": {
+        "href": "https://www.nytimes.com/newsletters/evening-briefing"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "_poster_9lakg_19"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://static01.nyt.com/images/2025/11/12/arts/THUMBNAIL-COP/THUMBNAIL-COP-verticalTwoByThree735.png?auto=webp&quality=30&disable=upscale&format=pjpg",
+        "data-testid": "betamax-poster",
+        "fetchpriority": "high"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Modern Love",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/modern-love-podcast"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Thomas L. Friedman",
+      "attributes": {
+        "href": "https://www.nytimes.com/by/thomas-l-friedman"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "GamesDaily puzzles",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tpl-lbl",
+        "css-5mgoji"
+      ],
+      "text": "A Tiny West Wing Office Is Big on Trump Messaging",
+      "attributes": {
+        "href": "https://www.nytimes.com/2025/11/14/us/trump-oval-office-study-merch.html",
+        "data-tpl": "l"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "36 Hours",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/36-hours"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Cooking-thumbnail-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "",
+      "attributes": {
+        "id": "Cooking-thumbnail-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Ask Well",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/ask-well"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Asia",
+      "attributes": {
+        "href": "https://www.nytimes.com/video/asia-pacific"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-11kdrny"
+      ],
+      "text": "Modern LoveThe complicated love lives of real people.",
+      "attributes": {
+        "href": "https://www.nytimes.com/column/modern-love-podcast"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "header",
+      "id": "",
+      "classes": [
+        "css-ahe4g0",
+        "e1m0pzr41"
+      ],
+      "text": "U.S.InternationalCanadaEspañol中文Today’s PaperU.S.SectionsU.S.PoliticsNew YorkCaliforniaEducationHealthObituariesScienceClimateWeatherSportsBusinessTechThe UpshotThe MagazineTop StoriesDonald TrumpSupreme CourtCongressImmigrationAbortionNewslettersThe MorningMake sense of the day’s news and ideas.The EveningCatch up on big news, and wind down to end your day.See all newslettersPodcastsThe DailyThe biggest stories of our time, in 20 minutes a day.See all podcastsWorldSectionsWorldAfricaAmericasAsi",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "css-19wyrnd"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "aria-label": "open Video submenu",
+        "data-navid": "Video"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Lifestyle-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Columns",
+      "attributes": {
+        "id": "Lifestyle-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "Games-links-column-header",
+      "classes": [
+        "css-1nudrh3"
+      ],
+      "text": "Community",
+      "attributes": {
+        "id": "Games-links-column-header"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-kz1pwz"
+      ],
+      "text": "Guest Essays",
+      "attributes": {
+        "href": "https://www.nytimes.com/section/opinion/contributors"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "css-jq1cx6"
+      ],
+      "text": "Help",
+      "attributes": {
+        "data-testid": "footer-link",
+        "href": "https://help.nytimes.com/hc/en-us"
+      },
+      "computedStyles": {}
+    }
+  ]
+}

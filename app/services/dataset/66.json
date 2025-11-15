@@ -1,0 +1,1156 @@
+{
+  "meta": {
+    "url": "https://www.grammarly.com",
+    "title": "Grammarly has suspended service in Russia and Belarus",
+    "lang": "en-US",
+    "charset": "UTF-8"
+  },
+  "elements": [
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "headerItemLink_CLKm5yp3",
+        "headerItemTopLevel_CLKm5yp3",
+        "headerItemTopLevelBold_CLKm5yp3"
+      ],
+      "text": "Log in",
+      "attributes": {
+        "href": "https://www.grammarly.com/signin"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Expert Review",
+      "attributes": {
+        "href": "https://www.grammarly.com/ai-agents/expert-review"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Analytics",
+      "attributes": {
+        "href": "https://www.grammarly.com/business/analytics"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "AI Humanizer",
+      "attributes": {
+        "href": "https://www.grammarly.com/ai-humanizer"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Careers & Culture",
+      "attributes": {
+        "href": "https://www.grammarly.com/careers"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Style Guide",
+      "attributes": {
+        "href": "https://www.grammarly.com/business/styleguide"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Paragraph Counter",
+      "attributes": {
+        "href": "https://www.grammarly.com/paragraph-counter"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Sentence Counter",
+      "attributes": {
+        "href": "https://www.grammarly.com/sentence-counter"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Grammarly for Windows",
+      "attributes": {
+        "href": "https://www.grammarly.com/desktop/windows"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "LinkedIn",
+      "attributes": {
+        "href": "https://www.linkedin.com/company/grammarly"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "HM_dkKeNHYB",
+        "normalWeight_dkKeNHYB"
+      ],
+      "text": "Grammarly has suspended service in Russia and Belarus",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Customer Business Agreement",
+      "attributes": {
+        "href": "https://www.grammarly.com/terms/customer-business-agreement"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Contact Us",
+      "attributes": {
+        "href": "https://www.grammarly.com/contact"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Terms of Service",
+      "attributes": {
+        "href": "https://www.grammarly.com/terms"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Grammarly for Your Desktop",
+      "attributes": {
+        "href": "https://www.grammarly.com/desktop"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Accessibility",
+      "attributes": {
+        "href": "https://www.grammarly.com/accessibility-statement"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "TM_dkKeNHYB",
+        "normalWeight_dkKeNHYB"
+      ],
+      "text": "What if I didn’t get my refund?",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "link-color_linkDefault__xgSfW",
+        "link-color_styles2024__s1yEi"
+      ],
+      "text": "support@grammarly.com",
+      "attributes": {
+        "rel": "noopener noreferrer",
+        "target": "_blank",
+        "href": "mailto:support@grammarly.com"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Commonly Confused Words",
+      "attributes": {
+        "href": "https://www.grammarly.com/commonly-confused-words"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Grammar Checker",
+      "attributes": {
+        "href": "https://www.grammarly.com/grammar-check"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Grammarly Pro",
+      "attributes": {
+        "href": "https://www.grammarly.com/pro"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Blog",
+      "attributes": {
+        "href": "https://www.grammarly.com/blog/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "HL_dkKeNHYB",
+        "normalWeight_dkKeNHYB"
+      ],
+      "text": "Frequently asked questions",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "style": "visibility: hidden;overflow:hidden;position:absolute;width:0;height:0",
+        "src": "/api/tracking/noScript?pageSlug=/suspended-service-russia-belarus&isInitial=true&pageId=&userId=-371947955017490176&requestId=GB3lQVh8gFE7lyMgsEew&containerId=yjkgaabcm72t07o1"
+      },
+      "computedStyles": {
+        "visibility": "hidden",
+        "overflow": "hidden",
+        "position": "absolute",
+        "width": "0",
+        "height": "0"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "TM_dkKeNHYB",
+        "normalWeight_dkKeNHYB"
+      ],
+      "text": "Why is Grammarly blocking my access?",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "AI Grader",
+      "attributes": {
+        "href": "https://www.grammarly.com/ai-agents/ai-grader"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Passive Voice Checker",
+      "attributes": {
+        "href": "https://www.grammarly.com/passive-voice-checker"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "link-color_linkWhite__CV0KM",
+        "link-color_styles2024__s1yEi"
+      ],
+      "text": "Nieman Lab",
+      "attributes": {
+        "rel": "noopener noreferrer",
+        "target": "_blank",
+        "href": "https://www.niemanlab.org/2022/02/follow-war-ukraine/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Citation Finder",
+      "attributes": {
+        "href": "https://www.grammarly.com/ai-agents/citation-finder"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Instagram",
+      "attributes": {
+        "href": "https://www.instagram.com/grammarly/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "We Stand With Ukraine",
+      "attributes": {
+        "href": "https://www.grammarly.com/stand-with-ukraine"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Trust Center",
+      "attributes": {
+        "href": "https://www.grammarly.com/trust"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Grammarly for Google Docs",
+      "attributes": {
+        "href": "https://www.grammarly.com/google-docs"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "AI Writing Tools",
+      "attributes": {
+        "href": "https://www.grammarly.com/ai/ai-writing-tools"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Snippets",
+      "attributes": {
+        "href": "https://www.grammarly.com/business/snippets"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Partners",
+      "attributes": {
+        "href": "https://superhuman.com/partners"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Facebook",
+      "attributes": {
+        "href": "https://www.facebook.com/grammarly"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "main",
+      "id": "",
+      "classes": [
+        "page_main__yu0oU"
+      ],
+      "text": "Grammarly has suspended service in Russia and BelarusIn response to Russia’s invasion of Ukraine, which has included attacks across the Belarusian border, we have made the decision to suspend service in Russia and Belarus.Affected paying customers may request a refund for the unused portion of their subscriptions. Please note that as a result of international sanctions, there may be delays, and we cannot guarantee receipt of the funds.Early in the morning of February 24, Russia launched missile ",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Grammarly for Safari",
+      "attributes": {
+        "href": "https://www.grammarly.com/browser/safari"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [
+        "footerColumnsContainer_oRdn42A4"
+      ],
+      "text": "Get GrammarlyDocsGrammarly for Your DesktopGrammarly for WindowsGrammarly for MacGrammarly Browser ExtensionGrammarly for ChromeGrammarly for SafariGrammarly for FirefoxGrammarly for EdgeGrammarly for MS OfficeGrammarly for Google DocsGrammarly for MobileGrammarly for iPhoneGrammarly for iPadGrammarly for AndroidLearn MorePlansGrammarly ProGrammarly for Teams & BusinessesGrammarly EnterpriseGrammarly for EducationAI AssistantAI at GrammarlyGenerative AIAI Writing AssistantBlogTech BlogEducation ",
+      "attributes": {
+        "aria-label": "footer"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Spell Checker",
+      "attributes": {
+        "href": "https://www.grammarly.com/spell-checker"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Security",
+      "attributes": {
+        "href": "https://www.grammarly.com/security"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "AI Detector",
+      "attributes": {
+        "href": "https://www.grammarly.com/ai-detector"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Character Counter",
+      "attributes": {
+        "href": "https://www.grammarly.com/character-counter"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Sentence Checker",
+      "attributes": {
+        "href": "https://www.grammarly.com/sentence-checker"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Grammarly for Edge",
+      "attributes": {
+        "href": "https://www.grammarly.com/browser/edge"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Grammarly for MS Office",
+      "attributes": {
+        "href": "https://www.grammarly.com/microsoft-office"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Education Blog",
+      "attributes": {
+        "href": "https://www.grammarly.com/blog/institutions/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Grammarly for Android",
+      "attributes": {
+        "href": "https://www.grammarly.com/mobile/android"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Essay Checker",
+      "attributes": {
+        "href": "https://www.grammarly.com/essay-checker"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "AI Writing Assistant",
+      "attributes": {
+        "href": "https://www.grammarly.com/ai-writing-assistant"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "TM_dkKeNHYB",
+        "normalWeight_dkKeNHYB"
+      ],
+      "text": "How do I get my money back?",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Grammarly for Mobile",
+      "attributes": {
+        "href": "https://www.grammarly.com/mobile"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "footer",
+      "id": "",
+      "classes": [
+        "footerContainer_oRdn42A4",
+        "page-section_pagePaddingContainer1080__hdFaj",
+        "bg-colors_lightThemeTextColor__5AdyX",
+        "bg-colors_w0_24__29foi"
+      ],
+      "text": "Get GrammarlyDocsGrammarly for Your DesktopGrammarly for WindowsGrammarly for MacGrammarly Browser ExtensionGrammarly for ChromeGrammarly for SafariGrammarly for FirefoxGrammarly for EdgeGrammarly for MS OfficeGrammarly for Google DocsGrammarly for MobileGrammarly for iPhoneGrammarly for iPadGrammarly for AndroidLearn MorePlansGrammarly ProGrammarly for Teams & BusinessesGrammarly EnterpriseGrammarly for EducationAI AssistantAI at GrammarlyGenerative AIAI Writing AssistantBlogTech BlogEducation ",
+      "attributes": {
+        "lang": "en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "TM_dkKeNHYB",
+        "normalWeight_dkKeNHYB"
+      ],
+      "text": "I am against Russia’s actions. Can I use Grammarly again?",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Affiliates",
+      "attributes": {
+        "href": "https://www.grammarly.com/affiliates"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Generative AI",
+      "attributes": {
+        "href": "https://www.grammarly.com/ai/generative-ai"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Responsible AI",
+      "attributes": {
+        "href": "https://www.grammarly.com/ai/responsible-ai"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Grammarly for Education",
+      "attributes": {
+        "href": "https://www.grammarly.com/edu"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Word Counter",
+      "attributes": {
+        "href": "https://www.grammarly.com/word-counter"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Grammarly Browser Extension",
+      "attributes": {
+        "href": "https://www.grammarly.com/browser"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Tone Detector",
+      "attributes": {
+        "href": "https://www.grammarly.com/tone"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "AI at Grammarly",
+      "attributes": {
+        "href": "https://www.grammarly.com/ai"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Grammarly for iPhone",
+      "attributes": {
+        "href": "https://www.grammarly.com/mobile/iphone"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "AI Assistant",
+      "attributes": {
+        "href": "https://www.grammarly.com/go-ai-assistant"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [
+        "primaryHeaderBase_MLJ1wzb3",
+        "primaryHeaderNoNav_MLJ1wzb3"
+      ],
+      "text": "Grammarly HomeLog in",
+      "attributes": {
+        "aria-label": "primary",
+        "lang": "en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Brand Tones",
+      "attributes": {
+        "href": "https://www.grammarly.com/business/brand-tones"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Authorship",
+      "attributes": {
+        "href": "https://www.grammarly.com/authorship"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Punctuation Checker",
+      "attributes": {
+        "href": "https://www.grammarly.com/punctuation-checker"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Plans",
+      "attributes": {
+        "href": "https://www.grammarly.com/plans"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Tech Blog",
+      "attributes": {
+        "href": "https://www.grammarly.com/blog/engineering/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Paraphrasing Tool",
+      "attributes": {
+        "href": "https://www.grammarly.com/paraphrasing-tool"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Grammarly for Mac",
+      "attributes": {
+        "href": "https://www.grammarly.com/desktop/mac"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Docs",
+      "attributes": {
+        "href": "https://www.grammarly.com/docs"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "style": "visibility: hidden;overflow:hidden;position:absolute;width:0;height:0",
+        "src": "/api/tracking/load?pageSlug=/suspended-service-russia-belarus&isInitial=true&pageId=&userId=-371947955017490176&requestId=GB3lQVh8gFE7lyMgsEew&containerId=yjkgaabcm72t07o1"
+      },
+      "computedStyles": {
+        "visibility": "hidden",
+        "overflow": "hidden",
+        "position": "absolute",
+        "width": "0",
+        "height": "0"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "X",
+      "attributes": {
+        "href": "https://twitter.com/grammarly"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Business Blog",
+      "attributes": {
+        "href": "https://www.grammarly.com/business/learn/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "About",
+      "attributes": {
+        "href": "https://www.grammarly.com/about"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Grammarly for Firefox",
+      "attributes": {
+        "href": "https://www.grammarly.com/browser/firefox"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "AI Agents",
+      "attributes": {
+        "href": "https://www.grammarly.com/ai-agents"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Grammarly for Teams & Businesses",
+      "attributes": {
+        "href": "https://www.grammarly.com/business"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Plagiarism Checker",
+      "attributes": {
+        "href": "https://www.grammarly.com/plagiarism-checker"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Grammarly Enterprise",
+      "attributes": {
+        "href": "https://www.grammarly.com/business/enterprise"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "CA Notice at Collection",
+      "attributes": {
+        "href": "https://www.grammarly.com/privacy-policy#sectionSingleColumn_5buwFstMYZvwdMBeRcp0dk"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Grammarly for iPad",
+      "attributes": {
+        "href": "https://www.grammarly.com/mobile/ipad"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Help Center",
+      "attributes": {
+        "href": "https://support.grammarly.com/hc/en-us"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Proofreader",
+      "attributes": {
+        "href": "https://www.grammarly.com/proofreading"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "headerItemLink_CLKm5yp3",
+        "headerItemLogo_CLKm5yp3"
+      ],
+      "text": "Grammarly Home",
+      "attributes": {
+        "href": "https://www.grammarly.com"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Press",
+      "attributes": {
+        "href": "https://www.grammarly.com/press"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Privacy Policy",
+      "attributes": {
+        "href": "https://www.grammarly.com/privacy-policy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Reader Reactions",
+      "attributes": {
+        "href": "https://www.grammarly.com/ai-agents/reader-reactions"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO",
+        "footerLinkWithIcon_DbPAKjMT"
+      ],
+      "text": "Superhuman",
+      "attributes": {
+        "href": "https://superhuman.com",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Citation Generator",
+      "attributes": {
+        "href": "https://www.grammarly.com/citations"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "item_GBat7YpO"
+      ],
+      "text": "Grammarly for Chrome",
+      "attributes": {
+        "href": "https://www.grammarly.com/browser/chrome"
+      },
+      "computedStyles": {}
+    }
+  ]
+}

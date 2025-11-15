@@ -1,0 +1,4085 @@
+{
+  "meta": {
+    "url": "https://craigslist.org",
+    "title": "craigslist: pakistan jobs, apartments, for sale, services, community, and events",
+    "lang": "",
+    "charset": "UTF-8"
+  },
+  "elements": [
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "vancouver",
+      "attributes": {
+        "href": "//vancouver.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "rofo",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=28"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "crs"
+      ],
+      "text": "creative",
+      "attributes": {
+        "href": "/search/crs",
+        "data-cat": "crs"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "atheist",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=78"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "kid"
+      ],
+      "text": "childcare",
+      "attributes": {
+        "href": "/search/kid",
+        "data-cat": "kid"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "paris",
+      "attributes": {
+        "href": "//paris.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "haifa",
+      "attributes": {
+        "href": "//haifa.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "28",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-11-28"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "forums"
+      ],
+      "text": "discussion forums",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294",
+        "data-cat": "forums"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "cls"
+      ],
+      "text": "classes",
+      "attributes": {
+        "href": "/search/cls",
+        "data-cat": "cls"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "msa"
+      ],
+      "text": "music instr",
+      "attributes": {
+        "href": "/search/msa",
+        "data-cat": "msa"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "ghana",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/gh"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "bip"
+      ],
+      "text": "bike parts",
+      "attributes": {
+        "href": "/search/bip",
+        "data-cat": "bip"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "bolivia",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/bo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "bia"
+      ],
+      "text": "bikes",
+      "attributes": {
+        "href": "/search/bia",
+        "data-cat": "bia"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "photo",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=5500"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "ireland",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/ie"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "los angeles",
+      "attributes": {
+        "href": "//losangeles.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "post",
+      "attributes": {
+        "href": "https://post.craigslist.org/c/pak"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trv"
+      ],
+      "text": "travel/vac",
+      "attributes": {
+        "href": "/search/trv",
+        "data-cat": "trv"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "ban"
+      ],
+      "text": "services",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "czech republic",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/cz"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "netherlands",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/nl"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "gov"
+      ],
+      "text": "government",
+      "attributes": {
+        "href": "/search/gov",
+        "data-cat": "gov"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "london",
+      "attributes": {
+        "href": "//london.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "post",
+      "classes": [],
+      "text": "post an ad",
+      "attributes": {
+        "id": "post",
+        "href": "https://post.craigslist.org/c/pak"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "puerto rico",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/pr"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "19",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-11-19"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "hea"
+      ],
+      "text": "medical / health",
+      "attributes": {
+        "href": "/search/hea",
+        "data-cat": "hea"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "fns"
+      ],
+      "text": "financial",
+      "attributes": {
+        "href": "/search/fns",
+        "data-cat": "fns"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "ban"
+      ],
+      "text": "gigs",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "prague",
+      "attributes": {
+        "href": "//prague.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "denmark",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/dk"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "29",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-11-29"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "syp"
+      ],
+      "text": "computer parts",
+      "attributes": {
+        "href": "/search/syp",
+        "data-cat": "syp"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "haiku",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=575"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "wash dc",
+      "attributes": {
+        "href": "//washingtondc.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "mpa"
+      ],
+      "text": "motorcycle parts",
+      "attributes": {
+        "href": "/search/mpa",
+        "data-cat": "mpa"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "header-logo"
+      ],
+      "text": "CL",
+      "attributes": {
+        "name": "logoLink",
+        "href": "https://www.craigslist.org/about/sites"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "budapest",
+      "attributes": {
+        "href": "//budapest.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "header",
+      "id": "",
+      "classes": [
+        "global-header",
+        "narrow"
+      ],
+      "text": "CLpakistan...",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "post",
+      "classes": [],
+      "text": "new posting",
+      "attributes": {
+        "id": "post",
+        "href": "https://post.craigslist.org/c/pak"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "cla"
+      ],
+      "text": "clothes+acc",
+      "attributes": {
+        "href": "/search/cla",
+        "data-cat": "cla"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "haa"
+      ],
+      "text": "beauty+hlth",
+      "attributes": {
+        "href": "/search/haa",
+        "data-cat": "haa"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "14",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-11-14"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "mexico",
+      "attributes": {
+        "href": "//mexicocity.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tfr"
+      ],
+      "text": "tv / film / video",
+      "attributes": {
+        "href": "/search/tfr",
+        "data-cat": "tfr"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "uruguay",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/uy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "ecuador",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/ec"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "event calendar",
+      "attributes": {
+        "href": "/search/eee"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "iraq",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/iq"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "foa"
+      ],
+      "text": "general",
+      "attributes": {
+        "href": "/search/foa",
+        "data-cat": "foa"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "ava"
+      ],
+      "text": "aviation",
+      "attributes": {
+        "href": "/search/ava",
+        "data-cat": "ava"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "sweden",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/se"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "belgium",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/be"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "france",
+      "attributes": {
+        "href": "//paris.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "uae",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/ae"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "chicago",
+      "attributes": {
+        "href": "//chicago.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "super",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=2012"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "romania",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/ro"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "philippines",
+      "attributes": {
+        "href": "//manila.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "sub"
+      ],
+      "text": "sublets / temporary",
+      "attributes": {
+        "href": "/search/sub",
+        "data-cat": "sub"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "bka"
+      ],
+      "text": "books",
+      "attributes": {
+        "href": "/search/bka",
+        "data-cat": "bka"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "pk",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/pk"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "baa"
+      ],
+      "text": "baby+kid",
+      "attributes": {
+        "href": "/search/baa",
+        "data-cat": "baa"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "fua"
+      ],
+      "text": "furniture",
+      "attributes": {
+        "href": "/search/fua",
+        "data-cat": "fua"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "bus"
+      ],
+      "text": "business / mgmt",
+      "attributes": {
+        "href": "/search/bus",
+        "data-cat": "bus"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "spain",
+      "attributes": {
+        "href": "//madrid.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "turkey",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/tr"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "terms",
+      "attributes": {
+        "href": "https://www.craigslist.org/about/terms.of.use"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "privacy",
+      "attributes": {
+        "href": "https://www.craigslist.org/about/privacy.policy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "guatemala",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/gt"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "rea"
+      ],
+      "text": "real estate for sale",
+      "attributes": {
+        "href": "/search/rea",
+        "data-cat": "rea"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "bfa"
+      ],
+      "text": "business",
+      "attributes": {
+        "href": "/search/bfa",
+        "data-cat": "bfa"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "fbh"
+      ],
+      "text": "food / bev / hosp",
+      "attributes": {
+        "href": "/search/fbh",
+        "data-cat": "fbh"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "rome",
+      "attributes": {
+        "href": "//rome.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "hong kong",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/hk"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "23",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-11-23"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tch"
+      ],
+      "text": "technical support",
+      "attributes": {
+        "href": "/search/tch",
+        "data-cat": "tch"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [
+        "breadcrumbs-container"
+      ],
+      "text": "pakistan",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "help",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=9"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "seattle",
+      "attributes": {
+        "href": "//seattle.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "25",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-11-25"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "sha"
+      ],
+      "text": "rooms wanted",
+      "attributes": {
+        "href": "/search/sha",
+        "data-cat": "sha"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "cms"
+      ],
+      "text": "cell/mobile",
+      "attributes": {
+        "href": "/search/cms",
+        "data-cat": "cms"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "swp"
+      ],
+      "text": "housing swap",
+      "attributes": {
+        "href": "/search/swp",
+        "data-cat": "swp"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "bikes",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=95"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "cps"
+      ],
+      "text": "computer",
+      "attributes": {
+        "href": "/search/cps",
+        "data-cat": "cps"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "sports",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=32"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "new zealand",
+      "attributes": {
+        "href": "//auckland.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "italy",
+      "attributes": {
+        "href": "//rome.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "safety",
+      "attributes": {
+        "href": "https://www.craigslist.org/about/help/safety"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "sad"
+      ],
+      "text": "systems / network",
+      "attributes": {
+        "href": "/search/sad",
+        "data-cat": "sad"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "vietnam",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/vn"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "luxembourg",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/lu"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "thailand",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/th"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "oslo",
+      "attributes": {
+        "href": "//oslo.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "grp"
+      ],
+      "text": "groups",
+      "attributes": {
+        "href": "/search/grp",
+        "data-cat": "grp"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "greece",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/gr"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "mis"
+      ],
+      "text": "missed connections",
+      "attributes": {
+        "href": "/search/mis",
+        "data-cat": "mis"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "guam",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/gu"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "eco",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=99"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "oxford",
+      "attributes": {
+        "href": "//oxford.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "apple",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=3232"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "united kingdom",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/gb"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lgl"
+      ],
+      "text": "legal  /  paralegal",
+      "attributes": {
+        "href": "/search/lgl",
+        "data-cat": "lgl"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "emirates",
+      "attributes": {
+        "href": "//dubai.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "20",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-11-20"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "music",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=24"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "spa"
+      ],
+      "text": "salon / spa / fitness",
+      "attributes": {
+        "href": "/search/spa",
+        "data-cat": "spa"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "dying",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=130"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "rrr"
+      ],
+      "text": "resumes",
+      "attributes": {
+        "href": "/search/rrr",
+        "data-alltitle": "all resumes",
+        "data-cat": "rrr"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "west bank",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/ps"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "china",
+      "attributes": {
+        "href": "//shanghai.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "med"
+      ],
+      "text": "art / media / design",
+      "attributes": {
+        "href": "/search/med",
+        "data-cat": "med"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "chile",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/cl"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "web"
+      ],
+      "text": "web / info design",
+      "attributes": {
+        "href": "/search/web",
+        "data-cat": "web"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "16",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-11-16"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "ofc"
+      ],
+      "text": "admin / office",
+      "attributes": {
+        "href": "/search/ofc",
+        "data-cat": "ofc"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "venice",
+      "attributes": {
+        "href": "//venice.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "parent",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=39"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "1",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-12-01"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "peru",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/pe"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "maa"
+      ],
+      "text": "materials",
+      "attributes": {
+        "href": "/search/maa",
+        "data-cat": "maa"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "sya"
+      ],
+      "text": "computers",
+      "attributes": {
+        "href": "/search/sya",
+        "data-cat": "sya"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "hum"
+      ],
+      "text": "human resources",
+      "attributes": {
+        "href": "/search/hum",
+        "data-cat": "hum"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "bts"
+      ],
+      "text": "beauty",
+      "attributes": {
+        "href": "/search/bts",
+        "data-cat": "bts"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lgs"
+      ],
+      "text": "legal",
+      "attributes": {
+        "href": "/search/lgs",
+        "data-cat": "lgs"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "florence",
+      "attributes": {
+        "href": "//florence.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "switzerland",
+      "attributes": {
+        "href": "//zurich.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "app",
+      "attributes": {
+        "href": "https://www.craigslist.org/about/craigslist_app"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "jjj"
+      ],
+      "text": "jobs",
+      "attributes": {
+        "href": "/search/jjj",
+        "data-alltitle": "all jobs",
+        "data-cat": "jjj"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "17",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-11-17"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "4",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-12-04"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "acc"
+      ],
+      "text": "accounting+finance",
+      "attributes": {
+        "href": "/search/acc",
+        "data-cat": "acc"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "ban"
+      ],
+      "text": "community",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "tv",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=98"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "pets",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=26"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "ema"
+      ],
+      "text": "cds/dvd/vhs",
+      "attributes": {
+        "href": "/search/ema",
+        "data-cat": "ema"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "mar"
+      ],
+      "text": "marketing / pr / ad",
+      "attributes": {
+        "href": "/search/mar",
+        "data-cat": "mar"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "nicaragua",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/ni"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "favlink"
+      ],
+      "text": "favorites",
+      "attributes": {
+        "href": "#"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "rnr"
+      ],
+      "text": "rants & raves",
+      "attributes": {
+        "href": "/search/rnr",
+        "data-cat": "rnr"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "footer",
+      "id": "",
+      "classes": [
+        "cl-footer-tx"
+      ],
+      "text": "helpsafetyprivacytermsaboutappsitemap© 2025 craigslist",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "gra"
+      ],
+      "text": "farm+garden",
+      "attributes": {
+        "href": "/search/gra",
+        "data-cat": "gra"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "🌎🐮🐷🐔🐟",
+      "attributes": {
+        "href": "https://www.craigslistfund.org/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "sss"
+      ],
+      "text": "for sale",
+      "attributes": {
+        "href": "/search/sss",
+        "data-alltitle": "all for sale",
+        "data-cat": "sss"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tia"
+      ],
+      "text": "tickets",
+      "attributes": {
+        "href": "/search/tia",
+        "data-cat": "tia"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "taiwan",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/tw"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "npo"
+      ],
+      "text": "nonprofit sector",
+      "attributes": {
+        "href": "/search/npo",
+        "data-cat": "npo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "fixit",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=64"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "food",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=22"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "rts"
+      ],
+      "text": "real estate",
+      "attributes": {
+        "href": "/search/rts",
+        "data-cat": "rts"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "psych",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=29"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "moa"
+      ],
+      "text": "cell phones",
+      "attributes": {
+        "href": "/search/moa",
+        "data-cat": "moa"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "csr"
+      ],
+      "text": "customer service",
+      "attributes": {
+        "href": "/search/csr",
+        "data-cat": "csr"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "australia",
+      "attributes": {
+        "href": "//sydney.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "autos",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=5"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "colombia",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/co"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "boo"
+      ],
+      "text": "boats",
+      "attributes": {
+        "href": "/search/boo",
+        "data-cat": "boo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "waa"
+      ],
+      "text": "wanted",
+      "attributes": {
+        "href": "/search/waa",
+        "data-cat": "waa"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "egypt",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/eg"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "evs"
+      ],
+      "text": "event",
+      "attributes": {
+        "href": "/search/evs",
+        "data-cat": "evs"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "jobs",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=7"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "south africa",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/za"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "panama",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/pa"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "best-of-craigslist",
+      "attributes": {
+        "href": "https://www.craigslist.org/about/best/all/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "bbb"
+      ],
+      "text": "services",
+      "attributes": {
+        "href": "/search/bbb",
+        "data-alltitle": "all services",
+        "data-cat": "bbb"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "beirut",
+      "attributes": {
+        "href": "//beirut.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "3",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-12-03"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "egypt",
+      "attributes": {
+        "href": "//cairo.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "brazil",
+      "attributes": {
+        "href": "//rio.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "celebs",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=47"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "sga"
+      ],
+      "text": "sporting",
+      "attributes": {
+        "href": "/search/sga",
+        "data-cat": "sga"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "mas"
+      ],
+      "text": "marine",
+      "attributes": {
+        "href": "/search/mas",
+        "data-cat": "mas"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "craig newmarkphilanthropies",
+      "attributes": {
+        "href": "https://craignewmarkphilanthropies.org/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "vol"
+      ],
+      "text": "volunteers",
+      "attributes": {
+        "href": "/search/vol",
+        "data-cat": "vol"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "ukraine",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/ua"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "housing",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=6"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "pta"
+      ],
+      "text": "auto parts",
+      "attributes": {
+        "href": "/search/pta",
+        "data-cat": "pta"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "zip"
+      ],
+      "text": "free",
+      "attributes": {
+        "href": "/search/zip",
+        "data-cat": "zip"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "south korea",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/kr"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "diet",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=122"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "costa rica",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/cr"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "fgs"
+      ],
+      "text": "farm+garden",
+      "attributes": {
+        "href": "/search/fgs",
+        "data-cat": "fgs"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "legal",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=73"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "norway",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/no"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "15",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-11-15"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "marriage",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=1926"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "area"
+      ],
+      "text": "pakistan",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "frugal",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=2007"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lab"
+      ],
+      "text": "general labor",
+      "attributes": {
+        "href": "/search/lab",
+        "data-cat": "lab"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "about craigslist",
+      "attributes": {
+        "href": "https://www.craigslist.org/about/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "money",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=53"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "pakistan",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/pk"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "hsw"
+      ],
+      "text": "housing wanted",
+      "attributes": {
+        "href": "/search/hsw",
+        "data-cat": "hsw"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "26",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-11-26"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "argentina",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/ar"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "cys"
+      ],
+      "text": "cycle",
+      "attributes": {
+        "href": "/search/cys",
+        "data-cat": "cys"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "ban"
+      ],
+      "text": "jobs",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "pakistan",
+      "attributes": {
+        "href": "/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "india",
+      "attributes": {
+        "href": "//bangalore.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "eve"
+      ],
+      "text": "events",
+      "attributes": {
+        "href": "/search/eve",
+        "data-cat": "eve"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "edu"
+      ],
+      "text": "education",
+      "attributes": {
+        "href": "/search/edu",
+        "data-cat": "edu"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "comp",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=34"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "cba"
+      ],
+      "text": "collectibles",
+      "attributes": {
+        "href": "/search/cba",
+        "data-cat": "cba"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "ban"
+      ],
+      "text": "housing",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "gms"
+      ],
+      "text": "garage sale",
+      "attributes": {
+        "href": "/search/gms",
+        "data-cat": "gms"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "copenhagen",
+      "attributes": {
+        "href": "//copenhagen.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "hhh"
+      ],
+      "text": "housing",
+      "attributes": {
+        "href": "/search/hhh",
+        "data-alltitle": "all housing",
+        "data-cat": "hhh"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "israel",
+      "attributes": {
+        "href": "//telaviv.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "5",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-12-05"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "mnu"
+      ],
+      "text": "manufacturing",
+      "attributes": {
+        "href": "/search/mnu",
+        "data-cat": "mnu"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "new york",
+      "attributes": {
+        "href": "//newyork.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "stockholm",
+      "attributes": {
+        "href": "//stockholm.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "writing",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=27"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "beauty",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=88"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "sec"
+      ],
+      "text": "security",
+      "attributes": {
+        "href": "/search/sec",
+        "data-cat": "sec"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "poland",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/pl"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "24",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-11-24"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "mca"
+      ],
+      "text": "motorcycles",
+      "attributes": {
+        "href": "/search/mca",
+        "data-cat": "mca"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "canada",
+      "attributes": {
+        "href": "https://www.craigslist.org/about/sites#CA"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "cotedazur",
+      "attributes": {
+        "href": "//cotedazur.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "biz"
+      ],
+      "text": "sm biz ads",
+      "attributes": {
+        "href": "/search/biz",
+        "data-cat": "biz"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "ban"
+      ],
+      "text": "resumes",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "tax",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=1040"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "hss"
+      ],
+      "text": "household",
+      "attributes": {
+        "href": "/search/hss",
+        "data-cat": "hss"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "about",
+      "attributes": {
+        "href": "https://www.craigslist.org/about/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "30",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-11-30"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tla"
+      ],
+      "text": "tools",
+      "attributes": {
+        "href": "/search/tla",
+        "data-cat": "tla"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "boston",
+      "attributes": {
+        "href": "//boston.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "hungary",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/hu"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "header",
+      "id": "",
+      "classes": [
+        "global-header",
+        "wide"
+      ],
+      "text": "CLpakistanpostaccountfavoriteshidden",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "wri"
+      ],
+      "text": "writing / editing",
+      "attributes": {
+        "href": "/search/wri",
+        "data-cat": "wri"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "ethiopia",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/et"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "tel aviv",
+      "attributes": {
+        "href": "//telaviv.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "my account",
+      "attributes": {
+        "href": "https://accounts.craigslist.org/login/home"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "pet"
+      ],
+      "text": "pets",
+      "attributes": {
+        "href": "/search/pet",
+        "data-cat": "pet"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "arts",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=49"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "feedbk",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=8"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "6",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-12-06"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "sls"
+      ],
+      "text": "sales / biz dev",
+      "attributes": {
+        "href": "/search/sls",
+        "data-cat": "sls"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "sitemap",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/sitemap.html"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "roo"
+      ],
+      "text": "rooms / shared",
+      "attributes": {
+        "href": "/search/roo",
+        "data-cat": "roo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "garden",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=54"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "prk"
+      ],
+      "text": "parking / storage",
+      "attributes": {
+        "href": "/search/prk",
+        "data-cat": "prk"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "craigslist charitable",
+      "attributes": {
+        "href": "https://www.craigslistfund.org/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "miami",
+      "attributes": {
+        "href": "//miami.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "words",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=7000"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "dublin",
+      "attributes": {
+        "href": "//dublin.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "divorce",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=76"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "ara"
+      ],
+      "text": "arts+crafts",
+      "attributes": {
+        "href": "/search/ara",
+        "data-cat": "ara"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "sci"
+      ],
+      "text": "biotech / science",
+      "attributes": {
+        "href": "/search/sci",
+        "data-cat": "sci"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "cl-unrecoverable-hard-refresh",
+      "classes": [],
+      "text": "refresh the page.",
+      "attributes": {
+        "id": "cl-unrecoverable-hard-refresh",
+        "href": "#",
+        "onclick": "location.reload(true);"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "bulgaria",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/bg"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "toronto",
+      "attributes": {
+        "href": "//toronto.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "sof"
+      ],
+      "text": "software / qa / dba",
+      "attributes": {
+        "href": "/search/sof",
+        "data-cat": "sof"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "malaysia",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/my"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "philos",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=71"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "wta"
+      ],
+      "text": "wheels+tires",
+      "attributes": {
+        "href": "/search/wta",
+        "data-cat": "wta"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "hva"
+      ],
+      "text": "heavy equip",
+      "attributes": {
+        "href": "/search/hva",
+        "data-cat": "hva"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "dom republic",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/do"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "jerusalem",
+      "attributes": {
+        "href": "//jerusalem.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "lebanon",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/lb"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "kuwait",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/kw"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "etc"
+      ],
+      "text": "etc / misc",
+      "attributes": {
+        "href": "/search/etc",
+        "data-cat": "etc"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "brussels",
+      "attributes": {
+        "href": "//brussels.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "tra"
+      ],
+      "text": "trailers",
+      "attributes": {
+        "href": "/search/tra",
+        "data-cat": "tra"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "what's new",
+      "attributes": {
+        "href": "https://www.craigslist.org/about/whats-new"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trd"
+      ],
+      "text": "skilled trade / craft",
+      "attributes": {
+        "href": "/search/trd",
+        "data-cat": "trd"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "act"
+      ],
+      "text": "activities",
+      "attributes": {
+        "href": "/search/act",
+        "data-cat": "act"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "venezuela",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/ve"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "laf"
+      ],
+      "text": "lost+found",
+      "attributes": {
+        "href": "/search/laf",
+        "data-cat": "laf"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "account",
+      "attributes": {
+        "href": "https://accounts.craigslist.org/login/home"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "personal safety tips",
+      "attributes": {
+        "href": "https://www.craigslist.org/about/help/safety"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "topban",
+      "classes": [
+        "regular"
+      ],
+      "text": "new postingmy accountpakistan",
+      "attributes": {
+        "id": "topban"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "com"
+      ],
+      "text": "general",
+      "attributes": {
+        "href": "/search/com",
+        "data-cat": "com"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "sks"
+      ],
+      "text": "skilled trade",
+      "attributes": {
+        "href": "/search/sks",
+        "data-cat": "sks"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "ata"
+      ],
+      "text": "antiques",
+      "attributes": {
+        "href": "/search/ata",
+        "data-cat": "ata"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "aos"
+      ],
+      "text": "automotive",
+      "attributes": {
+        "href": "/search/aos",
+        "data-cat": "aos"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "rej"
+      ],
+      "text": "real estate",
+      "attributes": {
+        "href": "/search/rej",
+        "data-cat": "rej"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "politics",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=20"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "berlin",
+      "attributes": {
+        "href": "//berlin.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "spirit",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=93"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "egr"
+      ],
+      "text": "arch / engineering",
+      "attributes": {
+        "href": "/search/egr",
+        "data-cat": "egr"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "hws"
+      ],
+      "text": "health/well",
+      "attributes": {
+        "href": "/search/hws",
+        "data-cat": "hws"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "taa"
+      ],
+      "text": "toys+games",
+      "attributes": {
+        "href": "/search/taa",
+        "data-cat": "taa"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "open",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=4"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "21",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-11-21"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "vnn"
+      ],
+      "text": "local news",
+      "attributes": {
+        "href": "/search/vnn",
+        "data-cat": "vnn"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "munich",
+      "attributes": {
+        "href": "//munich.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "apa"
+      ],
+      "text": "apts / housing",
+      "attributes": {
+        "href": "/search/apa",
+        "data-cat": "apa"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "amsterdam",
+      "attributes": {
+        "href": "//amsterdam.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "to-banish-page-link"
+      ],
+      "text": "hidden",
+      "attributes": {
+        "href": "#"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "system status",
+      "attributes": {
+        "href": "https://www.craigslist.org/about/help/system-status"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "pas"
+      ],
+      "text": "pet",
+      "attributes": {
+        "href": "/search/pas",
+        "data-cat": "pas"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "science",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=96"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "singapore",
+      "attributes": {
+        "href": "//singapore.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "help",
+      "attributes": {
+        "href": "https://www.craigslist.org/about/help/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "help, faq, abuse, legal",
+      "attributes": {
+        "href": "https://www.craigslist.org/about/help/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "portugal",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/pt"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lbs"
+      ],
+      "text": "labor/move",
+      "attributes": {
+        "href": "/search/lbs",
+        "data-cat": "lbs"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trp"
+      ],
+      "text": "transport",
+      "attributes": {
+        "href": "/search/trp",
+        "data-cat": "trp"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "religion",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=59"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "pol"
+      ],
+      "text": "politics",
+      "attributes": {
+        "href": "/search/pol",
+        "data-cat": "pol"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-12-02"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "travel",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=42"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "montreal",
+      "attributes": {
+        "href": "//montreal.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "ret"
+      ],
+      "text": "retail / wholesale",
+      "attributes": {
+        "href": "/search/ret",
+        "data-cat": "ret"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "el salvador",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/sv"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "vga"
+      ],
+      "text": "video gaming",
+      "attributes": {
+        "href": "/search/vga",
+        "data-cat": "vga"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "avoid scams & fraud",
+      "attributes": {
+        "href": "https://www.craigslist.org/about/help/safety/scams"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [
+        "breadcrumbs-container"
+      ],
+      "text": "pakistan",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "ban"
+      ],
+      "text": "for sale",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "off"
+      ],
+      "text": "office / commercial",
+      "attributes": {
+        "href": "/search/off",
+        "data-cat": "off"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "bar"
+      ],
+      "text": "barter",
+      "attributes": {
+        "href": "/search/bar",
+        "data-cat": "bar"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "austria",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/at"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "recover",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=12"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "27",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-11-27"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "jwa"
+      ],
+      "text": "jewelry",
+      "attributes": {
+        "href": "/search/jwa",
+        "data-cat": "jwa"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "header-logo"
+      ],
+      "text": "CL",
+      "attributes": {
+        "href": "https://www.craigslist.org/about/sites"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "hsa"
+      ],
+      "text": "household",
+      "attributes": {
+        "href": "/search/hsa",
+        "data-cat": "hsa"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "cosmos",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=1564"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "ccc"
+      ],
+      "text": "community",
+      "attributes": {
+        "href": "/search/ccc",
+        "data-alltitle": "all community",
+        "data-cat": "ccc"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "more...",
+      "attributes": {
+        "href": "https://www.craigslist.org/about/sites"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "bangladesh",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/bd"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "finland",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/fi"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "pha"
+      ],
+      "text": "photo+video",
+      "attributes": {
+        "href": "/search/pha",
+        "data-cat": "pha"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "22",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-11-22"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h1",
+      "id": "logo",
+      "classes": [],
+      "text": "craigslistpk",
+      "attributes": {
+        "id": "logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "bpa"
+      ],
+      "text": "boat parts",
+      "attributes": {
+        "href": "/search/bpa",
+        "data-cat": "bpa"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lss"
+      ],
+      "text": "lessons",
+      "attributes": {
+        "href": "/search/lss",
+        "data-cat": "lss"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "rva"
+      ],
+      "text": "rvs+camp",
+      "attributes": {
+        "href": "/search/rva",
+        "data-cat": "rva"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "ppa"
+      ],
+      "text": "appliances",
+      "attributes": {
+        "href": "/search/ppa",
+        "data-cat": "ppa"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "vegan",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=2400"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "tunisia",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/tn"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "russia",
+      "attributes": {
+        "href": "//moscow.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "manners",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=79"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "ban"
+      ],
+      "text": "discussion forums",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "vac"
+      ],
+      "text": "vacation rentals",
+      "attributes": {
+        "href": "/search/vac",
+        "data-cat": "vac"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "muc"
+      ],
+      "text": "musicians",
+      "attributes": {
+        "href": "/search/muc",
+        "data-cat": "muc"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "ela"
+      ],
+      "text": "electronics",
+      "attributes": {
+        "href": "/search/ela",
+        "data-cat": "ela"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h1",
+      "id": "",
+      "classes": [],
+      "text": "craigslist: pakistan jobs, apartments, for sale, services, community, and events",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "film",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=41"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "wet"
+      ],
+      "text": "write/ed/tran",
+      "attributes": {
+        "href": "/search/wet",
+        "data-cat": "wet"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "edinburgh",
+      "attributes": {
+        "href": "//edinburgh.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "history",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=81"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "united states",
+      "attributes": {
+        "href": "https://www.craigslist.org/about/sites#US"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "indonesia",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/id"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "germany",
+      "attributes": {
+        "href": "//berlin.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "us virgin islands",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/vi"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "rid"
+      ],
+      "text": "rideshare",
+      "attributes": {
+        "href": "/search/rid",
+        "data-cat": "rid"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "sna"
+      ],
+      "text": "atv/utv/sno",
+      "attributes": {
+        "href": "/search/sna",
+        "data-cat": "sna"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "japan",
+      "attributes": {
+        "href": "//tokyo.craigslist.org"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "ggg"
+      ],
+      "text": "gigs",
+      "attributes": {
+        "href": "/search/ggg",
+        "data-alltitle": "all gigs",
+        "data-cat": "ggg"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "croatia",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/hr"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "18",
+      "attributes": {
+        "href": "https://pakistan.craigslist.org/search/eee?sale_date=2025-11-18"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "iceland",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/is"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "morocco",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/ma"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "kenya",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/ke"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "jokes",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=1257"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "ats"
+      ],
+      "text": "artists",
+      "attributes": {
+        "href": "/search/ats",
+        "data-cat": "ats"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "cta"
+      ],
+      "text": "cars+trucks",
+      "attributes": {
+        "href": "/search/cta",
+        "data-cat": "cta"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "iran",
+      "attributes": {
+        "href": "//geo.craigslist.org/iso/ir"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "gaming",
+      "attributes": {
+        "href": "https://forums.craigslist.org/?areaID=294&forumID=85"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "sf bayarea",
+      "attributes": {
+        "href": "//sfbay.craigslist.org"
+      },
+      "computedStyles": {}
+    }
+  ]
+}

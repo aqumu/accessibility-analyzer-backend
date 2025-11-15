@@ -1,0 +1,1948 @@
+{
+  "meta": {
+    "url": "https://yahoo.com",
+    "title": "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos",
+    "lang": "en-US",
+    "charset": "UTF-8"
+  },
+  "elements": [
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "focus-visible:rounded-[4px]",
+        "focus-visible:outline",
+        "focus-visible:outline-4",
+        "focus-visible:outline-offset-8",
+        "md:mr-6",
+        "focus-visible:outline-[rgb(96_1_210/50%)]",
+        "dark:focus-visible:outline-[rgb(149_126_252/50%)]"
+      ],
+      "text": "",
+      "attributes": {
+        "data-ylk": "elm:logo;itc:0;sec:ybar;slk:frontpage;subsec:logo;",
+        "href": "https://www.yahoo.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "hover:bg-grape-jelly",
+        "dark:hover:bg-[#957efc]",
+        "focus-visible:outline-[rgb(96_1_210/50%)]",
+        "dark:focus-visible:outline-[rgb(149_126_252/50%)]",
+        "focus-visible:text-grape-jelly",
+        "dark:focus-visible:text-[#957efc]",
+        "group",
+        "flex",
+        "size-6",
+        "items-center",
+        "justify-center",
+        "rounded-[25px]",
+        "invisible",
+        "hidden",
+        "focus-visible:rounded-full",
+        "focus-visible:outline",
+        "focus-visible:outline-4"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "aria-label": "Close",
+        "data-ylk": "elm:btn;itc:1;sec:ybar;slk:clear-srch;subsec:searchbox;"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "_R_4jeav7cjknm6jb_",
+      "classes": [
+        "shrink-0",
+        "grow",
+        "text-inkwell",
+        "display-m-emphasized",
+        "dark:text-grey-hair"
+      ],
+      "text": "Trending",
+      "attributes": {
+        "id": "_R_4jeav7cjknm6jb_"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-end",
+        "justify-start",
+        "gap-2.5"
+      ],
+      "text": "Mail",
+      "attributes": {
+        "data-ylk": "cpos:4;slk:Mail;elm:navcat;itc:0;mpos:9;pkgt:left-rail;subsec:explore-hub;",
+        "href": "https://mail.yahoo.com/",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "focus-visible:outline-[rgb(96_1_210/50%)]",
+        "dark:focus-visible:outline-[rgb(149_126_252/50%)]",
+        "group",
+        "relative",
+        "z-1",
+        "hidden",
+        "h-10",
+        "w-auto",
+        "min-w-10",
+        "items-center",
+        "justify-center",
+        "rounded-[100px]",
+        "text-sm",
+        "font-medium",
+        "[transition:all_.06s_ease-in]",
+        "hover:cursor-pointer",
+        "hover:[box-shadow:0_4px_8px_0_rgb(0_0_0/10%),_0_0_1px_0_rgb(0_0_0/10%)]",
+        "focus-visible:outline",
+        "focus-visible:outline-4",
+        "focus-visible:outline-offset-1",
+        "md:flex",
+        "bg-white",
+        "dark:bg-midnight",
+        "text-uh-purple",
+        "dark:text-[#957efc]",
+        "hover:text-grape-jelly",
+        "outline",
+        "!outline-2",
+        "outline-offset-[-2px]",
+        "outline-[rgb(70_31_140/60%)]",
+        "dark:outline-[#b09ffc]",
+        "hover:shadow-elevation-3",
+        "hover:outline-[rgb(70_31_140/80%)]",
+        "dark:hover:outline-[#7c49fc]"
+      ],
+      "text": "-1",
+      "attributes": {
+        "data-ylk": "elm:btn;itc:0;sec:ybar;slk:Mail;subsec:mailprev;tar:mail.yahoo.com;",
+        "aria-label": "Check your mail",
+        "href": "https://mail.yahoo.com/",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "chromatic-ignore",
+        "size-[20]",
+        "rounded",
+        "object-contain",
+        "lg:size-[62px]"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "width": "80",
+        "height": "80",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://s.yimg.com/fz/api/res/1.2/AGC_XAQ2oBvjBRn1GF5ibA--~C/YXBwaWQ9c3JjaGRkO2ZpPXN0cmltO2g9MTI0O3c9MTI0/https://media.zenfs.com/en/nbc_news_122/f491767ac74cd9d5ee3ee6a15a6c09f5"
+      },
+      "computedStyles": {
+        "color": "transparent"
+      }
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "focus-visible:outline-[rgb(96_1_210/50%)]",
+        "dark:focus-visible:outline-[rgb(149_126_252/50%)]",
+        "group/back-button",
+        "flex",
+        "items-center",
+        "justify-center",
+        "gap-2.5",
+        "rounded-full",
+        "hover:fill-[#5409b2]",
+        "focus-visible:border-none",
+        "focus-visible:fill-[#5409b2]",
+        "dark:hover:fill-dory"
+      ],
+      "text": "",
+      "attributes": {
+        "aria-label": "Close",
+        "data-ylk": "elm:close;itc:1;pkgt:top;sec:ybar;slk:mweb-profile;subsec:profile;"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "hover:text-grape-jelly",
+        "dark:hover:text-[#957efc]",
+        "focus-visible:outline-[rgb(96_1_210/50%)]",
+        "dark:focus-visible:outline-[rgb(149_126_252/50%)]",
+        "focus-visible:text-grape-jelly",
+        "dark:focus-visible:text-[#957efc]",
+        "py-0.5",
+        "text-center",
+        "focus-visible:rounded-[1px]",
+        "focus-visible:outline",
+        "focus-visible:outline-4",
+        "whitespace-nowrap",
+        "text-sm",
+        "font-medium",
+        "text-battleship",
+        "dark:text-bob",
+        "focus-visible:outline-offset-[12px]"
+      ],
+      "text": "Finance",
+      "attributes": {
+        "data-ylk": "elm:navcat;itc:0;pkgt:top;sec:ybar;slk:finance;subsec:navrail;",
+        "href": "https://finance.yahoo.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "stretched-box",
+        "chromatic-ignore",
+        "text-inkwell",
+        "headline-s-emphasized",
+        "hover:underline",
+        "dark:text-grey-hair",
+        "line-clamp-4"
+      ],
+      "text": "10 things you should never store in your basement over winter",
+      "attributes": {
+        "data-ylk": "aid:fb74e95f-e0c3-3001-85bc-11153c2b9e1a;ccode:ntk_single_feed__en-US__frontpage__default__default__desktop__ga__noSplit;cpos:4;ct:story;elm:hdln;g:7cef0cfa-e87d-3b1f-8881-eebd9714162f;itc:0;mab_test:eyJ1IjoiZmI3NGU5NWYtZTBjMy0zMDAxLTg1YmMtMTExNTNjMmI5ZTFhIiwiYiI6IjY0NDcwOTgiLCJlIjoiMTc4NTE4NSJ9;mpos:1;p_sys:jarvis;pkgt:minintk;sec:strm;source:strm needtoknow;subsec:needtoknow;ll3:target-modal;",
+        "href": "/shopping/home-garden/home-improvement/articles/10-things-never-store-basement-111300608.html"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "hover:text-grape-jelly",
+        "dark:hover:text-[#957efc]",
+        "focus-visible:outline-[rgb(96_1_210/50%)]",
+        "dark:focus-visible:outline-[rgb(149_126_252/50%)]",
+        "focus-visible:text-grape-jelly",
+        "dark:focus-visible:text-[#957efc]",
+        "py-0.5",
+        "text-center",
+        "focus-visible:rounded-[1px]",
+        "focus-visible:outline",
+        "focus-visible:outline-4",
+        "whitespace-nowrap",
+        "text-sm",
+        "font-bold",
+        "text-gray-800",
+        "dark:text-grey-hair",
+        "focus-visible:outline-offset-[12px]"
+      ],
+      "text": "News",
+      "attributes": {
+        "data-ylk": "elm:navcat;itc:0;pkgt:top;sec:ybar;slk:news;subsec:navrail;",
+        "href": "https://www.yahoo.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "hover:text-grape-jelly",
+        "dark:hover:text-[#957efc]",
+        "focus-visible:outline-[rgb(96_1_210/50%)]",
+        "dark:focus-visible:outline-[rgb(149_126_252/50%)]",
+        "focus-visible:text-grape-jelly",
+        "dark:focus-visible:text-[#957efc]",
+        "text-batcave",
+        "dark:text-grey-hair",
+        "group/item",
+        "my-0",
+        "block",
+        "w-full",
+        "p-2.5",
+        "pl-0",
+        "text-left",
+        "text-sm",
+        "font-normal",
+        "leading-4",
+        "focus-visible:rounded-[1px]",
+        "focus-visible:outline",
+        "focus-visible:outline-4",
+        "lg:h-4",
+        "focus-visible:lg:h-[35px]"
+      ],
+      "text": "Sign out",
+      "attributes": {
+        "data-ylk": "elm:navcat;itc:0;pkgt:profile-pane;sec:ybar;slk:SignOut;subsec:accounts;",
+        "href": "https://login.yahoo.com/account/logout?logout_all=1&src=frontpage"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "header",
+      "id": "module-uh",
+      "classes": [
+        "font-yahoosans",
+        "top-0",
+        "z-20",
+        "inline-flex",
+        "w-full",
+        "flex-col",
+        "items-start",
+        "bg-white",
+        "dark:bg-midnight",
+        "md:items-center",
+        "[transition:background-color_0.12s_ease,_box-shadow_0.12s_ease]",
+        "md:bg-[#f4f3f0]",
+        "sticky"
+      ],
+      "text": "Search querySearch the webSkip to features barSkip to left columnSkip to mainSkip to right columnNewsFinanceSportsMore-1Manage your accountHelpAdd or switch accountsSign outSearch the web",
+      "attributes": {
+        "id": "module-uh",
+        "data-version": "1.1.47"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "relative",
+        "size-[130px]",
+        "rounded-lg",
+        "sm:hidden"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "width": "260",
+        "height": "260",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://s.yimg.com/uu/api/res/1.2/us5VVnVg.u71q0ufKJuAnQ--~B/Zmk9c3RyaW07aD0yNjA7cT05NTt3PTI2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/deadline.com/7ef2528502fc54e68d1817a9cda2c92a.cf.webp"
+      },
+      "computedStyles": {
+        "color": "transparent"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [],
+      "text": "Mega Millions ticket holder wins $980 million jackpot",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "header",
+      "id": "",
+      "classes": [
+        "pl-4",
+        "md:pl-0"
+      ],
+      "text": "For You",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-batcave",
+        "hover:text-dory",
+        "dark:text-dirty-seagull",
+        "dark:hover:text-sky"
+      ],
+      "text": "Products and Services",
+      "attributes": {
+        "data-ylk": "elm:corp;itc:0;",
+        "href": "https://www.yahoo.com/all/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-end",
+        "justify-start",
+        "gap-2.5"
+      ],
+      "text": "Entertainment",
+      "attributes": {
+        "data-ylk": "cpos:10;slk:Entertainment;elm:navcat;itc:0;mpos:9;pkgt:left-rail;subsec:explore-hub;",
+        "href": "https://www.yahoo.com/entertainment/",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "chromatic-ignore",
+        "size-[20]",
+        "rounded",
+        "object-contain",
+        "lg:size-[62px]"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "width": "80",
+        "height": "80",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://s.yimg.com/fz/api/res/1.2/rQlkCwO63szGhzGCWiEbIA--~C/YXBwaWQ9c3JjaGRkO2ZpPXN0cmltO2g9MTI0O3c9MTI0/https://media.zenfs.com/en/theblast_73/88c5dab036ccd40417539b21c2f67e6c.cf.webp"
+      },
+      "computedStyles": {
+        "color": "transparent"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "line-clamp-3",
+        "text-[1.25rem]",
+        "font-semibold",
+        "leading-[1.375rem]",
+        "text-white",
+        "sm:text-[1.875rem]",
+        "sm:font-[550]",
+        "sm:leading-9",
+        "sm:tracking-[-0.0375rem]"
+      ],
+      "text": "We have a deal: Disney and YouTube TV end their standoff after 2 weeks",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "hover:fill-grape-jelly",
+        "dark:hover:fill-[#957efc]",
+        "hover:text-grape-jelly",
+        "dark:hover:text-[#957efc]",
+        "fill-batcave",
+        "dark:fill-grey-hair",
+        "focus-visible:fill-grape-jelly",
+        "dark:focus-visible:fill-sky",
+        "focus-visible:outline-[rgb(96_1_210/50%)]",
+        "dark:focus-visible:outline-[rgb(149_126_252/50%)]",
+        "focus-visible:text-grape-jelly",
+        "dark:focus-visible:text-[#957efc]",
+        "text-batcave",
+        "dark:text-grey-hair",
+        "flex",
+        "w-full",
+        "gap-4",
+        "[height:inherit]",
+        "focus-visible:rounded-[1px]",
+        "focus-visible:outline",
+        "focus-visible:outline-4",
+        "group/profile-mail",
+        "items-start",
+        "py-2.5"
+      ],
+      "text": "",
+      "attributes": {
+        "data-ylk": "elm:navcat;itc:0;pkgt:profile-pane;sec:ybar;slk:Inbox;subsec:accounts;",
+        "href": "https://mail.yahoo.com/",
+        "data-rapid_p": "310",
+        "data-v9y": "1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "bg-transparent",
+        "dark:bg-midnight",
+        "focus-visible:outline-[rgb(96_1_210/50%)]",
+        "dark:focus-visible:outline-[rgb(149_126_252/50%)]",
+        "-ml-1",
+        "flex",
+        "size-5",
+        "items-center",
+        "justify-center",
+        "border-none",
+        "focus-visible:rounded-[4px]",
+        "focus-visible:outline",
+        "focus-visible:outline-4",
+        "md:ml-0"
+      ],
+      "text": "",
+      "attributes": {
+        "aria-label": "Navigation menu",
+        "aria-expanded": "false",
+        "data-ylk": "elm:expand;itc:1;pkgt:top;sec:ybar;slk:hamburger;subsec:navrail;"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "focus-visible:outline-[rgb(96_1_210/50%)]",
+        "dark:focus-visible:outline-[rgb(149_126_252/50%)]",
+        "absolute",
+        "left-[-10000px]",
+        "size-px",
+        "text-nowrap",
+        "rounded-xl",
+        "bg-uh-purple",
+        "p-1",
+        "text-white",
+        "focus:left-1",
+        "focus:top-1",
+        "focus-visible:z-50",
+        "focus-visible:block",
+        "focus-visible:size-auto",
+        "focus-visible:outline",
+        "focus-visible:outline-4",
+        "focus-visible:outline-offset-0"
+      ],
+      "text": "Skip to main",
+      "attributes": {
+        "data-ylk": "sec:ybar;",
+        "href": "#ntk"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "mr-1.5",
+        "inline",
+        "size-5",
+        "rounded-full"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://s.yimg.com/uu/api/res/1.2/I8c1seilG4RLysWZUCeULg--~B/Zmk9ZmlsbDtoPTgwO3B5b2ZmPTA7dz04MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2020-12/515ef980-3432-11eb-b5ef-2a7f8e085664.cf.webp"
+      },
+      "computedStyles": {
+        "color": "transparent"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "relative",
+        "w-full",
+        "rounded-t-lg",
+        "object-cover",
+        "chromatic-ignore",
+        "hidden",
+        "rounded-lg",
+        "md:block"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "width": "534",
+        "height": "304",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://s.yimg.com/uu/api/res/1.2/3zXg.LUawkRvwQhPGXyz4w--~B/Zmk9c3RyaW07aD0zMDQ7cT05NTt3PTUzNDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/4e0e6350-c1e6-11f0-a37e-0f3972bb4895.cf.webp"
+      },
+      "computedStyles": {
+        "color": "transparent"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-batcave",
+        "hover:text-dory",
+        "dark:text-dirty-seagull",
+        "dark:hover:text-sky"
+      ],
+      "text": "About Our Ads",
+      "attributes": {
+        "data-ylk": "elm:corp;itc:0;",
+        "href": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-batcave",
+        "hover:text-dory",
+        "dark:text-dirty-seagull",
+        "dark:hover:text-sky"
+      ],
+      "text": "Feedback",
+      "attributes": {
+        "data-ylk": "elm:corp;itc:0;",
+        "href": "https://yahoo.uservoice.com/forums/341361-yahoo-home"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "focus-visible:outline-[rgb(96_1_210/50%)]",
+        "dark:focus-visible:outline-[rgb(149_126_252/50%)]",
+        "absolute",
+        "left-[-10000px]",
+        "size-px",
+        "text-nowrap",
+        "rounded-xl",
+        "bg-uh-purple",
+        "p-1",
+        "text-white",
+        "focus:left-1",
+        "focus:top-1",
+        "focus-visible:z-50",
+        "focus-visible:block",
+        "focus-visible:size-auto",
+        "focus-visible:outline",
+        "focus-visible:outline-4",
+        "focus-visible:outline-offset-0"
+      ],
+      "text": "Skip to features bar",
+      "attributes": {
+        "data-ylk": "sec:ybar;",
+        "href": "#convenience-bar"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "stretched-box",
+        "chromatic-ignore",
+        "text-inkwell",
+        "headline-s-emphasized",
+        "hover:underline",
+        "dark:text-grey-hair",
+        "line-clamp-4"
+      ],
+      "text": "Yes, these Christmas gifts are trending for a reason — and they're selling fast",
+      "attributes": {
+        "data-ylk": "aid:0d6880c7-31b3-3ac4-a895-02778a556c01;ccode:ntk_single_feed__en-US__frontpage__default__default__desktop__ga__noSplit;cpos:3;ct:story;elm:hdln;g:d1a10151-4c25-4de8-983d-875347c79369;itc:0;mab_test:eyJ1IjoiMGQ2ODgwYzctMzFiMy0zYWM0LWE4OTUtMDI3NzhhNTU2YzAxIiwiYiI6IjY0NTYxMTQiLCJlIjoiMTc4NzM0MSJ9;mpos:1;p_sys:jarvis;pkgt:minintk;sec:strm;source:strm needtoknow;subsec:needtoknow;ll3:target-modal;",
+        "href": "/shopping/gift-ideas/article/best-christmas-gift-ideas-154619313.html"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "header",
+      "id": "",
+      "classes": [
+        "mb-5",
+        "flex",
+        "items-end",
+        "justify-start",
+        "gap-2"
+      ],
+      "text": "Trending3 min ago",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "stretched-box",
+        "chromatic-ignore",
+        "text-inkwell",
+        "headline-s-emphasized",
+        "hover:underline",
+        "dark:text-grey-hair",
+        "line-clamp-4"
+      ],
+      "text": "Mega Millions ticket holder wins $980 million jackpot",
+      "attributes": {
+        "data-ylk": "aid:7b7b7460-46f4-33f0-b613-122ee6b84c14;ccode:ntk_single_feed__en-US__frontpage__default__default__desktop__ga__noSplit;cpos:2;ct:story;elm:hdln;g:dcb397ed-3fa8-3ff5-9fd0-311736c68bbd;itc:0;mab_test:eyJ1IjoiN2I3Yjc0NjAtNDZmNC0zM2YwLWI2MTMtMTIyZWU2Yjg0YzE0IiwiYiI6IjY0NTg3NDkiLCJlIjoiMTc4Nzg5MCJ9;mpos:1;p_sys:jarvis;pkgt:minintk;sec:strm;source:strm needtoknow;subsec:needtoknow;ll3:target-modal;",
+        "href": "/news/articles/mega-millions-draws-numbers-980-045114151.html"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-batcave",
+        "hover:text-dory",
+        "dark:text-dirty-seagull",
+        "dark:hover:text-sky"
+      ],
+      "text": "Careers",
+      "attributes": {
+        "data-ylk": "elm:corp;itc:0;",
+        "href": "https://www.yahooinc.com/careers/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-end",
+        "justify-start",
+        "gap-2.5"
+      ],
+      "text": "Life",
+      "attributes": {
+        "data-ylk": "cpos:12;slk:Life;elm:navcat;itc:0;mpos:9;pkgt:left-rail;subsec:explore-hub;",
+        "href": "https://www.yahoo.com/lifestyle/",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [],
+      "text": "10 things you should never store in your basement over winter",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dark:fill-dirty-seagull",
+        "dark:hover:fill-sky"
+      ],
+      "text": "",
+      "attributes": {
+        "data-ylk": "elm:follow;itc:0;outcm:follow;slk:twitter;",
+        "aria-label": "Twitter",
+        "href": "https://x.com/yahoonews",
+        "rel": "noreferrer noopener",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "hover:fill-grape-jelly",
+        "dark:hover:fill-[#957efc]",
+        "hover:text-grape-jelly",
+        "dark:hover:text-[#957efc]",
+        "fill-batcave",
+        "dark:fill-grey-hair",
+        "focus-visible:fill-grape-jelly",
+        "dark:focus-visible:fill-sky",
+        "focus-visible:outline-[rgb(96_1_210/50%)]",
+        "dark:focus-visible:outline-[rgb(149_126_252/50%)]",
+        "focus-visible:text-grape-jelly",
+        "dark:focus-visible:text-[#957efc]",
+        "text-batcave",
+        "dark:text-grey-hair",
+        "flex",
+        "w-full",
+        "gap-4",
+        "[height:inherit]",
+        "focus-visible:rounded-[1px]",
+        "focus-visible:outline",
+        "focus-visible:outline-4",
+        "items-center"
+      ],
+      "text": "Help",
+      "attributes": {
+        "data-ylk": "elm:navcat;itc:0;pkgt:profile-pane;sec:ybar;slk:Help;subsec:accounts;",
+        "href": "https://help.yahoo.com/kb/account"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "stretched-box",
+        "chromatic-ignore",
+        "z-1",
+        "line-clamp-4",
+        "text-ellipsis",
+        "text-inkwell",
+        "headline-s-regular",
+        "hover:underline",
+        "dark:text-grey-hair"
+      ],
+      "text": "Legendary Oakland coach John Beam dies after Laney College shooting; suspect arrested, police say",
+      "attributes": {
+        "data-ylk": "cpos:2;ct:story;elm:hdln;g:5bf9d48b-4518-3ee6-a6cf-2d43d4bdab21;itc:0;mpos:2;slk:Laney College;source:trending-search;subsec:trending-search;ll3:target-modal;",
+        "href": "/news/articles/suspect-custody-shooting-legendary-oakland-164100743.html"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-end",
+        "justify-start",
+        "gap-2.5"
+      ],
+      "text": "Finance",
+      "attributes": {
+        "data-ylk": "cpos:2;slk:Finance;elm:navcat;itc:0;mpos:9;pkgt:left-rail;subsec:explore-hub;",
+        "href": "https://finance.yahoo.com/",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-end",
+        "justify-start",
+        "gap-2.5"
+      ],
+      "text": "News",
+      "attributes": {
+        "data-ylk": "cpos:1;slk:News;elm:navcat;itc:0;mpos:9;pkgt:left-rail;subsec:explore-hub;",
+        "href": "https://www.yahoo.com/news/",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "_R_2beav7cjknm6jb_",
+      "classes": [
+        "shrink-0",
+        "grow",
+        "text-inkwell",
+        "display-m-emphasized",
+        "dark:text-grey-hair"
+      ],
+      "text": "Explore More",
+      "attributes": {
+        "id": "_R_2beav7cjknm6jb_"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dark:fill-dirty-seagull",
+        "dark:hover:fill-sky"
+      ],
+      "text": "",
+      "attributes": {
+        "data-ylk": "elm:follow;itc:0;outcm:follow;slk:youtube;",
+        "aria-label": "YouTube",
+        "href": "https://www.youtube.com/c/yahoonews",
+        "rel": "noreferrer noopener",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "relative",
+        "w-full",
+        "rounded-t-lg",
+        "object-cover",
+        "chromatic-ignore",
+        "hidden",
+        "rounded-lg",
+        "md:block"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "width": "534",
+        "height": "304",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://s.yimg.com/uu/api/res/1.2/cAbDzz.qZKz5e8a06944RA--~B/Zmk9c3RyaW07aD0zMDQ7cT05NTt3PTUzNDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/47237a40-c041-11f0-bfe6-a32739cca44b.cf.webp"
+      },
+      "computedStyles": {
+        "color": "transparent"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-batcave",
+        "hover:text-dory",
+        "dark:text-dirty-seagull",
+        "dark:hover:text-sky"
+      ],
+      "text": "Advertise",
+      "attributes": {
+        "data-ylk": "elm:corp;itc:0;",
+        "href": "https://www.yahooinc.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "chromatic-ignore",
+        "size-[20]",
+        "rounded",
+        "object-contain",
+        "lg:size-[62px]"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "width": "80",
+        "height": "80",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://s.yimg.com/fz/api/res/1.2/g3T.TqXFxiKLDrLFZlkqRQ--~C/YXBwaWQ9c3JjaGRkO2ZpPXN0cmltO2g9MTI0O3c9MTI0/https://media.zenfs.com/en/ap.org/fdb5f8b6b29530d13b98e9a3b551a8eb"
+      },
+      "computedStyles": {
+        "color": "transparent"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "mr-1.5",
+        "inline",
+        "size-5",
+        "rounded-full"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://s.yimg.com/uu/api/res/1.2/dbcjuIhUla68J683e7pbhw--~B/Zmk9ZmlsbDtoPTgwO3B5b2ZmPTA7dz04MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2023-03/42f4ca80-c3b1-11ed-bb8d-9264b3b3f99f.cf.webp"
+      },
+      "computedStyles": {
+        "color": "transparent"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "chromatic-ignore",
+        "size-[20]",
+        "rounded",
+        "object-contain",
+        "lg:size-[62px]"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "width": "80",
+        "height": "80",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://s.yimg.com/fz/api/res/1.2/xl1PWfQ8sIv49HPQsKUOpQ--~C/YXBwaWQ9c3JjaGRkO2ZpPXN0cmltO2g9MTI0O3c9MTI0/https://media.zenfs.com/en/kgo_articles_913/ab2960350cc4a6ad08f9afaa52ced006.cf.webp"
+      },
+      "computedStyles": {
+        "color": "transparent"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [],
+      "text": "Cleto Escobedo III’s Cause Of Death Revealed As Jimmy Kimmel Mourns Musical Director",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "rounded",
+        "p-1",
+        "pr-4",
+        "text-xs",
+        "font-bold",
+        "text-white",
+        "transition"
+      ],
+      "text": "✕",
+      "attributes": {
+        "aria-label": "Dismiss streak toast"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "inline-block",
+        "text-inkwell",
+        "display-m-emphasized",
+        "dark:text-dirty-seagull"
+      ],
+      "text": "For You",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "stretched-box",
+        "chromatic-ignore",
+        "text-white",
+        "hover:underline"
+      ],
+      "text": "We have a deal: Disney and YouTube TV end their standoff after 2 weeks",
+      "attributes": {
+        "data-ylk": "aid:bcf5eea3-dc4f-3fa1-85ec-1d6cf9ec5732;ccode:ntk_single_feed__en-US__frontpage__default__default__desktop__ga__noSplit;cpos:1;ct:story;elm:hdln;g:2e00d31d-d8aa-3be9-b1a6-f9a98bff8c69;itc:0;ll4:badge-business;mab_test:eyJ1IjoiYmNmNWVlYTMtZGM0Zi0zZmExLTg1ZWMtMWQ2Y2Y5ZWM1NzMyIiwiYiI6IjY0NTgxNTkiLCJlIjoiMTc4Nzc3MiJ9;mpos:1;p_sys:jarvis;pkgt:minintk;sec:strm;source:strm needtoknow;subsec:needtoknow;ll3:target-modal;",
+        "aria-hidden": "false",
+        "tabindex": "0",
+        "href": "/finance/news/youtube-tv-disney-reach-deal-004045011.html"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "mr-1.5",
+        "inline",
+        "size-5",
+        "rounded-full"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://s.yimg.com/uu/api/res/1.2/BHUO5hP8xWQZhj_xywQ33Q--~B/Zmk9ZmlsbDtoPTgwO3B5b2ZmPTA7dz04MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2020-11/b4aaf100-2b28-11eb-8fb7-3a35ca732266.cf.webp"
+      },
+      "computedStyles": {
+        "color": "transparent"
+      }
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-end",
+        "justify-start",
+        "gap-2.5"
+      ],
+      "text": "Feedback",
+      "attributes": {
+        "aria-label": "Tell us what you think.",
+        "data-ylk": "cpos:14;slk:feedback form;elm:navcat;itc:0;mpos:9;pkgt:left-rail;subsec:explore-hub;"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "footer",
+      "id": "",
+      "classes": [
+        "px-2",
+        "pb-4",
+        "lg:hidden"
+      ],
+      "text": "AdvertiseAbout Our AdsCareersHelpFeedbackProducts and ServicesStock quotes© 2025 Yahoo. All rights reserved.",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "size-[72px]",
+        "rounded-[8px]"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "relative",
+        "w-full",
+        "rounded-t-lg",
+        "object-cover",
+        "chromatic-ignore",
+        "hidden",
+        "rounded-lg",
+        "md:block"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "width": "534",
+        "height": "304",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://s.yimg.com/uu/api/res/1.2/Pl8iEobzgQ1Ay0C8zWHhvA--~B/Zmk9c3RyaW07aD0zMDQ7cT05NTt3PTUzNDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/663fc590-c182-11f0-a7e5-fe5e7477c83d.cf.webp"
+      },
+      "computedStyles": {
+        "color": "transparent"
+      }
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "mb-3",
+        "text-inkwell",
+        "display-m-emphasized",
+        "dark:text-grey-hair"
+      ],
+      "text": "Popular Games",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "stretched-box",
+        "chromatic-ignore",
+        "z-1",
+        "line-clamp-4",
+        "text-ellipsis",
+        "text-inkwell",
+        "headline-s-regular",
+        "hover:underline",
+        "dark:text-grey-hair"
+      ],
+      "text": "Millie Bobby Brown Snaps At 'Rude' Photographer Who Told Her To 'Smile'",
+      "attributes": {
+        "data-ylk": "cpos:5;ct:story;elm:hdln;g:2a08c2ee-384b-3177-8422-ef8362e981c3;itc:0;mpos:2;slk:Millie Bobby Brown;source:trending-search;subsec:trending-search;ll3:target-modal;",
+        "href": "/entertainment/tv/articles/stranger-things-star-millie-bobby-011532322.html"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "_R_5iijknm6jbH1_",
+      "classes": [
+        "focus-visible:outline-[rgb(96_1_210/50%)]",
+        "dark:focus-visible:outline-[rgb(149_126_252/50%)]",
+        "focus-visible:text-grape-jelly",
+        "dark:focus-visible:text-[#957efc]",
+        "items-center",
+        "font-medium",
+        "tracking-tight",
+        "focus-visible:outline-offset-[12px]",
+        "whitespace-nowrap",
+        "text-sm",
+        "text-battleship",
+        "dark:text-bob",
+        "relative",
+        "top-0",
+        "flex",
+        "text-center",
+        "leading-none",
+        "focus-visible:rounded-[1px]",
+        "focus-visible:outline",
+        "focus-visible:outline-4",
+        "group-hover:text-grape-jelly",
+        "dark:group-hover:text-[#957efc]"
+      ],
+      "text": "More",
+      "attributes": {
+        "aria-haspopup": "menu",
+        "aria-expanded": "false",
+        "aria-controls": "_R_5iijknm6jb_",
+        "id": "_R_5iijknm6jbH1_"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "fill-batcave",
+        "dark:fill-grey-hair",
+        "focus-visible:fill-grape-jelly",
+        "dark:focus-visible:fill-sky",
+        "focus-visible:outline-[rgb(96_1_210/50%)]",
+        "dark:focus-visible:outline-[rgb(149_126_252/50%)]",
+        "focus-visible:fill-grape-jelly",
+        "dark:focus-visible:fill-sky",
+        "focus-visible:text-grape-jelly",
+        "dark:focus-visible:text-[#957efc]",
+        "text-batcave",
+        "dark:text-grey-hair",
+        "flex",
+        "w-full",
+        "items-center",
+        "gap-4",
+        "[height:inherit]",
+        "focus-visible:rounded-[1px]",
+        "focus-visible:outline",
+        "focus-visible:outline-4",
+        "focus-visible:outline-offset-2",
+        "group-hover/item:fill-grape-jelly",
+        "group-hover/item:text-grape-jelly",
+        "dark:group-hover/item:fill-[#957efc]",
+        "dark:group-hover/item:text-[#957efc]"
+      ],
+      "text": "Add or switch accounts",
+      "attributes": {
+        "data-ylk": "elm:btn;itc:0;pkgt:profile-pane;sec:ybar;slk:Add or switch accounts;subsec:accounts;"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [],
+      "text": "Yes, these Christmas gifts are trending for a reason — and they're selling fast",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-end",
+        "justify-start",
+        "gap-2.5"
+      ],
+      "text": "Newsletters",
+      "attributes": {
+        "data-ylk": "cpos:13;slk:Newsletters;elm:navcat;itc:0;mpos:9;pkgt:left-rail;subsec:explore-hub;",
+        "href": "https://www.yahoo.com/newsletters/",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "relative",
+        "hidden",
+        "size-full",
+        "rounded-lg",
+        "object-cover",
+        "sm:block"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "width": "520",
+        "height": "286",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://s.yimg.com/uu/api/res/1.2/CZt5cCd2vj3TJBejrMG16w--~B/Zmk9c3RyaW07aD0yODY7cT05NTt3PTUyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/deadline.com/7ef2528502fc54e68d1817a9cda2c92a.cf.webp"
+      },
+      "computedStyles": {
+        "color": "transparent"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-end",
+        "justify-start",
+        "gap-2.5"
+      ],
+      "text": "Shopping",
+      "attributes": {
+        "data-ylk": "cpos:8;slk:Shopping;elm:navcat;itc:0;mpos:9;pkgt:left-rail;subsec:explore-hub;",
+        "href": "https://shopping.yahoo.com/",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "text-batcave",
+        "dark:text-grey-hair",
+        "flex",
+        "h-5",
+        "shrink",
+        "grow",
+        "basis-0",
+        "items-center",
+        "gap-2",
+        "text-sm",
+        "font-normal",
+        "leading-tight"
+      ],
+      "text": "Search the web",
+      "attributes": {
+        "aria-expanded": "false",
+        "data-ylk": "elm:expand;itc:1;sec:ybar;slk:websrch;subsec:searchbox;"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-end",
+        "justify-start",
+        "gap-2.5"
+      ],
+      "text": "Creators",
+      "attributes": {
+        "data-ylk": "cpos:9;slk:Creators;elm:navcat;itc:0;mpos:9;pkgt:left-rail;subsec:explore-hub;",
+        "href": "https://creators.yahoo.com/",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "focus-visible:outline-[rgb(96_1_210/50%)]",
+        "dark:focus-visible:outline-[rgb(149_126_252/50%)]",
+        "focus-visible:text-grape-jelly",
+        "dark:focus-visible:text-[#957efc]",
+        "text-batcave",
+        "dark:text-grey-hair",
+        "ml-5",
+        "mt-2.5",
+        "flex",
+        "min-h-10",
+        "w-[320px]",
+        "items-center",
+        "justify-center",
+        "rounded-full",
+        "border",
+        "border-dirty-seagull",
+        "px-9",
+        "py-0",
+        "text-sm",
+        "font-[450]",
+        "hover:bg-[#5409b2]",
+        "hover:text-white",
+        "focus-visible:outline",
+        "focus-visible:outline-4",
+        "focus-visible:outline-offset-2",
+        "max-w-[275px]"
+      ],
+      "text": "Manage your account",
+      "attributes": {
+        "data-ylk": "elm:btn;itc:0;pkgt:profile-pane;sec:ybar;slk:Manage account;subsec:accounts;",
+        "href": "https://login.yahoo.com/myaccount/overview?lang=en-US&activity=ybar-acctinfo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "hover:text-grape-jelly",
+        "dark:hover:text-[#957efc]",
+        "focus-visible:outline-[rgb(96_1_210/50%)]",
+        "dark:focus-visible:outline-[rgb(149_126_252/50%)]",
+        "focus-visible:text-grape-jelly",
+        "dark:focus-visible:text-[#957efc]",
+        "py-0.5",
+        "text-center",
+        "focus-visible:rounded-[1px]",
+        "focus-visible:outline",
+        "focus-visible:outline-4",
+        "whitespace-nowrap",
+        "text-sm",
+        "font-medium",
+        "text-battleship",
+        "dark:text-bob",
+        "focus-visible:outline-offset-[12px]"
+      ],
+      "text": "Sports",
+      "attributes": {
+        "data-ylk": "elm:navcat;itc:0;pkgt:top;sec:ybar;slk:sports;subsec:navrail;",
+        "href": "https://sports.yahoo.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "focus-visible:outline-[rgb(96_1_210/50%)]",
+        "dark:focus-visible:outline-[rgb(149_126_252/50%)]",
+        "absolute",
+        "left-[-10000px]",
+        "size-px",
+        "text-nowrap",
+        "rounded-xl",
+        "bg-uh-purple",
+        "p-1",
+        "text-white",
+        "focus:left-1",
+        "focus:top-1",
+        "focus-visible:z-50",
+        "focus-visible:block",
+        "focus-visible:size-auto",
+        "focus-visible:outline",
+        "focus-visible:outline-4",
+        "focus-visible:outline-offset-0"
+      ],
+      "text": "Skip to left column",
+      "attributes": {
+        "data-ylk": "sec:ybar;",
+        "href": "#stacked-list"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "chromatic-ignore",
+        "size-[20]",
+        "rounded",
+        "object-contain",
+        "lg:size-[62px]"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "width": "80",
+        "height": "80",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://s.yimg.com/fz/api/res/1.2/ys_zaI6z.AN9JFGnEGVnBg--~C/YXBwaWQ9c3JjaGRkO2ZpPXN0cmltO2g9MTI0O3c9MTI0/https://media.zenfs.com/en/thewrap.com/76e96b2bb91649d48470a5646a75ee9e"
+      },
+      "computedStyles": {
+        "color": "transparent"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-end",
+        "justify-start",
+        "gap-2.5"
+      ],
+      "text": "Games",
+      "attributes": {
+        "data-ylk": "cpos:7;slk:Games;elm:navcat;itc:0;mpos:9;pkgt:left-rail;subsec:explore-hub;",
+        "href": "https://www.yahoo.com/games/",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "header",
+      "id": "",
+      "classes": [
+        "mb-5",
+        "flex",
+        "items-end",
+        "justify-start",
+        "gap-2"
+      ],
+      "text": "Explore More",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "group/anchor",
+        "flex",
+        "items-center",
+        "text-inkwell",
+        "dark:text-grey-hair"
+      ],
+      "text": "Popular Games",
+      "attributes": {
+        "data-ylk": "itc:0;mpos:2;sec:right-rail;subsec:games-cta;elm:game;pos:0;slk:popular-games;",
+        "href": "https://www.yahoo.com/games/",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dark:fill-dirty-seagull",
+        "dark:hover:fill-sky"
+      ],
+      "text": "",
+      "attributes": {
+        "data-ylk": "elm:follow;itc:0;outcm:follow;slk:instagram;",
+        "aria-label": "Instagram",
+        "href": "https://instagram.com/yahoonews",
+        "rel": "noreferrer noopener",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "mr-1.5",
+        "inline",
+        "size-5",
+        "rounded-full"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://s.yimg.com/uu/api/res/1.2/mNs_S.Pa.KL_wSPxnrW7bQ--~B/Zmk9ZmlsbDtoPTgwO3B5b2ZmPTA7dz04MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2020-12/575bc790-355f-11eb-ad7b-2304a1f8730f.cf.webp"
+      },
+      "computedStyles": {
+        "color": "transparent"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dark:fill-dirty-seagull",
+        "dark:hover:fill-sky"
+      ],
+      "text": "",
+      "attributes": {
+        "data-ylk": "elm:follow;itc:0;outcm:follow;slk:facebook;",
+        "aria-label": "Facebook",
+        "href": "https://facebook.com/YahooNews",
+        "rel": "noreferrer noopener",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "stretched-box",
+        "chromatic-ignore",
+        "text-inkwell",
+        "headline-m-emphasized",
+        "hover:underline",
+        "dark:text-grey-hair",
+        "line-clamp-4",
+        "sm:line-clamp-3"
+      ],
+      "text": "Cleto Escobedo III’s Cause Of Death Revealed As Jimmy Kimmel Mourns Musical Director",
+      "attributes": {
+        "data-ylk": "ccode:megastream_unified__en-US__frontpage__default__default__desktop__ga__noSplit;cnt_tpc:Entertainment;cpos:1;ct:story;elm:hdln;elmt:ct;g:5f6b4d2c-37af-339b-aa5e-f85cd8da82c0;grpt:singlestory;itc:0;ll4:badge-popular|badge-entertainment;mpos:2;p_sys:jarvis;pkgt:orphan_img;pos:1;source:strm article-river;subsec:article-river;ll3:target-modal;",
+        "href": "/entertainment/music/articles/cleto-escobedo-iii-cause-death-021827816.html"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "chromatic-ignore",
+        "aspect-[3/2]",
+        "size-full",
+        "object-cover",
+        "brightness-75",
+        "md:aspect-[16/9]",
+        "md:brightness-100"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "width": "1104",
+        "height": "620",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://s.yimg.com/uu/api/res/1.2/Si7pxOziaZc9Q98pn0kM7g--~B/Zmk9c3RyaW07aD02MjA7cT05NTt3PTExMDQ7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/bbc237a0-c1be-11f0-b7f3-ee1845ad4b52.cf.webp"
+      },
+      "computedStyles": {
+        "color": "transparent"
+      }
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "hidden"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "aria-label": "Back",
+        "data-ylk": "elm:btn;itc:1;sec:ybar;slk:back-close-srch;subsec:searchbox;"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-end",
+        "justify-start",
+        "gap-2.5"
+      ],
+      "text": "Search",
+      "attributes": {
+        "data-ylk": "cpos:5;slk:Search;elm:navcat;itc:0;mpos:9;pkgt:left-rail;subsec:explore-hub;",
+        "href": "https://search.yahoo.com/",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-end",
+        "justify-start",
+        "gap-2.5"
+      ],
+      "text": "Sports",
+      "attributes": {
+        "data-ylk": "cpos:3;slk:Sports;elm:navcat;itc:0;mpos:9;pkgt:left-rail;subsec:explore-hub;",
+        "href": "https://sports.yahoo.com/",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "main",
+      "id": "",
+      "classes": [
+        "scroll-mt-[9.75rem]",
+        "rounded-xl",
+        "will-change-scroll"
+      ],
+      "text": "We have a deal: Disney and YouTube TV end their standoff after 2 weeksBusinessVariety326Mega Millions ticket holder wins $980 million jackpotAssociated Press94Yes, these Christmas gifts are trending for a reason — and they're selling fastYahoo Shopping10 things you should never store in your basement over winterThe Spruce52For YouGaining attentionCleto Escobedo III’s Cause Of Death Revealed As Jimmy Kimmel Mourns Musical DirectorDeadline2651 min read",
+      "attributes": {
+        "aria-label": "Top stories and Stories for you",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-end",
+        "justify-start",
+        "gap-2.5"
+      ],
+      "text": "Technology",
+      "attributes": {
+        "data-ylk": "cpos:11;slk:Technology;elm:navcat;itc:0;mpos:9;pkgt:left-rail;subsec:explore-hub;",
+        "href": "https://tech.yahoo.com/",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "sr-only",
+        "text-batcave",
+        "hover:text-dory",
+        "dark:text-dirty-seagull",
+        "dark:hover:text-sky"
+      ],
+      "text": "Stock quotes",
+      "attributes": {
+        "data-ylk": "elm:corp;itc:0;",
+        "href": "https://www.yahoo.com/news/finance_data.html"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "stretched-box",
+        "chromatic-ignore",
+        "z-1",
+        "line-clamp-4",
+        "text-ellipsis",
+        "text-inkwell",
+        "headline-s-regular",
+        "hover:underline",
+        "dark:text-grey-hair"
+      ],
+      "text": "Donald Trump rescinds endorsement of ‘Marjorie Taylor Greene, says he’ll back primary opponent",
+      "attributes": {
+        "data-ylk": "cpos:1;ct:story;elm:hdln;g:17c96da3-850d-3a56-babe-1b0e2da55eba;itc:0;mpos:2;slk:Marjorie Taylor Greene;source:trending-search;subsec:trending-search;ll3:target-modal;",
+        "href": "/news/articles/donald-trump-rescinds-endorsement-ranting-023533742.html"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dark:fill-dirty-seagull",
+        "dark:hover:fill-sky"
+      ],
+      "text": "",
+      "attributes": {
+        "data-ylk": "elm:follow;itc:0;outcm:follow;slk:tiktok;",
+        "aria-label": "TikTok",
+        "href": "https://www.tiktok.com/@yahoonews",
+        "rel": "noreferrer noopener",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-end",
+        "justify-start",
+        "gap-2.5"
+      ],
+      "text": "Weather",
+      "attributes": {
+        "data-ylk": "cpos:6;slk:Weather;elm:navcat;itc:0;mpos:9;pkgt:left-rail;subsec:explore-hub;",
+        "href": "https://www.yahoo.com/news/weather/",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "mr-1.5",
+        "inline",
+        "size-5",
+        "rounded-full"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://s.yimg.com/uu/api/res/1.2/EWYl6tDLloVkInz7iploDA--~B/Zmk9ZmlsbDtoPTgwO3B5b2ZmPTA7dz04MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2025-05/40285560-3db7-11f0-8cef-1ceddb7a473f.cf.webp"
+      },
+      "computedStyles": {
+        "color": "transparent"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "focus-visible:outline-[rgb(96_1_210/50%)]",
+        "dark:focus-visible:outline-[rgb(149_126_252/50%)]",
+        "absolute",
+        "left-[-10000px]",
+        "size-px",
+        "text-nowrap",
+        "rounded-xl",
+        "bg-uh-purple",
+        "p-1",
+        "text-white",
+        "focus:left-1",
+        "focus:top-1",
+        "focus-visible:z-50",
+        "focus-visible:block",
+        "focus-visible:size-auto",
+        "focus-visible:outline",
+        "focus-visible:outline-4",
+        "focus-visible:outline-offset-0"
+      ],
+      "text": "Skip to right column",
+      "attributes": {
+        "data-ylk": "sec:ybar;",
+        "href": "#right-rail"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "stretched-box",
+        "chromatic-ignore",
+        "z-1",
+        "line-clamp-4",
+        "text-ellipsis",
+        "text-inkwell",
+        "headline-s-regular",
+        "hover:underline",
+        "dark:text-grey-hair"
+      ],
+      "text": "Bryan Kohberger must pay for slain Idaho students' urns as part of restitution, judge rules",
+      "attributes": {
+        "data-ylk": "cpos:3;ct:story;elm:hdln;g:32fc7100-1b22-3949-9ff8-e6edf6838b3e;itc:0;mpos:2;slk:Bryan Kohberger;source:trending-search;subsec:trending-search;ll3:target-modal;",
+        "href": "/news/articles/bryan-kohberger-must-pay-slain-143956170.html"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "focus-visible:outline-[rgb(96_1_210/50%)]",
+        "dark:focus-visible:outline-[rgb(149_126_252/50%)]",
+        "group",
+        "relative",
+        "focus-visible:outline",
+        "focus-visible:outline-4",
+        "rapid-noclick-resp",
+        "hidden",
+        "w-[72px]",
+        "items-center",
+        "justify-center",
+        "rounded-[26px]",
+        "md:flex",
+        "bg-uh-purple",
+        "dark:bg-[#957efc]",
+        "focus-visible:outline-[rgb(96_1_210/50%)]",
+        "dark:focus-visible:outline-[rgb(149_126_252/50%)]",
+        "hover:bg-[#5409b2]",
+        "dark:hover:bg-[#7c49fc]",
+        "h-[40px]"
+      ],
+      "text": "Search the web",
+      "attributes": {
+        "aria-label": "Search the web",
+        "data-ylk": "elm:search;elmt:icon;itc:0;sec:ybar;slk:websrch;subsec:searchbox;tar:search.yahoo.com;"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-batcave",
+        "hover:text-dory",
+        "dark:text-dirty-seagull",
+        "dark:hover:text-sky"
+      ],
+      "text": "Help",
+      "attributes": {
+        "data-ylk": "elm:corp;itc:0;",
+        "href": "https://help.yahoo.com/kb/account"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "stretched-box",
+        "chromatic-ignore",
+        "z-1",
+        "line-clamp-4",
+        "text-ellipsis",
+        "text-inkwell",
+        "headline-s-regular",
+        "hover:underline",
+        "dark:text-grey-hair"
+      ],
+      "text": "A South Carolina man is executed by firing squad for 2004 killings",
+      "attributes": {
+        "data-ylk": "cpos:4;ct:story;elm:hdln;g:ce01fd76-6de7-35b2-ae40-ed28eb58fa79;itc:0;mpos:2;slk:South Carolina Execution;source:trending-search;subsec:trending-search;ll3:target-modal;",
+        "href": "/news/articles/south-carolina-man-scheduled-executed-044954920.html"
+      },
+      "computedStyles": {}
+    }
+  ]
+}

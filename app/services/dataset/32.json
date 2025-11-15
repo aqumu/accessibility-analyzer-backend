@@ -1,0 +1,3870 @@
+{
+  "meta": {
+    "url": "https://nps.gov",
+    "title": "NPS.gov Homepage (U.S. National Park Service)",
+    "lang": "en",
+    "charset": "UTF-8"
+  },
+  "elements": [
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Iowa",
+      "attributes": {
+        "href": "/state/ia/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Mississippi",
+      "attributes": {
+        "href": "/state/ms/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Plan Your Visit",
+      "attributes": {
+        "href": "/planyourvisit/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "//www.youtube.com/nationalparkservice"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "dropdown-header"
+      ],
+      "text": "American People & Government",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Georgia",
+      "attributes": {
+        "href": "/state/ga/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Trade & Commerce",
+      "attributes": {
+        "href": "/subjects/trade/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "btn-close"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "data-bs-dismiss": "modal",
+        "aria-label": "Close"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Canyons & Canyonlands",
+      "attributes": {
+        "href": "/subjects/canyons/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Nebraska",
+      "attributes": {
+        "href": "/state/ne/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Wildflowers",
+      "attributes": {
+        "href": "/subjects/wildflowers/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "PromoLogo-image"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "National Park Foundation",
+        "src": "/common/commonspot/templates/images/promos/npf-white.png"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Cemeteries",
+      "attributes": {
+        "href": "/subjects/burials/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "btn",
+        "btn-secondary"
+      ],
+      "text": "This Site",
+      "attributes": {
+        "data-scope": "site",
+        "type": "submit"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Cold War",
+      "attributes": {
+        "href": "/subjects/coldwar/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Invasive & Non-Native Species",
+      "attributes": {
+        "href": "/subjects/invasive/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "Feature-image"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/common/uploads/grid_builder/crop16_9/FC581FDE-F2B8-B6BD-975A46B5D0E25A04.jpg?width=640&quality=90&mode=crop",
+        "sizes": "(min-width: 1380px) 420px, (min-width: 1200px) 360px, (min-width: 576px) 33vw, 100vw",
+        "srcset": "/common/uploads/grid_builder/crop16_9/FC581FDE-F2B8-B6BD-975A46B5D0E25A04.jpg?width=420&quality=90&mode=crop 420w, /common/uploads/grid_builder/crop16_9/FC581FDE-F2B8-B6BD-975A46B5D0E25A04.jpg?width=640&quality=90&mode=crop 640w",
+        "alt": "Person taking a picture of the Grand Canyon covered with snow"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Music",
+      "attributes": {
+        "href": "/subjects/music/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Photography",
+      "attributes": {
+        "href": "/subjects/photography/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "btn",
+        "btn-secondary",
+        "me-2"
+      ],
+      "text": "This Site",
+      "attributes": {
+        "data-scope": "site",
+        "type": "submit"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Alaska",
+      "attributes": {
+        "href": "/state/ak/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Nevada",
+      "attributes": {
+        "href": "/state/nv/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "HomepageKicker"
+      ],
+      "text": "Featured Stories",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "GlobalFooter-AppPromo__BadgeLink"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "https://play.google.com/store/apps/details?id=gov.nps.mobileapp",
+        "onclick": "gas('send', 'event', 'App Promo Footer', 'Android', document.location.pathname, 1, true);"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "dropdown-header"
+      ],
+      "text": "Plants, Animals & More",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Colorado",
+      "attributes": {
+        "href": "/state/co/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Spies & Intelligence",
+      "attributes": {
+        "href": "/subjects/spies/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "South Carolina",
+      "attributes": {
+        "href": "/state/sc/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Fish",
+      "attributes": {
+        "href": "/subjects/fishing/fish.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Pottery & Sculpture",
+      "attributes": {
+        "href": "/subjects/sculpture/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Banking, Mints & Money",
+      "attributes": {
+        "href": "/subjects/money/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Segregation & Desegregation",
+      "attributes": {
+        "href": "/subjects/segregation/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "Feature-image"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/common/uploads/grid_builder/crop16_9/EEB3A75E-1DD8-B71B-0BD14DBA39396394.jpg?width=640&quality=90&mode=crop",
+        "sizes": "(min-width: 1380px) 420px, (min-width: 1200px) 360px, (min-width: 576px) 33vw, 100vw",
+        "srcset": "/common/uploads/grid_builder/crop16_9/EEB3A75E-1DD8-B71B-0BD14DBA39396394.jpg?width=420&quality=90&mode=crop 420w, /common/uploads/grid_builder/crop16_9/EEB3A75E-1DD8-B71B-0BD14DBA39396394.jpg?width=640&quality=90&mode=crop 640w",
+        "alt": "Four people cutting a large plant branch "
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "FOIA",
+      "attributes": {
+        "href": "//www.nps.gov/aboutus/foia/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Schools",
+      "attributes": {
+        "href": "/subjects/schools/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Air",
+      "attributes": {
+        "href": "/subjects/air/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Explorers & Exploration",
+      "attributes": {
+        "href": "/subjects/exploration/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "Feature-image"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/common/uploads/grid_builder/crop16_9/5381AC3F-A805-DBC1-D64EA4EF76841653.jpg?width=640&quality=90&mode=crop",
+        "sizes": "(min-width: 1380px) 420px, (min-width: 1200px) 360px, (min-width: 576px) 33vw, 100vw",
+        "srcset": "/common/uploads/grid_builder/crop16_9/5381AC3F-A805-DBC1-D64EA4EF76841653.jpg?width=420&quality=90&mode=crop 420w, /common/uploads/grid_builder/crop16_9/5381AC3F-A805-DBC1-D64EA4EF76841653.jpg?width=640&quality=90&mode=crop 640w",
+        "alt": "Soldiers holding a certificate and US flag in front of a mountain "
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Learn & explore",
+      "attributes": {
+        "href": "/learnandexplore/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "alt": "Get it on Google Play",
+        "src": "/common/commonspot/templates/assets/images/app-promo/google-play-badge.svg",
+        "width": "148.5",
+        "height": "44"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "National Cemeteries",
+      "attributes": {
+        "href": "/subjects/nationalcemeteries/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "GlobalHeader__Branding",
+        "me-auto",
+        "link-white"
+      ],
+      "text": "National Park Service",
+      "attributes": {
+        "href": "/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Colonization & Settlement",
+      "attributes": {
+        "href": "/subjects/colonization/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Trading Posts & Markets",
+      "attributes": {
+        "href": "/subjects/trade/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Vietnam War",
+      "attributes": {
+        "href": "/subjects/vietnamwar/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Bears",
+      "attributes": {
+        "href": "/subjects/bears/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Guam",
+      "attributes": {
+        "href": "/state/gu/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "Feature-link"
+      ],
+      "text": "Visiting Parks in 2025",
+      "attributes": {
+        "href": "/planyourvisit/national-park-system-operating-status.htm",
+        "onclick": "gas('send', 'event', 'Feature Grid - Prioritized', document.location.href, '/planyourvisit/national-park-system-operating-status.htm', 1, true)"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "New Jersey",
+      "attributes": {
+        "href": "/state/nj/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "GlobalHeader__Branding__Arrowhead",
+        "img-fluid"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/theme/assets/dist/images/branding/logo.png",
+        "alt": "",
+        "width": "80",
+        "height": "106"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Forests, Woods & Shrublands",
+      "attributes": {
+        "href": "/subjects/forests/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "GlobalHeader__FooterSearchLink",
+        "js-scrollTo",
+        "link-white"
+      ],
+      "text": "Search",
+      "attributes": {
+        "href": "#GlobalFooterSearchInput"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Indiana",
+      "attributes": {
+        "href": "/state/in/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Buildings",
+      "attributes": {
+        "href": "/subjects/architecture/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Trails",
+      "attributes": {
+        "href": "/subjects/trails/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Islands & Atolls",
+      "attributes": {
+        "href": "/subjects/islands/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Science",
+      "attributes": {
+        "href": "/subjects/science/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Ancient Seas",
+      "attributes": {
+        "href": "/subjects/ancientseas/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Spanish-American War",
+      "attributes": {
+        "href": "/subjects/spanishamericanwar/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Basin & Range",
+      "attributes": {
+        "href": "/subjects/basinrange/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Korean War",
+      "attributes": {
+        "href": "/subjects/koreanwar/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "NPS FAQ",
+      "attributes": {
+        "href": "//www.nps.gov/aboutus/faqs.htm",
+        "title": "National Park Service frequently asked questions"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Insects & Invertebrates",
+      "attributes": {
+        "href": "/subjects/insects/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Mines",
+      "attributes": {
+        "href": "/subjects/mining/mines.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Schools & Education",
+      "attributes": {
+        "href": "/subjects/schools/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Natural Disasters",
+      "attributes": {
+        "href": "/subjects/disasters/natural-disasters.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "American Military",
+      "attributes": {
+        "href": "/subjects/military/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "American Indian Heritage",
+      "attributes": {
+        "href": "/subjects/americanindians/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Forts",
+      "attributes": {
+        "href": "/subjects/forts/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Climate Change",
+      "attributes": {
+        "href": "/subjects/climatechange/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Skip to global NPS navigation",
+      "attributes": {
+        "href": "#GlobalNav-toggle",
+        "aria-label": "Skip to global NPS navigation"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Dinosaurs",
+      "attributes": {
+        "href": "/subjects/dinosaurs/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Accidents & Disasters",
+      "attributes": {
+        "href": "/subjects/disasters/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Mushrooms & Fungi",
+      "attributes": {
+        "href": "/subjects/fungi/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "exitModalLabel",
+      "classes": [
+        "modal-title",
+        "visually-hidden"
+      ],
+      "text": "Exiting nps.gov",
+      "attributes": {
+        "id": "exitModalLabel"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Arizona",
+      "attributes": {
+        "href": "/state/az/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Deserts",
+      "attributes": {
+        "href": "/subjects/deserts/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Monuments & Memorials",
+      "attributes": {
+        "href": "/subjects/monuments/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Technology & Invention",
+      "attributes": {
+        "href": "/subjects/technology/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "btn",
+        "btn-light",
+        "dropdown-toggle"
+      ],
+      "text": "By State...",
+      "attributes": {
+        "type": "button",
+        "data-bs-toggle": "dropdown",
+        "aria-expanded": "false",
+        "aria-label": "Parks By State"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "HomepageHeroNavs__Nav__Label"
+      ],
+      "text": "Explore America's Story",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "//www.flickr.com/nationalparkservice"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Jails & Prisons",
+      "attributes": {
+        "href": "/subjects/incarceration/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Fire Towers & Lookouts",
+      "attributes": {
+        "href": "/subjects/lookouts/fire-lookouts.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "//www.x.com/natlparkservice"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Watersheds",
+      "attributes": {
+        "href": "/subjects/watersheds/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Homes",
+      "attributes": {
+        "href": "/subjects/homes/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Disclaimer",
+      "attributes": {
+        "href": "//www.nps.gov/aboutus/disclaimer.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "ContentPromo-link",
+        "picturefill-background"
+      ],
+      "text": "Protecting the Natural WorldExplore Nature",
+      "attributes": {
+        "href": "/nature/index.htm",
+        "onclick": "gas('send', 'event', 'Content Promo', document.location.href, '/nature/index.htm', 1, true);"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "World War I",
+      "attributes": {
+        "href": "/subjects/worldwari/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Oceans",
+      "attributes": {
+        "href": "/subjects/oceans/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Fire",
+      "attributes": {
+        "href": "/subjects/fire/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "GlobalFooter-AppPromo__BadgeLink"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "https://apps.apple.com/us/app/national-park-service/id1549226484",
+        "onclick": "gas('send', 'event', 'App Promo Footer', 'Apple', document.location.pathname, 1, true);"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Industry",
+      "attributes": {
+        "href": "/subjects/industry/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Bridges",
+      "attributes": {
+        "href": "/subjects/transportation/bridges.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Rivers",
+      "attributes": {
+        "href": "/subjects/rivers/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Underwater Wonders",
+      "attributes": {
+        "href": "/subjects/underwater/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Rhode Island",
+      "attributes": {
+        "href": "/state/ri/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Texas",
+      "attributes": {
+        "href": "/state/tx/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [
+        "HomepageHeroNavs__Nav",
+        "mb-3",
+        "mb-md-0"
+      ],
+      "text": "Find a ParkBy State...AlabamaAlaskaAmerican SamoaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaGuamHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaNorthern Mariana IslandsOhioOklahomaOregonPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirgin IslandsVirginiaWashingt",
+      "attributes": {
+        "aria-labelledby": "HomepageHeroNavLabelPark"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [
+        "HomepageHeroNavs__Nav"
+      ],
+      "text": "Explore America's StoryBy Topic...Plants, Animals & MoreAmphibians & ReptilesAt-Risk SpeciesBatsBearsBiodiversityBirdsBisonDinosaursFishIconic TreesInsects & InvertebratesInvasive & Non-Native SpeciesMammalsMigratory SpeciesMushrooms & FungiPollinatorsUrban WildlifeWildflowersForces of NatureAirClimate ChangeDiseases & PestsErosion: Water, Wind & WeatherFireFossils & PaleontologyGeologyGeothermal Processes & FeaturesGlaciersNatural DisastersNatural PhenomenaOceansRocks & MineralsVolcanoes, Crate",
+      "attributes": {
+        "aria-labelledby": "HomepageHeroNavLabelTopic"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Birds",
+      "attributes": {
+        "href": "/subjects/birds/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Ranches",
+      "attributes": {
+        "href": "/subjects/agriculture/ranches.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Mines & Mining",
+      "attributes": {
+        "href": "/subjects/mining/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "The Arctic",
+      "attributes": {
+        "href": "/subjects/arctic/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "dropdown-header"
+      ],
+      "text": "Arts & Culture",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Alabama",
+      "attributes": {
+        "href": "/state/al/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "ContentPromo-link",
+        "picturefill-background"
+      ],
+      "text": "Stories of Places & PeopleDiscover History",
+      "attributes": {
+        "href": "/history/index.htm",
+        "onclick": "gas('send', 'event', 'Content Promo', document.location.href, '/history/index.htm', 1, true);"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "ContentPromo-link",
+        "picturefill-background"
+      ],
+      "text": "America’s ClassroomsFor Educators",
+      "attributes": {
+        "href": "/teachers/index.htm",
+        "onclick": "gas('send', 'event', 'Content Promo', document.location.href, '/teachers/index.htm', 1, true);"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "National Park Service",
+      "attributes": {
+        "href": "//www.nps.gov"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "Feature-image"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/common/uploads/grid_builder/crop16_9/2F7CFCDE-EFE4-503A-D7C3E1F2E2B4EB2C.jpg?width=640&quality=90&mode=crop",
+        "sizes": "(min-width: 1380px) 420px, (min-width: 1200px) 360px, (min-width: 576px) 33vw, 100vw",
+        "srcset": "/common/uploads/grid_builder/crop16_9/2F7CFCDE-EFE4-503A-D7C3E1F2E2B4EB2C.jpg?width=420&quality=90&mode=crop 420w, /common/uploads/grid_builder/crop16_9/2F7CFCDE-EFE4-503A-D7C3E1F2E2B4EB2C.jpg?width=640&quality=90&mode=crop 640w",
+        "alt": "Line of cars at a park entrance station "
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Armories & Weapons",
+      "attributes": {
+        "href": "/subjects/weapons/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Urban Wildlife",
+      "attributes": {
+        "href": "/subjects/urban/urban-wildlife.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Waterfalls & Gorges",
+      "attributes": {
+        "href": "/subjects/waterfalls/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Puerto Rico",
+      "attributes": {
+        "href": "/state/pr/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Civil War",
+      "attributes": {
+        "href": "/subjects/civilwar/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "GlobalNav",
+      "classes": [
+        "GlobalNav"
+      ],
+      "text": "OpenMenuCloseMenuExplore This ParkExplore the National Park Service",
+      "attributes": {
+        "id": "GlobalNav"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Reconstruction Era",
+      "attributes": {
+        "href": "/subjects/reconstruction/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Accessibility",
+      "attributes": {
+        "href": "//www.nps.gov/aboutus/accessibility.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Illinois",
+      "attributes": {
+        "href": "/state/il/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "GlobalNav__SectionHeading",
+        "GlobalNav__SectionHeading--blue"
+      ],
+      "text": "Explore the National Park Service",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "GlobalFooter-AppPromo__Image"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/common/commonspot/templates/assets/images/app-promo/app-promo-phones.png",
+        "srcset": "/common/commonspot/templates/assets/images/app-promo/app-promo-phones.png 1x, /common/commonspot/templates/assets/images/app-promo/app-promo-phones@2x.png 2x",
+        "alt": "Three smartphones showing different screens within the NPS app.",
+        "width": "628",
+        "height": "463"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Petroglyphs & Rock Art",
+      "attributes": {
+        "href": "/subjects/petroglyphs/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "btn",
+        "btn-secondary"
+      ],
+      "text": "All NPS",
+      "attributes": {
+        "data-scope": "all",
+        "type": "submit"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Natural Phenomena",
+      "attributes": {
+        "href": "/subjects/naturalphenomena/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Native Hawaiian Heritage",
+      "attributes": {
+        "href": "/locations/hawaii/heritage.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Biodiversity",
+      "attributes": {
+        "href": "/subjects/biodiversity/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "PromoLogo-cta",
+        "btn",
+        "btn-light"
+      ],
+      "text": "Subscribe",
+      "attributes": {
+        "href": "http://www.nationalparks.org/get-email-updates",
+        "data-track": "{\"type\":\"event\",\"category\":\"Navigate\",\"action\":\"#\",\"label\":\"Promo Logo\"}"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Railroads & Trains",
+      "attributes": {
+        "href": "/subjects/transportation/railroads.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Landscape Architectcure",
+      "attributes": {
+        "href": "/subjects/landscapearchitecture/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Vermont",
+      "attributes": {
+        "href": "/state/vt/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Lighthouses",
+      "attributes": {
+        "href": "/subjects/lookouts/lighthouses.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Idaho",
+      "attributes": {
+        "href": "/state/id/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Minnesota",
+      "attributes": {
+        "href": "/state/mn/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Arkansas",
+      "attributes": {
+        "href": "/state/ar/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Mills",
+      "attributes": {
+        "href": "/subjects/industry/mills.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "North Carolina",
+      "attributes": {
+        "href": "/state/nc/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Iconic Trees",
+      "attributes": {
+        "href": "/subjects/iconictrees/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "HomepageHeroNavLabelTopic",
+      "classes": [
+        "carrot-end"
+      ],
+      "text": "Explore America's Story",
+      "attributes": {
+        "id": "HomepageHeroNavLabelTopic",
+        "href": "/learnandexplore/explore-by-topic.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Virgin Islands",
+      "attributes": {
+        "href": "/state/vi/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Maritime Heritage",
+      "attributes": {
+        "href": "/subjects/maritimeheritage/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Military Leaders",
+      "attributes": {
+        "href": "/subjects/military/leaders.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Routes, Roads & Parkways",
+      "attributes": {
+        "href": "/subjects/transportation/roads.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "Feature-link"
+      ],
+      "text": "American Military",
+      "attributes": {
+        "href": "/subjects/military/index.htm",
+        "onclick": "gas('send', 'event', 'Feature Grid - Prioritized', document.location.href, '/subjects/military/index.htm', 1, true)"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "Feature-link"
+      ],
+      "text": "Calling Teachers & Educators",
+      "attributes": {
+        "href": "/teachers/index.htm",
+        "onclick": "gas('send', 'event', 'Feature Grid - Prioritized', document.location.href, '/teachers/index.htm', 1, true)"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Kentucky",
+      "attributes": {
+        "href": "/state/ky/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "District of Columbia",
+      "attributes": {
+        "href": "/state/dc/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Glaciers",
+      "attributes": {
+        "href": "/subjects/glaciers/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Presidents",
+      "attributes": {
+        "href": "/subjects/presidents/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Contact The National Park Service",
+      "attributes": {
+        "href": "//www.nps.gov/aboutus/contactus.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "GlobalFooter-printLogo",
+        "print-only"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/common/commonspot/templates/assets/images/branding/nps_logo-bw.gif",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Wisconsin",
+      "attributes": {
+        "href": "/state/wi/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "Feature-image"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/common/commonspot/templates/images/promos/SocialMediaFeature.png",
+        "sizes": "(min-width: 1380px) 420px, (min-width: 1200px) 360px, (min-width: 576px) 33vw, 100vw",
+        "srcset": "/common/commonspot/templates/images/promos/SocialMediaFeature.png 420w, /common/commonspot/templates/images/promos/SocialMediaFeature.png 640w",
+        "alt": "A park's social media post viewed on a smartphone that is stetting on a stack of park brochures"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Bison",
+      "attributes": {
+        "href": "/subjects/bison/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Connecticut",
+      "attributes": {
+        "href": "/state/ct/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "Feature-image"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/common/uploads/grid_builder/crop16_9/57FDC9BD-B2E5-3114-6A54F5D9979A8AF0.jpg?width=640&quality=90&mode=crop",
+        "sizes": "(min-width: 1380px) 420px, (min-width: 1200px) 360px, (min-width: 576px) 33vw, 100vw",
+        "srcset": "/common/uploads/grid_builder/crop16_9/57FDC9BD-B2E5-3114-6A54F5D9979A8AF0.jpg?width=420&quality=90&mode=crop 420w, /common/uploads/grid_builder/crop16_9/57FDC9BD-B2E5-3114-6A54F5D9979A8AF0.jpg?width=640&quality=90&mode=crop 640w",
+        "alt": "Kids making adobe bricks"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "North Dakota",
+      "attributes": {
+        "href": "/state/nd/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Bats",
+      "attributes": {
+        "href": "/subjects/bats/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Mountains",
+      "attributes": {
+        "href": "/subjects/mountains/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Caves, Caverns & Karst",
+      "attributes": {
+        "href": "/subjects/caves/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "American Revolution",
+      "attributes": {
+        "href": "/subjects/americanrevolution/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Human Migration",
+      "attributes": {
+        "href": "/subjects/migration/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Japanese American Confinement",
+      "attributes": {
+        "href": "/subjects/japaneseamericanconfinement/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Revolutionary War",
+      "attributes": {
+        "href": "/subjects/americanrevolution/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Immigration",
+      "attributes": {
+        "href": "/subjects/immigration/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "War of 1812",
+      "attributes": {
+        "href": "/subjects/warof1812/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "Feature-link"
+      ],
+      "text": "Keeping a Safe Distance",
+      "attributes": {
+        "href": "/subjects/watchingwildlife/7ways.htm",
+        "onclick": "gas('send', 'event', 'Feature Grid - Prioritized', document.location.href, '/subjects/watchingwildlife/7ways.htm', 1, true)"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Agriculture & Ranching",
+      "attributes": {
+        "href": "/subjects/agriculture/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Washington",
+      "attributes": {
+        "href": "/state/wa/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Literature & Poetry",
+      "attributes": {
+        "href": "/subjects/literature/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Louisiana",
+      "attributes": {
+        "href": "/state/la/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Vulnerability Disclosure Policy",
+      "attributes": {
+        "href": "//www.nps.gov/aboutus/vulnerability-disclosure-policy.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Wyoming",
+      "attributes": {
+        "href": "/state/wy/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Underground Railroad",
+      "attributes": {
+        "href": "/subjects/undergroundrailroad/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Fossils & Paleontology",
+      "attributes": {
+        "href": "/subjects/fossils/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Infrastructure",
+      "attributes": {
+        "href": "/subjects/infrastructure/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "usa-accordion__button",
+        "usa-banner__button",
+        "collapsed"
+      ],
+      "text": "Here's how you know",
+      "attributes": {
+        "type": "button",
+        "aria-expanded": "false",
+        "aria-controls": "gov-banner-default",
+        "data-bs-toggle": "collapse",
+        "data-bs-target": "#gov-banner-default"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Utah",
+      "attributes": {
+        "href": "/state/ut/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "usa-banner__icon",
+        "usa-media-block__img"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/common/commonspot/templates/assets/icon/icon-https.svg",
+        "role": "img",
+        "alt": "",
+        "aria-hidden": "true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Farms",
+      "attributes": {
+        "href": "/subjects/agriculture/farms.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Rocks & Minerals",
+      "attributes": {
+        "href": "/subjects/rocks/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Aviation",
+      "attributes": {
+        "href": "/subjects/aviation/aviation-history.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "Feature-image"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/common/uploads/grid_builder/crop16_9/667E4564-ACFA-C5A0-16B03A2F2C7309D8.jpg?width=640&quality=90&mode=crop",
+        "sizes": "(min-width: 1380px) 420px, (min-width: 1200px) 360px, (min-width: 576px) 33vw, 100vw",
+        "srcset": "/common/uploads/grid_builder/crop16_9/667E4564-ACFA-C5A0-16B03A2F2C7309D8.jpg?width=420&quality=90&mode=crop 420w, /common/uploads/grid_builder/crop16_9/667E4564-ACFA-C5A0-16B03A2F2C7309D8.jpg?width=640&quality=90&mode=crop 640w",
+        "alt": "Cinnamon bear walking through the woods"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "The Tropics",
+      "attributes": {
+        "href": "/subjects/tropics/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Skip to the main content",
+      "attributes": {
+        "href": "#main",
+        "aria-label": "Skip to the main content"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "footer",
+      "id": "GlobalFooter",
+      "classes": [
+        "GlobalFooter"
+      ],
+      "text": "This SiteAll NPSExperience Your America.Download the NPS app to navigate the parks on the go.National Park ServiceU.S. Department of the InteriorAccessibilityPrivacy PolicyFOIANoticesContact The National Park ServiceNPS FAQNo Fear ActDisclaimerVulnerability Disclosure PolicyUSA.gov",
+      "attributes": {
+        "id": "GlobalFooter"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Notices",
+      "attributes": {
+        "href": "//www.nps.gov/aboutus/notices.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "South Dakota",
+      "attributes": {
+        "href": "/state/sd/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "USA.gov",
+      "attributes": {
+        "href": "//www.usa.gov"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "alt": "Download on the App Store",
+        "src": "/common/commonspot/templates/assets/images/app-promo/app-store-badge.svg",
+        "width": "132",
+        "height": "44"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "HomepageHeroNavs__Nav__Label"
+      ],
+      "text": "Find a Park",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Presidents At War",
+      "attributes": {
+        "href": "/subjects/presidents/war.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Migratory Species",
+      "attributes": {
+        "href": "/subjects/migratoryspecies/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "dropdown-header"
+      ],
+      "text": "America's Places",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Gardens",
+      "attributes": {
+        "href": "/subjects/landscapearchitecture/gardens.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "West Virginia",
+      "attributes": {
+        "href": "/state/wv/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Grasslands & Prairies",
+      "attributes": {
+        "href": "/subjects/grasslands/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "Feature-link"
+      ],
+      "text": "Partnering with Parks",
+      "attributes": {
+        "href": "/subjects/partnerships/partner-with-us.htm",
+        "onclick": "gas('send', 'event', 'Feature Grid - Prioritized', document.location.href, '/subjects/partnerships/partner-with-us.htm', 1, true)"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "HeroHomepage-contentTitle"
+      ],
+      "text": "Winter is Coming",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Geology",
+      "attributes": {
+        "href": "/subjects/geology/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Medicine & Hospitals",
+      "attributes": {
+        "href": "/subjects/medicine/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Pollinators",
+      "attributes": {
+        "href": "/subjects/pollinators/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Mammals",
+      "attributes": {
+        "href": "/subjects/mammals/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Plantations",
+      "attributes": {
+        "href": "/subjects/agriculture/plantations.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "dropdown-header"
+      ],
+      "text": "Economy, Science & Innovation",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Dunes",
+      "attributes": {
+        "href": "/subjects/dunes/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "GlobalNav-toggle",
+      "classes": [
+        "GlobalNav__Toggle"
+      ],
+      "text": "OpenMenuCloseMenu",
+      "attributes": {
+        "type": "button",
+        "id": "GlobalNav-toggle",
+        "data-bs-toggle": "collapse",
+        "data-bs-target": "#GlobalNavCollapse",
+        "aria-controls": "GlobalNavCollapse",
+        "aria-expanded": "false",
+        "aria-label": "Open Menu"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Murals",
+      "attributes": {
+        "href": "/subjects/painting/murals.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Factories",
+      "attributes": {
+        "href": "/subjects/industry/factories.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "Feature-link"
+      ],
+      "text": "Photos, Videos, Webcams & More",
+      "attributes": {
+        "href": "/media/multimedia-search.htm",
+        "onclick": "gas('send', 'event', 'Feature Grid - Prioritized', document.location.href, '/media/multimedia-search.htm', 1, true)"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Wetlands, Marshes & Swamps",
+      "attributes": {
+        "href": "/subjects/wetlands/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Dams",
+      "attributes": {
+        "href": "/subjects/dams/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "ContentPromo-link",
+        "picturefill-background"
+      ],
+      "text": "Every Kid OutdoorsFor Kids",
+      "attributes": {
+        "href": "/kids/index.htm",
+        "onclick": "gas('send', 'event', 'Content Promo', document.location.href, '/kids/index.htm', 1, true);"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Michigan",
+      "attributes": {
+        "href": "/state/mi/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Arches, Buttes & Rock Formations",
+      "attributes": {
+        "href": "/subjects/rockformations/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Courts, Congress & the Law",
+      "attributes": {
+        "href": "/subjects/thelaw/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Oregon",
+      "attributes": {
+        "href": "/state/or/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Ohio",
+      "attributes": {
+        "href": "/state/oh/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Oklahoma",
+      "attributes": {
+        "href": "/state/ok/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "At-Risk Species",
+      "attributes": {
+        "href": "/subjects/rareandendangered/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Enslavement & Abolition",
+      "attributes": {
+        "href": "/subjects/enslavement/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "African American Heritage",
+      "attributes": {
+        "href": "/subjects/africanamericanheritage/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Urban America",
+      "attributes": {
+        "href": "/subjects/urban/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "dropdown-header"
+      ],
+      "text": "Great American Landscapes",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [],
+      "text": "Search",
+      "attributes": {
+        "type": "button",
+        "data-bs-toggle": "collapse",
+        "data-bs-target": "#GlobalHeaderSearchCollapse",
+        "aria-expanded": "false",
+        "aria-controls": "GlobalHeaderSearchCollapse"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Amphibians & Reptiles",
+      "attributes": {
+        "href": "/subjects/amphibiansandreptiles/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "//www.nps.gov"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Transportation",
+      "attributes": {
+        "href": "/subjects/transportation/about.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "btn",
+        "btn-sm",
+        "btn-light"
+      ],
+      "text": "Plan Your Visit",
+      "attributes": {
+        "href": "/subjects/npscelebrates/winter-season.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "California",
+      "attributes": {
+        "href": "/state/ca/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "New Mexico",
+      "attributes": {
+        "href": "/state/nm/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Prohibition & Temperance",
+      "attributes": {
+        "href": "/subjects/prohibition/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Military Medicine",
+      "attributes": {
+        "href": "/subjects/medicine/military-medicine.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Massachusetts",
+      "attributes": {
+        "href": "/state/ma/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Volcanoes, Craters & Lava Flows",
+      "attributes": {
+        "href": "/subjects/volcanoes/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Lakes",
+      "attributes": {
+        "href": "/subjects/lakes/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "dropdown-header"
+      ],
+      "text": "Conflict & War",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Religion & Spirituality",
+      "attributes": {
+        "href": "/subjects/spirituality/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Archeology",
+      "attributes": {
+        "href": "/subjects/archeology/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Labor History",
+      "attributes": {
+        "href": "/subjects/labor/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Foothills, Plains & Valleys",
+      "attributes": {
+        "href": "/subjects/foothillsplainsvalleys/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Battlefields",
+      "attributes": {
+        "href": "/subjects/battlefields/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Diseases & Pests",
+      "attributes": {
+        "href": "/subjects/diseases/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Armories",
+      "attributes": {
+        "href": "/subjects/weapons/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Erosion: Water, Wind & Weather",
+      "attributes": {
+        "href": "/subjects/erosion/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "French & Indian War",
+      "attributes": {
+        "href": "/subjects/frenchandindianwar/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "Feature-link"
+      ],
+      "text": "Social Media",
+      "attributes": {
+        "href": "/subjects/digital/social-media.htm",
+        "onclick": "gas('send', 'event', 'Feature Grid - Prioritized', document.location.href, '/subjects/digital/social-media.htm', 1, true)"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Maryland",
+      "attributes": {
+        "href": "/state/md/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Arts in the Parks",
+      "attributes": {
+        "href": "/subjects/arts/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "//www.facebook.com/nationalparkservice"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Pennsylvania",
+      "attributes": {
+        "href": "/state/pa/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "btn",
+        "btn-secondary"
+      ],
+      "text": "Cancel",
+      "attributes": {
+        "type": "button",
+        "data-bs-dismiss": "modal"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "header",
+      "id": "",
+      "classes": [
+        "usa-banner__header"
+      ],
+      "text": "An official website of the United States governmentHere's how you knowHere's how you know",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Hawaii",
+      "attributes": {
+        "href": "/state/hi/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Northern Mariana Islands",
+      "attributes": {
+        "href": "/state/mp/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "American Samoa",
+      "attributes": {
+        "href": "/state/as/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Women's History",
+      "attributes": {
+        "href": "/subjects/womenshistory/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Architecture & Building",
+      "attributes": {
+        "href": "/subjects/architecture/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "World War II",
+      "attributes": {
+        "href": "/subjects/worldwarii/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "usa-banner__header-flag"
+      ],
+      "text": "",
+      "attributes": {
+        "aria-hidden": "true",
+        "src": "/common/commonspot/templates/assets/icon/us_flag_small.png",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "dropdown-header"
+      ],
+      "text": "Forces of Nature",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Kansas",
+      "attributes": {
+        "href": "/state/ks/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "SiteSectionLinks-title"
+      ],
+      "text": "Discover America's Story: The National Parks",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Virginia",
+      "attributes": {
+        "href": "/state/va/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Conservation Movement",
+      "attributes": {
+        "href": "/subjects/conservation/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "HomepageHeroNavLabelPark",
+      "classes": [
+        "carrot-end"
+      ],
+      "text": "Find a Park",
+      "attributes": {
+        "id": "HomepageHeroNavLabelPark",
+        "href": "/findapark/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h1",
+      "id": "GlobalNavButtonContainer",
+      "classes": [],
+      "text": "OpenMenuCloseMenu",
+      "attributes": {
+        "id": "GlobalNavButtonContainer"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Missouri",
+      "attributes": {
+        "href": "/state/mo/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Get Involved",
+      "attributes": {
+        "href": "/getinvolved/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Alaska Native Heritage",
+      "attributes": {
+        "href": "/locations/alaska/native-culture.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "Feature-image"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/common/commonspot/templates/images/promos/Homepage_PhotoFeature.jpg?width=640&quality=90&mode=crop",
+        "sizes": "(min-width: 1380px) 420px, (min-width: 1200px) 360px, (min-width: 576px) 33vw, 100vw",
+        "srcset": "/common/commonspot/templates/images/promos/Homepage_PhotoFeature.jpg?width=420&quality=90&mode=crop 420w, /common/commonspot/templates/images/promos/Homepage_PhotoFeature.jpg?width=640&quality=90&mode=crop 640w",
+        "alt": "Close-up of woman looking through a camera viewfinder at woods"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Tennessee",
+      "attributes": {
+        "href": "/state/tn/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "New Hampshire",
+      "attributes": {
+        "href": "/state/nh/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Parks in Pop Culture",
+      "attributes": {
+        "href": "/subjects/parkpop/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Montana",
+      "attributes": {
+        "href": "/state/mt/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "Feature-link"
+      ],
+      "text": "Weather Ready",
+      "attributes": {
+        "href": "/subjects/healthandsafety/severe-weather-safety.htm",
+        "onclick": "gas('send', 'event', 'Feature Grid - Prioritized', document.location.href, '/subjects/healthandsafety/severe-weather-safety.htm', 1, true)"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Ships & Shipwrecks",
+      "attributes": {
+        "href": "/subjects/maritimeheritage/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "US - Mexican War",
+      "attributes": {
+        "href": "/subjects/usmexicanwar/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Asian American & Pacific Islander Heritage",
+      "attributes": {
+        "href": "/subjects/aapiheritage/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Painting",
+      "attributes": {
+        "href": "/subjects/painting/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "War at Sea",
+      "attributes": {
+        "href": "/subjects/maritimeheritage/war.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "usa-banner__icon",
+        "usa-media-block__img"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/common/commonspot/templates/assets/icon/icon-dot-gov.svg",
+        "role": "img",
+        "alt": "",
+        "aria-hidden": "true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "GlobalNav__SectionHeading",
+        "GlobalNav__SectionHeading--green"
+      ],
+      "text": "Explore This Park",
+      "attributes": {
+        "hidden": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Civil Rights",
+      "attributes": {
+        "href": "/subjects/civilrights/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Presidential Inauguration",
+      "attributes": {
+        "href": "/subjects/inauguration/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Traditional Ecological Knowledge",
+      "attributes": {
+        "href": "/subjects/tek/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "No Fear Act",
+      "attributes": {
+        "href": "//www.doi.gov/pmb/eeo/no-fear-act"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Skip to the footer section",
+      "attributes": {
+        "href": "#GlobalFooter",
+        "aria-label": "Skip to the footer section"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Canals",
+      "attributes": {
+        "href": "/subjects/transportation/canals.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "U.S. Department of the Interior",
+      "attributes": {
+        "href": "//www.doi.gov"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "//www.instagram.com/nationalparkservice"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Maine",
+      "attributes": {
+        "href": "/state/me/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Abandoned Places",
+      "attributes": {
+        "href": "/subjects/abandonedplaces/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "btn",
+        "btn-light",
+        "dropdown-toggle"
+      ],
+      "text": "By Topic...",
+      "attributes": {
+        "type": "button",
+        "data-bs-toggle": "dropdown",
+        "aria-expanded": "false",
+        "aria-label": "Stories By Topic"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Coasts & Seashores",
+      "attributes": {
+        "href": "/subjects/oceans/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Geothermal Processes & Features",
+      "attributes": {
+        "href": "/subjects/geothermal/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Privacy Policy",
+      "attributes": {
+        "href": "//www.nps.gov/aboutus/privacy.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Florida",
+      "attributes": {
+        "href": "/state/fl/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "Delaware",
+      "attributes": {
+        "href": "/state/de/index.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-topic"
+      ],
+      "text": "Courthouses",
+      "attributes": {
+        "href": "/subjects/thelaw/courthouses.htm"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown-item",
+        "dropdown-state"
+      ],
+      "text": "New York",
+      "attributes": {
+        "href": "/state/ny/index.htm"
+      },
+      "computedStyles": {}
+    }
+  ]
+}

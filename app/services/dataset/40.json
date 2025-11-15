@@ -1,0 +1,2956 @@
+{
+  "meta": {
+    "url": "https://www.walmart.com",
+    "title": "Walmart | Save Money. Live better.",
+    "lang": "en-US",
+    "charset": "UTF-8"
+  },
+  "elements": [
+    {
+      "tag": "a",
+      "id": "link-JoinWalmart-PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-3",
+      "classes": [
+        "z-2",
+        "nowrap",
+        "link",
+        "mt4-xl",
+        "mt3",
+        "mr4-xl",
+        "mr3",
+        "no-underline",
+        "br-pill",
+        "br-pill-cta",
+        "dark-gray",
+        "bg-white",
+        "flex",
+        "items-center",
+        "b",
+        "f6",
+        "h3",
+        "ph3"
+      ],
+      "text": "Join Walmart+",
+      "attributes": {
+        "link-identifier": "Join Walmart+",
+        "id": "link-JoinWalmart-PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-3",
+        "title": "Join Walmart+",
+        "aria-labelledby": "link-JoinWalmart-PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-3 heading-PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-3 ",
+        "data-dca-id": "L:9673DEB1B9",
+        "href": "https://www.walmart.com/plus?athAsset=eyJhdGhjcGlkIjoiYjk4OWRmOWMtODlmOS00ZTFhLTg1NGQtN2Y4YTVhYWI1YjBhIiwiYWV3ciI6IkNUUiJ9&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "mr1"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "width": "29",
+        "height": "14",
+        "src": "//i5.walmartimages.com/dfw/63fd9f59-4be1/0e321069-d42a-42ae-9b17-6987bf35d3ad/v1/privacy-choices-dweb.png",
+        "alt": "Privacy choices icon",
+        "aria-hidden": "true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [],
+      "text": "Black Friday Deal Skechers Men's Crossbar Slip-on Sneaker (Wide Width Available) $40.00 Was $75.00",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dib",
+        "relative",
+        "no-underline"
+      ],
+      "text": "Home Improvement",
+      "attributes": {
+        "link-identifier": "SC-hubspokepill-item-HomeImprovement-16863866332-HomeImprov-1762811185649",
+        "data-dca-id": "L:AD82D36C02",
+        "href": "https://www.walmart.com/shop/deals/home-improvement?povid=XCAT_AE1_Event_HP_HomeImprovement&athAsset=eyJhdGhjcGlkIjoiNjgwYzcyMzctMjQ2ZC00NDEwLWE0YjEtYmZjMGJhN2I0NmM3In0=&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [],
+      "text": "Black Friday Deal Time and Tru Women's High Rise Leggings, 27'' Inseam, 3-Pack, Sizes XS-XXXL $11.25 Was $17.94",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "normal",
+        "dark-gray",
+        "mb0",
+        "mt1",
+        "lh-title",
+        "f6",
+        "f5-l"
+      ],
+      "text": "Skechers Men's Crossbar Slip-on Sneaker (Wide Width Available)",
+      "attributes": {
+        "data-automation-id": "product-title"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "w-100",
+        "h-100",
+        "z-1",
+        "hide-sibling-opacity",
+        "absolute"
+      ],
+      "text": "Black Friday Deal Skechers Men's Crossbar Slip-on Sneaker (Wide Width Available) $40.00 Was $75.00",
+      "attributes": {
+        "link-identifier": "3724006933",
+        "target": "",
+        "data-dca-id": "L:7B06D07E1D",
+        "href": "/ip/Skechers-Men-s-Crossbar-Slip-on-Sneaker-Wide-Width-Available/3724006933?athAsset=eyJhdGhjcGlkIjoiMzcyNDAwNjkzMyIsImF0aHN0aWQiOiJDUzAyMCIsImF0aGFuY2lkIjoiSXRlbUNhcm91c2VsIiwiYXRocmsiOjAuMH0=&athena=true&athbdg=L1800"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-center",
+        "no-underline",
+        "desktop-header-trigger",
+        "lh-title",
+        "b",
+        "navy",
+        "secondary-nav-flyout-trigger",
+        "redesign-secondary-nav-flyout-button-v2",
+        "pointer",
+        "sans-serif",
+        "bg-transparent",
+        "b--none"
+      ],
+      "text": "Departments",
+      "attributes": {
+        "type": "button",
+        "style": "border-radius:100px;height:32px;transition:all 100ms cubic-bezier(0.77, 0, 0.175, 1)",
+        "aria-haspopup": "true",
+        "aria-expanded": "false",
+        "data-dca-name": "Departments",
+        "data-dca-id": "B:B9F3C9A8A7",
+        "data-dca-intent": "__DCA_TBD__"
+      },
+      "computedStyles": {
+        "borderRadius": "100px",
+        "height": "32px",
+        "transition": "all 100ms cubic-bezier(0.77, 0, 0.175, 1)"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "AdChoices",
+      "attributes": {
+        "link-identifier": "AdChoices",
+        "title": "AdChoices",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "https://corporate.walmart.com/privacy-security/walmart-privacy-notice#interest-based-advertising"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "normal",
+        "dark-gray",
+        "mb0",
+        "mt1",
+        "lh-title",
+        "f6",
+        "f5-l"
+      ],
+      "text": "Time and Tru Women's High Rise Leggings, 27'' Inseam, 3-Pack, Sizes XS-XXXL",
+      "attributes": {
+        "data-automation-id": "product-title"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-center",
+        "b--none",
+        "bg-transparent",
+        "mr3",
+        "pa0",
+        "pointer",
+        "h3",
+        "w3",
+        "no-underline",
+        "white"
+      ],
+      "text": "",
+      "attributes": {
+        "link-identifier": "hamburgerMenu",
+        "aria-hidden": "false",
+        "aria-label": "All Departments Menu",
+        "data-dca-id": "L:865DEE93E8",
+        "href": "/all-departments"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "w_hhLG",
+        "w_XK4d",
+        "w_jDfj",
+        "pointer",
+        "bn",
+        "sans-serif",
+        "b",
+        "flex",
+        "items-center",
+        "justify-center",
+        "w-auto",
+        "ph2"
+      ],
+      "text": "Add",
+      "attributes": {
+        "type": "button",
+        "data-automation-id": "add-to-cart",
+        "data-dca-intent": "select",
+        "data-dca-name": "add-to-cart-btn",
+        "aria-label": "Add to cart - Tree Hut Vanilla Mini Body Care Gift Set, 4 Piece",
+        "data-dca-id": "B:55DEA1FCB3"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "PrismCollectionCarousel-verticalLarge-undefined-LYdPCyut",
+      "classes": [
+        "w-100",
+        "absolute",
+        "absolute--fill"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "srcset": "https://i5.walmartimages.com/dfw/4ff9c6c9-f046/k2-_f49f1334-871e-4526-a200-1ae984ef4a2e.v1.jpg?odnHeight=658&odnWidth=385&odnBg=&odnDynImageQuality=70 1x, https://i5.walmartimages.com/dfw/4ff9c6c9-f046/k2-_f49f1334-871e-4526-a200-1ae984ef4a2e.v1.jpg?odnHeight=1316&odnWidth=770&odnBg=&odnDynImageQuality=70 2x",
+        "width": "auto",
+        "height": "auto",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-f046/k2-_f49f1334-871e-4526-a200-1ae984ef4a2e.v1.jpg?odnHeight=658&odnWidth=385&odnBg=&odnDynImageQuality=70",
+        "alt": "A black Shark robot vacuum.",
+        "id": "PrismCollectionCarousel-verticalLarge-undefined-LYdPCyut"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "Store Directory",
+      "attributes": {
+        "link-identifier": "Store Directory",
+        "title": "Store Directory",
+        "aria-label": "Store Directory - opens in a new window",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "/store/directory"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-897a/k2-_33c16a9a-d5b3-4fd8-b4b5-24529c1bd57c.v1.png?odnHeight=120&odnWidth=120&odnBg=FFFFFF",
+        "style": "width:auto;height:auto",
+        "height": "",
+        "width": "",
+        "alt": ""
+      },
+      "computedStyles": {
+        "width": "auto",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "absolute",
+        "top-0",
+        "left-0"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "srcset": "https://i5.walmartimages.com/seo/Sleep-Co-Women-s-Women-s-Plus-Short-Sleeve-Fesitve-Notch-Collar-Button-Down-with-Pant-Pajama-Sleep-Lounge-Set-2-Piece-Sizes-S-2XL_2c6a7beb-b39c-45a4-8b79-9a1c517785db.3f8057e8c3d2738e9507ba37d8ba4bb3.jpeg?odnHeight=288&odnWidth=288&odnBg=FFFFFF 1x, https://i5.walmartimages.com/seo/Sleep-Co-Women-s-Women-s-Plus-Short-Sleeve-Fesitve-Notch-Collar-Button-Down-with-Pant-Pajama-Sleep-Lounge-Set-2-Piece-Sizes-S-2XL_2c6a7beb-b39c-45a4-8b79-9a1c517785db.3f8057e8c3d2738e9507ba37d8ba4bb3.jpeg?odnHeight=576&odnWidth=576&odnBg=FFFFFF 2x",
+        "src": "https://i5.walmartimages.com/seo/Sleep-Co-Women-s-Women-s-Plus-Short-Sleeve-Fesitve-Notch-Collar-Button-Down-with-Pant-Pajama-Sleep-Lounge-Set-2-Piece-Sizes-S-2XL_2c6a7beb-b39c-45a4-8b79-9a1c517785db.3f8057e8c3d2738e9507ba37d8ba4bb3.jpeg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+        "width": "",
+        "height": "",
+        "data-testid": "productTileImage",
+        "alt": "Sleep & Co. Women's & Women's Plus Short Sleeve Fesitve Notch Collar Button Down with Pant Pajama Sleep Lounge Set, 2-Piece, Sizes S-2XL"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-8187/k2-_3f360a36-3c4c-48df-b178-3341176f2588.v1.png?odnHeight=120&odnWidth=120&odnBg=FFFFFF",
+        "style": "width:auto;height:auto",
+        "height": "",
+        "width": "",
+        "alt": ""
+      },
+      "computedStyles": {
+        "width": "auto",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dib",
+        "relative",
+        "no-underline"
+      ],
+      "text": "Beauty",
+      "attributes": {
+        "link-identifier": "SC-hubspokepill-item-beautyDeals-1928414510-beautyDeal-1762809218118",
+        "data-dca-id": "L:AD82D36C02",
+        "href": "https://www.walmart.com/shop/deals/beauty-and-personal-care?povid=XCAT_AE1_Event_HP_Beauty&athAsset=eyJhdGhjcGlkIjoiNjgwYzcyMzctMjQ2ZC00NDEwLWE0YjEtYmZjMGJhN2I0NmM3In0=&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "All Departments",
+      "attributes": {
+        "link-identifier": "All Departments",
+        "title": "All Departments",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "/all-departments"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "absolute",
+        "top-0",
+        "left-0"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "srcset": "https://i5.walmartimages.com/asr/46904051-ab34-4a74-bd05-2ecb6d21cccd.7392f8070493812863d41b5427330734.jpeg?odnHeight=288&odnWidth=288&odnBg=FFFFFF 1x, https://i5.walmartimages.com/asr/46904051-ab34-4a74-bd05-2ecb6d21cccd.7392f8070493812863d41b5427330734.jpeg?odnHeight=576&odnWidth=576&odnBg=FFFFFF 2x",
+        "src": "https://i5.walmartimages.com/asr/46904051-ab34-4a74-bd05-2ecb6d21cccd.7392f8070493812863d41b5427330734.jpeg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+        "width": "",
+        "height": "",
+        "data-testid": "productTileImage",
+        "alt": "Tree Hut Vanilla Mini Body Care Gift Set, 4 Piece"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "mr2",
+        "br-100",
+        "v-btm"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "alt": "Banner title icon",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-ad46/k2-_0a671c38-d307-447c-835e-7904ab143c26.v1.png",
+        "width": "32",
+        "height": "32"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-bb34/k2-_26567e50-5e26-4340-8a72-4284c853dfba.v1.png?odnHeight=120&odnWidth=120&odnBg=FFFFFF",
+        "style": "width:auto;height:auto",
+        "height": "",
+        "width": "",
+        "alt": ""
+      },
+      "computedStyles": {
+        "width": "auto",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "Tax Exempt Program",
+      "attributes": {
+        "link-identifier": "Tax Exempt Program",
+        "title": "Tax Exempt Program",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "https://www.walmart.com/cp/tax-exemption-program/8480422"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dib",
+        "relative",
+        "no-underline"
+      ],
+      "text": "Baby",
+      "attributes": {
+        "link-identifier": "SC-hubspokepill-item-BabyDeals-822076089-BabyDeals-1762808209785",
+        "data-dca-id": "L:AD82D36C02",
+        "href": "https://www.walmart.com/shop/deals/baby?povid=XCAT_AE1_Event_HP_Baby&athAsset=eyJhdGhjcGlkIjoiNjgwYzcyMzctMjQ2ZC00NDEwLWE0YjEtYmZjMGJhN2I0NmM3In0=&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "header",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-center",
+        "justify-center",
+        "pa3",
+        "center-hdkp",
+        "ph4-hdkp",
+        "pv3-hdkp"
+      ],
+      "text": "Pickup or delivery?CancelReorderMy ItemsReorderListsRegistriesSign InAccountSign in or create accountPurchase HistoryWalmart+SubscriptionsLanguage | English$0.00",
+      "attributes": {
+        "data-testid": "responsiveHeader",
+        "data-dca-id": "ui_global_header:responsive_header",
+        "data-dca-name": "UiGlobalHeaderResponsiveHeaderPrimary",
+        "data-dca-type": "module"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-ca47/k2-_e19f948f-8d00-4201-a7cb-2038e3181769.v1.png?odnHeight=120&odnWidth=120&odnBg=FFFFFF",
+        "style": "width:auto;height:auto",
+        "height": "",
+        "width": "",
+        "alt": ""
+      },
+      "computedStyles": {
+        "width": "auto",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "button",
+      "id": "cart-button-header",
+      "classes": [
+        "bn",
+        "bg-transparent",
+        "br2",
+        "flex",
+        "flex-column",
+        "items-center",
+        "pa0",
+        "pointer",
+        "relative",
+        "sans-serif",
+        "white",
+        "hover-bg-dark-primary",
+        "hover-bg-navy",
+        "cart-button-redesigned"
+      ],
+      "text": "$0.00",
+      "attributes": {
+        "type": "button",
+        "style": "border-radius:32px;transition:all 100ms cubic-bezier(0.77, 0, 0.175, 1);height:52px;padding:2px 12px",
+        "id": "cart-button-header",
+        "data-automation-id": "cart-button-header",
+        "aria-label": "Cart contains 0 items Total Amount $0.00",
+        "data-dca-id": "B:15DCD02430",
+        "data-dca-intent": "__DCA_TBD__"
+      },
+      "computedStyles": {
+        "borderRadius": "32px",
+        "transition": "all 100ms cubic-bezier(0.77, 0, 0.175, 1)",
+        "height": "52px",
+        "padding": "2px 12px"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "linkcard-Shopnow-PrismCollectionCarousel-verticalSmall-undefined-LYdPCyut",
+      "classes": [
+        "absolute",
+        "fill-focus",
+        "z-1"
+      ],
+      "text": "Shop now",
+      "attributes": {
+        "link-identifier": "Shop now",
+        "title": "Girls matching P J sets in gray and pink with black dots are next to brown and white pairs of fuzzy slippers.",
+        "id": "linkcard-Shopnow-PrismCollectionCarousel-verticalSmall-undefined-LYdPCyut",
+        "aria-labelledby": "linkcard-Shopnow-PrismCollectionCarousel-verticalSmall-undefined-LYdPCyut heading-PrismCollectionCarousel-verticalSmall-undefined-LYdPCyut ",
+        "aria-hidden": "true",
+        "tabindex": "-1",
+        "data-dca-id": "L:F24E6BF757",
+        "href": "https://www.walmart.com/shop/deals/clothing-and-accessories/pajamas-and-slippers-for-the-family?athAsset=eyJhdGhjcGlkIjoiODQxOWVmNGYtMmVlNS00MzllLWE3MDMtY2ZhODQ2MDQzZjU3IiwiYWV3ciI6Ik1QX0NUUiJ9&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "normal",
+        "dark-gray",
+        "mb0",
+        "mt1",
+        "lh-title",
+        "f6",
+        "f5-l"
+      ],
+      "text": "Sleep & Co. Women's & Women's Plus Short Sleeve Fesitve Notch Collar Button Down with Pant Pajama Sleep Lounge Set, 2-Piece, Sizes S-2XL",
+      "attributes": {
+        "data-automation-id": "product-title"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "Customer Privacy Center",
+      "attributes": {
+        "link-identifier": "Customer Privacy Center",
+        "title": "Customer Privacy Center",
+        "aria-label": "Customer Privacy Center - opens in a new window",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "https://www.walmart.com/privacy-center"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "linkcard-Shopnow-PrismCollectionCarousel-horizontal-undefined-LYdPCyut",
+      "classes": [
+        "absolute",
+        "fill-focus",
+        "z-1"
+      ],
+      "text": "Shop now",
+      "attributes": {
+        "link-identifier": "Shop now",
+        "title": "Tall women’s boots in four different designs: burgundy leather, brown suede, leopard and dalmatian prints.",
+        "id": "linkcard-Shopnow-PrismCollectionCarousel-horizontal-undefined-LYdPCyut",
+        "aria-labelledby": "linkcard-Shopnow-PrismCollectionCarousel-horizontal-undefined-LYdPCyut heading-PrismCollectionCarousel-horizontal-undefined-LYdPCyut ",
+        "aria-hidden": "true",
+        "tabindex": "-1",
+        "data-dca-id": "L:F24E6BF757",
+        "href": "https://www.walmart.com/shop/deals/clothing-and-accessories/shoes/boots-for-the-family?athAsset=eyJhdGhjcGlkIjoiMTE5MDVjNjAtZDg5Yi00Y2RlLWJiZTItMmMyZTU1ZTZlMjQxIiwiYWV3ciI6Ik1QX0NUUiJ9&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "absolute",
+        "top-0",
+        "left-0"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "srcset": "https://i5.walmartimages.com/asr/2490aea5-d278-43fb-8ae4-13eaccf64381.62da989f5edfbda341a6465340b3d905.jpeg?odnHeight=288&odnWidth=288&odnBg=FFFFFF 1x, https://i5.walmartimages.com/asr/2490aea5-d278-43fb-8ae4-13eaccf64381.62da989f5edfbda341a6465340b3d905.jpeg?odnHeight=576&odnWidth=576&odnBg=FFFFFF 2x",
+        "src": "https://i5.walmartimages.com/asr/2490aea5-d278-43fb-8ae4-13eaccf64381.62da989f5edfbda341a6465340b3d905.jpeg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+        "width": "",
+        "height": "",
+        "data-testid": "productTileImage",
+        "alt": "Goodyear Reliant All-Season 225/65R17 102H All-Season Tire Fits: 2018-23 Chevrolet Equinox LT, 2015-17 Subaru Outback 3.6R Touring"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "link-Shopnow-PrismCollectionCarousel-verticalLarge-undefined-LYdPCyut",
+      "classes": [
+        "z-2",
+        "nowrap",
+        "link",
+        "mt3-xl",
+        "mt2",
+        "mr3-xl",
+        "mr2",
+        "underline",
+        "no-underline-hover",
+        "h-auto",
+        "pa0",
+        "f6",
+        "f6-rdxl"
+      ],
+      "text": "Shop now",
+      "attributes": {
+        "link-identifier": "Shop now",
+        "style": "color:#ffffff",
+        "id": "link-Shopnow-PrismCollectionCarousel-verticalLarge-undefined-LYdPCyut",
+        "title": "Shop now",
+        "aria-labelledby": "link-Shopnow-PrismCollectionCarousel-verticalLarge-undefined-LYdPCyut heading-PrismCollectionCarousel-verticalLarge-undefined-LYdPCyut ",
+        "data-dca-id": "L:9673DEB1B9",
+        "href": "https://www.walmart.com/shop/deals/all-home/floor-care?athAsset=eyJhdGhjcGlkIjoiOGUyZDFiOGUtOWI2Ny00YTVlLTk4MjItM2NiMWQxZTliMTk0IiwiYWV3ciI6IkdNX0NUUiJ9&athena=true"
+      },
+      "computedStyles": {
+        "color": "#ffffff"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "flex",
+        "items-center"
+      ],
+      "text": "Your Privacy Choices",
+      "attributes": {
+        "link-identifier": "Your Privacy Choices",
+        "title": "Your Privacy Choices",
+        "aria-label": "Your Privacy Choices - opens in a new window",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "https://www.walmart.com/account/api/ccpa-intake?native=false&app=gm&type=sod"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "bg-transparent",
+        "flex",
+        "bn",
+        "items-center",
+        "mh2",
+        "pa0"
+      ],
+      "text": "",
+      "attributes": {
+        "style": "height:24px;width:24px",
+        "aria-label": "Pause carousel",
+        "data-dca-id": "B:2B785D39C4",
+        "data-dca-intent": "__DCA_TBD__"
+      },
+      "computedStyles": {
+        "height": "24px",
+        "width": "24px"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-4",
+      "classes": [
+        "w-100",
+        "absolute",
+        "absolute--fill"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "width": "auto",
+        "height": "auto",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-d7d5/k2-_c0672878-8003-4c9d-9d47-7fcf1438506b.v2.jpg?odnHeight=300&odnWidth=1612&odnBg=&odnDynImageQuality=70",
+        "alt": "Black Friday Deals and more. November fourteenth to sixteenth. Up to fifty percent off. A Levi's jacket and Beautiful by Drew slow cooker.",
+        "id": "PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-4",
+        "elementtiming": "home-hero-image"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "z-5",
+        "bg-white",
+        "br-100",
+        "pa0",
+        "pointer",
+        "db"
+      ],
+      "text": "",
+      "attributes": {
+        "link-identifier": "horizontalScrollerNext",
+        "aria-label": "Next slide for hp-heropov-container list",
+        "data-testid": "horizontal-scroller-next",
+        "tabindex": "0",
+        "role": "button",
+        "data-dca-id": "L:E0344097FE"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h1",
+      "id": "",
+      "classes": [],
+      "text": "Walmart | Save Money. Live better.",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "w-100",
+        "h-100",
+        "z-1",
+        "hide-sibling-opacity",
+        "absolute"
+      ],
+      "text": "Black Friday Deal Sleep & Co. Women's & Women's Plus Short Sleeve Fesitve Notch Collar Button Down with Pant Pajama Sleep Lounge Set, 2-Piece, Sizes S-2XL $12.00 Was $19.98",
+      "attributes": {
+        "link-identifier": "16959320269",
+        "target": "",
+        "data-dca-id": "L:7B06D07E1D",
+        "href": "/ip/Sleep-Co-Women-s-Women-s-Plus-Short-Sleeve-Fesitve-Notch-Collar-Button-Down-with-Pant-Pajama-Sleep-Lounge-Set-2-Piece-Sizes-S-2XL/16959320269?athAsset=eyJhdGhjcGlkIjoiMTY5NTkzMjAyNjkiLCJhdGhzdGlkIjoiQ1MwMjAiLCJhdGhhbmNpZCI6Ikl0ZW1DYXJvdXNlbCIsImF0aHJrIjowLjB9&athena=true&athbdg=L1800"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "absolute",
+        "dn",
+        "z-5",
+        "bg-white",
+        "br-100",
+        "pa0",
+        "pointer",
+        "hidden-child",
+        "br-100",
+        "nav-control",
+        "left-1"
+      ],
+      "text": "",
+      "attributes": {
+        "link-identifier": "horizontalScrollerPrevious",
+        "style": "top:100px",
+        "aria-label": "Previous slide for Shop all Deals & more list",
+        "aria-disabled": "true",
+        "data-testid": "horizontal-scroller-previous",
+        "data-dca-intent": "swipeRight",
+        "data-dca-name": "ItemCarouselPreviousButton",
+        "tabindex": "0",
+        "role": "button",
+        "data-dca-id": "L:725BAF5955"
+      },
+      "computedStyles": {
+        "top": "100px"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "black",
+        "br4",
+        "b--black",
+        "bg-white",
+        "underline"
+      ],
+      "text": "View all",
+      "attributes": {
+        "link-identifier": "kyzZxNg6",
+        "aria-label": "view all - shop by departments",
+        "data-dca-id": "L:F530D43758",
+        "href": "https://walmart.com/shop/deals/black-friday?athAsset=eyJhdGhjcGlkIjoiNjgwYzcyMzctMjQ2ZC00NDEwLWE0YjEtYmZjMGJhN2I0NmM3In0=&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "w_hhLG",
+        "w_XK4d",
+        "w_jDfj"
+      ],
+      "text": "Give feedback",
+      "attributes": {
+        "type": "button",
+        "data-dca-id": "B:D9B3011B8C",
+        "data-dca-intent": "__DCA_TBD__"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "o-0",
+        "absolute"
+      ],
+      "text": "",
+      "attributes": {
+        "link-identifier": "Generic Name",
+        "tabindex": "-1",
+        "data-dca-id": "L:CDF8623A25"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "Privacy Notice",
+      "attributes": {
+        "link-identifier": "Privacy Notice",
+        "title": "Privacy Notice",
+        "aria-label": "Privacy Notice - opens in a new window",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "https://corporate.walmart.com/privacy-security"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "#IYWYK",
+      "attributes": {
+        "link-identifier": "#IYWYK",
+        "title": "Walmart In the Know is a social media photo feed",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "https://www.walmart.com/cp/walmart-in-the-know/7781927"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dib",
+        "relative",
+        "no-underline"
+      ],
+      "text": "Patio & Garden",
+      "attributes": {
+        "link-identifier": "SC-hubspokepill-item-AE1PatioGarden-146366098-PatioGarde-1763097623234",
+        "data-dca-id": "L:AD82D36C02",
+        "href": "https://www.walmart.com/shop/deals/patio-and-garden?povid=XCAT_AE1_Event_HP_Patio&athAsset=eyJhdGhjcGlkIjoiNjgwYzcyMzctMjQ2ZC00NDEwLWE0YjEtYmZjMGJhN2I0NmM3In0=&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "Accessibility",
+      "attributes": {
+        "link-identifier": "Accessibility",
+        "title": "Accessibility",
+        "aria-label": "Accessibility - opens in a new window",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "https://www.walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "db"
+      ],
+      "text": "Delete Account",
+      "attributes": {
+        "link-identifier": "Delete Account",
+        "title": "Delete Account",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "https://www.walmart.com/account/login?vid=oaoh&tid=0&returnUrl=%2Faccount%2Fdelete-account"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "linkcard-Shopnow-PrismCollectionCarousel-verticalLarge-undefined-LYdPCyut",
+      "classes": [
+        "absolute",
+        "fill-focus",
+        "z-1"
+      ],
+      "text": "Shop now",
+      "attributes": {
+        "link-identifier": "Shop now",
+        "title": "A black Shark robot vacuum.",
+        "id": "linkcard-Shopnow-PrismCollectionCarousel-verticalLarge-undefined-LYdPCyut",
+        "aria-labelledby": "linkcard-Shopnow-PrismCollectionCarousel-verticalLarge-undefined-LYdPCyut heading-PrismCollectionCarousel-verticalLarge-undefined-LYdPCyut ",
+        "aria-hidden": "true",
+        "tabindex": "-1",
+        "data-dca-id": "L:F24E6BF757",
+        "href": "https://www.walmart.com/shop/deals/all-home/floor-care?athAsset=eyJhdGhjcGlkIjoiOGUyZDFiOGUtOWI2Ny00YTVlLTk4MjItM2NiMWQxZTliMTk0IiwiYWV3ciI6IkdNX0NUUiJ9&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dib",
+        "relative",
+        "no-underline"
+      ],
+      "text": "Auto",
+      "attributes": {
+        "link-identifier": "SC-hubspokepill-item-AutoDeals-158600281-AutoDeals-1762805150238",
+        "data-dca-id": "L:AD82D36C02",
+        "href": "https://www.walmart.com/shop/deals/auto?povid=XCAT_AE1_Event_HP_Auto&athAsset=eyJhdGhjcGlkIjoiNjgwYzcyMzctMjQ2ZC00NDEwLWE0YjEtYmZjMGJhN2I0NmM3In0=&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "header",
+      "id": "",
+      "classes": [
+        "pr3",
+        "pr0-xl",
+        "pr4-m",
+        "flex",
+        "justify-between",
+        "mb3",
+        "items-baseline"
+      ],
+      "text": "Shop all Deals & moreUp to 50% offView all",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [],
+      "text": "Black Friday Deal Sleep & Co. Women's & Women's Plus Short Sleeve Fesitve Notch Collar Button Down with Pant Pajama Sleep Lounge Set, 2-Piece, Sizes S-2XL $12.00 Was $19.98",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "w-100",
+        "h-100",
+        "z-1",
+        "hide-sibling-opacity",
+        "absolute"
+      ],
+      "text": "Black Friday Deal Wireless Charger,Magnetic Charging Stand Compatible with iPhone 17 16 15 14 13 12 11 Pro Max Plus XS XR X 8,Charger for Apple Watch 9 8 7 6 5 4 3 2 SE, for AirPods 3 2 Pro,3 in 1 Charging Station $14.43 Was $29.99",
+      "attributes": {
+        "link-identifier": "5013161370",
+        "target": "",
+        "data-dca-id": "L:7B06D07E1D",
+        "href": "/ip/Wireless-Charger-Magnetic-Fast-Charging-Stand-Compatible-iPhone-16-15-14-13-12-11-Pro-Max-Plus-XS-XR-X-8-Apple-Watch-9-8-7-6-5-4-3-2-SE-AirPods-3-2-P/5013161370?athAsset=eyJhdGhjcGlkIjoiNTAxMzE2MTM3MCIsImF0aHN0aWQiOiJDUzAyMCIsImF0aGFuY2lkIjoiSXRlbUNhcm91c2VsIiwiYXRocmsiOjAuMH0=&athena=true&athbdg=L1800"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-4beb/k2-_2f77ef65-713d-453b-8cb7-e3044309ccaa.v1.png?odnHeight=120&odnWidth=120&odnBg=FFFFFF",
+        "style": "width:auto;height:auto",
+        "height": "",
+        "width": "",
+        "alt": ""
+      },
+      "computedStyles": {
+        "width": "auto",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "California Supply Chain Act",
+      "attributes": {
+        "link-identifier": "California Supply Chain Act",
+        "title": "California Supply Chain Act",
+        "aria-label": "California Supply Chain Act - opens in a new window",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "https://corporate.walmart.com/california-transparency"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "PrismCollectionCarousel-collectionHero-undefined-LYdPCyut",
+      "classes": [
+        "w-100",
+        "absolute",
+        "absolute--fill"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "srcset": "https://i5.walmartimages.com/dfw/4ff9c6c9-15ee/k2-_6eb89868-4716-41bd-8357-faf5c10dbc93.v1.jpg?odnHeight=658&odnWidth=658&odnBg=&odnDynImageQuality=70 1x, https://i5.walmartimages.com/dfw/4ff9c6c9-15ee/k2-_6eb89868-4716-41bd-8357-faf5c10dbc93.v1.jpg?odnHeight=1316&odnWidth=1316&odnBg=&odnDynImageQuality=70 2x",
+        "width": "auto",
+        "height": "auto",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-15ee/k2-_6eb89868-4716-41bd-8357-faf5c10dbc93.v1.jpg?odnHeight=658&odnWidth=658&odnBg=&odnDynImageQuality=70",
+        "alt": "A trio of Bluey figurines.",
+        "id": "PrismCollectionCarousel-collectionHero-undefined-LYdPCyut"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "normal",
+        "dark-gray",
+        "mb0",
+        "mt1",
+        "lh-title",
+        "f6",
+        "f5-l"
+      ],
+      "text": "Wireless Charger,Magnetic Charging Stand Compatible with iPhone 17 16 15 14 13 12 11 Pro Max Plus XS XR X 8,Charger for Apple Watch 9 8 7 6 5 4 3 2 SE, for AirPods 3 2 Pro,3 in 1 Charging Station",
+      "attributes": {
+        "data-automation-id": "product-title"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dib",
+        "relative",
+        "no-underline"
+      ],
+      "text": "Fashion",
+      "attributes": {
+        "link-identifier": "SC-hubspokepill-item-FashionDeals-15950172011-FashionDea-1762809666761",
+        "data-dca-id": "L:AD82D36C02",
+        "href": "https://www.walmart.com/shop/deals/clothing-and-accessories?povid=XCAT_AE1_Event_HP_Fashion&athAsset=eyJhdGhjcGlkIjoiNjgwYzcyMzctMjQ2ZC00NDEwLWE0YjEtYmZjMGJhN2I0NmM3In0=&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dib",
+        "relative",
+        "no-underline"
+      ],
+      "text": "Home",
+      "attributes": {
+        "link-identifier": "SC-hubspokepill-item-HomeDeals-5321127922-HomeDeals-1762805000892",
+        "data-dca-id": "L:AD82D36C02",
+        "href": "https://www.walmart.com/shop/deals/all-home?povid=XCAT_AE1_Event_HP_Home&athAsset=eyJhdGhjcGlkIjoiNjgwYzcyMzctMjQ2ZC00NDEwLWE0YjEtYmZjMGJhN2I0NmM3In0=&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-center",
+        "no-underline",
+        "desktop-header-trigger",
+        "lh-title",
+        "b",
+        "navy",
+        "secondary-nav-flyout-trigger",
+        "redesign-secondary-nav-flyout-button-v2",
+        "pointer",
+        "sans-serif",
+        "bg-transparent",
+        "b--none"
+      ],
+      "text": "Services",
+      "attributes": {
+        "type": "button",
+        "style": "border-radius:100px;height:32px;transition:all 100ms cubic-bezier(0.77, 0, 0.175, 1)",
+        "aria-haspopup": "true",
+        "aria-expanded": "false",
+        "data-dca-name": "Services",
+        "data-dca-id": "B:B9F3C9A8A7",
+        "data-dca-intent": "__DCA_TBD__"
+      },
+      "computedStyles": {
+        "borderRadius": "100px",
+        "height": "32px",
+        "transition": "all 100ms cubic-bezier(0.77, 0, 0.175, 1)"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "link-Shopnow-PrismCollectionCarousel-collectionHero-undefined-LYdPCyut",
+      "classes": [
+        "z-2",
+        "nowrap",
+        "link",
+        "mt3-xl",
+        "mt2",
+        "mr3-xl",
+        "mr2",
+        "no-underline",
+        "br-pill",
+        "br-pill-cta",
+        "dark-gray",
+        "bg-white",
+        "flex",
+        "items-center",
+        "b",
+        "f5",
+        "h6",
+        "ph4"
+      ],
+      "text": "Shop now",
+      "attributes": {
+        "link-identifier": "Shop now",
+        "id": "link-Shopnow-PrismCollectionCarousel-collectionHero-undefined-LYdPCyut",
+        "title": "Shop now",
+        "aria-labelledby": "link-Shopnow-PrismCollectionCarousel-collectionHero-undefined-LYdPCyut heading-PrismCollectionCarousel-collectionHero-undefined-LYdPCyut ",
+        "data-dca-id": "L:9673DEB1B9",
+        "href": "https://www.walmart.com/shop/deals/toys?athAsset=eyJhdGhjcGlkIjoiMWNkY2Y1NmUtMWNiNy00YzNkLWEzNjktMWMwZTg4ZTg0ZDliIiwiYWV3ciI6Ik1QX0FUQ1IifQ==&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "Notice at Collection",
+      "attributes": {
+        "link-identifier": "Notice at Collection",
+        "title": "Notice at Collection",
+        "aria-label": "Notice at Collection - opens in a new window",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "https://corporate.walmart.com/privacy-security/california-privacy-rights#what-are-the-categories-of-personal-information-collected"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dib",
+        "relative",
+        "no-underline"
+      ],
+      "text": "Toys",
+      "attributes": {
+        "link-identifier": "SC-hubspokepill-item-ToysDeals-5192690956-ToysDeals-1762806106976",
+        "data-dca-id": "L:AD82D36C02",
+        "href": "https://www.walmart.com/shop/deals/toys?povid=XCAT_AE1_Event_HP_Toys&athAsset=eyJhdGhjcGlkIjoiNjgwYzcyMzctMjQ2ZC00NDEwLWE0YjEtYmZjMGJhN2I0NmM3In0=&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "link-Shopnow-PrismCollectionCarousel-verticalSmall-undefined-LYdPCyut",
+      "classes": [
+        "z-2",
+        "nowrap",
+        "link",
+        "mt3-xl",
+        "mt2",
+        "mr3-xl",
+        "mr2",
+        "underline",
+        "no-underline-hover",
+        "h-auto",
+        "pa0",
+        "f6",
+        "f6-rdxl"
+      ],
+      "text": "Shop now",
+      "attributes": {
+        "link-identifier": "Shop now",
+        "style": "color:#ffffff",
+        "id": "link-Shopnow-PrismCollectionCarousel-verticalSmall-undefined-LYdPCyut",
+        "title": "Shop now",
+        "aria-labelledby": "link-Shopnow-PrismCollectionCarousel-verticalSmall-undefined-LYdPCyut heading-PrismCollectionCarousel-verticalSmall-undefined-LYdPCyut ",
+        "data-dca-id": "L:9673DEB1B9",
+        "href": "https://www.walmart.com/shop/deals/clothing-and-accessories/pajamas-and-slippers-for-the-family?athAsset=eyJhdGhjcGlkIjoiODQxOWVmNGYtMmVlNS00MzllLWE3MDMtY2ZhODQ2MDQzZjU3IiwiYWV3ciI6Ik1QX0NUUiJ9&athena=true"
+      },
+      "computedStyles": {
+        "color": "#ffffff"
+      }
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "absolute",
+        "bn",
+        "bg-transparent",
+        "h-100",
+        "right-2"
+      ],
+      "text": "",
+      "attributes": {
+        "aria-label": "Clear search field text",
+        "style": "padding:0 0.75rem;cursor:pointer;opacity:0;right:3rem",
+        "type": "reset",
+        "tabindex": "-1",
+        "aria-hidden": "true",
+        "data-dca-id": "B:5B6A96A8C6",
+        "data-dca-intent": "__DCA_TBD__"
+      },
+      "computedStyles": {
+        "padding": "0 0.75rem",
+        "cursor": "pointer",
+        "opacity": "0",
+        "right": "3rem"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "black"
+      ],
+      "text": "View all",
+      "attributes": {
+        "link-identifier": "View all",
+        "style": "color:#000000",
+        "aria-label": "View all, Shop all Deals & more",
+        "data-dca-id": "L:F530D43758",
+        "href": "https://walmart.com/shop/deals/black-friday?athAsset=eyJhdGhjcGlkIjoiMWI3NGUwNzYtYTc3Ny00ZGQ2LTliMGItMTZlOTA4ZWFkZDQwIiwiYXRoem5pZCI6IlNlYXNvbmFsQ2FtcGFpZ25zXzFiNzRlMDc2LWE3NzctNGRkNi05YjBiLTE2ZTkwOGVhZGQ0MF9pdGVtcyIsImF0aG10aWQiOiJBdGhlbmFJdGVtQ2Fyb3VzZWwiLCJhdGh0dmlkIjoiMiJ9&athena=true"
+      },
+      "computedStyles": {
+        "color": "#000000"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-0",
+      "classes": [
+        "w-100",
+        "absolute",
+        "absolute--fill"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "width": "auto",
+        "height": "auto",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-4080/k2-_68b02e32-82b2-4f2e-b811-bf5eeb5773cf.v2.jpg?odnHeight=300&odnWidth=1612&odnBg=&odnDynImageQuality=70",
+        "alt": "Black Friday Deals and more. Eleven fourteen to sixteen. Up to fifty percent off. An HP laptop, a Beautiful by Drew slow cooker and a Levi's jacket.",
+        "id": "PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-0",
+        "elementtiming": "home-hero-image"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dark-gray",
+        "db",
+        "f6",
+        "no-underline",
+        "nowrap",
+        "desktop-header-flyout-link",
+        "mb3"
+      ],
+      "text": "Lists",
+      "attributes": {
+        "link-identifier": "Lists",
+        "data-automation-id": "walmart-list",
+        "data-dca-name": "Lists",
+        "data-dca-id": "L:B07B7ACD2B",
+        "href": "/lists"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [],
+      "text": "Black Friday Deal Goodyear Reliant All-Season 225/65R17 102H All-Season Tire Fits: 2018-23 Chevrolet Equinox LT, 2015-17 Subaru Outback 3.6R Touring $96.00 Was $126.00",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "absolute",
+        "dn",
+        "z-5",
+        "bg-white",
+        "br-100",
+        "pa0",
+        "pointer",
+        "db-l",
+        "br-100",
+        "nav-control",
+        "right-1",
+        "db"
+      ],
+      "text": "",
+      "attributes": {
+        "link-identifier": "horizontalScrollerNext",
+        "aria-label": "Next slide for departmentsGrid list",
+        "aria-disabled": "false",
+        "data-testid": "horizontal-scroller-next",
+        "data-dca-intent": "swipeLeft",
+        "data-dca-name": "ItemCarouselNextButton",
+        "tabindex": "0",
+        "role": "button",
+        "data-dca-id": "L:D255F19F56"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dark-gray",
+        "db",
+        "f6",
+        "no-underline",
+        "nowrap",
+        "desktop-header-flyout-link"
+      ],
+      "text": "Purchase History",
+      "attributes": {
+        "link-identifier": "Purchase History",
+        "data-automation-id": "headerPurchaseHistory",
+        "data-dca-name": "PurchaseHistory",
+        "data-dca-id": "L:4D91898AF8",
+        "href": "/orders"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dark-gray",
+        "db",
+        "f6",
+        "no-underline",
+        "nowrap",
+        "desktop-header-flyout-link",
+        "mb3"
+      ],
+      "text": "Registries",
+      "attributes": {
+        "link-identifier": "Registries",
+        "data-dca-name": "Registries",
+        "data-dca-id": "L:EA8D9512A2",
+        "href": "/my-registries"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "main",
+      "id": "maincontentredesign",
+      "classes": [
+        "ph3",
+        "ph4-xl",
+        "mb4-xl",
+        "mb3",
+        "mh0-l",
+        "mw1660",
+        "center"
+      ],
+      "text": "Walmart | Save Money. Live better.Get 50% off an annual Walmart+ membership!Join Walmart+Join Walmart+Shop all Deals & moreUp to 50% offView allBlack Friday Deal Tree Hut Vanilla Mini Body Care Gift Set, 4 Piece $13.97 Was $20.00Black Friday DealAddNow$1397current price Now $13.97, Was $20.00$20.00Tree Hut Vanilla Mini Body Care Gift Set, 4 PieceBlack Friday Deal Time and Tru Women's High Rise Leggings, 27'' Inseam, 3-Pack, Sizes XS-XXXL $11.25 Was $17.94Black Friday DealNow$1125current price No",
+      "attributes": {
+        "id": "maincontentredesign",
+        "style": "min-height:50vh"
+      },
+      "computedStyles": {
+        "minHeight": "50vh"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "Terms of Use",
+      "attributes": {
+        "link-identifier": "Terms of Use",
+        "title": "Terms of Use",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "/help/article/walmart-com-terms-of-use/3b75080af40340d6bbd596f116fae5a0"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "linkcard-JoinWalmart-PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-3",
+      "classes": [
+        "absolute",
+        "fill-focus",
+        "z-1"
+      ],
+      "text": "Join Walmart+",
+      "attributes": {
+        "link-identifier": "Join Walmart+",
+        "title": "Image shows a colorful illustration of a price tag next to an ornament. The text says $49 for one year for Walmart Plus memberships.",
+        "id": "linkcard-JoinWalmart-PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-3",
+        "aria-labelledby": "linkcard-JoinWalmart-PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-3 heading-PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-3 ",
+        "aria-hidden": "true",
+        "tabindex": "-1",
+        "data-dca-id": "L:F24E6BF757",
+        "href": "https://www.walmart.com/plus?athAsset=eyJhdGhjcGlkIjoiYjk4OWRmOWMtODlmOS00ZTFhLTg1NGQtN2Y4YTVhYWI1YjBhIiwiYWV3ciI6IkNUUiJ9&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "absolute",
+        "dn",
+        "z-5",
+        "bg-white",
+        "br-100",
+        "pa0",
+        "pointer",
+        "db-l",
+        "br-100",
+        "nav-control",
+        "right-1"
+      ],
+      "text": "",
+      "attributes": {
+        "link-identifier": "horizontalScrollerNext",
+        "style": "top:100px",
+        "aria-label": "Next slide for Shop all Deals & more list",
+        "aria-disabled": "false",
+        "data-testid": "horizontal-scroller-next",
+        "data-dca-intent": "swipeLeft",
+        "data-dca-name": "ItemCarouselNextButton",
+        "tabindex": "0",
+        "role": "button",
+        "data-dca-id": "L:D255F19F56"
+      },
+      "computedStyles": {
+        "top": "100px"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "db"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "alt": "Walmart",
+        "src": "//i5.walmartimages.com/dfw/63fd9f59-14e2/9d304ce6-96de-4331-b8ec-c5191226d378/v1/spark-icon.svg",
+        "data-automation-id": "header-walmartLogo",
+        "width": "36",
+        "height": "auto"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "gold",
+        "h3",
+        "w3",
+        "dn-hdkp"
+      ],
+      "text": "",
+      "attributes": {
+        "link-identifier": "walmartLogoMobile",
+        "aria-hidden": "false",
+        "aria-label": "Walmart Homepage",
+        "data-automation-id": "header-link-walmartLogo",
+        "data-dca-id": "L:C4B50305B1",
+        "href": "/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "Get the Walmart App",
+      "attributes": {
+        "link-identifier": "Get the Walmart App",
+        "title": "Get the Walmart App",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "https://walmart.onelink.me/UIev?pid=walmart.com&af_web_dp=https%3A%2F%2Fwww.walmart.com%2Fcp%2Fwalmart-mobile-app%2F1087865&c=Walmart.com%20Site%20Footer&af_dp=walmart%3A%2F%2F"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "Brand Shop Directory",
+      "attributes": {
+        "link-identifier": "Brand Shop Directory",
+        "title": "Brand Shop Directory",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "https://www.walmart.com/brand/branddirectory"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "absolute",
+        "top-0",
+        "left-0"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "srcset": "https://i5.walmartimages.com/seo/TT-LEGGING_434531f7-761c-469c-b557-00260f212573.bf1600ead4ef75cd78eb5ac8d9936e5a.jpeg?odnHeight=288&odnWidth=288&odnBg=FFFFFF 1x, https://i5.walmartimages.com/seo/TT-LEGGING_434531f7-761c-469c-b557-00260f212573.bf1600ead4ef75cd78eb5ac8d9936e5a.jpeg?odnHeight=576&odnWidth=576&odnBg=FFFFFF 2x",
+        "src": "https://i5.walmartimages.com/seo/TT-LEGGING_434531f7-761c-469c-b557-00260f212573.bf1600ead4ef75cd78eb5ac8d9936e5a.jpeg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+        "width": "",
+        "height": "",
+        "data-testid": "productTileImage",
+        "alt": "Time and Tru Women's High Rise Leggings, 27'' Inseam, 3-Pack, Sizes XS-XXXL"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dark-gray",
+        "db",
+        "f6",
+        "no-underline",
+        "nowrap",
+        "desktop-header-flyout-link",
+        "mt3"
+      ],
+      "text": "Subscriptions",
+      "attributes": {
+        "link-identifier": "Subscription",
+        "data-automation-id": "subscription",
+        "data-dca-id": "L:B09B7C822E",
+        "href": "/cp/subscriptions/4191733"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dib",
+        "relative",
+        "no-underline"
+      ],
+      "text": "Health & Wellness",
+      "attributes": {
+        "link-identifier": "SC-hubspokepill-item-AE1Nav-680024783-healthwell-1763100520919",
+        "data-dca-id": "L:AD82D36C02",
+        "href": "https://www.walmart.com/shop/deals/health-and-wellness?povid=XCAT_AE1_Event_HP_Health&athAsset=eyJhdGhjcGlkIjoiNjgwYzcyMzctMjQ2ZC00NDEwLWE0YjEtYmZjMGJhN2I0NmM3In0=&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "h4",
+        "b--none",
+        "bn",
+        "bg-transparent",
+        "lh-copy",
+        "mid-gray",
+        "relative",
+        "sans-serif",
+        "tl",
+        "w-100",
+        "pa0",
+        "f6",
+        "dark-gray",
+        "db",
+        "no-underline",
+        "nowrap",
+        "nb3"
+      ],
+      "text": "Language | English",
+      "attributes": {
+        "type": "button",
+        "aria-expanded": "false",
+        "data-dca-id": "B:0E4D1F1C3D",
+        "data-dca-intent": "__DCA_TBD__"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "PrismCollectionCarousel-horizontal-undefined-LYdPCyut",
+      "classes": [
+        "w-100",
+        "absolute",
+        "absolute--fill"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "srcset": "https://i5.walmartimages.com/dfw/4ff9c6c9-9e2c/k2-_126259fe-d597-4c9e-9c00-e338b6dd8352.v1.jpg?odnHeight=292&odnWidth=512&odnBg=&odnDynImageQuality=70 1x, https://i5.walmartimages.com/dfw/4ff9c6c9-9e2c/k2-_126259fe-d597-4c9e-9c00-e338b6dd8352.v1.jpg?odnHeight=584&odnWidth=1024&odnBg=&odnDynImageQuality=70 2x",
+        "width": "auto",
+        "height": "auto",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-9e2c/k2-_126259fe-d597-4c9e-9c00-e338b6dd8352.v1.jpg?odnHeight=292&odnWidth=512&odnBg=&odnDynImageQuality=70",
+        "alt": "Tall women’s boots in four different designs: burgundy leather, brown suede, leopard and dalmatian prints.",
+        "id": "PrismCollectionCarousel-horizontal-undefined-LYdPCyut"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dib",
+        "relative",
+        "no-underline"
+      ],
+      "text": "Tech",
+      "attributes": {
+        "link-identifier": "SC-hubspokepill-item-AE1Nav-7787724940-TV-1763100641084",
+        "data-dca-id": "L:AD82D36C02",
+        "href": "https://www.walmart.com/shop/deals/electronics?povid=XCAT_AE1_Event_HP_Tech&athAsset=eyJhdGhjcGlkIjoiNjgwYzcyMzctMjQ2ZC00NDEwLWE0YjEtYmZjMGJhN2I0NmM3In0=&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "slider",
+        "skip-main",
+        "bg-white-90"
+      ],
+      "text": "Skip to Main Content",
+      "attributes": {
+        "link-identifier": "Generic Name",
+        "data-dca-id": "L:E76549B6E8",
+        "href": "#maincontent"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dark-gray",
+        "db",
+        "f6",
+        "no-underline",
+        "nowrap",
+        "desktop-header-flyout-link",
+        "mb3"
+      ],
+      "text": "Reorder",
+      "attributes": {
+        "link-identifier": "Reorder",
+        "data-automation-id": "walmart-reorder",
+        "data-dca-name": "Reorder",
+        "data-dca-id": "L:7653D2EA57",
+        "href": "/my-items"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "mr2",
+        "f5"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "//i5.walmartimages.com/dfw/63fd9f59-30b3/629cc93a-dae2-4b74-afd7-faecce345c85/v1/wplus-indigo-rebrand-bug.svg",
+        "alt": "Walmart+",
+        "height": "16",
+        "width": "16",
+        "style": "vertical-align:-0.175em;object-fit:contain"
+      },
+      "computedStyles": {
+        "verticalAlign": "-0.175em",
+        "objectFit": "contain"
+      }
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "absolute",
+        "bn",
+        "br-100",
+        "hover-bg-navy",
+        "search-icon-redesigned-v2"
+      ],
+      "text": "",
+      "attributes": {
+        "aria-label": "Search",
+        "style": "cursor:pointer",
+        "data-dca-id": "B:961A365941",
+        "data-dca-intent": "__DCA_TBD__"
+      },
+      "computedStyles": {
+        "cursor": "pointer"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "PrismCollectionCarousel-verticalSmall-undefined-LYdPCyut",
+      "classes": [
+        "w-100",
+        "absolute",
+        "absolute--fill"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "srcset": "https://i5.walmartimages.com/dfw/4ff9c6c9-cc0e/k2-_a2947fca-44ed-472c-8b6f-d46f65b4545d.v1.jpg?odnHeight=342&odnWidth=248&odnBg=&odnDynImageQuality=70 1x, https://i5.walmartimages.com/dfw/4ff9c6c9-cc0e/k2-_a2947fca-44ed-472c-8b6f-d46f65b4545d.v1.jpg?odnHeight=684&odnWidth=496&odnBg=&odnDynImageQuality=70 2x",
+        "width": "auto",
+        "height": "auto",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-cc0e/k2-_a2947fca-44ed-472c-8b6f-d46f65b4545d.v1.jpg?odnHeight=342&odnWidth=248&odnBg=&odnDynImageQuality=70",
+        "alt": "Three boxes of Annie's macaroni and cheese.",
+        "id": "PrismCollectionCarousel-verticalSmall-undefined-LYdPCyut"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dib",
+        "relative",
+        "no-underline"
+      ],
+      "text": "Grocery",
+      "attributes": {
+        "link-identifier": "SC-merchpill-item-AE1-690920378-grocery-1763101601297",
+        "data-dca-id": "L:AD82D36C02",
+        "href": "https://www.walmart.com/shop/deals/food?povid=XCAT_AE1_Event_HP_Grocery&athAsset=eyJhdGhjcGlkIjoiNjgwYzcyMzctMjQ2ZC00NDEwLWE0YjEtYmZjMGJhN2I0NmM3In0=&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "lh-title",
+        "ma0"
+      ],
+      "text": "Shop all Deals & more",
+      "attributes": {
+        "style": "color:undefined"
+      },
+      "computedStyles": {
+        "color": "undefined"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "w_hhLG",
+        "w_8nsR",
+        "w_0_LY",
+        "flex",
+        "mb3",
+        "w-100"
+      ],
+      "text": "Sign in or create account",
+      "attributes": {
+        "href": "/",
+        "data-testid": "sign-in",
+        "data-dca-name": "SignIn",
+        "data-dca-id": "B:B6D98B5323",
+        "data-dca-intent": "__DCA_TBD__"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "z-5",
+        "bg-white",
+        "br-100",
+        "pa0",
+        "pointer",
+        "db"
+      ],
+      "text": "",
+      "attributes": {
+        "link-identifier": "horizontalScrollerPrevious",
+        "aria-label": "Previous slide for hp-heropov-container list",
+        "data-testid": "horizontal-scroller-previous",
+        "tabindex": "0",
+        "role": "button",
+        "data-dca-id": "L:56894A6C79"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "linkcard-Shopnow-PrismCollectionCarousel-collectionHero-undefined-LYdPCyut",
+      "classes": [
+        "absolute",
+        "fill-focus",
+        "z-1"
+      ],
+      "text": "Shop now",
+      "attributes": {
+        "link-identifier": "Shop now",
+        "title": "A trio of Bluey figurines.",
+        "id": "linkcard-Shopnow-PrismCollectionCarousel-collectionHero-undefined-LYdPCyut",
+        "aria-labelledby": "linkcard-Shopnow-PrismCollectionCarousel-collectionHero-undefined-LYdPCyut heading-PrismCollectionCarousel-collectionHero-undefined-LYdPCyut ",
+        "aria-hidden": "true",
+        "tabindex": "-1",
+        "data-dca-id": "L:F24E6BF757",
+        "href": "https://www.walmart.com/shop/deals/toys?athAsset=eyJhdGhjcGlkIjoiMWNkY2Y1NmUtMWNiNy00YzNkLWEzNjktMWMwZTg4ZTg0ZDliIiwiYWV3ciI6Ik1QX0FUQ1IifQ==&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-3",
+      "classes": [
+        "w-100",
+        "absolute",
+        "absolute--fill"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "width": "auto",
+        "height": "auto",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-7c8a/k2-_c803e0df-89c5-4646-9b7a-69bb092daffc.v1.jpg?odnHeight=300&odnWidth=1612&odnBg=&odnDynImageQuality=70",
+        "alt": "Image shows a colorful illustration of a price tag next to an ornament. The text says $49 for one year for Walmart Plus memberships.",
+        "id": "PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-3",
+        "elementtiming": "home-hero-image"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "Our Company",
+      "attributes": {
+        "link-identifier": "Our Company",
+        "title": "Our Company",
+        "aria-label": "Our Company - opens in a new window",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "https://corporate.walmart.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [],
+      "text": "Black Friday Deal Wireless Charger,Magnetic Charging Stand Compatible with iPhone 17 16 15 14 13 12 11 Pro Max Plus XS XR X 8,Charger for Apple Watch 9 8 7 6 5 4 3 2 SE, for AirPods 3 2 Pro,3 in 1 Charging Station $14.43 Was $29.99",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "f4",
+        "f3-m",
+        "truncate",
+        "ma0"
+      ],
+      "text": "Shop Deals & more by category",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "bn",
+        "bg-transparent",
+        "mh1",
+        "ph2",
+        "pv2",
+        "pointer",
+        "sans-serif",
+        "underline",
+        "z-1",
+        "dn-hdkp",
+        "clip",
+        "o-0",
+        "white"
+      ],
+      "text": "Cancel",
+      "attributes": {
+        "aria-hidden": "true",
+        "aria-label": "Cancel",
+        "style": "transition:opacity .3s",
+        "tabindex": "-1",
+        "type": "button",
+        "data-dca-id": "B:6A036699B1",
+        "data-dca-intent": "__DCA_TBD__"
+      },
+      "computedStyles": {
+        "transition": "opacity .3s"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "link-Shopnow-PrismCollectionCarousel-horizontal-undefined-LYdPCyut",
+      "classes": [
+        "z-2",
+        "nowrap",
+        "link",
+        "mt3-xl",
+        "mt2",
+        "mr3-xl",
+        "mr2",
+        "underline",
+        "no-underline-hover",
+        "h-auto",
+        "pa0",
+        "f6",
+        "f6-rdxl"
+      ],
+      "text": "Shop now",
+      "attributes": {
+        "link-identifier": "Shop now",
+        "style": "color:#ffffff",
+        "id": "link-Shopnow-PrismCollectionCarousel-horizontal-undefined-LYdPCyut",
+        "title": "Shop now",
+        "aria-labelledby": "link-Shopnow-PrismCollectionCarousel-horizontal-undefined-LYdPCyut heading-PrismCollectionCarousel-horizontal-undefined-LYdPCyut ",
+        "data-dca-id": "L:9673DEB1B9",
+        "href": "https://www.walmart.com/shop/deals/clothing-and-accessories/shoes/boots-for-the-family?athAsset=eyJhdGhjcGlkIjoiMTE5MDVjNjAtZDg5Yi00Y2RlLWJiZTItMmMyZTU1ZTZlMjQxIiwiYWV3ciI6Ik1QX0NUUiJ9&athena=true"
+      },
+      "computedStyles": {
+        "color": "#ffffff"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-c263/k2-_c3fb31a4-7939-4d20-8b79-f5288fbce760.v1.png?odnHeight=120&odnWidth=120&odnBg=FFFFFF",
+        "style": "width:auto;height:auto",
+        "height": "",
+        "width": "",
+        "alt": ""
+      },
+      "computedStyles": {
+        "width": "auto",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "linkcard--PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-4",
+      "classes": [
+        "absolute",
+        "fill-focus",
+        "z-1"
+      ],
+      "text": "",
+      "attributes": {
+        "link-identifier": "",
+        "title": "Black Friday Deals and more. November fourteenth to sixteenth. Up to fifty percent off. A Levi's jacket and Beautiful by Drew slow cooker.",
+        "id": "linkcard--PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-4",
+        "aria-labelledby": "linkcard--PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-4 heading-PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-4 ",
+        "aria-hidden": "false",
+        "tabindex": "0",
+        "data-dca-id": "L:F24E6BF757",
+        "href": "https://www.walmart.com/shop/deals/holiday-ready?athAsset=eyJhdGhjcGlkIjoiNDFjZmZkOTEtMjM0Ni00NTQ0LWFlYjYtMzdlMWFjNDU0NWFmIiwiYWV3ciI6IkNUUiJ9&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "Product Recalls",
+      "attributes": {
+        "link-identifier": "Product Recalls",
+        "title": "Product Recalls",
+        "aria-label": "Product Recalls - opens in a new window",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "https://corporate.walmart.com/recalls"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "Careers",
+      "attributes": {
+        "link-identifier": "Careers",
+        "title": "Careers",
+        "aria-label": "Careers - opens in a new window",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "https://careers.walmart.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "header-navigation",
+        "flex-hdkp",
+        "items-center",
+        "no-underline",
+        "justify-center",
+        "mr3",
+        "pa3",
+        "hover-bg-dark-primary",
+        "hover-bg-navy"
+      ],
+      "text": "",
+      "attributes": {
+        "link-identifier": "walmartLogoDesktop",
+        "style": "border-radius:37px;transition:all 100ms cubic-bezier(0.77, 0, 0.175, 1);height:52px;padding:0.5rem;width:52px;margin-right:12px",
+        "aria-label": "Walmart Homepage",
+        "data-dca-name": "UiGlobalHeaderResponsiveHeaderWalmartLogo",
+        "data-dca-id": "L:B3A89AD3F3",
+        "href": "/"
+      },
+      "computedStyles": {
+        "borderRadius": "37px",
+        "transition": "all 100ms cubic-bezier(0.77, 0, 0.175, 1)",
+        "height": "52px",
+        "padding": "0.5rem",
+        "width": "52px",
+        "marginRight": "12px"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-c83a/k2-_e477c994-41c0-4578-a354-4b5a7e3db998.v1.png?odnHeight=120&odnWidth=120&odnBg=FFFFFF",
+        "style": "width:auto;height:auto",
+        "height": "",
+        "width": "",
+        "alt": ""
+      },
+      "computedStyles": {
+        "width": "auto",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "linkcard--PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-0",
+      "classes": [
+        "absolute",
+        "fill-focus",
+        "z-1"
+      ],
+      "text": "",
+      "attributes": {
+        "link-identifier": "",
+        "title": "Black Friday Deals and more. Eleven fourteen to sixteen. Up to fifty percent off. An HP laptop, a Beautiful by Drew slow cooker and a Levi's jacket.",
+        "id": "linkcard--PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-0",
+        "aria-labelledby": "linkcard--PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-0 heading-PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-0 ",
+        "aria-hidden": "false",
+        "tabindex": "0",
+        "data-dca-id": "L:F24E6BF757",
+        "href": "https://www.walmart.com/shop/deals/black-friday?athAsset=eyJhdGhjcGlkIjoiNzYzM2Y0NTYtNTk4OS00NDYwLWJkNTYtZTgzODg2ZWM4NjBhIiwiYWV3ciI6IkNUUiJ9&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "normal",
+        "dark-gray",
+        "mb0",
+        "mt1",
+        "lh-title",
+        "f6",
+        "f5-l"
+      ],
+      "text": "Goodyear Reliant All-Season 225/65R17 102H All-Season Tire Fits: 2018-23 Chevrolet Equinox LT, 2015-17 Subaru Outback 3.6R Touring",
+      "attributes": {
+        "data-automation-id": "product-title"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "normal",
+        "dark-gray",
+        "mb0",
+        "mt1",
+        "lh-title",
+        "f6",
+        "f5-l"
+      ],
+      "text": "Tree Hut Vanilla Mini Body Care Gift Set, 4 Piece",
+      "attributes": {
+        "data-automation-id": "product-title"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "footer",
+      "id": "",
+      "classes": [
+        "db",
+        "pt5-hdkp",
+        "lh-copy",
+        "relative",
+        "z-0"
+      ],
+      "text": "We’d love to hear what you think!Give feedbackAll DepartmentsStore DirectoryCareersOur CompanySell on Walmart.comHelpProduct RecallsAccessibilityTax Exempt ProgramGet the Walmart AppSafety Data SheetTerms of UsePrivacy NoticeCalifornia Supply Chain ActYour Privacy ChoicesCustomer Privacy CenterNotice at CollectionAdChoicesConsumer Health Data Privacy NoticesBrand Shop DirectoryPharmacyWalmart Business#IYWYKDelete Account© 2025 Walmart. The trademarks Walmart and the Walmart Spark design are regi",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-d492/k2-_acf71638-a4ea-440c-b43c-8811955f9be7.v1.png?odnHeight=120&odnWidth=120&odnBg=FFFFFF",
+        "style": "width:auto;height:auto",
+        "height": "",
+        "width": "",
+        "alt": ""
+      },
+      "computedStyles": {
+        "width": "auto",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "absolute",
+        "top-0",
+        "left-0"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "srcset": "https://i5.walmartimages.com/seo/Skechers-Men-s-Crossbar-Slip-on-Sneaker-Wide-Width-Available_216ad86d-5ec9-4320-91db-61620b60ec65.7b864609acb8caad4258cbb634309087.jpeg?odnHeight=288&odnWidth=288&odnBg=FFFFFF 1x, https://i5.walmartimages.com/seo/Skechers-Men-s-Crossbar-Slip-on-Sneaker-Wide-Width-Available_216ad86d-5ec9-4320-91db-61620b60ec65.7b864609acb8caad4258cbb634309087.jpeg?odnHeight=576&odnWidth=576&odnBg=FFFFFF 2x",
+        "src": "https://i5.walmartimages.com/seo/Skechers-Men-s-Crossbar-Slip-on-Sneaker-Wide-Width-Available_216ad86d-5ec9-4320-91db-61620b60ec65.7b864609acb8caad4258cbb634309087.jpeg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+        "width": "",
+        "height": "",
+        "data-testid": "productTileImage",
+        "alt": "Skechers Men's Crossbar Slip-on Sneaker (Wide Width Available)"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "f6",
+        "gray",
+        "lh-title",
+        "ma0",
+        "mt2",
+        "mt1-m",
+        "normal"
+      ],
+      "text": "Up to 50% off",
+      "attributes": {
+        "style": "color:undefined"
+      },
+      "computedStyles": {
+        "color": "undefined"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "PrismCollectionCarousel-verticalSmall-undefined-LYdPCyut",
+      "classes": [
+        "w-100",
+        "absolute",
+        "absolute--fill"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "srcset": "https://i5.walmartimages.com/dfw/4ff9c6c9-c1e0/k2-_399283a6-43fb-42fc-89e3-973d2fe5e479.v1.jpg?odnHeight=342&odnWidth=248&odnBg=&odnDynImageQuality=70 1x, https://i5.walmartimages.com/dfw/4ff9c6c9-c1e0/k2-_399283a6-43fb-42fc-89e3-973d2fe5e479.v1.jpg?odnHeight=684&odnWidth=496&odnBg=&odnDynImageQuality=70 2x",
+        "width": "auto",
+        "height": "auto",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-c1e0/k2-_399283a6-43fb-42fc-89e3-973d2fe5e479.v1.jpg?odnHeight=342&odnWidth=248&odnBg=&odnDynImageQuality=70",
+        "alt": "Girls matching P J sets in gray and pink with black dots are next to brown and white pairs of fuzzy slippers.",
+        "id": "PrismCollectionCarousel-verticalSmall-undefined-LYdPCyut"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "w-100",
+        "h-100",
+        "z-1",
+        "hide-sibling-opacity",
+        "absolute"
+      ],
+      "text": "Black Friday Deal Tree Hut Vanilla Mini Body Care Gift Set, 4 Piece $13.97 Was $20.00",
+      "attributes": {
+        "link-identifier": "17565665155",
+        "target": "",
+        "data-dca-id": "L:7B06D07E1D",
+        "href": "/ip/Tree-Hut-Vanilla-Mini-Body-Care-Gift-Set-4-Piece/17565665155?athAsset=eyJhdGhjcGlkIjoiMTc1NjU2NjUxNTUiLCJhdGhzdGlkIjoiQ1MwMjAiLCJhdGhhbmNpZCI6Ikl0ZW1DYXJvdXNlbCIsImF0aHJrIjowLjB9&athena=true&athbdg=L1800"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [],
+      "text": "ReorderMy ItemsReorderListsRegistriesSign InAccountSign in or create accountPurchase HistoryWalmart+SubscriptionsLanguage | English$0.00",
+      "attributes": {
+        "aria-label": "Account and Cart"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-8e0a/k2-_19a80566-536d-4b9f-9bff-07e03ac62a8a.v1.png?odnHeight=120&odnWidth=120&odnBg=FFFFFF",
+        "style": "width:auto;height:auto",
+        "height": "",
+        "width": "",
+        "alt": ""
+      },
+      "computedStyles": {
+        "width": "auto",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dib",
+        "relative",
+        "no-underline"
+      ],
+      "text": "Personal Care",
+      "attributes": {
+        "link-identifier": "SC-hubspokepill-item-PersonalCareDea-1718066620-PersonalCa-1762812154143",
+        "data-dca-id": "L:AD82D36C02",
+        "href": "https://www.walmart.com/shop/deals/wellness-and-personal-care?povid=XCAT_AE1_Event_HP_PersonalCare&athAsset=eyJhdGhjcGlkIjoiNjgwYzcyMzctMjQ2ZC00NDEwLWE0YjEtYmZjMGJhN2I0NmM3In0=&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "w-100",
+        "h-100",
+        "z-1",
+        "hide-sibling-opacity",
+        "absolute"
+      ],
+      "text": "Black Friday Deal Goodyear Reliant All-Season 225/65R17 102H All-Season Tire Fits: 2018-23 Chevrolet Equinox LT, 2015-17 Subaru Outback 3.6R Touring $96.00 Was $126.00",
+      "attributes": {
+        "link-identifier": "158600281",
+        "target": "",
+        "data-dca-id": "L:7B06D07E1D",
+        "href": "/ip/Goodyear-Reliant-All-Season-225-65R17-102H-All-Season-Tire-Fits-2018-23-Chevrolet-Equinox-LT-2015-17-Subaru-Outback-3-6R-Touring/158600281?athAsset=eyJhdGhjcGlkIjoiMTU4NjAwMjgxIiwiYXRoc3RpZCI6IkNTMDIwIiwiYXRoYW5jaWQiOiJJdGVtQ2Fyb3VzZWwiLCJhdGhyayI6MC4wfQ==&athena=true&athbdg=L1800"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-733e/k2-_a10dbb60-8d34-4434-94d4-a899238d83fb.v1.png?odnHeight=120&odnWidth=120&odnBg=FFFFFF",
+        "style": "width:auto;height:auto",
+        "height": "",
+        "width": "",
+        "alt": ""
+      },
+      "computedStyles": {
+        "width": "auto",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "Sell on Walmart.com",
+      "attributes": {
+        "link-identifier": "Sell on Walmart.com",
+        "title": "Sell on Walmart.com",
+        "aria-label": "Sell on Walmart.com - opens in a new window",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "https://marketplace.walmart.com/?utm_source=Walmart.com&utm_medium=link&utm_campaign=footer"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "linkcard-Shopnow-PrismCollectionCarousel-verticalSmall-undefined-LYdPCyut",
+      "classes": [
+        "absolute",
+        "fill-focus",
+        "z-1"
+      ],
+      "text": "Shop now",
+      "attributes": {
+        "link-identifier": "Shop now",
+        "title": "Three boxes of Annie's macaroni and cheese.",
+        "id": "linkcard-Shopnow-PrismCollectionCarousel-verticalSmall-undefined-LYdPCyut",
+        "aria-labelledby": "linkcard-Shopnow-PrismCollectionCarousel-verticalSmall-undefined-LYdPCyut heading-PrismCollectionCarousel-verticalSmall-undefined-LYdPCyut ",
+        "aria-hidden": "true",
+        "tabindex": "-1",
+        "data-dca-id": "L:F24E6BF757",
+        "href": "https://www.walmart.com/shop/deals/food?athAsset=eyJhdGhjcGlkIjoiMjNkYWNjYzQtMWRkNy00YjQ2LWJhZmUtODk2MjBiMWMzYmRlIiwiYWV3ciI6Ik1QX0NUUiJ9&athena=true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-center",
+        "no-underline",
+        "desktop-header-trigger",
+        "lh-title",
+        "lh-solid",
+        "redesign-nav-v2",
+        "white",
+        "hover-bg-navy"
+      ],
+      "text": "Sign InAccount",
+      "attributes": {
+        "link-identifier": "Account",
+        "style": "border-radius:32px;height:52px;transition:all 100ms cubic-bezier(0.77, 0, 0.175, 1)",
+        "aria-haspopup": "true",
+        "aria-expanded": "false",
+        "data-dca-name": "Account",
+        "role": "button",
+        "data-dca-id": "L:87A208F9E9",
+        "href": "/"
+      },
+      "computedStyles": {
+        "borderRadius": "32px",
+        "height": "52px",
+        "transition": "all 100ms cubic-bezier(0.77, 0, 0.175, 1)"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-7ee5/k2-_59cadb6b-836b-4639-a898-4a5f8aab76e7.v1.png?odnHeight=120&odnWidth=120&odnBg=FFFFFF",
+        "style": "width:auto;height:auto",
+        "height": "",
+        "width": "",
+        "alt": ""
+      },
+      "computedStyles": {
+        "width": "auto",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "Pharmacy",
+      "attributes": {
+        "link-identifier": "Pharmacy",
+        "title": "Pharmacy",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "https://www.walmart.com/cp/pharmacy/5431?povid=HWS_GlobalFooter_Pharmacy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "Walmart Business",
+      "attributes": {
+        "link-identifier": "Walmart Business",
+        "title": "Walmart Business",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "https://www.walmart.com/cp/walmart-business/7810722?povid=7810722_POV_WMTfooter"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "Safety Data Sheet",
+      "attributes": {
+        "link-identifier": "Safety Data Sheet",
+        "title": "Safety Data Sheet",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "http://msds.walmartstores.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-center",
+        "no-underline",
+        "desktop-header-trigger",
+        "lh-title",
+        "lh-solid",
+        "redesign-nav-v2",
+        "white",
+        "hover-bg-navy"
+      ],
+      "text": "ReorderMy Items",
+      "attributes": {
+        "link-identifier": "Reorder my items",
+        "style": "border-radius:32px;height:52px;transition:all 100ms cubic-bezier(0.77, 0, 0.175, 1)",
+        "aria-haspopup": "true",
+        "aria-expanded": "false",
+        "data-dca-name": "Reorder my items",
+        "role": "button",
+        "data-dca-id": "L:87A208F9E9",
+        "href": "/my-items"
+      },
+      "computedStyles": {
+        "borderRadius": "32px",
+        "height": "52px",
+        "transition": "all 100ms cubic-bezier(0.77, 0, 0.175, 1)"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "link-Shopnow-PrismCollectionCarousel-verticalSmall-undefined-LYdPCyut",
+      "classes": [
+        "z-2",
+        "nowrap",
+        "link",
+        "mt3-xl",
+        "mt2",
+        "mr3-xl",
+        "mr2",
+        "underline",
+        "no-underline-hover",
+        "h-auto",
+        "pa0",
+        "f6",
+        "f6-rdxl"
+      ],
+      "text": "Shop now",
+      "attributes": {
+        "link-identifier": "Shop now",
+        "style": "color:#ffffff",
+        "id": "link-Shopnow-PrismCollectionCarousel-verticalSmall-undefined-LYdPCyut",
+        "title": "Shop now",
+        "aria-labelledby": "link-Shopnow-PrismCollectionCarousel-verticalSmall-undefined-LYdPCyut heading-PrismCollectionCarousel-verticalSmall-undefined-LYdPCyut ",
+        "data-dca-id": "L:9673DEB1B9",
+        "href": "https://www.walmart.com/shop/deals/food?athAsset=eyJhdGhjcGlkIjoiMjNkYWNjYzQtMWRkNy00YjQ2LWJhZmUtODk2MjBiMWMzYmRlIiwiYWV3ciI6Ik1QX0NUUiJ9&athena=true"
+      },
+      "computedStyles": {
+        "color": "#ffffff"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "absolute",
+        "top-0",
+        "left-0"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "srcset": "https://i5.walmartimages.com/seo/Wireless-Charger-Magnetic-Fast-Charging-Stand-Compatible-iPhone-16-15-14-13-12-11-Pro-Max-Plus-XS-XR-X-8-Apple-Watch-9-8-7-6-5-4-3-2-SE-AirPods-3-2-P_2b811ce9-85b1-446f-b944-176d5f6353fd.23c9a8cd4b2dad0e31dbf4fb3c57aa3a.jpeg?odnHeight=288&odnWidth=288&odnBg=FFFFFF 1x, https://i5.walmartimages.com/seo/Wireless-Charger-Magnetic-Fast-Charging-Stand-Compatible-iPhone-16-15-14-13-12-11-Pro-Max-Plus-XS-XR-X-8-Apple-Watch-9-8-7-6-5-4-3-2-SE-AirPods-3-2-P_2b811ce9-85b1-446f-b944-176d5f6353fd.23c9a8cd4b2dad0e31dbf4fb3c57aa3a.jpeg?odnHeight=576&odnWidth=576&odnBg=FFFFFF 2x",
+        "src": "https://i5.walmartimages.com/seo/Wireless-Charger-Magnetic-Fast-Charging-Stand-Compatible-iPhone-16-15-14-13-12-11-Pro-Max-Plus-XS-XR-X-8-Apple-Watch-9-8-7-6-5-4-3-2-SE-AirPods-3-2-P_2b811ce9-85b1-446f-b944-176d5f6353fd.23c9a8cd4b2dad0e31dbf4fb3c57aa3a.jpeg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+        "width": "",
+        "height": "",
+        "data-testid": "productTileImage",
+        "alt": "Wireless Charger,Magnetic Charging Stand Compatible with iPhone 17 16 15 14 13 12 11 Pro Max Plus XS XR X 8,Charger for Apple Watch 9 8 7 6 5 4 3 2 SE, for AirPods 3 2 Pro,3 in 1 Charging Station"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [],
+      "text": "Black Friday Deal Tree Hut Vanilla Mini Body Care Gift Set, 4 Piece $13.97 Was $20.00",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "absolute",
+        "dn",
+        "z-5",
+        "bg-white",
+        "br-100",
+        "pa0",
+        "pointer",
+        "br-100",
+        "nav-control",
+        "left-1"
+      ],
+      "text": "",
+      "attributes": {
+        "link-identifier": "horizontalScrollerPrevious",
+        "aria-label": "Previous slide for departmentsGrid list",
+        "aria-disabled": "true",
+        "data-testid": "horizontal-scroller-previous",
+        "data-dca-intent": "swipeRight",
+        "data-dca-name": "ItemCarouselPreviousButton",
+        "tabindex": "0",
+        "role": "button",
+        "data-dca-id": "L:725BAF5955"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "w_hhLG",
+        "w_XK4d",
+        "w_jDfj",
+        "pointer",
+        "bn",
+        "sans-serif",
+        "b",
+        "flex",
+        "items-center",
+        "justify-center",
+        "w-auto",
+        "ph2"
+      ],
+      "text": "Add",
+      "attributes": {
+        "type": "button",
+        "data-automation-id": "add-to-cart",
+        "data-dca-intent": "select",
+        "data-dca-name": "add-to-cart-btn",
+        "aria-label": "Add to cart - Goodyear Reliant All-Season 225/65R17 102H All-Season Tire Fits: 2018-23 Chevrolet Equinox LT, 2015-17 Subaru Outback 3.6R Touring",
+        "data-dca-id": "B:55DEA1FCB3"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "Help",
+      "attributes": {
+        "link-identifier": "Help",
+        "title": "Help",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "/help"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-31a3/k2-_7067477b-d3ee-4e76-9921-47ef05667626.v1.png?odnHeight=120&odnWidth=120&odnBg=FFFFFF",
+        "style": "width:auto;height:auto",
+        "height": "",
+        "width": "",
+        "alt": ""
+      },
+      "computedStyles": {
+        "width": "auto",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [
+        "flex"
+      ],
+      "text": "DepartmentsServices",
+      "attributes": {
+        "aria-label": "Primary"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "w-100",
+        "h-100",
+        "z-1",
+        "hide-sibling-opacity",
+        "absolute"
+      ],
+      "text": "Black Friday Deal Time and Tru Women's High Rise Leggings, 27'' Inseam, 3-Pack, Sizes XS-XXXL $11.25 Was $17.94",
+      "attributes": {
+        "link-identifier": "15699972317",
+        "target": "",
+        "data-dca-id": "L:7B06D07E1D",
+        "href": "/ip/TT-LEGGING/15699972317?athAsset=eyJhdGhjcGlkIjoiMTU2OTk5NzIzMTciLCJhdGhzdGlkIjoiQ1MwMjAiLCJhdGhhbmNpZCI6Ikl0ZW1DYXJvdXNlbCIsImF0aHJrIjowLjB9&athena=true&athbdg=L1800"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "w_hhLG",
+        "w_XK4d",
+        "w_jDfj",
+        "pointer",
+        "bn",
+        "sans-serif",
+        "b",
+        "flex",
+        "items-center",
+        "justify-center",
+        "w-auto",
+        "ph2"
+      ],
+      "text": "Options",
+      "attributes": {
+        "href": "/ip/Wireless-Charger-Magnetic-Fast-Charging-Stand-Compatible-iPhone-16-15-14-13-12-11-Pro-Max-Plus-XS-XR-X-8-Apple-Watch-9-8-7-6-5-4-3-2-SE-AirPods-3-2-P/5013161370?athAsset=eyJhdGhjcGlkIjoiNTAxMzE2MTM3MCIsImF0aHN0aWQiOiJDUzAyMCIsImF0aGFuY2lkIjoiSXRlbUNhcm91c2VsIiwiYXRocmsiOjAuMH0=&athena=true&athbdg=L1800",
+        "aria-label": "Options - Wireless Charger,Magnetic Charging Stand Compatible with iPhone 17 16 15 14 13 12 11 Pro Max Plus XS XR X 8,Charger for Apple Watch 9 8 7 6 5 4 3 2 SE, for AirPods 3 2 Pro,3 in 1 Charging Station",
+        "data-dca-id": "B:6AA5A1E246",
+        "data-dca-intent": "select"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "f6",
+        "no-underline",
+        "mb3",
+        "ma0-hdkp",
+        "footer-link",
+        "mr4-hdkp",
+        "db"
+      ],
+      "text": "Consumer Health Data Privacy Notices",
+      "attributes": {
+        "link-identifier": "Consumer Health Data Privacy Notices",
+        "title": "Consumer Health Data Privacy Notices",
+        "data-dca-id": "L:5A08A0D160",
+        "href": "https://corporate.walmart.com/privacy-security/walmart-consumer-health-data-privacy-notices"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dark-gray",
+        "db",
+        "f6",
+        "no-underline",
+        "nowrap",
+        "desktop-header-flyout-link",
+        "mt3"
+      ],
+      "text": "Walmart+",
+      "attributes": {
+        "link-identifier": "Walmart Plus",
+        "data-dca-id": "L:8CAA26697E",
+        "href": "/plus"
+      },
+      "computedStyles": {}
+    }
+  ]
+}

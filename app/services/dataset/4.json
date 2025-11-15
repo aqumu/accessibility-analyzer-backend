@@ -1,0 +1,2157 @@
+{
+  "meta": {
+    "url": "https://beasts-basketball.se",
+    "title": "Beasts Basketball – Älmhult Beasts Basketball Club for youth",
+    "lang": "en-US",
+    "charset": "UTF-8"
+  },
+  "elements": [
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-sportspress-fit-icon",
+        "size-sportspress-fit-icon",
+        "wp-post-image"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "300",
+        "height": "300",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/nassjo.webp?ver=1761921425",
+        "alt": "nassjo basketball logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Brahe Basket vs Älmhult Beasts BC P17",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8470/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "elementor-icon",
+        "elementor-social-icon",
+        "elementor-social-icon-youtube",
+        "elementor-animation-grow",
+        "elementor-repeater-item-17a8f7f"
+      ],
+      "text": "Youtube",
+      "attributes": {
+        "href": "https://www.youtube.com/channel/UCQNW9AMmW7og4mylounFwZQhttps://www.youtube.com/channel/UCQNW9AMmW7og4mylounFwZQ",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-sportspress-fit-icon",
+        "size-sportspress-fit-icon",
+        "wp-post-image"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "278",
+        "height": "278",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/Alvesta_Tigers_logo_300x300.webp?ver=1761919595",
+        "alt": "Alvesta_Tigers_logo_300x300"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "https://beasts-basketball.se"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "14:30",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8476/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "76-54",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8511/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-11-23",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8610/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "elementor-heading-title",
+        "elementor-size-default"
+      ],
+      "text": "Subscribe for the latest news and updates!",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Home",
+      "attributes": {
+        "href": "https://beasts-basketball.se/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-full",
+        "size-full",
+        "wp-image-5497"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1000",
+        "height": "1000",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/09/no-image.jpg",
+        "alt": "",
+        "srcset": "https://beasts-basketball.se/wp-content/uploads/2025/09/no-image.jpg 1000w, https://beasts-basketball.se/wp-content/uploads/2025/09/no-image-300x300.jpg 300w, https://beasts-basketball.se/wp-content/uploads/2025/09/no-image-150x150.jpg 150w, https://beasts-basketball.se/wp-content/uploads/2025/09/no-image-768x768.jpg 768w, https://beasts-basketball.se/wp-content/uploads/2025/09/no-image-370x370.jpg 370w, https://beasts-basketball.se/wp-content/uploads/2025/09/no-image-90x90.jpg 90w, https://beasts-basketball.se/wp-content/uploads/2025/09/no-image-924x924.jpg 924w, https://beasts-basketball.se/wp-content/uploads/2025/09/no-image-410x410.jpg 410w, https://beasts-basketball.se/wp-content/uploads/2025/09/no-image-400x400.jpg 400w, https://beasts-basketball.se/wp-content/uploads/2025/09/no-image-500x500.jpg 500w, https://beasts-basketball.se/wp-content/uploads/2025/09/no-image-32x32.jpg 32w",
+        "sizes": "(max-width: 1000px) 100vw, 1000px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Älmhult Beasts BC P15 vs KFUM Kalmar Basket",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8565/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "elementor-animation-trx_hover_zoom",
+        "attachment-full",
+        "size-full",
+        "wp-image-5497"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1000",
+        "height": "1000",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/09/no-image.jpg",
+        "alt": "",
+        "srcset": "https://beasts-basketball.se/wp-content/uploads/2025/09/no-image.jpg 1000w, https://beasts-basketball.se/wp-content/uploads/2025/09/no-image-300x300.jpg 300w, https://beasts-basketball.se/wp-content/uploads/2025/09/no-image-150x150.jpg 150w, https://beasts-basketball.se/wp-content/uploads/2025/09/no-image-768x768.jpg 768w, https://beasts-basketball.se/wp-content/uploads/2025/09/no-image-370x370.jpg 370w, https://beasts-basketball.se/wp-content/uploads/2025/09/no-image-90x90.jpg 90w, https://beasts-basketball.se/wp-content/uploads/2025/09/no-image-924x924.jpg 924w, https://beasts-basketball.se/wp-content/uploads/2025/09/no-image-410x410.jpg 410w, https://beasts-basketball.se/wp-content/uploads/2025/09/no-image-400x400.jpg 400w, https://beasts-basketball.se/wp-content/uploads/2025/09/no-image-500x500.jpg 500w, https://beasts-basketball.se/wp-content/uploads/2025/09/no-image-32x32.jpg 32w",
+        "sizes": "(max-width: 1000px) 100vw, 1000px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "footer",
+      "id": "",
+      "classes": [
+        "e-con-gap-no",
+        "elementor-element",
+        "elementor-element-6fae9c6",
+        "sc_layouts_hide_on_frontpage",
+        "sc_layouts_hide_on_singular",
+        "sc_layouts_hide_on_other",
+        "e-con-full",
+        "elementor-element-effect-blur-on",
+        "e-flex",
+        "sc_layouts_column_icons_position_left",
+        "sc_gradient_animation_none",
+        "e-con",
+        "e-parent"
+      ],
+      "text": "Home courtS:Elmehallen, HaganässkolenKällargatan 38a, 343 31 ÄlmhultParadisskolan IdrottshallKunskapsgatan 10, 343 38 ÄlmhultHomeJoin BeastsSeason RegistrationPrivacy PolicyContactYoutube© 2025 Älmhult Beasts Basketball Club. All Rights Reserved.Site bybeatzart",
+      "attributes": {
+        "data-id": "6fae9c6",
+        "data-element_type": "container",
+        "data-settings": "{\"background_background\":\"gradient\"}"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "57-75",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8721/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-menu-link",
+        "trx-addons-submenu-link"
+      ],
+      "text": "Beasts P15",
+      "attributes": {
+        "href": "https://beasts-basketball.se/team/almhult-beasts-bc-p15/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "sp-scoreboard-event"
+      ],
+      "text": "Nov 912:45Youth Boys - Boys U15 SM P152025/26Elmehallen, ÄlmhultBEASTS P1575WILDCATS54",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/beasts-p15-vs-wildcats/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h1",
+      "id": "",
+      "classes": [
+        "elementor-heading-title",
+        "elementor-size-default"
+      ],
+      "text": "Our online store",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-full",
+        "size-full",
+        "wp-image-5062"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "width": "2560",
+        "height": "1368",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/09/BEASTS-HOODIE-LOGO-3920x2094-1-scaled.png",
+        "alt": "BEASTS HOODIE LOGO 3920x2094",
+        "srcset": "https://beasts-basketball.se/wp-content/uploads/2025/09/BEASTS-HOODIE-LOGO-3920x2094-1-scaled.png 2560w, https://beasts-basketball.se/wp-content/uploads/2025/09/BEASTS-HOODIE-LOGO-3920x2094-1-300x160.png 300w, https://beasts-basketball.se/wp-content/uploads/2025/09/BEASTS-HOODIE-LOGO-3920x2094-1-1024x547.png 1024w, https://beasts-basketball.se/wp-content/uploads/2025/09/BEASTS-HOODIE-LOGO-3920x2094-1-768x410.png 768w, https://beasts-basketball.se/wp-content/uploads/2025/09/BEASTS-HOODIE-LOGO-3920x2094-1-1536x821.png 1536w, https://beasts-basketball.se/wp-content/uploads/2025/09/BEASTS-HOODIE-LOGO-3920x2094-1-2048x1094.png 2048w, https://beasts-basketball.se/wp-content/uploads/2025/09/BEASTS-HOODIE-LOGO-3920x2094-1-370x198.png 370w, https://beasts-basketball.se/wp-content/uploads/2025/09/BEASTS-HOODIE-LOGO-3920x2094-1-924x494.png 924w, https://beasts-basketball.se/wp-content/uploads/2025/09/BEASTS-HOODIE-LOGO-3920x2094-1-410x219.png 410w, https://beasts-basketball.se/wp-content/uploads/2025/09/BEASTS-HOODIE-LOGO-3920x2094-1-128x68.png 128w, https://beasts-basketball.se/wp-content/uploads/2025/09/BEASTS-HOODIE-LOGO-3920x2094-1-32x17.png 32w",
+        "sizes": "(max-width: 2560px) 100vw, 2560px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/close-button.svg",
+        "title": "",
+        "alt": "close button",
+        "loading": "lazy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-menu-link",
+        "trx-addons-menu-link-parent"
+      ],
+      "text": "Insights",
+      "attributes": {
+        "href": "https://beasts-basketball.se/news/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-medium",
+        "size-medium",
+        "wp-image-6780"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "300",
+        "height": "200",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/pexels-ron-lach-10643680-300x200.webp",
+        "alt": "pexels-ron-lach-10643680",
+        "srcset": "https://beasts-basketball.se/wp-content/uploads/2025/10/pexels-ron-lach-10643680-300x200.webp 300w, https://beasts-basketball.se/wp-content/uploads/2025/10/pexels-ron-lach-10643680-1024x683.webp 1024w, https://beasts-basketball.se/wp-content/uploads/2025/10/pexels-ron-lach-10643680-768x512.webp 768w, https://beasts-basketball.se/wp-content/uploads/2025/10/pexels-ron-lach-10643680-370x247.webp 370w, https://beasts-basketball.se/wp-content/uploads/2025/10/pexels-ron-lach-10643680-924x616.webp 924w, https://beasts-basketball.se/wp-content/uploads/2025/10/pexels-ron-lach-10643680-410x273.webp 410w, https://beasts-basketball.se/wp-content/uploads/2025/10/pexels-ron-lach-10643680-500x333.webp 500w, https://beasts-basketball.se/wp-content/uploads/2025/10/pexels-ron-lach-10643680-400x267.webp 400w, https://beasts-basketball.se/wp-content/uploads/2025/10/pexels-ron-lach-10643680-32x21.webp 32w, https://beasts-basketball.se/wp-content/uploads/2025/10/pexels-ron-lach-10643680.webp 1290w",
+        "sizes": "(max-width: 300px) 100vw, 300px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "elementor-post__read-more"
+      ],
+      "text": "Read More »",
+      "attributes": {
+        "href": "https://beasts-basketball.se/how-youth-basketball-builds-stronger-local-communities/",
+        "aria-label": "Read more about How Youth Basketball Builds Stronger Local Communities",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-menu-link",
+        "trx-addons-submenu-link"
+      ],
+      "text": "EasyBasket purple",
+      "attributes": {
+        "href": "https://beasts-basketball.se/team/easybasket-purple/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Älmhult Beasts BC P14 vs Nässjö Basket P12",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8597/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h1",
+      "id": "",
+      "classes": [
+        "elementor-heading-title",
+        "elementor-size-default"
+      ],
+      "text": "Our core team",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "elementor-post__title"
+      ],
+      "text": "Which Basketball to buy?",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "75-54",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/beasts-p15-vs-wildcats/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-menu-link",
+        "trx-addons-submenu-link"
+      ],
+      "text": "Beasts P16",
+      "attributes": {
+        "href": "https://beasts-basketball.se/team/almhult-beasts-bc-p16/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "67-56",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8565/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-sportspress-fit-icon",
+        "size-sportspress-fit-icon",
+        "wp-post-image"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "300",
+        "height": "300",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/BK50-badge-full-red.webp?ver=1761918874",
+        "alt": "BK50-badge-full-red"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "logo_image"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "//beasts-basketball.se/wp-content/uploads/2025/09/BEASTS-PUFFY-LOGO-no-bear.png",
+        "alt": "Beasts Basketball",
+        "width": "790",
+        "height": "262"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "BEASTS P15 vs NORRKÖPPING",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/beasts-p15-vs-norrkopping/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "53-85",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8724/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Privacy Policy",
+      "attributes": {
+        "href": "http://beasts-basketball.se/privacy-policy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "OBBK F07-09 vs Älmhult Beasts BC F18",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8682/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-11-22",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8682/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-10-18",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8515/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-menu-link",
+        "trx-addons-submenu-link"
+      ],
+      "text": "Beasts F14",
+      "attributes": {
+        "href": "https://beasts-basketball.se/team/almhult-beasts-bc-f14/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "103-49",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8515/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-sportspress-fit-icon",
+        "size-sportspress-fit-icon",
+        "wp-post-image"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "300",
+        "height": "300",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/Brahe_Logo_White_outline.webp?ver=1761918591",
+        "alt": "Brahe_Logo_White_outline"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Älmhult Beasts BC P14 vs KFUM Kalmar Basket",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8604/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-menu-link",
+        "trx-addons-submenu-link"
+      ],
+      "text": "Beasts P14",
+      "attributes": {
+        "href": "https://beasts-basketball.se/team/almhult-beasts-bc-p14/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-menu-link",
+        "trx-addons-menu-link-parent"
+      ],
+      "text": "Legal Docs",
+      "attributes": {
+        "href": "#"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-menu-link",
+        "trx-addons-menu-link-parent"
+      ],
+      "text": "Season Reg.",
+      "attributes": {
+        "href": "https://beasts-basketball.se/season-registration/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-11-08",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8470/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-menu-link",
+        "trx-addons-submenu-link"
+      ],
+      "text": "Beasts F18",
+      "attributes": {
+        "href": "https://beasts-basketball.se/team/almhult-beasts-bc-f18/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-10-19",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8724/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-sportspress-fit-icon",
+        "size-sportspress-fit-icon",
+        "wp-post-image"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "300",
+        "height": "228",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/kalmar_saints.webp",
+        "alt": "kalmar_saints_logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-menu-link",
+        "trx-addons-submenu-link"
+      ],
+      "text": "EasyBasket blue",
+      "attributes": {
+        "href": "https://beasts-basketball.se/team/easybasket-blue/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "https://beasts-basketball.se/player/liam-harrison/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "109-41",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8673/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h1",
+      "id": "",
+      "classes": [
+        "elementor-heading-title",
+        "elementor-size-default"
+      ],
+      "text": "Smaland Blekinge league",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "77-43",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8716/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "elementor-button",
+        "elementor-button-link",
+        "elementor-size-sm"
+      ],
+      "text": "Join the Match",
+      "attributes": {
+        "href": "https://beasts-basketball.se/league/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "#elementor-action%3Aaction%3Doff_canvas%3Aclose%26settings%3DeyJpZCI6IjRlYjNiYzkiLCJkaXNwbGF5TW9kZSI6ImNsb3NlIn0%3D"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "13:00",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8473/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "18:30",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8712/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "elementor-button",
+        "elementor-button-link",
+        "elementor-size-sm",
+        "elementor-animation-bounce-in"
+      ],
+      "text": "Ready to join US?",
+      "attributes": {
+        "href": "/contact"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-menu-link",
+        "trx-addons-submenu-link"
+      ],
+      "text": "Privacy Policy",
+      "attributes": {
+        "href": "https://beasts-basketball.se/privacy-policy/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "sp-scoreboard-next",
+        "sp-scoreboard-nav"
+      ],
+      "text": "",
+      "attributes": {
+        "data-sp-step": "360"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Kunskapsgatan 10, 343 38 Älmhult",
+      "attributes": {
+        "href": "https://www.google.com/maps/dir/56.5524461,14.1374047/Paradisskolan+Idrottshall,+Kunskapsgatan+10,+343+38+%C3%84lmhult/@56.5580762,14.1015983,4507m/data=!3m2!1e3!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x465135d924e4e9fd:0xefc87fdcb3dde465!2m2!1d14.1148098!2d56.5593723!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MTAxMi4wIKXMDSoASAFQAw%3D%3D"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "BEASTS P15 vs WILDCATS",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/beasts-p15-vs-wildcats/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-10-25",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8565/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Älmhult Beasts BC F14 vs Bankeryds Basket",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8524/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-menu-link",
+        "trx-addons-menu-link-parent"
+      ],
+      "text": "Events",
+      "attributes": {
+        "href": "#"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-11-19",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8712/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-11-23",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8476/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-sportspress-fit-mini",
+        "size-sportspress-fit-mini",
+        "wp-post-image"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "width": "32",
+        "height": "32",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/Beast-logo-brown-grey-white-new-med-32x32.webp?ver=1761920261",
+        "alt": "Älmhult Beasts logo brown grey white",
+        "decoding": "async",
+        "srcset": "https://beasts-basketball.se/wp-content/uploads/2025/10/Beast-logo-brown-grey-white-new-med-32x32.webp 32w, https://beasts-basketball.se/wp-content/uploads/2025/10/Beast-logo-brown-grey-white-new-med-150x150.webp 150w, https://beasts-basketball.se/wp-content/uploads/2025/10/Beast-logo-brown-grey-white-new-med-90x90.webp 90w, https://beasts-basketball.se/wp-content/uploads/2025/10/Beast-logo-brown-grey-white-new-med.webp 300w",
+        "sizes": "(max-width: 32px) 100vw, 32px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-menu-link",
+        "trx-addons-submenu-link"
+      ],
+      "text": "Club Statutes",
+      "attributes": {
+        "href": "https://beasts-basketball.se/docs/club-statutes/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "elementor-icon",
+        "elementor-social-icon",
+        "elementor-social-icon-",
+        "elementor-animation-grow",
+        "elementor-repeater-item-84a5cd3"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "https://www.profixio.com/app/league/registrations/25400",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-sportspress-fit-icon",
+        "size-sportspress-fit-icon",
+        "wp-post-image"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "300",
+        "height": "300",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/TROLLHATTAN-logo.webp?ver=1761917860",
+        "alt": "TROLLHÄTTAN logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "elementor-icon",
+        "elementor-social-icon",
+        "elementor-social-icon-",
+        "elementor-animation-grow",
+        "elementor-repeater-item-ffccd5e"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "https://www.facebook.com/elmhultbasketballclub/",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Season Registration",
+      "attributes": {
+        "href": "http://beasts-basketball.se/season-registration/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-sportspress-fit-icon",
+        "size-sportspress-fit-icon",
+        "wp-post-image"
+      ],
+      "text": "",
+      "attributes": {
+        "decoding": "async",
+        "width": "300",
+        "height": "300",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/vaxjo_ravens_logo.webp",
+        "alt": "växjö_ravens_logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-sportspress-fit-icon",
+        "size-sportspress-fit-icon",
+        "wp-post-image"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "300",
+        "height": "300",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/westcoast-wildcats-logo.webp?ver=1761917689",
+        "alt": "westcoast wildcats logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "eael-creative-button",
+        "eael-creative-button--rayen"
+      ],
+      "text": "Come & play with us",
+      "attributes": {
+        "href": "/join-beasts",
+        "data-text": "Let's Go!"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-sportspress-fit-icon",
+        "size-sportspress-fit-icon",
+        "wp-post-image"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "300",
+        "height": "300",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/obbk_logo.webp?ver=1762948099",
+        "alt": "obbk_logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "52-86",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8604/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "footer",
+      "id": "",
+      "classes": [
+        "elementor",
+        "elementor-7800",
+        "elementor-location-footer"
+      ],
+      "text": "Home courtS:Elmehallen, HaganässkolenKällargatan 38a, 343 31 ÄlmhultParadisskolan IdrottshallKunskapsgatan 10, 343 38 ÄlmhultHomeJoin BeastsSeason RegistrationPrivacy PolicyContactYoutube© 2025 Älmhult Beasts Basketball Club. All Rights Reserved.Site bybeatzart",
+      "attributes": {
+        "data-elementor-type": "footer",
+        "data-elementor-id": "7800",
+        "data-elementor-post-type": "elementor_library"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "https://beasts-basketball.se/player/geff-barker/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "sp-scoreboard-prev",
+        "sp-scoreboard-nav",
+        "sp-scoreboard-nav-disabled"
+      ],
+      "text": "",
+      "attributes": {
+        "data-sp-step": "360"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Nässjö Basket F10 vs Älmhult Beasts BC F18",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8673/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "https://beasts-basketball.se/player/robert-thompson/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-sportspress-fit-icon",
+        "size-sportspress-fit-icon",
+        "wp-post-image"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "300",
+        "height": "300",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/MALBAS-LOGO-WHITE-ORANGE.webp?ver=1761910586",
+        "alt": "MALBAS LOGO WHITE & ORANGE"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-11-08",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/beasts-p15-vs-malbas-svart/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-medium",
+        "size-medium",
+        "wp-image-5084"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "300",
+        "height": "300",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/09/molten_ball_closeup-300x300.jpg",
+        "alt": "close up of molten brand basketball",
+        "srcset": "https://beasts-basketball.se/wp-content/uploads/2025/09/molten_ball_closeup-300x300.jpg 300w, https://beasts-basketball.se/wp-content/uploads/2025/09/molten_ball_closeup-150x150.jpg 150w, https://beasts-basketball.se/wp-content/uploads/2025/09/molten_ball_closeup-370x370.jpg 370w, https://beasts-basketball.se/wp-content/uploads/2025/09/molten_ball_closeup-90x90.jpg 90w, https://beasts-basketball.se/wp-content/uploads/2025/09/molten_ball_closeup-410x410.jpg 410w, https://beasts-basketball.se/wp-content/uploads/2025/09/molten_ball_closeup-128x128.jpg 128w, https://beasts-basketball.se/wp-content/uploads/2025/09/molten_ball_closeup-32x32.jpg 32w, https://beasts-basketball.se/wp-content/uploads/2025/09/molten_ball_closeup.jpg 533w",
+        "sizes": "(max-width: 300px) 100vw, 300px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "#elementor-action%3Aaction%3Doff_canvas%3Aopen%26settings%3DeyJpZCI6IjRlYjNiYzkiLCJkaXNwbGF5TW9kZSI6Im9wZW4ifQ%3D%3D"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-10-18",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8716/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "13:00",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8610/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Källargatan 38a, 343 31 Älmhult",
+      "attributes": {
+        "tabindex": "0",
+        "href": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x465134babf2c6269:0xe4d52481a80ec556?sa=X&ved=1t:8290&ictx=111",
+        "data-url": "/maps/place//data=!4m2!3m1!1s0x465134babf2c6269:0xe4d52481a80ec556?sa=X&ved=2ahUKEwiEhM6shN6PAxVuIhAIHQn0G98Q4kB6BAgIEAA"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "sc_layouts_logo",
+        "sc_layouts_logo_default"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "#"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx_addons_scroll_to_top",
+        "trx_addons_icon-up"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "#",
+        "role": "button",
+        "title": "Scroll to top"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "0-96",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8524/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/menu-button.svg",
+        "title": "menu button",
+        "alt": "menu button",
+        "loading": "lazy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "45-84",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8470/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-menu-link",
+        "trx-addons-submenu-link"
+      ],
+      "text": "Season Calendar",
+      "attributes": {
+        "href": "https://beasts-basketball.se/season-calendar"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-10-24",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8467/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-10-18",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8721/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-menu-link",
+        "trx-addons-menu-link-parent"
+      ],
+      "text": "Our People",
+      "attributes": {
+        "href": "#"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-sportspress-fit-mini",
+        "size-sportspress-fit-mini",
+        "wp-post-image"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "width": "32",
+        "height": "32",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/westcoast-wildcats-logo-32x32.webp?ver=1761917689",
+        "alt": "westcoast wildcats logo",
+        "decoding": "async",
+        "srcset": "https://beasts-basketball.se/wp-content/uploads/2025/10/westcoast-wildcats-logo-32x32.webp 32w, https://beasts-basketball.se/wp-content/uploads/2025/10/westcoast-wildcats-logo-150x150.webp 150w, https://beasts-basketball.se/wp-content/uploads/2025/10/westcoast-wildcats-logo-90x90.webp 90w, https://beasts-basketball.se/wp-content/uploads/2025/10/westcoast-wildcats-logo.webp 300w",
+        "sizes": "(max-width: 32px) 100vw, 32px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Älmhult Beasts BC P17 vs Alvesta Tigers",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8476/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "elementor-post__title"
+      ],
+      "text": "How Youth Basketball Builds Stronger Local Communities",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "elementor-icon",
+        "elementor-social-icon",
+        "elementor-social-icon-",
+        "elementor-animation-grow",
+        "elementor-repeater-item-d2d20c1"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "https://www.instagram.com/elmhultbasketball/",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "search_submit"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "submit",
+        "aria-label": "Start search"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-10-18",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8524/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h1",
+      "id": "",
+      "classes": [
+        "elementor-heading-title",
+        "elementor-size-default"
+      ],
+      "text": "Explore our latest articles & news",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "BEASTS P15 vs MALBAS SVART",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/beasts-p15-vs-malbas-svart/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-11-08",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/beasts-p15-vs-norrkopping/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Lobas vs Älmhult Beasts BC P16",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8721/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "11-87",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8527/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx_addons_popup_form_field_forgot_password"
+      ],
+      "text": "Forgot password?",
+      "attributes": {
+        "href": "https://beasts-basketball.se/wp-login.php?action=lostpassword&redirect_to=https%3A%2F%2Fbeasts-basketball.se%2F"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Älmhult Beasts BC F14 vs Brahe Basket F14",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8527/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "header",
+      "id": "",
+      "classes": [
+        "elementor",
+        "elementor-7724",
+        "elementor-location-header"
+      ],
+      "text": "Become a sponsor - let us promote your brand - use our contact form to find out howLoginCome & play with usSearchCloseOur TeamsEasyBasket blueEasyBasket purpleBeasts F14Beasts F18Beasts P14Beasts P15Beasts P16Beasts P17Our PeopleStaff DirectoryEventsUpcoming GamesSeason CalendarJoin BeastsInsightsLegal DocsPrivacy PolicyClub StatutesSeason Reg.CloseOur TeamsEasyBasket blueEasyBasket purpleBeasts F14Beasts F18Beasts P14Beasts P15Beasts P16Beasts P17Our PeopleStaff DirectoryEventsUpcoming GamesSea",
+      "attributes": {
+        "data-elementor-type": "header",
+        "data-elementor-id": "7724",
+        "data-elementor-post-type": "elementor_library"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "elementor-post__thumbnail__link"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "https://beasts-basketball.se/which-basketball-to-buy/",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-advanced-title-item",
+        "trx-addons-advanced-title-item-text",
+        "elementor-repeater-item-44934a7",
+        "trx-addons-advanced-title-item-highlighted",
+        "trx-addons-advanced-title-color"
+      ],
+      "text": "beatzart",
+      "attributes": {
+        "href": "https://beatzart.com",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-menu-link",
+        "trx-addons-submenu-link"
+      ],
+      "text": "Upcoming Games",
+      "attributes": {
+        "href": "https://beasts-basketball.se/upcoming-games"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-menu-link",
+        "trx-addons-submenu-link"
+      ],
+      "text": "Beasts P17",
+      "attributes": {
+        "href": "https://beasts-basketball.se/team/almhult-beasts-bc-p17/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "elementor-post__read-more"
+      ],
+      "text": "Read More »",
+      "attributes": {
+        "href": "https://beasts-basketball.se/which-basketball-to-buy/",
+        "aria-label": "Read more about Which Basketball to buy?",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-menu-link",
+        "trx-addons-submenu-link"
+      ],
+      "text": "Staff Directory",
+      "attributes": {
+        "href": "https://beasts-basketball.se/directory/staff-directory/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-sportspress-fit-icon",
+        "size-sportspress-fit-icon",
+        "wp-post-image"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "300",
+        "height": "300",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/hogsbo_logo.webp?ver=1761918433",
+        "alt": "högsbo_logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "elementor-icon",
+        "elementor-social-icon",
+        "elementor-social-icon-",
+        "elementor-animation-grow",
+        "elementor-repeater-item-ea44520"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "https://baskettv.se/beasts-basketball/",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "trx-addons-marquee",
+        "trx_addons_marquee_element",
+        "trx_addons_marquee_element_with_offset",
+        "trx_addons_show_on_scroll"
+      ],
+      "text": "Become a sponsor - let us promote your brand - use our contact form to find out how",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Älmhult Beasts BC P17 vs Bankeryds Basket",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8473/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "elementor-icon",
+        "elementor-animation-float"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "#video_popup_2",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h1",
+      "id": "",
+      "classes": [
+        "trx-addons-advanced-title"
+      ],
+      "text": "With heart and passion, we livefor the love of football",
+      "attributes": {
+        "style": "--var-trx-addons-advanced-title-highlight-animation-duration: 2000ms;"
+      },
+      "computedStyles": {
+        "VarTrxAddonsAdvancedTitleHighlightAnimationDuration": "2000ms"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-sportspress-fit-icon",
+        "size-sportspress-fit-icon",
+        "wp-post-image"
+      ],
+      "text": "",
+      "attributes": {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "width": "300",
+        "height": "300",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/Beast-logo-brown-grey-white-new-med.webp?ver=1761920261",
+        "alt": "Älmhult Beasts logo brown grey white"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-10-25",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8527/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "https://beasts-basketball.se"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Join Beasts",
+      "attributes": {
+        "href": "https://beasts-basketball.se/start-playing-basketball/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "elementor-icon",
+        "elementor-animation-grow"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "#video_popup",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-10-18",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8511/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "View all games",
+      "attributes": {
+        "href": "https://beasts-basketball.se/calendar/upcoming-games/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Login",
+      "attributes": {
+        "href": "#trx_addons_login_content"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-sportspress-fit-icon",
+        "size-sportspress-fit-icon",
+        "wp-post-image"
+      ],
+      "text": "",
+      "attributes": {
+        "decoding": "async",
+        "width": "300",
+        "height": "300",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/Bankeryd_basket_logo.webp?ver=1761918920",
+        "alt": "Bankeryd_basket_logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-sportspress-fit-icon",
+        "size-sportspress-fit-icon",
+        "wp-post-image"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "300",
+        "height": "300",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/motala.webp?ver=1761920721",
+        "alt": "motala basket logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Älmhult Beasts BC F18 vs Växjö Ravens",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8712/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-menu-link",
+        "trx-addons-menu-link-parent"
+      ],
+      "text": "Our Teams",
+      "attributes": {
+        "href": "#"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "13:30",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8682/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Älmhult Beasts BC P16 vs Trollhättans Basketbollklubb",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8716/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "elementor-post__thumbnail__link"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "https://beasts-basketball.se/how-youth-basketball-builds-stronger-local-communities/",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "https://beasts-basketball.se/player/hugo-stones/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "View full table",
+      "attributes": {
+        "href": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-11-09",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/beasts-p15-vs-wildcats/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "elementor-heading-title",
+        "elementor-size-default"
+      ],
+      "text": "Basketball can be a game for life",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "96-86",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/beasts-p15-vs-malbas-svart/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Växjö Ravens vs Älmhult Beasts BC P17",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8467/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx-addons-menu-link",
+        "trx-addons-menu-link-parent"
+      ],
+      "text": "Join Beasts",
+      "attributes": {
+        "href": "https://beasts-basketball.se/join-beasts/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-11-08",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8604/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Motala Basket vs Älmhult Beasts BC P16",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8724/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "trx_addons_popup_link",
+        "trx_addons_login_link"
+      ],
+      "text": "Login",
+      "attributes": {
+        "href": "#trx_addons_login_popup"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-11-08",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8673/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Bankeryds Basket P13 vs Älmhult Beasts BC P14",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8610/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Högsbo Basket vs Älmhult Beasts BC P15",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8515/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "BK50 vs Älmhult Beasts BC P15",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8511/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-11-22",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8473/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-full",
+        "size-full",
+        "wp-image-8222"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "width": "385",
+        "height": "325",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/09/Beast-logo-brown-grey-white-new-med-380x335-shadow.webp?ver=1760700417",
+        "alt": "Beast logo brown grey white new med 380x335 shadow",
+        "srcset": "https://beasts-basketball.se/wp-content/uploads/2025/09/Beast-logo-brown-grey-white-new-med-380x335-shadow.webp 385w, https://beasts-basketball.se/wp-content/uploads/2025/09/Beast-logo-brown-grey-white-new-med-380x335-shadow-300x253.webp 300w, https://beasts-basketball.se/wp-content/uploads/2025/09/Beast-logo-brown-grey-white-new-med-380x335-shadow-370x312.webp 370w, https://beasts-basketball.se/wp-content/uploads/2025/09/Beast-logo-brown-grey-white-new-med-380x335-shadow-32x27.webp 32w",
+        "sizes": "(max-width: 767px) 100vw, 385px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "How Youth Basketball Builds Stronger Local Communities",
+      "attributes": {
+        "href": "https://beasts-basketball.se/how-youth-basketball-builds-stronger-local-communities/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "86-65",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/beasts-p15-vs-norrkopping/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Which Basketball to buy?",
+      "attributes": {
+        "href": "https://beasts-basketball.se/which-basketball-to-buy/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-sportspress-fit-icon",
+        "size-sportspress-fit-icon",
+        "wp-post-image"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "300",
+        "height": "300",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/Norrkoping-Dolphins-logo.webp?ver=1761917632",
+        "alt": "Norrköping Dolphins logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "51-92",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8467/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "2025-10-18",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8597/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "trx-addons-advanced-title"
+      ],
+      "text": "Glöd + Gläd +Gemenskap",
+      "attributes": {
+        "data-delay": "1200",
+        "style": "--var-trx-addons-advanced-title-highlight-animation-duration: 9000ms;"
+      },
+      "computedStyles": {
+        "VarTrxAddonsAdvancedTitleHighlightAnimationDuration": "9000ms"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "attachment-sportspress-fit-icon",
+        "size-sportspress-fit-icon",
+        "wp-post-image"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "300",
+        "height": "300",
+        "src": "https://beasts-basketball.se/wp-content/uploads/2025/10/Lobas-logo.webp?ver=1761917741",
+        "alt": "Lobas logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "contact-button",
+      "classes": [
+        "elementor-button",
+        "elementor-button-link",
+        "elementor-size-sm",
+        "elementor-animation-pop"
+      ],
+      "text": "Contact US",
+      "attributes": {
+        "href": "/contact",
+        "id": "contact-button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Contact",
+      "attributes": {
+        "href": "/contact"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "58-129",
+      "attributes": {
+        "href": "https://beasts-basketball.se/event/8597/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Register",
+      "attributes": {
+        "href": "#trx_addons_register_content"
+      },
+      "computedStyles": {}
+    }
+  ]
+}

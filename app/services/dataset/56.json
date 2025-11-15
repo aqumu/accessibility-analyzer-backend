@@ -1,0 +1,3223 @@
+{
+  "meta": {
+    "url": "https://www.booking.com",
+    "title": "Booking.com | Официальный сайт | Отели, авиабилеты, автомобили в аренду и другие варианты жилья",
+    "lang": "ru",
+    "charset": ""
+  },
+  "elements": [
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Отели",
+      "attributes": {
+        "href": "https://www.booking.com/hotel/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "style": "display:none",
+        "src": "/logo?ver=0&sid=cfc05f11db5e9978a905971f87be0e9b&t=1763199171"
+      },
+      "computedStyles": {
+        "display": "none"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Требования к контенту и подача жалоб",
+      "attributes": {
+        "href": "https://www.booking.com/content-moderation-policy/overview-page.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Программа лояльности Genius",
+      "attributes": {
+        "href": "https://www.booking.com/genius.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Регионы",
+      "attributes": {
+        "href": "https://www.booking.com/region.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "rlp-intro-how__title",
+        "rlp-intro-how__a11y-exp-title"
+      ],
+      "text": "И наконец — отзыв",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "rlp-intro-how__title",
+        "rlp-intro-how__a11y-exp-title"
+      ],
+      "text": "Все начинается с бронирования",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "e7addce19e",
+        "e19e5a7d46"
+      ],
+      "text": "Более 2 миллионов вариантов жилья по всему миру",
+      "attributes": {
+        "style": "--bui_mixin_spaced_margin--s:0"
+      },
+      "computedStyles": {
+        "Bui_mixin_spaced_marginS": "0"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "iam_login_btn--email",
+        "bui-button",
+        "bui-button--large",
+        "bui-button--wide",
+        "bui-spacer"
+      ],
+      "text": "Войти",
+      "attributes": {
+        "href": "https://account.booking.com/auth/oauth2?aid=304142&lang=ru&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&bkng_action=index&dt=1763199171&state=UpgDn8FN0UwJEquILJhpOijVh0x7pbeXh4FBn3D1ecPkZYRTff_MrbOTWgXobCIgkvslBOc4n4OBSCNc9w4iAgb3aVr3GhdTvzL4GazxZizZpC1MuhICIFGRR4ncX27a8ldfDikI51Y-GVPlxhbK8F1jR9DJ20I3ghNKrTFN68D0tQ3uv6MajtY2T5qNcnV4YCJeuj7gU0P68FBS-fvVzh2SJpV72ZzPBYwplW8fOXsl5jWufYSqNa0PD7BWgPjAuTu1RFQwY0H03CuzYmwHUPiLGijQKRfV_v5PZgFRkgjqz20rga3UspLhbw9gj1My7fegqCYzXnhx_BJWWidEPH2pNXG6jnU9gaBP8Xsqy3sqnxmmbANbPvUbC_1sPTSwcm3Yoli5Gd5kqfbJDnjOIKcRr9ji1Ru2Ue6wqwYJCDsuXgYSRLzjNxax9hautnNzu9RwD9y7wxPWb9wN2QMaF9XpbMpfUXBkRP9W2KoEByU04VdA-utos0eBDVcFAXBGHYFqAALDEqMpRNIVaJgq7HSHsIfT_SEvOE1V&response_type=sso&client_id=vO1Kblk7xX9tUn2cpZLS",
+        "role": "button",
+        "data-bui-component": "Button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Москва",
+      "attributes": {
+        "title": "Отели в Москве, Россия",
+        "href": "https://www.booking.com/city/ru/moscow.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "accommodations",
+      "classes": [
+        "de576f5064",
+        "f63e3c83f3",
+        "e7f2b1a356"
+      ],
+      "text": "Жилье",
+      "attributes": {
+        "id": "accommodations",
+        "role": "menuitem",
+        "aria-current": "page",
+        "tabindex": "0",
+        "href": "https://www.booking.com/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142&selected_currency=RUB"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Милан",
+      "attributes": {
+        "title": "Отели в Милане, Италия",
+        "href": "https://www.booking.com/city/it/milan.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "",
+      "attributes": {
+        "data-testid": "header-booking-logo",
+        "aria-label": "Booking.com",
+        "href": "https://www.booking.com/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Бангкок",
+      "attributes": {
+        "title": "Отели в Бангкоке, Таиланд",
+        "href": "https://www.booking.com/city/th/bangkok.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Пляжные отели",
+      "attributes": {
+        "title": "Пляжные отели",
+        "href": "https://www.booking.com/beach/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Жилье на месяц",
+      "attributes": {
+        "href": "https://www.booking.com/extended-stays/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Санкт-Петербург",
+      "attributes": {
+        "title": "Отели в Санкт-Петербурге, Россия",
+        "href": "https://www.booking.com/city/ru/saint-petersburg.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Корпоративные контакты",
+      "attributes": {
+        "href": "https://www.booking.com/content/contact-us.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "revc_write_a_review_login_button"
+      ],
+      "text": "Войти и оставить отзыв",
+      "attributes": {
+        "href": "https://secure.booking.com/reviewtimeline.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&from_index_lightbox=1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Варианты размещения с онсэнами",
+      "attributes": {
+        "title": "Варианты размещения с онсэнами",
+        "href": "https://www.booking.com/onsen/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "iam_login_form__social-button",
+        "iam_login_form__social-button-facebook",
+        "bui-button",
+        "bui-button--secondary"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "https://account.booking.com/auth/oauth2?aid=304142&lang=ru&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&bkng_action=index&dt=1763199171&state=UpgDn8FN0UwJEquILJhpOijVh0x7pbeXh4FBn3D1ecPkZYRTff_MrbOTWgXobCIgkvslBOc4n4OBSCNc9w4iAgb3aVr3GhdTvzL4GazxZizZpC1MuhICIFGRR4ncX27a8ldfDikI51Y-GVPlxhbK8F1jR9DJ20I3ghNKrTFN68D0tQ3uv6MajtY2T5qNcnV4YCJeuj7gU0P68FBS-fvVzh2SJpV72ZzPBYwplW8fOXsl5jWufYSqNa0PD7BWgPjAuTu1RFQwY0H03CuzYmwHUPiLGijQKRfV_v5PZgFRkgjqz20rga3UspLhbw9gj1My7fegqCYzXnhx_BJWWidEPH2pNXG6jnU9gaBP8Xsqy3sqnxmmbANbPvUbC_1sPTSwcm3Yoli5Gd5kqfbJDnjOIKcRr9ji1Ru2Ue6wqwYJCDsuXgYSRLzjNxax9hautnNzu9RwD9y7wxPWb9wN2QMaF9XpbMpfUXBkRP9W2KoEByU04VdA-utos0eBDVcFAXBGHYFqAALDEqMpRNIVaJgq7HSHsIfT_SEvOE1V&response_type=sso&client_id=vO1Kblk7xX9tUn2cpZLS&prompt=facebook",
+        "data-popup-href": "https://account.booking.com/auth/oauth2?dt=1763199171&popup=1&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&bkng_action=index&aid=304142&lang=ru&client_id=vO1Kblk7xX9tUn2cpZLS&state=Up4Dn8FN0UwJEqvDnRhqWTNGDKioeG0XPENxEQ8qlFMmB0AaxDJQXeQps-iH7hXvI-j3Xoo7y-Kx9fCRf8uEDT1DcyovFMWCZjwlSegDfwEUx8FeZZ2E-HLx1K4zTrgXPEcYJSZJzr0ft-0Y_Az_T8QyJfEpGv0eSZn3VwWzdQfISvMGKu-YXF9E8e7-JJq6TrOEz0jrculTtlU_6nCOXupQzp5lQIYVelw3_4lKWiCy4ziPRl7FZrcHztgrCkRtgd9aEGSD3RZxRzTnGwZK9N8C47V4Ffqev9wviZnT4Jdguzvo7hEquAx6qED8BSPaYKQsbtCU-tfL4KeS2FGuA6JnQD3B2XTPtbagcdL6i9CMq3ZC3WfR4NUiW5KJIjSZ2hErXOMg8dc9TFQsM1EMcUjXMnn5e3j-Dwz2BxpcLQ1pkhzW9Bl3QdNp8nemY6lYrPrOFlXN0bO2oqrJDvHyH5Y8fINGf6X7r7lDpAk9lYAnsCWXGzuvfMvIlRUnyolucvD8SAXapTMslSpwWor1dCPXl6NcyXiwEhb5hu1ivro5&response_type=sso&prompt=facebook",
+        "title": "Войти через Facebook",
+        "aria-label": "Войти через Facebook",
+        "data-component": "iam/social-button",
+        "data-mask": "true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "footer",
+      "id": "",
+      "classes": [
+        "bui-modal__footer"
+      ],
+      "text": "",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "f63e3c83f3"
+      ],
+      "text": "",
+      "attributes": {
+        "aria-expanded": "false",
+        "type": "button",
+        "aria-hidden": "true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Таганрог",
+      "attributes": {
+        "title": "Отели в Таганроге, Россия",
+        "href": "https://www.booking.com/city/ru/taganrog.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Новосибирск",
+      "attributes": {
+        "title": "Отели в Новосибирске, Россия",
+        "href": "https://www.booking.com/city/ru/novosibirsk.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Нур-Султан",
+      "attributes": {
+        "title": "Отели в городе Нур-Султан, Казахстан",
+        "href": "https://www.booking.com/city/kz/astana.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "ca55e80f14"
+      ],
+      "text": "Стамбул",
+      "attributes": {
+        "href": "https://www.booking.com/searchresults.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142&dest_id=-755070&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Аэропорты",
+      "attributes": {
+        "href": "https://www.booking.com/airport.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "e7addce19e",
+        "e19e5a7d46"
+      ],
+      "text": "Бронируйте сейчас, платите на месте",
+      "attributes": {
+        "style": "--bui_mixin_spaced_margin--s:0"
+      },
+      "computedStyles": {
+        "Bui_mixin_spaced_marginS": "0"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "e7addce19e",
+        "e19e5a7d46"
+      ],
+      "text": "300+ млн отзывов",
+      "attributes": {
+        "style": "--bui_mixin_spaced_margin--s:0"
+      },
+      "computedStyles": {
+        "Bui_mixin_spaced_marginS": "0"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "f6c12c77eb",
+        "db4ad1b412",
+        "c09abd8a52",
+        "ca3dad4476"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://t-cf.bstatic.com/design-assets/assets/v3.170.0/illustrations-traveller/TripsGlobe.png",
+        "srcset": "https://t-cf.bstatic.com/design-assets/assets/v3.170.0/illustrations-traveller/TripsGlobe@2x.png 2x",
+        "role": "presentation",
+        "loading": "lazy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "header",
+      "id": "",
+      "classes": [
+        "bui-modal__header"
+      ],
+      "text": "",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Зарегистрировать свой объект",
+      "attributes": {
+        "href": "https://join.booking.com/?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142&lang=ru&utm_medium=frontend&utm_source=footer_menu"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "bui-modal__title"
+      ],
+      "text": "Проверенные отзывы от реальных гостей.",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Ереван",
+      "attributes": {
+        "title": "Отели в Ереване, Армения",
+        "href": "https://www.booking.com/city/am/yerevan.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "dc15842869",
+        "e84058595b",
+        "f1f96fdf10",
+        "d10abb4e59"
+      ],
+      "text": "Дата заезда—Дата отъезда",
+      "attributes": {
+        "data-testid": "searchbox-dates-container",
+        "type": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Апарт-отели",
+      "attributes": {
+        "title": "Апарт-отели",
+        "href": "https://www.booking.com/aparthotels/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Все пункты проката",
+      "attributes": {
+        "href": "https://www.booking.com/cars/sitemap.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Авиабилеты: все направления",
+      "attributes": {
+        "href": "https://www.booking.com/flights/sitemap.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Советы",
+      "attributes": {
+        "href": "https://www.booking.com/guides/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Ко-Куд",
+      "attributes": {
+        "title": "Отели в регионе Ко-Куд",
+        "href": "https://www.booking.com/region/th/ko-kut.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Коттеджи",
+      "attributes": {
+        "title": "Коттеджи",
+        "href": "https://www.booking.com/cottages/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Испания",
+      "attributes": {
+        "title": "Отели в Испании",
+        "href": "https://www.booking.com/country/es.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Себу",
+      "attributes": {
+        "title": "Отели в регионе Себу",
+        "href": "https://www.booking.com/region/ph/cebu-island.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "iam_login_link"
+      ],
+      "text": "Создание аккаунта",
+      "attributes": {
+        "href": "https://account.booking.com/auth/oauth2?aid=304142&lang=ru&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&bkng_action=index&dt=1763199171&state=UpgDn8FN0UwJEquILJhpOijVh0x7pbeXh4FBn3D1ecPkZYRTff_MrbOTWgXobCIgkvslBOc4n4OBSCNc9w4iAgb3aVr3GhdTvzL4GazxZizZpC1MuhICIFGRR4ncX27a8ldfDikI51Y-GVPlxhbK8F1jR9DJ20I3ghNKrTFN68D0tQ3uv6MajtY2T5qNcnV4YCJeuj7gU0P68FBS-fvVzh2SJpV72ZzPBYwplW8fOXsl5jWufYSqNa0PD7BWgPjAuTu1RFQwY0H03CuzYmwHUPiLGijQKRfV_v5PZgFRkgjqz20rga3UspLhbw9gj1My7fegqCYzXnhx_BJWWidEPH2pNXG6jnU9gaBP8Xsqy3sqnxmmbANbPvUbC_1sPTSwcm3Yoli5Gd5kqfbJDnjOIKcRr9ji1Ru2Ue6wqwYJCDsuXgYSRLzjNxax9hautnNzu9RwD9y7wxPWb9wN2QMaF9XpbMpfUXBkRP9W2KoEByU04VdA-utos0eBDVcFAXBGHYFqAALDEqMpRNIVaJgq7HSHsIfT_SEvOE1V&response_type=sso&client_id=vO1Kblk7xX9tUn2cpZLS&prompt=register"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Как мы работаем",
+      "attributes": {
+        "href": "https://www.booking.com/content/how_we_work.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Эмират Дубай",
+      "attributes": {
+        "title": "Отели в регионе Эмират Дубай",
+        "href": "https://www.booking.com/region/ae/dubai.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "mainIndexInterlinkingTab-2-tab-trigger",
+      "classes": [
+        "de576f5064",
+        "f63e3c83f3",
+        "e7f2b1a356"
+      ],
+      "text": "Города в других странах",
+      "attributes": {
+        "id": "mainIndexInterlinkingTab-2-tab-trigger",
+        "data-testid": "in-product-interlinking-tab-mainIndexInterlinkingTab-2",
+        "role": "menuitem",
+        "tabindex": "-1",
+        "type": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Курортные отели",
+      "attributes": {
+        "title": "Курортные отели",
+        "href": "https://www.booking.com/resorts/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Условия предоставления услуг",
+      "attributes": {
+        "href": "https://www.booking.com/content/terms.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "nextmonth"
+      ],
+      "text": "»",
+      "attributes": {
+        "href": "#"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "b46cd7aad7",
+        "e26a59bb37",
+        "dda427e6b5",
+        "acb3638563"
+      ],
+      "text": "",
+      "attributes": {
+        "aria-haspopup": "dialog",
+        "data-testid": "header-language-picker-trigger",
+        "aria-label": "Язык: Русский",
+        "type": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "header",
+      "id": "",
+      "classes": [],
+      "text": "Найдите жилье для новой поездки",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "ca55e80f14"
+      ],
+      "text": "Тбилиси",
+      "attributes": {
+        "href": "https://www.booking.com/searchresults.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142&dest_id=900047975&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "ОАЭ",
+      "attributes": {
+        "title": "Отели в ОАЭ",
+        "href": "https://www.booking.com/country/ae.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Гостевые дома",
+      "attributes": {
+        "title": "Гостевые дома",
+        "href": "https://www.booking.com/guest-house/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Анталья",
+      "attributes": {
+        "title": "Отели в Анталье, Турция",
+        "href": "https://www.booking.com/city/tr/antalya.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Спа-отели",
+      "attributes": {
+        "title": "Спа-отели",
+        "href": "https://www.booking.com/spa/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "f6c12c77eb",
+        "c0e44985a8"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cf.bstatic.com/xdata/images/city/600x600/685453.jpg?k=7a470ff43b0210aa5f418ece0e04324c742a1a0ea4e6744ce093ed94bdc5581b&o=",
+        "alt": "",
+        "role": "presentation",
+        "loading": "lazy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "rlp-intro__title",
+        "rlp-intro__a11y-exp-title"
+      ],
+      "text": "Как это работает?",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "О Booking.com",
+      "attributes": {
+        "href": "https://www.booking.com/content/about.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Китай",
+      "attributes": {
+        "title": "Отели в Китае",
+        "href": "https://www.booking.com/country/cn.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Статьи о путешествиях",
+      "attributes": {
+        "href": "https://www.booking.com/articles.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Управлять поездками",
+      "attributes": {
+        "href": "https://secure.booking.com/content/cs.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "f6c12c77eb",
+        "db4ad1b412",
+        "c09abd8a52",
+        "ca3dad4476"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://t-cf.bstatic.com/design-assets/assets/v3.170.0/illustrations-traveller/Reviews.png",
+        "srcset": "https://t-cf.bstatic.com/design-assets/assets/v3.170.0/illustrations-traveller/Reviews@2x.png 2x",
+        "role": "presentation",
+        "loading": "lazy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "rlp-intro-how__title",
+        "rlp-intro-how__a11y-exp-title"
+      ],
+      "text": "Затем следует путешествие",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Самуи",
+      "attributes": {
+        "title": "Отели в регионе Самуи",
+        "href": "https://www.booking.com/region/th/koh-samui.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Иссык-Куль",
+      "attributes": {
+        "title": "Отели в регионе Иссык-Куль",
+        "href": "https://www.booking.com/region/kg/issyk-kul.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Дома для отпуска",
+      "attributes": {
+        "href": "https://www.booking.com/booking-home/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Семейные отели",
+      "attributes": {
+        "title": "Семейные отели",
+        "href": "https://www.booking.com/family/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Грузия",
+      "attributes": {
+        "title": "Отели в Грузии",
+        "href": "https://www.booking.com/country/ge.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Тбилиси",
+      "attributes": {
+        "title": "Отели в Тбилиси, Грузия",
+        "href": "https://www.booking.com/city/ge/tbilisi.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Traveller Review Awards",
+      "attributes": {
+        "href": "https://www.booking.com/traveller-awards/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Пресс-центр",
+      "attributes": {
+        "href": "https://news.booking.com/ru-ru?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "f6c12c77eb",
+        "c0e44985a8"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cf.bstatic.com/xdata/images/city/600x600/691464.jpg?k=9d065dc574012a9e15ef4f2fe25dc035d69f7061ad2c77d54eddb3dbbde8d6d3&o=",
+        "alt": "",
+        "role": "presentation",
+        "loading": "lazy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Страны",
+      "attributes": {
+        "href": "https://www.booking.com/country.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Индия",
+      "attributes": {
+        "title": "Отели в Индии",
+        "href": "https://www.booking.com/country/in.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [
+        "Header_bar"
+      ],
+      "text": "RUBЗарегистрировать свой объектЗарегистрироватьсяВойти в аккаунт",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Сербия",
+      "attributes": {
+        "title": "Отели в Сербии",
+        "href": "https://www.booking.com/country/rs.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Киргизия",
+      "attributes": {
+        "title": "Отели в Киргизии",
+        "href": "https://www.booking.com/country/kg.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Хайнань",
+      "attributes": {
+        "title": "Отели в регионе Хайнань",
+        "href": "https://www.booking.com/region/cn/hainan.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "a4ac75716e",
+        "f546354b44",
+        "cc045b173b"
+      ],
+      "text": "Путешествуйте больше, тратьте меньше",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Казахстан",
+      "attributes": {
+        "title": "Отели в Казахстане",
+        "href": "https://www.booking.com/country/kz.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Устойчивое развитие",
+      "attributes": {
+        "href": "https://www.sustainability.booking.com/?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Сезонные и праздничные спецпредложения",
+      "attributes": {
+        "href": "https://www.booking.com/deals/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "b46cd7aad7",
+        "ced67027e5",
+        "c7a901b0e7",
+        "ca8e0b9533",
+        "b61986dc5f"
+      ],
+      "text": "Найти жилье",
+      "attributes": {
+        "aria-label": "Искать предложения «Успеть до конца года»",
+        "data-testid": "promotional-banner-content-cta",
+        "href": "https://www.booking.com/dealspage.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142&campaign_id=late_escape"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Пхукет",
+      "attributes": {
+        "title": "Отели в регионе Пхукет",
+        "href": "https://www.booking.com/region/th/phuket.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "f6c12c77eb",
+        "c0e44985a8"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cf.bstatic.com/xdata/images/city/600x600/977220.jpg?k=ee4b7b42c35b8cbf09c8ddb7630092b40cd706fec153c41904ed6e252a883938&o=",
+        "alt": "",
+        "role": "presentation",
+        "loading": "lazy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "f6c12c77eb",
+        "c0e44985a8"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cf.bstatic.com/xdata/images/city/600x600/999839.jpg?k=0c48abf88150a98bc1ec9280347e9ea97f41265ebfc439c53a5b8fec61ab4fa5&o=",
+        "alt": "",
+        "role": "presentation",
+        "loading": "lazy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [],
+      "text": "СтраныРегионыГородаРайоныАэропортыОтелиОриентирыДома для отпускаАпартаменты/квартирыКурортные отелиВиллыХостелыОтели типа «постель и завтрак»Гостевые домаУникальное жильеВсе направленияАвиабилеты: все направленияВсе пункты прокатаВсе направления для отпускаСоветыИдеи для поездкиОтзывыЖилье на месяц",
+      "attributes": {
+        "aria-label": "Полезные ссылки"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Бухара",
+      "attributes": {
+        "title": "Отели в Бухаре, Узбекистан",
+        "href": "https://www.booking.com/city/uz/buxoro.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Лангкави",
+      "attributes": {
+        "title": "Отели в регионе Лангкави",
+        "href": "https://www.booking.com/region/my/langkawi.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "f6c12c77eb",
+        "db4ad1b412",
+        "c09abd8a52",
+        "ca3dad4476"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://t-cf.bstatic.com/design-assets/assets/v3.170.0/illustrations-traveller/FreeCancellation.png",
+        "srcset": "https://t-cf.bstatic.com/design-assets/assets/v3.170.0/illustrations-traveller/FreeCancellation@2x.png 2x",
+        "role": "presentation",
+        "loading": "lazy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Хостелы",
+      "attributes": {
+        "href": "https://www.booking.com/hostels/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Азербайджан",
+      "attributes": {
+        "title": "Отели в Азербайджане",
+        "href": "https://www.booking.com/country/az.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "b46cd7aad7",
+        "d0a01e3d83",
+        "c7a901b0e7",
+        "bbf83acb81",
+        "js-header-login-link"
+      ],
+      "text": "Зарегистрироваться",
+      "attributes": {
+        "data-testid": "header-sign-up-button",
+        "aria-label": "Регистрация аккаунта",
+        "href": "https://account.booking.com/auth/oauth2?client_id=vO1Kblk7xX9tUn2cpZLS&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&response_type=code&lang=ru&aid=304142&bkng_action=index&prompt=signin&state=Up0Dn8FN0UwJEqsxTHgTcEGWkhAfNy1Ue-uvYFsyvD6DIvdKONisI8-HaaM10YOaf1_193UAzczaRb_1YIyqj2-YKPF9ArRlTQVmEwCWR1iP5AotoSo0iXRm0rqfLC_HFqJgj3cRzlc77jwlPdT5SbRC4bW3mqAwwB6kGl0_fUNjEO9kD0P4mQlpNJnz2kGyqE7eQfnxYxvx0fa01w8nP906RMtgVlk0w1_S6Fzof4GH6BUTYT302tHISWhdxs9-0gBnI1uF2un5QmzSmDDcVN5D3TNxJFogw5cBVFL8XwuABeluD5ZpI-9tndYYtTgk0gKBe8Z2gbr5rKu0yoI1xxJMZWjip70KPeIlrA7TEWdsTHPmRuuIDagsoFbpXoMfhSv0O05fxYk-Oi2Dk8cGLgjkQGNxmAuxB9-2T5t0qAS-NJSm2UZeiP5mHWJrxsJ0k9ck_bxMpRXSnN1Ap3NX3joABSm1cJt2P28kwIzV3VHuXUF7Qjco5poZto2-MvUkenFQJAQND5HDw8uU3KaRVRgLc6NRhJ4stjMUf0E8Kck%3D*eyJpZCI6InRyYXZlbGxlcl9oZWFkZXIifQ%3D%3D"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Апартаменты/квартиры",
+      "attributes": {
+        "href": "https://www.booking.com/apartments/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели Marriott",
+      "attributes": {
+        "title": "Отели Marriott",
+        "href": "https://www.booking.com/marriott/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Армения",
+      "attributes": {
+        "title": "Отели в Армении",
+        "href": "https://www.booking.com/country/am.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Идеи для поездки",
+      "attributes": {
+        "href": "https://www.booking.com/discover.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "ca55e80f14"
+      ],
+      "text": "Дубай",
+      "attributes": {
+        "href": "https://www.booking.com/searchresults.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142&dest_id=-782831&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели с бассейном",
+      "attributes": {
+        "title": "Отели с бассейном",
+        "href": "https://www.booking.com/pool/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "b08850ce41",
+        "f546354b44",
+        "cc045b173b"
+      ],
+      "text": "Партнерам",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "bui-list-item"
+      ],
+      "text": "Перейти к основному содержанию",
+      "attributes": {
+        "href": "#indexsearch",
+        "tabindex": "0"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Фукуок",
+      "attributes": {
+        "title": "Отели в городе Фукуок, Вьетнам",
+        "href": "https://www.booking.com/city/vn/phu-quoc.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "cars",
+      "classes": [
+        "de576f5064",
+        "f63e3c83f3",
+        "e7f2b1a356"
+      ],
+      "text": "Аренда автомобилей",
+      "attributes": {
+        "id": "cars",
+        "role": "menuitem",
+        "tabindex": "0",
+        "href": "https://www.booking.com/cars/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142&adplat=cross_product_bar&selected_currency=RUB"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Батуми",
+      "attributes": {
+        "title": "Отели в Батуми, Грузия",
+        "href": "https://www.booking.com/city/ge/batumi-ge.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Политика в области прав человека",
+      "attributes": {
+        "href": "https://www.bookingholdings.com/about/compliance-and-ethics/human-rights/?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Разрешение споров",
+      "attributes": {
+        "href": "https://secure.booking.com/content/complaints.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Прокат автомобилей",
+      "attributes": {
+        "href": "https://www.booking.com/cars/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Франция",
+      "attributes": {
+        "title": "Отели во Франции",
+        "href": "https://www.booking.com/country/fr.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Города",
+      "attributes": {
+        "href": "https://www.booking.com/city.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "attractions",
+      "classes": [
+        "de576f5064",
+        "f63e3c83f3",
+        "e7f2b1a356"
+      ],
+      "text": "Варианты досуга",
+      "attributes": {
+        "id": "attractions",
+        "role": "menuitem",
+        "tabindex": "0",
+        "href": "https://www.booking.com/attractions/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142&selected_currency=RUB&source=cross_product_header_link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h1",
+      "id": "",
+      "classes": [],
+      "text": "Найдите жилье для новой поездки",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "f6c12c77eb",
+        "c0e44985a8"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://r-xx.bstatic.com/xdata/images/xphoto/raw/595429723.png?k=31694af178c537eb65557820482baca2dd962010a1ad4f7bc40b017583f13338&o=",
+        "role": "presentation",
+        "loading": "lazy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели, где разрешено размещение с домашними животными",
+      "attributes": {
+        "title": "Отели, где разрешено размещение с домашними животными",
+        "href": "https://www.booking.com/pets/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [
+        "d24b1ed1cf",
+        "d731d67377"
+      ],
+      "text": "Города внутри страныГорода в других странахРегионыСтраныЖильеОтели в городе МоскваОтели в городе Санкт-ПетербургОтели в городе Эсто-СадокОтели в городе ТаганрогОтели в городе Красная ПолянаОтели в городе МарковоОтели в городе НовосибирскОтели в городе Пушкинские горыОтели в городе ЕреванАрменияОтели в городе СтамбулТурцияОтели в городе ТбилисиГрузияОтели в городе ДубайОАЭОтели в городе ТашкентУзбекистанОтели в городе БакуАзербайджанОтели в городе АлматыКазахстанОтели в городе Нур-СултанКазахстан",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Войти в Экстранет",
+      "attributes": {
+        "href": "https://admin.booking.com/?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142&utm_campaign=login_footer_v0&utm_medium=frontend&utm_source=extranet_login_footer"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "b46cd7aad7",
+        "e26a59bb37",
+        "dda427e6b5",
+        "acb3638563"
+      ],
+      "text": "RUB",
+      "attributes": {
+        "aria-haspopup": "dialog",
+        "data-testid": "footer-currency-picker-trigger-desktop",
+        "aria-label": "Цены в Российский рубль",
+        "type": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "modal-default-title",
+      "classes": [
+        "bui-modal__title"
+      ],
+      "text": "",
+      "attributes": {
+        "id": "modal-default-title",
+        "data-bui-ref": "modal-title"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "b46cd7aad7",
+        "e26a59bb37",
+        "c295306d66",
+        "dda427e6b5",
+        "acb3638563"
+      ],
+      "text": "",
+      "attributes": {
+        "aria-label": "Поддержка клиентов",
+        "data-testid": "header-help-center",
+        "href": "https://secure.booking.com/help.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142&source=header&src=profile_contact_cs"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Tottori",
+      "attributes": {
+        "title": "Отели в регионе Tottori",
+        "href": "https://www.booking.com/region/jp/tottori.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "b46cd7aad7",
+        "e26a59bb37",
+        "dda427e6b5",
+        "acb3638563"
+      ],
+      "text": "",
+      "attributes": {
+        "aria-haspopup": "dialog",
+        "data-testid": "footer-language-picker-trigger-desktop",
+        "aria-label": "Язык: Русский",
+        "type": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "f6c12c77eb",
+        "c0e44985a8"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cf.bstatic.com/xdata/images/city/600x600/691621.jpg?k=c42cfe573c89d884b935ea9b3936e0aa985622df29d7608c9b4a8cd2ec403c5c&o=",
+        "alt": "",
+        "role": "presentation",
+        "loading": "lazy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "ca55e80f14"
+      ],
+      "text": "Ереван",
+      "attributes": {
+        "href": "https://www.booking.com/searchresults.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142&dest_id=-2325645&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Отели типа «постель и завтрак»",
+      "attributes": {
+        "href": "https://www.booking.com/bed-and-breakfast/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "dc15842869",
+        "e84058595b",
+        "b3d1de1c28"
+      ],
+      "text": "2 взрослых · 0 детей · 1 номер",
+      "attributes": {
+        "data-testid": "occupancy-config",
+        "aria-controls": ":R1j6m:",
+        "aria-expanded": "false",
+        "aria-label": "Число путешественников и номеров. Сейчас выбрано: 2 взрослых · 0 детей · 1 номер",
+        "type": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Хошимин",
+      "attributes": {
+        "title": "Отели в регионе Хошимин",
+        "href": "https://www.booking.com/region/vn/ho-chi-minh.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Центр знаний по безопасности",
+      "attributes": {
+        "href": "https://www.booking.com/trust_and_safety.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "mainIndexInterlinkingTab-1-tab-trigger",
+      "classes": [
+        "de576f5064",
+        "f63e3c83f3",
+        "e7f2b1a356"
+      ],
+      "text": "Города внутри страны",
+      "attributes": {
+        "id": "mainIndexInterlinkingTab-1-tab-trigger",
+        "data-testid": "in-product-interlinking-tab-mainIndexInterlinkingTab-1",
+        "role": "menuitem",
+        "tabindex": "0",
+        "type": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Вьетнам",
+      "attributes": {
+        "title": "Отели во Вьетнаме",
+        "href": "https://www.booking.com/country/vn.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Вакансии",
+      "attributes": {
+        "href": "https://careers.booking.com/?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "iam_login_form__social-button",
+        "iam_login_form__social-button-google",
+        "bui-button",
+        "bui-button--secondary"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "https://account.booking.com/auth/oauth2?aid=304142&lang=ru&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&bkng_action=index&dt=1763199171&state=UpgDn8FN0UwJEquILJhpOijVh0x7pbeXh4FBn3D1ecPkZYRTff_MrbOTWgXobCIgkvslBOc4n4OBSCNc9w4iAgb3aVr3GhdTvzL4GazxZizZpC1MuhICIFGRR4ncX27a8ldfDikI51Y-GVPlxhbK8F1jR9DJ20I3ghNKrTFN68D0tQ3uv6MajtY2T5qNcnV4YCJeuj7gU0P68FBS-fvVzh2SJpV72ZzPBYwplW8fOXsl5jWufYSqNa0PD7BWgPjAuTu1RFQwY0H03CuzYmwHUPiLGijQKRfV_v5PZgFRkgjqz20rga3UspLhbw9gj1My7fegqCYzXnhx_BJWWidEPH2pNXG6jnU9gaBP8Xsqy3sqnxmmbANbPvUbC_1sPTSwcm3Yoli5Gd5kqfbJDnjOIKcRr9ji1Ru2Ue6wqwYJCDsuXgYSRLzjNxax9hautnNzu9RwD9y7wxPWb9wN2QMaF9XpbMpfUXBkRP9W2KoEByU04VdA-utos0eBDVcFAXBGHYFqAALDEqMpRNIVaJgq7HSHsIfT_SEvOE1V&response_type=sso&client_id=vO1Kblk7xX9tUn2cpZLS&prompt=google",
+        "data-popup-href": "https://account.booking.com/auth/oauth2?dt=1763199171&popup=1&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&bkng_action=index&aid=304142&lang=ru&client_id=vO1Kblk7xX9tUn2cpZLS&state=Up4Dn8FN0UwJEqvDnRhqWTNGDKioeG0XPENxEQ8qlFMmB0AaxDJQXeQps-iH7hXvI-j3Xoo7y-Kx9fCRf8uEDT1DcyovFMWCZjwlSegDfwEUx8FeZZ2E-HLx1K4zTrgXPEcYJSZJzr0ft-0Y_Az_T8QyJfEpGv0eSZn3VwWzdQfISvMGKu-YXF9E8e7-JJq6TrOEz0jrculTtlU_6nCOXupQzp5lQIYVelw3_4lKWiCy4ziPRl7FZrcHztgrCkRtgd9aEGSD3RZxRzTnGwZK9N8C47V4Ffqev9wviZnT4Jdguzvo7hEquAx6qED8BSPaYKQsbtCU-tfL4KeS2FGuA6JnQD3B2XTPtbagcdL6i9CMq3ZC3WfR4NUiW5KJIjSZ2hErXOMg8dc9TFQsM1EMcUjXMnn5e3j-Dwz2BxpcLQ1pkhzW9Bl3QdNp8nemY6lYrPrOFlXN0bO2oqrJDvHyH5Y8fINGf6X7r7lDpAk9lYAnsCWXGzuvfMvIlRUnyolucvD8SAXapTMslSpwWor1dCPXl6NcyXiwEhb5hu1ivro5&response_type=sso&prompt=google",
+        "title": "Войти через Google",
+        "aria-label": "Войти через Google",
+        "data-component": "iam/social-button",
+        "data-mask": "true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "ca55e80f14"
+      ],
+      "text": "Батуми",
+      "attributes": {
+        "href": "https://www.booking.com/searchresults.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142&dest_id=900049585&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Курортные отели",
+      "attributes": {
+        "href": "https://www.booking.com/resorts/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Япония",
+      "attributes": {
+        "title": "Отели в Японии",
+        "href": "https://www.booking.com/country/jp.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Марково",
+      "attributes": {
+        "title": "Отели в городе Марково, Россия",
+        "href": "https://www.booking.com/city/ru/markovo.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Стамбул",
+      "attributes": {
+        "title": "Отели в Стамбуле, Турция",
+        "href": "https://www.booking.com/city/tr/istanbul.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Сан-Мигел",
+      "attributes": {
+        "title": "Отели в регионе Сан-Мигел",
+        "href": "https://www.booking.com/region/pt/sao-miguel.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Связаться с нами",
+      "attributes": {
+        "href": "https://secure.booking.com/help.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "5-звездочные отели",
+      "attributes": {
+        "title": "5-звездочные отели",
+        "href": "https://www.booking.com/fivestars/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Paris",
+      "attributes": {
+        "title": "Отели в регионе Paris",
+        "href": "https://www.booking.com/region/fr/paris.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Поиск авиабилетов",
+      "attributes": {
+        "href": "https://booking.com/pxgo?lang=ru&aid=304142&url=https%3A%2F%2Fbooking.kayak.com%2Fin%3Fsid%3D27897029a12d44e346d578052abc89ad%26mc%3DRUB%26bdclc%3Dru%26p%3Dfooter_link%26a%3Dbdc%252Ffooter_link&label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&token=UmFuZG9tSVYkc2RlIyh9YaAHsRE_5bn3t16ZoS4S-unoXF5kOaZPNJ6AziWU4O-sRxZgPdrekHBVBFzCBVxSkhnW4_7_TJP7L_1uM0TMAvCN6d0QJxr5snT-6MllPSDUxp5TJ__1Hbolz21OZUuYnXQZwaGrafdWwXhjlwbYJrXRZfEnLtjEo_oYZu1uoa0i3oxrelsAHp99mjfrHI0Romel13k-Ps41zqO2G3TLIseiE0_7VBZlRMpLK4V9clVmdUFPR1afkb9qAJbUVdLRj4NfNPkpXW5CyV6o4DwUu2dAEL43wkSMbsDlEIeXQicIyUM0FQgZDbXHBgkmvay5XAT20VH2lzdOsx7tZ49RHZ9QD8cLEYdDHGjCs3oc-JFxbzn_HN9L1XiHmEd8CNsZVIW1JHdrz5GhHqaYkA02xK8MbQzfeWu-ABWiZyvP1pECvGq989t0mLzZL2szwkiietALpF1_C8ugvTAS83NZ6ldvbnU6zD21paNjXGYESMc7ohEcpFEyzN6ZXe7t55d0aUstswsbxsZ_"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Гостевые дома",
+      "attributes": {
+        "href": "https://www.booking.com/guest-house/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "mainIndexInterlinkingTab-5-tab-trigger",
+      "classes": [
+        "de576f5064",
+        "f63e3c83f3",
+        "e7f2b1a356"
+      ],
+      "text": "Жилье",
+      "attributes": {
+        "id": "mainIndexInterlinkingTab-5-tab-trigger",
+        "data-testid": "in-product-interlinking-tab-mainIndexInterlinkingTab-5",
+        "role": "menuitem",
+        "tabindex": "-1",
+        "type": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Отзывы",
+      "attributes": {
+        "href": "https://www.booking.com/reviews.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "f6c12c77eb",
+        "c0e44985a8",
+        "c09abd8a52",
+        "ca3dad4476"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://q-xx.bstatic.com/xdata/images/xphoto/1080x308/591152843.jpeg?k=468bcc25489a1e4b2648eba9720840b9eb7d1c7243c3c2aae97a84fd7da6378c&o=",
+        "alt": "Отец и ребенок в гамаке любуются красивым рассветом",
+        "loading": "lazy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Бутик-отели",
+      "attributes": {
+        "title": "Бутик-отели",
+        "href": "https://www.booking.com/design/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "a4ac75716e",
+        "f546354b44",
+        "cc045b173b"
+      ],
+      "text": "Популярные направления",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "airport_taxis",
+      "classes": [
+        "de576f5064",
+        "f63e3c83f3",
+        "e7f2b1a356"
+      ],
+      "text": "Такси от/до аэропорта",
+      "attributes": {
+        "id": "airport_taxis",
+        "role": "menuitem",
+        "tabindex": "0",
+        "href": "https://www.booking.com/taxi/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142&adplat=cross_product_bar&selected_currency=RUB"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Шанхай",
+      "attributes": {
+        "title": "Отели в регионе Шанхай",
+        "href": "https://www.booking.com/region/cn/shanghai.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "iam_login_form__social-button",
+        "iam_login_form__social-button-apple",
+        "bui-button",
+        "bui-button--secondary"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "https://account.booking.com/auth/oauth2?aid=304142&lang=ru&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&bkng_action=index&dt=1763199171&state=UpgDn8FN0UwJEquILJhpOijVh0x7pbeXh4FBn3D1ecPkZYRTff_MrbOTWgXobCIgkvslBOc4n4OBSCNc9w4iAgb3aVr3GhdTvzL4GazxZizZpC1MuhICIFGRR4ncX27a8ldfDikI51Y-GVPlxhbK8F1jR9DJ20I3ghNKrTFN68D0tQ3uv6MajtY2T5qNcnV4YCJeuj7gU0P68FBS-fvVzh2SJpV72ZzPBYwplW8fOXsl5jWufYSqNa0PD7BWgPjAuTu1RFQwY0H03CuzYmwHUPiLGijQKRfV_v5PZgFRkgjqz20rga3UspLhbw9gj1My7fegqCYzXnhx_BJWWidEPH2pNXG6jnU9gaBP8Xsqy3sqnxmmbANbPvUbC_1sPTSwcm3Yoli5Gd5kqfbJDnjOIKcRr9ji1Ru2Ue6wqwYJCDsuXgYSRLzjNxax9hautnNzu9RwD9y7wxPWb9wN2QMaF9XpbMpfUXBkRP9W2KoEByU04VdA-utos0eBDVcFAXBGHYFqAALDEqMpRNIVaJgq7HSHsIfT_SEvOE1V&response_type=sso&client_id=vO1Kblk7xX9tUn2cpZLS&prompt=apple",
+        "data-popup-href": "https://account.booking.com/auth/oauth2?dt=1763199171&popup=1&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&bkng_action=index&aid=304142&lang=ru&client_id=vO1Kblk7xX9tUn2cpZLS&state=Up4Dn8FN0UwJEqvDnRhqWTNGDKioeG0XPENxEQ8qlFMmB0AaxDJQXeQps-iH7hXvI-j3Xoo7y-Kx9fCRf8uEDT1DcyovFMWCZjwlSegDfwEUx8FeZZ2E-HLx1K4zTrgXPEcYJSZJzr0ft-0Y_Az_T8QyJfEpGv0eSZn3VwWzdQfISvMGKu-YXF9E8e7-JJq6TrOEz0jrculTtlU_6nCOXupQzp5lQIYVelw3_4lKWiCy4ziPRl7FZrcHztgrCkRtgd9aEGSD3RZxRzTnGwZK9N8C47V4Ffqev9wviZnT4Jdguzvo7hEquAx6qED8BSPaYKQsbtCU-tfL4KeS2FGuA6JnQD3B2XTPtbagcdL6i9CMq3ZC3WfR4NUiW5KJIjSZ2hErXOMg8dc9TFQsM1EMcUjXMnn5e3j-Dwz2BxpcLQ1pkhzW9Bl3QdNp8nemY6lYrPrOFlXN0bO2oqrJDvHyH5Y8fINGf6X7r7lDpAk9lYAnsCWXGzuvfMvIlRUnyolucvD8SAXapTMslSpwWor1dCPXl6NcyXiwEhb5hu1ivro5&response_type=sso&prompt=apple",
+        "title": "Войти через Apple",
+        "aria-label": "Войти через Apple",
+        "data-component": "iam/social-button",
+        "data-mask": "true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Мальдивы",
+      "attributes": {
+        "title": "Отели в регионе Мальдивы",
+        "href": "https://www.booking.com/region/mv/maldives.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "b46cd7aad7",
+        "e26a59bb37",
+        "c7a901b0e7",
+        "aaf9b6e287"
+      ],
+      "text": "Создать бесплатный аккаунт",
+      "attributes": {
+        "href": "https://account.booking.com/auth/oauth2?client_id=vO1Kblk7xX9tUn2cpZLS&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&response_type=code&lang=ru&aid=304142&bkng_action=index&state=Up0Dn8FN0UwJEqsxTHgTcEGWkhAfNy1Ue-uvYFsyvD6DIvdKONisI8-HaaM10YOaf1_193UAzczaRb_1YIyqj2-YKPF9ArRlTQVmEwCWR1iP5AotoSo0iXRm0rqfLC_HFqJgj3cRzlc77jwlPdT5SbRC4bW3mqAwwB6kGl0_fUNjEO9kD0P4mQlpNJnz2kGyqE7eQfnxYxvx0fa01w8nP906RMtgVlk0w1_S6Fzof4GH6BUTYT302tHISWhdxs9-0gBnI1uF2un5QmzSmDDcVN5D3TNxJFogw5cBVFL8XwuABeluD5ZpI-9tndYYtTgk0gKBe8Z2gbr5rKu0yoI1xxJMZWjip70KPeIlrA7TEWdsTHPmRuuIDagsoFbpXoMfhSv0O05fxYk-Oi2Dk8cGLgjkQGNxmAuxB9-2T5t0qAS-NJSm2UZeiP5mHWJrxsJ0k9ck_bxMpRXSnN1Ap3NX3joABSm1cJt2P28kwIzV3VHuXUF7Qjco5poZto2-MvUkenFQJAQND5HDw8uU3KaRVRgLc6NRhJ4stjMUf0E8Kck%3D*eyJpZCI6ImluZGV4In0%3D"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "b87c397a13",
+        "fb2f406ff9"
+      ],
+      "text": "Короткая поездка бывает яркой",
+      "attributes": {
+        "data-testid": "promotional-banner-content-title"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Гоа",
+      "attributes": {
+        "title": "Отели в регионе Гоа",
+        "href": "https://www.booking.com/region/in/goa.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Чанг",
+      "attributes": {
+        "title": "Отели в регионе Чанг",
+        "href": "https://www.booking.com/region/th/ko-chang.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "e7addce19e",
+        "a9a0c61ed3"
+      ],
+      "text": "Присоединитесь к Genius один раз — и всегда получайте скидки!",
+      "attributes": {
+        "style": "--bui_mixin_spaced_padding--s:0"
+      },
+      "computedStyles": {
+        "Bui_mixin_spaced_paddingS": "0"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Районы",
+      "attributes": {
+        "href": "https://www.booking.com/district.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Заявление о доступности",
+      "attributes": {
+        "href": "https://www.booking.com/content/accessibility_statement.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "a4ac75716e",
+        "f546354b44",
+        "cc045b173b"
+      ],
+      "text": "Спецпредложения",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "footer",
+      "id": "",
+      "classes": [
+        "TravellerFooter_root--variant-full"
+      ],
+      "text": "СтраныРегионыГородаРайоныАэропортыОтелиОриентирыДома для отпускаАпартаменты/квартирыКурортные отелиВиллыХостелыОтели типа «постель и завтрак»Гостевые домаУникальное жильеВсе направленияАвиабилеты: все направленияВсе пункты прокатаВсе направления для отпускаСоветыИдеи для поездкиОтзывыЖилье на месяцПомощьУправлять поездкамиСвязаться с намиЦентр знаний по безопасностиРазноеПрограмма лояльности GeniusСезонные и праздничные спецпредложенияСтатьи о путешествияхBooking.com для бизнесаTraveller Review ",
+      "attributes": {
+        "data-testid": "full-footer"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Кондоминиумы",
+      "attributes": {
+        "title": "Кондоминиумы",
+        "href": "https://www.booking.com/condos/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Южная Корея",
+      "attributes": {
+        "title": "Отели в Южной Корее",
+        "href": "https://www.booking.com/country/kr.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Ориентиры",
+      "attributes": {
+        "href": "https://www.booking.com/landmark.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Уникальное жилье",
+      "attributes": {
+        "href": "https://www.booking.com/accommodations.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Рёканы",
+      "attributes": {
+        "title": "Рёканы",
+        "href": "https://www.booking.com/ryokans/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "b08850ce41",
+        "f546354b44",
+        "cc045b173b"
+      ],
+      "text": "Правила и настройки",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "dfb602a8e2"
+      ],
+      "text": "Хотите почувствовать домашний уют во время следующей поездки?Найти жилье для отдыха",
+      "attributes": {
+        "target": "_isblank",
+        "href": "https://www.booking.com/booking-home/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Хостелы",
+      "attributes": {
+        "title": "Хостелы",
+        "href": "https://www.booking.com/hostels/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Италия",
+      "attributes": {
+        "title": "Отели в Италии",
+        "href": "https://www.booking.com/country/it.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Виллы",
+      "attributes": {
+        "title": "Виллы",
+        "href": "https://www.booking.com/villas/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Индонезия",
+      "attributes": {
+        "title": "Отели в Индонезии",
+        "href": "https://www.booking.com/country/id.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "header",
+      "id": "",
+      "classes": [
+        "Header_root"
+      ],
+      "text": "RUBЗарегистрировать свой объектЗарегистрироватьсяВойти в аккаунтЖильеАвиабилетыАренда автомобилейВарианты досугаТакси от/до аэропортаЕще",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Апартаменты/квартиры",
+      "attributes": {
+        "title": "Апартаменты/квартиры",
+        "href": "https://www.booking.com/apartments/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Программа для аффилиатов",
+      "attributes": {
+        "href": "https://www.booking.com/affiliate-program/v2/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142&utm_campaign=booking-footer&utm_content=become-an-affiliate-link&utm_medium=referral&utm_source=booking.com"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Для инвесторов",
+      "attributes": {
+        "href": "https://www.bookingholdings.com/?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "b46cd7aad7",
+        "ced67027e5",
+        "dda427e6b5",
+        "e4f9ca4b0c",
+        "ca8e0b9533",
+        "cfd71fb584",
+        "a9d40b8d51"
+      ],
+      "text": "Найти",
+      "attributes": {
+        "type": "submit"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Изменить настройки cookie-файлов",
+      "attributes": {
+        "href": "https://www.booking.com/content/privacy.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Заказ столиков в ресторанах",
+      "attributes": {
+        "href": "https://www.opentable.com/?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142&ref=16087"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "b08850ce41",
+        "f546354b44",
+        "cc045b173b"
+      ],
+      "text": "Компания",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "b08850ce41",
+        "f546354b44",
+        "cc045b173b"
+      ],
+      "text": "Помощь",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Недорогие отели",
+      "attributes": {
+        "title": "Недорогие отели",
+        "href": "https://www.booking.com/budget/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "mainIndexInterlinkingTab-3-tab-trigger",
+      "classes": [
+        "de576f5064",
+        "f63e3c83f3",
+        "e7f2b1a356"
+      ],
+      "text": "Регионы",
+      "attributes": {
+        "id": "mainIndexInterlinkingTab-3-tab-trigger",
+        "data-testid": "in-product-interlinking-tab-mainIndexInterlinkingTab-3",
+        "role": "menuitem",
+        "tabindex": "-1",
+        "type": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Виллы",
+      "attributes": {
+        "href": "https://www.booking.com/villas/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Баку",
+      "attributes": {
+        "title": "Отели в Баку, Азербайджан",
+        "href": "https://www.booking.com/city/az/baku.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "pipl-personalization-footer-btn",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "#",
+        "id": "pipl-personalization-footer-btn",
+        "data-modal-id": "personalisation-modal",
+        "data-component": "privacy/personalisation-modal",
+        "data-modal-keep-mounted": "true",
+        "data-modal-close-aria-label": "Закрыть",
+        "style": "display:none;"
+      },
+      "computedStyles": {
+        "display": "none"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Турция",
+      "attributes": {
+        "title": "Отели в Турции",
+        "href": "https://www.booking.com/country/tr.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "f6c12c77eb",
+        "c0e44985a8",
+        "ca3dad4476"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://t-cf.bstatic.com/design-assets/assets/v3.170.0/illustrations-traveller/GeniusGenericGiftBox.png",
+        "srcset": "https://t-cf.bstatic.com/design-assets/assets/v3.170.0/illustrations-traveller/GeniusGenericGiftBox@2x.png 2x",
+        "alt": "",
+        "role": "presentation",
+        "loading": "lazy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Чиангмай",
+      "attributes": {
+        "title": "Отели в регионе Чиангмай",
+        "href": "https://www.booking.com/region/th/chiang-mai.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "mainIndexInterlinkingTab-4-tab-trigger",
+      "classes": [
+        "de576f5064",
+        "f63e3c83f3",
+        "e7f2b1a356"
+      ],
+      "text": "Страны",
+      "attributes": {
+        "id": "mainIndexInterlinkingTab-4-tab-trigger",
+        "data-testid": "in-product-interlinking-tab-mainIndexInterlinkingTab-4",
+        "role": "menuitem",
+        "tabindex": "-1",
+        "type": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Пекин",
+      "attributes": {
+        "title": "Отели в Пекине, Китай",
+        "href": "https://www.booking.com/city/cn/beijing.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "e7addce19e",
+        "e19e5a7d46"
+      ],
+      "text": "Круглосуточная служба поддержки, на которую можно положиться",
+      "attributes": {
+        "style": "--bui_mixin_spaced_margin--s:0"
+      },
+      "computedStyles": {
+        "Bui_mixin_spaced_marginS": "0"
+      }
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "b87c397a13",
+        "f546354b44",
+        "cc045b173b"
+      ],
+      "text": "Популярно среди путешественников из России",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Все направления для отпуска",
+      "attributes": {
+        "href": "https://www.booking.com/holidays/sitemap.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "b46cd7aad7",
+        "e26a59bb37",
+        "dda427e6b5",
+        "acb3638563"
+      ],
+      "text": "Зарегистрировать свой объект",
+      "attributes": {
+        "data-testid": "header-custom-action-button",
+        "href": "https://join.booking.com/?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142&lang=ru&utm_medium=frontend&utm_source=topbar"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Пхукет",
+      "attributes": {
+        "title": "Отели в Пхукете, Таиланд",
+        "href": "https://www.booking.com/city/th/phuket.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Центр помощи партнерам",
+      "attributes": {
+        "href": "https://partner.booking.com/ru?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142&utm_campaign=footer_list&utm_medium=frontend_footer&utm_source=booking.com"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Париж",
+      "attributes": {
+        "title": "Отели в Париже, Франция",
+        "href": "https://www.booking.com/city/fr/paris.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Бали",
+      "attributes": {
+        "title": "Отели в регионе Бали",
+        "href": "https://www.booking.com/region/id/bali.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "flights",
+      "classes": [
+        "de576f5064",
+        "f63e3c83f3",
+        "e7f2b1a356"
+      ],
+      "text": "Авиабилеты",
+      "attributes": {
+        "id": "flights",
+        "role": "menuitem",
+        "tabindex": "0",
+        "href": "https://booking.com/pxgo?aid=304142&lang=ru&label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&url=https%3A%2F%2Fbooking.kayak.com%2Fin%3Fsid%3D27897029a12d44e346d578052abc89ad%26mc%3DRUB%26bdclc%3Dru%26p%3Dsearchbox_link%26a%3Dbdc%252Fsearchbox&token=UmFuZG9tSVYkc2RlIyh9YaAHsRE_5bn3t16ZoS4S-unoXF5kOaZPNJ6AziWU4O-sRxZgPdrekHBVBFzCBVxSkmQ7w5taaQN4rjrLbhH2axAkTCzzzRFbXSC-RLzx4SfHTzFtnTXZz76EtUS1VbVsVCdJ7DP9rU0bSQUQH7MsHSyO4K55V5vxI1GmbxiIlyYeY_4FL_1bl9Jwd37cOFOX6y2E3u3_TyLC6XwvitC0U6jLNUObNP1AAWNdsK2NG8wH0CkI1M1ZEqC3ZTdpnRT8wUJg4e1wPfpgMTKDyKB1c3PqKeSwpWPx9XbGEfvrYR_y7tMJeS-4-DxFXTAM0jDEWln1Y3aB9zM1xvwxko2_kbuw8vyt1yEdYrVfub23hYXo6cMUeJ5ijTBQdxKYboin_SjfImBEYChng1fqt12jbIv8E_h7u1qMnh3OLWwtzYLY9rL__hNU5KazDmyS9MuHZ5nUf-xzrrTBePJeyk7eqgCAWuLjP7-unGkqRHtvxPQ3"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Гудаури",
+      "attributes": {
+        "title": "Отели в Гудаури, Грузия",
+        "href": "https://www.booking.com/city/ge/gudauri.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Пушкинские горы",
+      "attributes": {
+        "title": "Отели в Пушкинских Горах, Россия",
+        "href": "https://www.booking.com/city/ru/pushkinskiye-gory-ru.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Красная Поляна",
+      "attributes": {
+        "title": "Отели в Красной Поляне, Россия",
+        "href": "https://www.booking.com/city/ru/krasnaya-polyana.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Таиланд",
+      "attributes": {
+        "title": "Отели в Таиланде",
+        "href": "https://www.booking.com/country/th.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Шри-Ланка",
+      "attributes": {
+        "title": "Отели на Шри-Ланке",
+        "href": "https://www.booking.com/country/lk.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Эсто-Садок",
+      "attributes": {
+        "title": "Отели в Эстосадке, Россия",
+        "href": "https://www.booking.com/city/ru/estosadok.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Booking.com для бизнеса",
+      "attributes": {
+        "href": "https://business.booking.com/?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Все направления",
+      "attributes": {
+        "href": "https://www.booking.com/destination.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "b46cd7aad7",
+        "e26a59bb37",
+        "dda427e6b5",
+        "acb3638563"
+      ],
+      "text": "RUB",
+      "attributes": {
+        "aria-haspopup": "dialog",
+        "data-testid": "header-currency-picker-trigger",
+        "aria-label": "Цены в Российский рубль",
+        "type": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Шанхай",
+      "attributes": {
+        "title": "Отели в Шанхае, Китай",
+        "href": "https://www.booking.com/city/cn/shanghai.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "b46cd7aad7",
+        "d0a01e3d83",
+        "c7a901b0e7",
+        "bbf83acb81",
+        "js-header-login-link"
+      ],
+      "text": "Войти в аккаунт",
+      "attributes": {
+        "data-testid": "header-sign-in-button",
+        "aria-label": "Войти в аккаунт",
+        "href": "https://account.booking.com/auth/oauth2?client_id=vO1Kblk7xX9tUn2cpZLS&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&response_type=code&lang=ru&aid=304142&bkng_action=index&prompt=signin&state=Up0Dn8FN0UwJEqsxTHgTcEGWkhAfNy1Ue-uvYFsyvD6DIvdKONisI8-HaaM10YOaf1_193UAzczaRb_1YIyqj2-YKPF9ArRlTQVmEwCWR1iP5AotoSo0iXRm0rqfLC_HFqJgj3cRzlc77jwlPdT5SbRC4bW3mqAwwB6kGl0_fUNjEO9kD0P4mQlpNJnz2kGyqE7eQfnxYxvx0fa01w8nP906RMtgVlk0w1_S6Fzof4GH6BUTYT302tHISWhdxs9-0gBnI1uF2un5QmzSmDDcVN5D3TNxJFogw5cBVFL8XwuABeluD5ZpI-9tndYYtTgk0gKBe8Z2gbr5rKu0yoI1xxJMZWjip70KPeIlrA7TEWdsTHPmRuuIDagsoFbpXoMfhSv0O05fxYk-Oi2Dk8cGLgjkQGNxmAuxB9-2T5t0qAS-NJSm2UZeiP5mHWJrxsJ0k9ck_bxMpRXSnN1Ap3NX3joABSm1cJt2P28kwIzV3VHuXUF7Qjco5poZto2-MvUkenFQJAQND5HDw8uU3KaRVRgLc6NRhJ4stjMUf0E8Kck%3D*eyJpZCI6InRyYXZlbGxlcl9oZWFkZXIifQ%3D%3D"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "f6c12c77eb",
+        "db4ad1b412",
+        "c09abd8a52",
+        "ca3dad4476"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://t-cf.bstatic.com/design-assets/assets/v3.170.0/illustrations-traveller/CustomerSupport.png",
+        "srcset": "https://t-cf.bstatic.com/design-assets/assets/v3.170.0/illustrations-traveller/CustomerSupport@2x.png 2x",
+        "role": "presentation",
+        "loading": "lazy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Нячанг",
+      "attributes": {
+        "title": "Отели в Нячанге, Вьетнам",
+        "href": "https://www.booking.com/city/vn/nha-trang.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Паттайя",
+      "attributes": {
+        "title": "Отели в регионе Паттайя",
+        "href": "https://www.booking.com/region/th/pattaya.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "f63e3c83f3"
+      ],
+      "text": "Еще",
+      "attributes": {
+        "aria-expanded": "false",
+        "type": "button",
+        "aria-hidden": "true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "prevmonth",
+        "disabled"
+      ],
+      "text": "«",
+      "attributes": {
+        "href": "#"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели типа «постель и завтрак»",
+      "attributes": {
+        "title": "Отели типа «постель и завтрак»",
+        "href": "https://www.booking.com/bed-and-breakfast/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "b08850ce41",
+        "f546354b44",
+        "cc045b173b"
+      ],
+      "text": "Разное",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Противодействие современному рабству",
+      "attributes": {
+        "href": "https://www.bookingholdings.com/modern-slavery-statement/?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Ташкент",
+      "attributes": {
+        "title": "Отели в Ташкенте, Узбекистан",
+        "href": "https://www.booking.com/city/uz/tashkent.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Токио",
+      "attributes": {
+        "title": "Отели в регионе Токио",
+        "href": "https://www.booking.com/region/jp/tokyo.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "b46cd7aad7",
+        "ced67027e5",
+        "c7a901b0e7",
+        "ca8e0b9533"
+      ],
+      "text": "Войти",
+      "attributes": {
+        "href": "https://account.booking.com/auth/oauth2?client_id=vO1Kblk7xX9tUn2cpZLS&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&response_type=code&lang=ru&aid=304142&bkng_action=index&state=Up0Dn8FN0UwJEqsxTHgTcEGWkhAfNy1Ue-uvYFsyvD6DIvdKONisI8-HaaM10YOaf1_193UAzczaRb_1YIyqj2-YKPF9ArRlTQVmEwCWR1iP5AotoSo0iXRm0rqfLC_HFqJgj3cRzlc77jwlPdT5SbRC4bW3mqAwwB6kGl0_fUNjEO9kD0P4mQlpNJnz2kGyqE7eQfnxYxvx0fa01w8nP906RMtgVlk0w1_S6Fzof4GH6BUTYT302tHISWhdxs9-0gBnI1uF2un5QmzSmDDcVN5D3TNxJFogw5cBVFL8XwuABeluD5ZpI-9tndYYtTgk0gKBe8Z2gbr5rKu0yoI1xxJMZWjip70KPeIlrA7TEWdsTHPmRuuIDagsoFbpXoMfhSv0O05fxYk-Oi2Dk8cGLgjkQGNxmAuxB9-2T5t0qAS-NJSm2UZeiP5mHWJrxsJ0k9ck_bxMpRXSnN1Ap3NX3joABSm1cJt2P28kwIzV3VHuXUF7Qjco5poZto2-MvUkenFQJAQND5HDw8uU3KaRVRgLc6NRhJ4stjMUf0E8Kck%3D*eyJpZCI6ImluZGV4In0%3D"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Положение о конфиденциальности",
+      "attributes": {
+        "href": "https://www.booking.com/content/privacy.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Дубай",
+      "attributes": {
+        "title": "Отели в Дубае, ОАЭ",
+        "href": "https://www.booking.com/city/ae/dubai.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064",
+        "bef8628e61",
+        "b2067e75a6"
+      ],
+      "text": "Booking.com для турагентов",
+      "attributes": {
+        "href": "https://www.booking.com/affiliate-program/v2/index.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=27897029a12d44e346d578052abc89ad&aid=304142&utm_campaign=booking-footer&utm_content=travel-agents-link&utm_medium=referral&utm_source=booking.com"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "f6c12c77eb",
+        "c0e44985a8",
+        "c09abd8a52",
+        "ca3dad4476"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://t-cf.bstatic.com/design-assets/assets/v3.170.0/images-flags/Ru@3x.png",
+        "alt": "",
+        "role": "presentation",
+        "loading": "lazy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [
+        "d24b1ed1cf",
+        "Header_tab",
+        "d731d67377",
+        "b8f0d75194"
+      ],
+      "text": "ЖильеАвиабилетыАренда автомобилейВарианты досугаТакси от/до аэропортаЕще",
+      "attributes": {
+        "data-testid": "header-xpb",
+        "aria-label": "Что вы ищете?",
+        "aria-owns": "accommodations flights cars attractions airport_taxis"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Отели в городе Алматы",
+      "attributes": {
+        "title": "Отели в Алматы, Казахстан",
+        "href": "https://www.booking.com/city/kz/almaty.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "de576f5064"
+      ],
+      "text": "Узбекистан",
+      "attributes": {
+        "title": "Отели в Узбекистане",
+        "href": "https://www.booking.com/country/uz.ru.html?label=gen173nr-10CAEoggI46AdIM1gEaMIBiAEBmAEzuAEKyAEF2AED6AEB-AEBiAIBqAIBuALDkeHIBsACAdICJDVhZTBkYTZlLWFjZmEtNGZkZS1iMjE2LTc0YzU3ZmQ2YWI0MNgCAeACAQ&sid=cfc05f11db5e9978a905971f87be0e9b&aid=304142"
+      },
+      "computedStyles": {}
+    }
+  ]
+}

@@ -1,0 +1,5886 @@
+{
+  "meta": {
+    "url": "https://www.shopify.com",
+    "title": "Shopify: The All-in-One Commerce Platform for Businesses - Shopify",
+    "lang": "en",
+    "charset": "UTF-8"
+  },
+  "elements": [
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "[transform:_translateZ(0px)]",
+        "max-lg:h-full",
+        "max-lg:w-auto"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/afdceeca27acf0af45372d782b36a153.webp?originalWidth=1032&originalHeight=800",
+        "alt": "Image of website for clothing brand Rowing Blazers",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1032",
+        "height": "800",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/afdceeca27acf0af45372d782b36a153.webp?originalWidth=1032&originalHeight=800&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/afdceeca27acf0af45372d782b36a153.webp?originalWidth=1032&originalHeight=800&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/afdceeca27acf0af45372d782b36a153.webp?originalWidth=1032&originalHeight=800&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/afdceeca27acf0af45372d782b36a153.webp?originalWidth=1032&originalHeight=800&width=800 800w, https://cdn.shopify.com/b/shopify-brochure2-assets/afdceeca27acf0af45372d782b36a153.webp?originalWidth=1032&originalHeight=800&width=1000 1000w",
+        "sizes": "(min-width: 1600px) 567px, (min-width: 1200px) 35vw, (min-width: 900px) 471px, (min-width: 640px) 405px, 256px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Türkçe",
+      "attributes": {
+        "lang": "tr",
+        "href": "/tr?country=tr&lang=tr",
+        "data-component-name": "region-tr-language-tr"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/tw?country=tw&lang=en",
+        "data-component-name": "region-tw-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/br?country=br&lang=en",
+        "data-component-name": "region-br-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Español",
+      "attributes": {
+        "lang": "es",
+        "href": "/pe?country=pe&lang=es",
+        "data-component-name": "region-pe-language-es"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "focus-visible:outline-offset-[-3px]",
+        "block",
+        "relative"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "/editions/all",
+        "target": "_blank",
+        "rel": "noreferrer"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "absolute",
+        "h-2/3",
+        "left-0",
+        "object-cover",
+        "rounded-lg",
+        "w-3/5",
+        "sm:h-[70%]",
+        "sm:-top-6",
+        "sm:max-w-3/4",
+        "md:h-3/5",
+        "md:-top-8",
+        "md:max-w-3/5",
+        "lg:h-3/4",
+        "lg:w-1/2",
+        "xl:left-10",
+        "xl:w-[45%]"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/edac58cebedd8a32ebde0a1bfc7405bd.png?originalWidth=600&originalHeight=652",
+        "alt": "Photo of Hell Babes CEO Jessica Wise sorting through a rack of tee shirts in her store",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "600",
+        "height": "652",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/edac58cebedd8a32ebde0a1bfc7405bd.png?originalWidth=600&originalHeight=652&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/edac58cebedd8a32ebde0a1bfc7405bd.png?originalWidth=600&originalHeight=652&width=400 400w",
+        "sizes": "(min-width: 640px) and (max-width: 899px) 37.5vw, (min-width: 1200) and (max-width: 1599px) 25vw, (min-width: 1600) 22.5vw, (max-width: 639px) 30vw"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "relative",
+        "z-[1]",
+        "w-6",
+        "h-[1.1rem]",
+        "transition-opacity",
+        "sm:w-10",
+        "sm:h-[1.8rem]",
+        "md:w-8",
+        "md:h-[1.4rem]",
+        "lg:w-10",
+        "lg:h-[1.8rem]",
+        "transition-transform",
+        "ease-in",
+        "opacity-60"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/7aa525b00d5c1f6ca1db1f7d8030e493.png"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Français",
+      "attributes": {
+        "lang": "fr",
+        "href": "/ca-fr?country=ca&lang=fr",
+        "data-component-name": "region-ca-language-fr"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "APIs, primitives, and tools",
+      "attributes": {
+        "data-component-name": "cta-shopify-dev",
+        "href": "https://shopify.dev",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/51c6fc4dc5e0613817177942cc009fd8.png?originalWidth=953&originalHeight=902",
+        "alt": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "953",
+        "height": "902",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/51c6fc4dc5e0613817177942cc009fd8.png?originalWidth=953&originalHeight=902&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/51c6fc4dc5e0613817177942cc009fd8.png?originalWidth=953&originalHeight=902&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/51c6fc4dc5e0613817177942cc009fd8.png?originalWidth=953&originalHeight=902&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/51c6fc4dc5e0613817177942cc009fd8.png?originalWidth=953&originalHeight=902&width=800 800w",
+        "sizes": "50vw"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/94bf4a2851a16821c472f9e9cf1b5bb7.svg"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "relative",
+        "z-[1]",
+        "w-6",
+        "h-[1.1rem]",
+        "transition-opacity",
+        "sm:w-10",
+        "sm:h-[1.8rem]",
+        "md:w-8",
+        "md:h-[1.4rem]",
+        "lg:w-10",
+        "lg:h-[1.8rem]",
+        "transition-transform",
+        "ease-in",
+        "opacity-60"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/0f899d067f8fd6d3de6df6dc072a9f95.png"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "object-cover",
+        "w-full",
+        "transition-all",
+        "duration-500",
+        "w-full",
+        "h-full",
+        "opacity-100",
+        "z-10"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/36138f611ff7a9bb25d679290f623a99.jpg?originalWidth=562&originalHeight=750",
+        "alt": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "562",
+        "height": "750",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/36138f611ff7a9bb25d679290f623a99.jpg?originalWidth=562&originalHeight=750&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/36138f611ff7a9bb25d679290f623a99.jpg?originalWidth=562&originalHeight=750&width=400 400w",
+        "sizes": "25vw"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Español",
+      "attributes": {
+        "lang": "es",
+        "href": "/mx?country=mx&lang=es",
+        "data-component-name": "region-mx-language-es"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "text-dsp",
+        "min-h-32",
+        "sm:min-h-0",
+        "opacity-0",
+        "user-select-none",
+        "tracking-wide",
+        "pointer-events-none",
+        "mb-lg",
+        "md:mb-2xl"
+      ],
+      "text": "store they line up for",
+      "attributes": {
+        "aria-hidden": "true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "[transform:_translateZ(0px)]",
+        "max-lg:h-full",
+        "max-lg:w-auto"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/82f295147d6f32cd1533aa843f68b0c2.webp?originalWidth=454&originalHeight=800",
+        "alt": "Photo of customer at plant retailer The Sill, paying for purchase by tapping phone to Shopify hardware",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "454",
+        "height": "800",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/82f295147d6f32cd1533aa843f68b0c2.webp?originalWidth=454&originalHeight=800&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/82f295147d6f32cd1533aa843f68b0c2.webp?originalWidth=454&originalHeight=800&width=400 400w",
+        "sizes": "(min-width: 1600px) 246px, (min-width: 1200px) 15vw, (min-width: 900px) 204px, (min-width: 640px) 176px, 111px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/bg?country=bg&lang=en",
+        "data-component-name": "region-bg-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/fr?country=fr&lang=en",
+        "data-component-name": "region-fr-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "[transform:_translateZ(0px)]",
+        "max-lg:h-full",
+        "max-lg:w-auto"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/25528b246857074708e006916a5b77a6.jpg?originalWidth=1018&originalHeight=800",
+        "alt": "Photo of merchant on laptop, reviewing online store for their eyewear brand A-morir",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1018",
+        "height": "800",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/25528b246857074708e006916a5b77a6.jpg?originalWidth=1018&originalHeight=800&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/25528b246857074708e006916a5b77a6.jpg?originalWidth=1018&originalHeight=800&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/25528b246857074708e006916a5b77a6.jpg?originalWidth=1018&originalHeight=800&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/25528b246857074708e006916a5b77a6.jpg?originalWidth=1018&originalHeight=800&width=800 800w, https://cdn.shopify.com/b/shopify-brochure2-assets/25528b246857074708e006916a5b77a6.jpg?originalWidth=1018&originalHeight=800&width=1000 1000w",
+        "sizes": "(min-width: 1600px) 567px, (min-width: 1200px) 35vw, (min-width: 900px) 471px, (min-width: 640px) 405px, 256px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Website Builder",
+      "attributes": {
+        "href": "/website/builder"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "supersmalls.com",
+      "attributes": {
+        "href": "https://supersmalls.com/",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "grid",
+        "place-items-center",
+        "aspect-square",
+        "rounded-full",
+        "transition-[transform,box-shadow]",
+        "duration-200",
+        "origin-center",
+        "cursor-pointer",
+        "group/hydrogen",
+        "absolute",
+        "left-0",
+        "z-[1]",
+        "bg-[linear-gradient(180deg,#30deee_0%,#30c0ee_100%)]",
+        "shadow-[0_16px_24px_0_#070d17]",
+        "hover:scale-110",
+        "hover:shadow-[0_0_24px_0_#30deee]",
+        "w-[63px]",
+        "top-[48%]",
+        "translate-x-[135%]",
+        "sm:w-[79px]",
+        "sm:top-[43%]",
+        "sm:translate-x-[105px]",
+        "md:w-[88px]",
+        "md:top-[49%]",
+        "md:translate-x-[170px]",
+        "lg:w-[98px]",
+        "lg:top-[58%]",
+        "lg:translate-x-[252px]",
+        "xl:top-[57%]",
+        "xl:translate-x-[351px]"
+      ],
+      "text": "Hydrogen: Shopify’s headless commerce framework",
+      "attributes": {
+        "href": "https://hydrogen.shopify.dev",
+        "data-component-name": "cta-hydrogen",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "style": "container:icon / inline-size"
+      },
+      "computedStyles": {
+        "container": "icon / inline-size"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Shopify POS",
+      "attributes": {
+        "data-component-name": "cta-pos",
+        "href": "/pos"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Community Forum",
+      "attributes": {
+        "href": "https://community.shopify.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Bulgarian",
+      "attributes": {
+        "lang": "bg",
+        "href": "/bg?country=bg&lang=bg",
+        "data-component-name": "region-bg-language-bg"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "object-cover",
+        "w-full",
+        "transition-all",
+        "duration-500",
+        "absolute",
+        "w-full",
+        "h-full",
+        "inset-0",
+        "opacity-0",
+        "z-0"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/40d644720a7389ef0cd1809052ae9dda.jpg?originalWidth=575&originalHeight=794",
+        "alt": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "575",
+        "height": "794",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/40d644720a7389ef0cd1809052ae9dda.jpg?originalWidth=575&originalHeight=794&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/40d644720a7389ef0cd1809052ae9dda.jpg?originalWidth=575&originalHeight=794&width=400 400w",
+        "sizes": "25vw"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Theme Store",
+      "attributes": {
+        "href": "https://themes.shopify.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "heading-ab-section",
+      "classes": [
+        "richtext",
+        "text-t2"
+      ],
+      "text": "The one commerce platform behind it all",
+      "attributes": {
+        "id": "heading-ab-section"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "relative",
+        "z-[1]",
+        "w-6",
+        "h-[1.1rem]",
+        "transition-opacity",
+        "sm:w-10",
+        "sm:h-[1.8rem]",
+        "md:w-8",
+        "md:h-[1.4rem]",
+        "lg:w-10",
+        "lg:h-[1.8rem]",
+        "transition-transform",
+        "ease-in",
+        "opacity-100"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/d7f23791c6047e0be843461f636db279.png"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Nederlands",
+      "attributes": {
+        "lang": "nl",
+        "href": "/nl?country=nl&lang=nl",
+        "data-component-name": "region-nl-language-nl"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "richtext",
+        "text-t3",
+        "mb-md",
+        "text-pretty"
+      ],
+      "text": "Apps for anything else",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Español",
+      "attributes": {
+        "lang": "es",
+        "href": "/es-es?country=es&lang=es",
+        "data-component-name": "region-es-language-es"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "font-sans",
+        "underline",
+        "underline-offset-4",
+        "mt-2",
+        "sm:hidden"
+      ],
+      "text": "Why we build Shopify",
+      "attributes": {
+        "type": "button",
+        "data-component-name": "video-modal-link-button",
+        "aria-haspopup": "dialog"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/za?country=za&lang=en",
+        "data-component-name": "region-za-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Shopify Editions",
+      "attributes": {
+        "data-component-name": "cta-editions",
+        "href": "/editions",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Español",
+      "attributes": {
+        "lang": "es",
+        "href": "/ar?country=ar&lang=es",
+        "data-component-name": "region-ar-language-es"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Global",
+      "attributes": {
+        "href": "/international"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "https://twitter.com/shopify",
+        "rel": "me nofollow noopener noreferrer",
+        "target": "_blank",
+        "aria-label": "External source: Twitter (Opens in a new window)"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "w-full",
+        "h-full",
+        "map-image"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "decoding": "async",
+        "height": "547",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/600a7b9e8074695ddb32d366f72d93d4.png?originalWidth=2724&originalHeight=1716&width=868&width=868&height=547",
+        "width": "868",
+        "aria-hidden": "true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "happymondaycoffee.com",
+      "attributes": {
+        "href": "https://happymondaycoffee.com/",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Suomi",
+      "attributes": {
+        "lang": "fi",
+        "href": "/fi?country=fi&lang=fi",
+        "data-component-name": "region-fi-language-fi"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Online",
+      "attributes": {
+        "href": "/online"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Hindi",
+      "attributes": {
+        "lang": "hi",
+        "href": "/in-hi?country=in&lang=hi",
+        "data-component-name": "region-in-language-hi"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "absolute",
+        "inset-0",
+        "object-cover"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/375652716df8f879dbf34419c8ae0d50.jpg?originalWidth=406&originalHeight=452",
+        "alt": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "406",
+        "height": "452",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/375652716df8f879dbf34419c8ae0d50.jpg?originalWidth=406&originalHeight=452&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/375652716df8f879dbf34419c8ae0d50.jpg?originalWidth=406&originalHeight=452&width=400 400w",
+        "sizes": "200px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "w-full",
+        "h-full",
+        "object-cover",
+        "lg:hover:scale-125",
+        "lg:transition-transform",
+        "lg:duration-500"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "Trusted by enterprise brands",
+        "decoding": "async",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/91fd2e27323b7a94d9fdb2a7973e668e.png?width=421",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/91fd2e27323b7a94d9fdb2a7973e668e.png?width=842 2x"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Domains",
+      "attributes": {
+        "href": "/tools/domain-name-generator"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [
+        "max-lg:hidden",
+        "flex",
+        "h-full",
+        "w-full"
+      ],
+      "text": "Why ShopifyBackGet started fastYou could be selling by tomorrow.Switch to ShopifyGet more customers. Make more sales.Trusted by enterprise brandsNo matter your size, complexity, or ambition.Built into every storeWorld's best checkoutProven to convert better.SidekickYour commerce-obsessed AI assistant.ProductsBackBuild your websiteWebsite BuilderThemesDomainsCustomer AccountsSidekickSell anywhereOnlinePoint of SaleShop AppSocial & MarketplacesGlobalB2BAcross MarketsMarketing & analyticsAdvertisin",
+      "attributes": {
+        "aria-label": "Main",
+        "itemscope": "",
+        "itemtype": "https://schema.org/SiteNavigationElement",
+        "data-click-outside": "dismiss",
+        "data-component-name": "desktop-main-navigation",
+        "data-viewable-component": "true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "aurabora.com",
+      "attributes": {
+        "href": "https://aurabora.com/",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/co?country=co&lang=en",
+        "data-component-name": "region-co-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "pointer-events-none",
+        "relative",
+        "z-0",
+        "will-change-transform"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/51a089c0d18a743f5ae9119cee917fcd.png?originalWidth=1801&originalHeight=1801",
+        "alt": "Editions Summer 2025",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1801",
+        "height": "1801",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/51a089c0d18a743f5ae9119cee917fcd.png?originalWidth=1801&originalHeight=1801&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/51a089c0d18a743f5ae9119cee917fcd.png?originalWidth=1801&originalHeight=1801&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/51a089c0d18a743f5ae9119cee917fcd.png?originalWidth=1801&originalHeight=1801&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/51a089c0d18a743f5ae9119cee917fcd.png?originalWidth=1801&originalHeight=1801&width=800 800w, https://cdn.shopify.com/b/shopify-brochure2-assets/51a089c0d18a743f5ae9119cee917fcd.png?originalWidth=1801&originalHeight=1801&width=1000 1000w, https://cdn.shopify.com/b/shopify-brochure2-assets/51a089c0d18a743f5ae9119cee917fcd.png?originalWidth=1801&originalHeight=1801&width=1200 1200w, https://cdn.shopify.com/b/shopify-brochure2-assets/51a089c0d18a743f5ae9119cee917fcd.png?originalWidth=1801&originalHeight=1801&width=1400 1400w, https://cdn.shopify.com/b/shopify-brochure2-assets/51a089c0d18a743f5ae9119cee917fcd.png?originalWidth=1801&originalHeight=1801&width=1600 1600w, https://cdn.shopify.com/b/shopify-brochure2-assets/51a089c0d18a743f5ae9119cee917fcd.png?originalWidth=1801&originalHeight=1801&width=1800 1800w",
+        "sizes": "(min-width: 1600px) 222px, (min-width: 900px) 14vw, (min-width: 640px) 28vw, 175px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "https://www.youtube.com/user/shopify",
+        "rel": "me nofollow noopener noreferrer",
+        "target": "_blank",
+        "aria-label": "External source: YouTube (Opens in a new window)"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/ie?country=ie&lang=en",
+        "data-component-name": "region-ie-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Terms of service",
+      "attributes": {
+        "href": "/legal/terms"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Sustainability",
+      "attributes": {
+        "href": "/climate"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Discounts",
+      "attributes": {
+        "href": "/discounts"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Shopify Audiences",
+      "attributes": {
+        "data-component-name": "cta-audiences",
+        "href": "/audiences"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "header",
+      "id": "",
+      "classes": [
+        "font-sans",
+        "h-px"
+      ],
+      "text": "Why ShopifyBackGet started fastYou could be selling by tomorrow.Switch to ShopifyGet more customers. Make more sales.Trusted by enterprise brandsNo matter your size, complexity, or ambition.Built into every storeWorld's best checkoutProven to convert better.SidekickYour commerce-obsessed AI assistant.ProductsBackBuild your websiteWebsite BuilderThemesDomainsCustomer AccountsSidekickSell anywhereOnlinePoint of SaleShop AppSocial & MarketplacesGlobalB2BAcross MarketsMarketing & analyticsAdvertisin",
+      "attributes": {
+        "data-component-name": "global-nav",
+        "data-viewable-component": "true",
+        "data-has-secondary-navigation": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/cz?country=cz&lang=en",
+        "data-component-name": "region-cz-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "max-sm:pr-4",
+        "max-md:grid",
+        "max-md:grid-cols-[min-content_1fr]",
+        "max-md:grid-rows-[min-content]",
+        "max-md:gap-x-3",
+        "max-md:py-6",
+        "max-md:pl-4",
+        "max-md:rounded-2xl",
+        "sm:max-md:pr-12",
+        "max-md:relative",
+        "max-md:overflow-clip",
+        "max-md:bg-[#051517]",
+        "max-md:border",
+        "max-md:border-[#142024]",
+        "max-md:before:absolute",
+        "max-md:before:pointer-events-none",
+        "max-md:before:w-[327px]",
+        "max-md:before:h-[85px]",
+        "max-md:before:rounded-full",
+        "max-md:before:bg-linear-[91deg]",
+        "max-md:before:from-[#113439]",
+        "max-md:before:from-[2.27%]",
+        "max-md:before:to-[#0F2931]",
+        "max-md:before:to-[98.62%]",
+        "max-md:before:opacity-[.8]",
+        "max-md:before:blur-[40px]",
+        "max-md:before:left-1/2",
+        "max-md:before:-translate-x-1/2",
+        "max-md:before:bottom-[-20px]"
+      ],
+      "text": "Trusted by enterprise brandsNo matter your size, complexity, or ambition.",
+      "attributes": {
+        "href": "/enterprise"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "integrated marketing tools",
+      "attributes": {
+        "data-component-name": "cta-marketing-tools",
+        "href": "/marketing"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link"
+      ],
+      "text": "Commerce for AgentsBuild with our agent tools",
+      "attributes": {
+        "href": "/commerce-for-agents"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/pt?country=pt&lang=en",
+        "data-component-name": "region-pt-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Svenska",
+      "attributes": {
+        "lang": "sv",
+        "href": "/se?country=se&lang=sv",
+        "data-component-name": "region-se-language-sv"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Italiano",
+      "attributes": {
+        "lang": "it",
+        "href": "/it?country=it&lang=it",
+        "data-component-name": "region-it-language-it"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "繁體中文",
+      "attributes": {
+        "lang": "zh-Hant",
+        "href": "/tw?country=tw&lang=zh",
+        "data-component-name": "region-tw-language-zh-Hant"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/e45ccb23cd41af43c481aac46124b2f0.jpg?originalWidth=999&originalHeight=902",
+        "alt": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "999",
+        "height": "902",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/e45ccb23cd41af43c481aac46124b2f0.jpg?originalWidth=999&originalHeight=902&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/e45ccb23cd41af43c481aac46124b2f0.jpg?originalWidth=999&originalHeight=902&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/e45ccb23cd41af43c481aac46124b2f0.jpg?originalWidth=999&originalHeight=902&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/e45ccb23cd41af43c481aac46124b2f0.jpg?originalWidth=999&originalHeight=902&width=800 800w",
+        "sizes": "(min-width: 640px) 50vw, 100vw"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "absolute",
+        "object-contain",
+        "z-20",
+        "w-[657px]",
+        "h-[109px]",
+        "translate-x-1/2",
+        "translate-y-1/3",
+        "bottom-0",
+        "right-0"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/a0f6ba5d1baeabed82145e0a4975de93.svg"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "richtext",
+        "text-t3",
+        "inline-block",
+        "text-pretty"
+      ],
+      "text": "Find your forever customers",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Hell Babes",
+      "attributes": {
+        "data-component-name": "cta-hell-babes",
+        "href": "https://hellbabes.co/",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "relative",
+        "z-[1]",
+        "w-6",
+        "h-[1.1rem]",
+        "transition-opacity",
+        "sm:w-10",
+        "sm:h-[1.8rem]",
+        "md:w-8",
+        "md:h-[1.4rem]",
+        "lg:w-10",
+        "lg:h-[1.8rem]",
+        "transition-transform",
+        "ease-in",
+        "opacity-60"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/48c3fa7e8d48a8a316f818f7ab8c3335.png"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "inline-block",
+        "self-center",
+        "overflow-hidden",
+        "max-w-full",
+        "px-button-px",
+        "py-button-py",
+        "ring-inset",
+        "rounded-button",
+        "font-button-font",
+        "font-button-weight",
+        "tracking-button-tracking",
+        "transition-all",
+        "duration-150",
+        "focus-visible:outline-2",
+        "focus-visible:outline-offset-2",
+        "focus-visible:outline-state-focus",
+        "focus-visible:outline",
+        "hover:ring-1",
+        "disabled:hover-ring-0",
+        "md:px-button-lg-px",
+        "md:py-button-lg-py",
+        "text-button-lg-size",
+        "border-2",
+        "text-button-dark-secondary-text",
+        "bg-button-dark-secondary-bg",
+        "border-button-dark-secondary-border",
+        "ring-current",
+        "hover:text-button-dark-secondary-text-hover",
+        "hover:bg-button-dark-secondary-bg-hover",
+        "hover:border-button-dark-secondary-border-hover",
+        "hover:ring-button-dark-secondary-border-hover",
+        "focus:text-button-dark-secondary-text-focus",
+        "focus:bg-button-dark-secondary-bg-focus",
+        "focus:border-button-dark-secondary-border-focus",
+        "focus:ring-button-dark-secondary-border-focus",
+        "active:text-button-dark-secondary-text-active",
+        "active:bg-button-dark-secondary-bg-active",
+        "active:border-button-dark-secondary-border-active",
+        "active:ring-button-dark-secondary-border-active",
+        "disabled:text-button-dark-secondary-text-disabled",
+        "disabled:bg-button-dark-secondary-bg-disabled",
+        "disabled:border-button-dark-secondary-border-disabled",
+        "disabled:ring-button-dark-secondary-border-disabled",
+        "w-full",
+        "sm:w-auto",
+        "!tracking-button-tracking"
+      ],
+      "text": "Pick a plan that fits",
+      "attributes": {
+        "href": "/pricing",
+        "data-component-name": "cta-pricing",
+        "data-mode": "dark",
+        "target": "",
+        "path": "/pricing"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "max-sm:pr-4",
+        "max-md:grid",
+        "max-md:grid-cols-[min-content_1fr]",
+        "max-md:grid-rows-[min-content]",
+        "max-md:gap-x-3",
+        "max-md:py-6",
+        "max-md:pl-4",
+        "max-md:rounded-2xl",
+        "sm:max-md:pr-12",
+        "max-md:relative",
+        "max-md:overflow-clip",
+        "max-md:bg-[#051517]",
+        "max-md:border",
+        "max-md:border-[#142024]",
+        "max-md:before:absolute",
+        "max-md:before:pointer-events-none",
+        "max-md:before:w-[327px]",
+        "max-md:before:h-[85px]",
+        "max-md:before:rounded-full",
+        "max-md:before:bg-linear-[91deg]",
+        "max-md:before:from-[#113439]",
+        "max-md:before:from-[2.27%]",
+        "max-md:before:to-[#0F2931]",
+        "max-md:before:to-[98.62%]",
+        "max-md:before:opacity-[.8]",
+        "max-md:before:blur-[40px]",
+        "max-md:before:left-1/2",
+        "max-md:before:-translate-x-1/2",
+        "max-md:before:bottom-[-20px]"
+      ],
+      "text": "Switch to ShopifyGet more customers. Make more sales.",
+      "attributes": {
+        "href": "/sell"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/cl?country=cl&lang=en",
+        "data-component-name": "region-cl-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Greek",
+      "attributes": {
+        "lang": "el",
+        "href": "/gr?country=gr&lang=el",
+        "data-component-name": "region-gr-language-el"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Careers",
+      "attributes": {
+        "href": "/careers"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Payments",
+      "attributes": {
+        "href": "/payments"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Hire a partner",
+      "attributes": {
+        "href": "/partners/directory"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/kr?country=kr&lang=en",
+        "data-component-name": "region-kr-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Hungarian",
+      "attributes": {
+        "lang": "hu",
+        "href": "/hu?country=hu&lang=hu",
+        "data-component-name": "region-hu-language-hu"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "https://www.facebook.com/shopify",
+        "rel": "me nofollow noopener noreferrer",
+        "target": "_blank",
+        "aria-label": "External source: Facebook (Opens in a new window)"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Français",
+      "attributes": {
+        "lang": "fr",
+        "href": "/be-fr?country=be&lang=fr",
+        "data-component-name": "region-be-language-fr"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/at?country=at&lang=en",
+        "data-component-name": "region-at-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "richtext",
+        "text-t3",
+        "text-pretty"
+      ],
+      "text": "Take care of business",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "relative",
+        "z-[1]",
+        "w-6",
+        "h-[1.1rem]",
+        "transition-opacity",
+        "sm:w-10",
+        "sm:h-[1.8rem]",
+        "md:w-8",
+        "md:h-[1.4rem]",
+        "lg:w-10",
+        "lg:h-[1.8rem]",
+        "transition-transform",
+        "ease-in",
+        "opacity-60"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/ea64c5d6352869143ca123c102a436e8.png"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "pointer-events-none",
+        "relative",
+        "z-0",
+        "will-change-transform"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/f1639a3e2157e9184b546d7eaf13d89a.png?originalWidth=1801&originalHeight=1801",
+        "alt": "Editions Winter 2025",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1801",
+        "height": "1801",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/f1639a3e2157e9184b546d7eaf13d89a.png?originalWidth=1801&originalHeight=1801&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/f1639a3e2157e9184b546d7eaf13d89a.png?originalWidth=1801&originalHeight=1801&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/f1639a3e2157e9184b546d7eaf13d89a.png?originalWidth=1801&originalHeight=1801&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/f1639a3e2157e9184b546d7eaf13d89a.png?originalWidth=1801&originalHeight=1801&width=800 800w, https://cdn.shopify.com/b/shopify-brochure2-assets/f1639a3e2157e9184b546d7eaf13d89a.png?originalWidth=1801&originalHeight=1801&width=1000 1000w, https://cdn.shopify.com/b/shopify-brochure2-assets/f1639a3e2157e9184b546d7eaf13d89a.png?originalWidth=1801&originalHeight=1801&width=1200 1200w, https://cdn.shopify.com/b/shopify-brochure2-assets/f1639a3e2157e9184b546d7eaf13d89a.png?originalWidth=1801&originalHeight=1801&width=1400 1400w, https://cdn.shopify.com/b/shopify-brochure2-assets/f1639a3e2157e9184b546d7eaf13d89a.png?originalWidth=1801&originalHeight=1801&width=1600 1600w, https://cdn.shopify.com/b/shopify-brochure2-assets/f1639a3e2157e9184b546d7eaf13d89a.png?originalWidth=1801&originalHeight=1801&width=1800 1800w",
+        "sizes": "(min-width: 1600px) 222px, (min-width: 900px) 14vw, (min-width: 640px) 28vw, 175px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/by?country=by&lang=en",
+        "data-component-name": "region-by-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "日本語",
+      "attributes": {
+        "lang": "ja",
+        "href": "/jp?country=jp&lang=ja",
+        "data-component-name": "region-jp-language-ja"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "partners",
+      "attributes": {
+        "data-component-name": "cta-partners",
+        "href": "/partners"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/no-en?country=no&lang=en",
+        "data-component-name": "region-no-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "absolute",
+        "inset-0",
+        "object-cover"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/f30334b82cde2635b8abb23419d92bd5.jpg?originalWidth=406&originalHeight=452",
+        "alt": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "406",
+        "height": "452",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/f30334b82cde2635b8abb23419d92bd5.jpg?originalWidth=406&originalHeight=452&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/f30334b82cde2635b8abb23419d92bd5.jpg?originalWidth=406&originalHeight=452&width=400 400w",
+        "sizes": "200px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "bg-transparent",
+        "mx-auto",
+        "md:inline-block",
+        "text-[#E0E0E0]",
+        "hover:text-white"
+      ],
+      "text": "USA|English",
+      "attributes": {
+        "type": "button",
+        "data-component-name": "region-selector-open",
+        "tabindex": "0",
+        "aria-label": "Region Navigation. Current: USA"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "object-cover",
+        "w-full",
+        "transition-all",
+        "duration-500",
+        "absolute",
+        "w-full",
+        "h-full",
+        "inset-0",
+        "opacity-0",
+        "z-0"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/bcb8bcb289a7335a482b0769b77ab421.jpg?originalWidth=575&originalHeight=794",
+        "alt": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "575",
+        "height": "794",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/bcb8bcb289a7335a482b0769b77ab421.jpg?originalWidth=575&originalHeight=794&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/bcb8bcb289a7335a482b0769b77ab421.jpg?originalWidth=575&originalHeight=794&width=400 400w",
+        "sizes": "25vw"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "max-sm:pr-4",
+        "max-md:grid",
+        "max-md:grid-cols-[min-content_1fr]",
+        "max-md:grid-rows-[min-content]",
+        "max-md:gap-x-3",
+        "max-md:py-6",
+        "max-md:pl-4",
+        "max-md:rounded-2xl",
+        "sm:max-md:pr-12",
+        "max-md:relative",
+        "max-md:overflow-clip",
+        "max-md:bg-[#051517]",
+        "max-md:border",
+        "max-md:border-[#142024]",
+        "max-md:before:absolute",
+        "max-md:before:pointer-events-none",
+        "max-md:before:w-[327px]",
+        "max-md:before:h-[85px]",
+        "max-md:before:rounded-full",
+        "max-md:before:bg-linear-[91deg]",
+        "max-md:before:from-[#113439]",
+        "max-md:before:from-[2.27%]",
+        "max-md:before:to-[#0F2931]",
+        "max-md:before:to-[98.62%]",
+        "max-md:before:opacity-[.8]",
+        "max-md:before:blur-[40px]",
+        "max-md:before:left-1/2",
+        "max-md:before:-translate-x-1/2",
+        "max-md:before:bottom-[-20px]"
+      ],
+      "text": "Get started fastYou could be selling by tomorrow.",
+      "attributes": {
+        "href": "/start"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "kirrinfinch.com",
+      "attributes": {
+        "href": "https://kirrinfinch.com/",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "absolute",
+        "inset-0",
+        "object-cover"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/71e525e01bf304a1e639d14ff4ef1855.jpg?originalWidth=406&originalHeight=453",
+        "alt": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "406",
+        "height": "453",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/71e525e01bf304a1e639d14ff4ef1855.jpg?originalWidth=406&originalHeight=453&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/71e525e01bf304a1e639d14ff4ef1855.jpg?originalWidth=406&originalHeight=453&width=400 400w",
+        "sizes": "200px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Shopify Shipping",
+      "attributes": {
+        "data-component-name": "cta-shipping",
+        "href": "/shipping"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "richtext",
+        "text-t3"
+      ],
+      "text": "By developers, for developers",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Courses",
+      "attributes": {
+        "href": "https://www.shopifyacademy.com"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "richtext",
+        "text-t4",
+        "mb-md",
+        "md:w-2/3"
+      ],
+      "text": "Rock steady and blazing fast",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Compare Shopify",
+      "attributes": {
+        "href": "/compare"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "inline-block",
+        "self-center",
+        "overflow-hidden",
+        "max-w-full",
+        "px-button-px",
+        "py-button-py",
+        "ring-inset",
+        "rounded-button",
+        "font-button-font",
+        "font-button-weight",
+        "tracking-button-tracking",
+        "transition-all",
+        "duration-150",
+        "focus-visible:outline-2",
+        "focus-visible:outline-offset-2",
+        "focus-visible:outline-state-focus",
+        "focus-visible:outline",
+        "md:px-button-lg-px",
+        "md:py-button-lg-py",
+        "text-button-lg-size",
+        "border-2",
+        "text-button-dark-primary-text",
+        "bg-button-dark-primary-bg",
+        "border-button-dark-primary-border",
+        "ring-button-dark-primary-border",
+        "hover:text-button-dark-primary-text-hover",
+        "hover:bg-button-dark-primary-bg-hover",
+        "hover:border-button-dark-primary-border-hover",
+        "hover:ring-button-dark-primary-border-hover",
+        "focus:text-button-dark-primary-text-focus",
+        "focus:bg-button-dark-primary-bg-focus",
+        "focus:border-button-dark-primary-border-focus",
+        "focus:ring-button-dark-primary-border-focus",
+        "active:text-button-dark-primary-text-active",
+        "active:bg-button-dark-primary-bg-active",
+        "active:border-button-dark-primary-border-active",
+        "active:ring-button-dark-primary-border-active",
+        "disabled:text-button-dark-primary-text-disabled",
+        "disabled:bg-button-dark-primary-bg-disabled",
+        "disabled:border-button-dark-primary-border-disabled",
+        "disabled:ring-button-dark-primary-border-disabled",
+        "w-full",
+        "sm:w-auto",
+        "!tracking-button-tracking"
+      ],
+      "text": "Take your shot",
+      "attributes": {
+        "href": "https://admin.shopify.com/signup?locale=en&language=en&signup_page=https%3A%2F%2Fwww.shopify.com%2F&signup_types%5B%5D=paid_trial_experience",
+        "data-component-name": "start-free-trial",
+        "data-mode": "dark",
+        "target": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "relative",
+        "flex",
+        "pl-6",
+        "text-pretty",
+        "before:left-[3px]",
+        "before:top-1",
+        "before:translate-y-1/2",
+        "before:absolute",
+        "before:w-1.5",
+        "before:h-1.5",
+        "before:rounded-full",
+        "before:z-20",
+        "after:left-0",
+        "after:top-1",
+        "after:absolute",
+        "after:w-3",
+        "after:h-3",
+        "after:rounded-full",
+        "after:z-10",
+        "after:transition-colors",
+        "after:duration-300",
+        "after:delay-0",
+        "before:bg-shade-10",
+        "before:ring-black",
+        "before:ring-2",
+        "hover:before:bg-white",
+        "after:bg-[#1C2C30]",
+        "hover:after:bg-[#36F4A4]"
+      ],
+      "text": "Next-gen dev platform",
+      "attributes": {
+        "href": "/editions/summer2025#developer-platform"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/nl?country=nl&lang=en",
+        "data-component-name": "region-nl-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Orders & Inventory",
+      "attributes": {
+        "href": "/orders"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/id?country=id&lang=en",
+        "data-component-name": "region-id-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "[transform:_translateZ(0px)]",
+        "max-lg:h-full",
+        "max-lg:w-auto"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/d1d0f12159bedd0521717f23600c1beb.webp?originalWidth=1046&originalHeight=800",
+        "alt": "Image of B2B website experience for bedding brand Brooklinen",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1046",
+        "height": "800",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/d1d0f12159bedd0521717f23600c1beb.webp?originalWidth=1046&originalHeight=800&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/d1d0f12159bedd0521717f23600c1beb.webp?originalWidth=1046&originalHeight=800&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/d1d0f12159bedd0521717f23600c1beb.webp?originalWidth=1046&originalHeight=800&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/d1d0f12159bedd0521717f23600c1beb.webp?originalWidth=1046&originalHeight=800&width=800 800w, https://cdn.shopify.com/b/shopify-brochure2-assets/d1d0f12159bedd0521717f23600c1beb.webp?originalWidth=1046&originalHeight=800&width=1000 1000w",
+        "sizes": "(min-width: 1600px) 567px, (min-width: 1200px) 35vw, (min-width: 900px) 471px, (min-width: 640px) 405px, 256px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "relative",
+        "z-[1]",
+        "w-6",
+        "h-[1.1rem]",
+        "transition-opacity",
+        "sm:w-10",
+        "sm:h-[1.8rem]",
+        "md:w-8",
+        "md:h-[1.4rem]",
+        "lg:w-10",
+        "lg:h-[1.8rem]",
+        "transition-transform",
+        "ease-in",
+        "opacity-60"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/e9b1787b05cc3141b4aec50b024ad68c.png"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/it?country=it&lang=en",
+        "data-component-name": "region-it-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "grid",
+        "place-items-center",
+        "aspect-square",
+        "rounded-full",
+        "transition-[transform,box-shadow]",
+        "duration-200",
+        "origin-center",
+        "fork",
+        "absolute",
+        "-translate-x-1/2",
+        "z-20",
+        "bg-[linear-gradient(180deg,#6b26ff_0%,#5126ff_100%)]",
+        "shadow-[0_16px_24px_rgba(7,_13,_23,_0.1)]",
+        "hover:scale-110",
+        "hover:shadow-[0_0_24px_#6b26ff]",
+        "left-[58%]",
+        "bottom-[calc(100%-17px)]",
+        "w-[46px]",
+        "sm:left-[60%]",
+        "sm:w-[57px]",
+        "md:w-16",
+        "lg:bottom-[calc(100%-80px)]",
+        "lg:left-auto",
+        "lg:right-[220px]",
+        "lg:w-[71px]",
+        "xl:1/4",
+        "xl:right-auto"
+      ],
+      "text": "shopify.dev",
+      "attributes": {
+        "href": "https://shopify.dev",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "style": "container:icon / inline-size",
+        "data-component-name": "fork-button"
+      },
+      "computedStyles": {
+        "container": "icon / inline-size"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Affiliates",
+      "attributes": {
+        "href": "/affiliates"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/c2f9189345f7cf7e1aabe7db3443a4c0.png?originalWidth=458&originalHeight=111"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "relative",
+        "z-[1]",
+        "w-6",
+        "h-[1.1rem]",
+        "transition-opacity",
+        "sm:w-10",
+        "sm:h-[1.8rem]",
+        "md:w-8",
+        "md:h-[1.4rem]",
+        "lg:w-10",
+        "lg:h-[1.8rem]",
+        "transition-transform",
+        "ease-in",
+        "opacity-60"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/c87d3ea84d6b07cc56c44653ed8911f5.png"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "한국어",
+      "attributes": {
+        "lang": "ko",
+        "href": "/kr?country=kr&lang=ko",
+        "data-component-name": "region-kr-language-ko"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/th?country=th&lang=en",
+        "data-component-name": "region-th-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "[transform:_translateZ(0px)]",
+        "max-lg:h-full",
+        "max-lg:w-auto"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/365260f1127ed2d9c4d6185512d63983.webp?originalWidth=1032&originalHeight=800",
+        "alt": "Image of website for clothing brand OnlyNY",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1032",
+        "height": "800",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/365260f1127ed2d9c4d6185512d63983.webp?originalWidth=1032&originalHeight=800&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/365260f1127ed2d9c4d6185512d63983.webp?originalWidth=1032&originalHeight=800&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/365260f1127ed2d9c4d6185512d63983.webp?originalWidth=1032&originalHeight=800&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/365260f1127ed2d9c4d6185512d63983.webp?originalWidth=1032&originalHeight=800&width=800 800w, https://cdn.shopify.com/b/shopify-brochure2-assets/365260f1127ed2d9c4d6185512d63983.webp?originalWidth=1032&originalHeight=800&width=1000 1000w",
+        "sizes": "(min-width: 1600px) 567px, (min-width: 1200px) 35vw, (min-width: 900px) 471px, (min-width: 640px) 405px, 256px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/sg?country=sg&lang=en",
+        "data-component-name": "region-sg-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-center",
+        "text-white",
+        "hover:text-white"
+      ],
+      "text": "Enterprise",
+      "attributes": {
+        "href": "/enterprise"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "relative",
+        "z-[1]",
+        "w-6",
+        "h-[1.1rem]",
+        "transition-opacity",
+        "sm:w-10",
+        "sm:h-[1.8rem]",
+        "md:w-8",
+        "md:h-[1.4rem]",
+        "lg:w-10",
+        "lg:h-[1.8rem]",
+        "transition-transform",
+        "ease-in",
+        "opacity-60"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/dfe62984c290cac4d9ab1f6d64d56990.png"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/gr?country=gr&lang=en",
+        "data-component-name": "region-gr-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "h-5",
+        "w-5",
+        "fill-current"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "data-component-name": "region-selector-close"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "shop.a-morir.com",
+      "attributes": {
+        "href": "https://shop.a-morir.com/",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Changelog",
+      "attributes": {
+        "href": "https://changelog.shopify.com"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "absolute",
+        "inset-0",
+        "object-cover"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/ddbea308cdbab13b3b9138748e95fab6.jpg?originalWidth=406&originalHeight=453",
+        "alt": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "406",
+        "height": "453",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/ddbea308cdbab13b3b9138748e95fab6.jpg?originalWidth=406&originalHeight=453&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/ddbea308cdbab13b3b9138748e95fab6.jpg?originalWidth=406&originalHeight=453&width=400 400w",
+        "sizes": "200px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "vacation.inc",
+      "attributes": {
+        "href": "https://www.vacation.inc/",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "tabindex": "0"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "relative",
+        "flex",
+        "pl-6",
+        "text-pretty",
+        "before:left-[3px]",
+        "before:top-1",
+        "before:translate-y-1/2",
+        "before:absolute",
+        "before:w-1.5",
+        "before:h-1.5",
+        "before:rounded-full",
+        "before:z-20",
+        "after:left-0",
+        "after:top-1",
+        "after:absolute",
+        "after:w-3",
+        "after:h-3",
+        "after:rounded-full",
+        "after:z-10",
+        "after:transition-colors",
+        "after:duration-300",
+        "after:delay-0",
+        "before:bg-shade-10",
+        "before:ring-black",
+        "before:ring-2",
+        "hover:before:bg-white",
+        "after:bg-[#1C2C30]",
+        "hover:after:bg-[#36F4A4]"
+      ],
+      "text": "New store design system",
+      "attributes": {
+        "href": "/editions/summer2025#horizon-theme-foundation"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "custom experiences for wholesale buyers",
+      "attributes": {
+        "data-component-name": "cta-b2b",
+        "href": "/plus/solutions/b2b-ecommerce"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Español (Intl.)",
+      "attributes": {
+        "lang": "es",
+        "href": "/es?country=us&lang=es",
+        "data-component-name": "region-us-language-es"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/es-es?country=es&lang=en",
+        "data-component-name": "region-es-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/se?country=se&lang=en",
+        "data-component-name": "region-se-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "relative",
+        "z-[1]",
+        "w-6",
+        "h-[1.1rem]",
+        "transition-opacity",
+        "sm:w-10",
+        "sm:h-[1.8rem]",
+        "md:w-8",
+        "md:h-[1.4rem]",
+        "lg:w-10",
+        "lg:h-[1.8rem]",
+        "transition-transform",
+        "ease-in",
+        "opacity-60"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/7a63b5c2087a9ad7f05c4a6721cbf726.png"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "简体中文",
+      "attributes": {
+        "lang": "zh-Hans",
+        "href": "/zh?country=us&lang=zh",
+        "data-component-name": "region-us-language-zh-Hans"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "insightful analytics",
+      "attributes": {
+        "data-component-name": "cta-analytics",
+        "href": "/analytics"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "https://www.instagram.com/shopify/",
+        "rel": "me nofollow noopener noreferrer",
+        "target": "_blank",
+        "aria-label": "External source: Instagram (Opens in a new window)"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "relative",
+        "flex",
+        "pl-6",
+        "text-pretty",
+        "before:left-[3px]",
+        "before:top-1",
+        "before:translate-y-1/2",
+        "before:absolute",
+        "before:w-1.5",
+        "before:h-1.5",
+        "before:rounded-full",
+        "before:z-20",
+        "after:left-0",
+        "after:top-1",
+        "after:absolute",
+        "after:w-3",
+        "after:h-3",
+        "after:rounded-full",
+        "after:z-10",
+        "after:transition-colors",
+        "after:duration-300",
+        "after:delay-0",
+        "before:bg-shade-10",
+        "before:ring-black",
+        "before:ring-2",
+        "hover:before:bg-white",
+        "after:bg-[#1C2C30]",
+        "hover:after:bg-[#36F4A4]"
+      ],
+      "text": "Deep insights with Sidekick",
+      "attributes": {
+        "href": "/editions/summer2025#sidekick-for-business-insights"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "繁體中文",
+      "attributes": {
+        "lang": "zh-Hant",
+        "href": "/hk?country=hk&lang=zh",
+        "data-component-name": "region-hk-language-zh-Hant"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "glossier.com",
+      "attributes": {
+        "href": "https://www.glossier.com/",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "tabindex": "0"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Finances & Funding",
+      "attributes": {
+        "href": "/finance"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Across Markets",
+      "attributes": {
+        "href": "/markets"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "h-9",
+        "lg:h-9"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/d9340911ca8c679b148dd4a205ad2ffa.svg",
+        "alt": "Shopify",
+        "data-component-name": "shopify-logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Partners",
+      "attributes": {
+        "href": "/partners"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "https://www.tiktok.com/@shopify",
+        "rel": "me nofollow noopener noreferrer",
+        "target": "_blank",
+        "aria-label": "External source: TikTok (Opens in a new window)"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "richtext",
+        "text-t3",
+        "inline-block",
+        "text-pretty"
+      ],
+      "text": "For everyone from entrepreneurs to enterprise",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "focus-visible:outline-offset-[-3px]",
+        "block",
+        "relative"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "/editions/all",
+        "target": "_blank",
+        "rel": "noreferrer"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Português",
+      "attributes": {
+        "lang": "pt",
+        "href": "/pt?country=pt&lang=pt",
+        "data-component-name": "region-pt-language-pt"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "w-full",
+        "h-auto",
+        "select-none",
+        "pointer-events-none"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/09c0d9df1ec115be7055d03fda7467c7.jpg?originalWidth=920&originalHeight=416",
+        "alt": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "920",
+        "height": "416",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/09c0d9df1ec115be7055d03fda7467c7.jpg?originalWidth=920&originalHeight=416&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/09c0d9df1ec115be7055d03fda7467c7.jpg?originalWidth=920&originalHeight=416&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/09c0d9df1ec115be7055d03fda7467c7.jpg?originalWidth=920&originalHeight=416&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/09c0d9df1ec115be7055d03fda7467c7.jpg?originalWidth=920&originalHeight=416&width=800 800w",
+        "sizes": "(min-width: 1200px) 600px, 400px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Romanian",
+      "attributes": {
+        "lang": "ro",
+        "href": "/ro?country=ro&lang=ro",
+        "data-component-name": "region-ro-language-ro"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "text-xl",
+        "leading-[20px]",
+        "font-medium",
+        "mb-6",
+        "text-white"
+      ],
+      "text": "Resources",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "[transform:_translateZ(0px)]",
+        "max-lg:h-full",
+        "max-lg:w-auto"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/2cc9891ed1b544cdbd548c289d1632cb.jpg?originalWidth=1048&originalHeight=800",
+        "alt": "Image of Japanese website for Italian leather-goods brand Bonaventura",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1048",
+        "height": "800",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/2cc9891ed1b544cdbd548c289d1632cb.jpg?originalWidth=1048&originalHeight=800&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/2cc9891ed1b544cdbd548c289d1632cb.jpg?originalWidth=1048&originalHeight=800&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/2cc9891ed1b544cdbd548c289d1632cb.jpg?originalWidth=1048&originalHeight=800&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/2cc9891ed1b544cdbd548c289d1632cb.jpg?originalWidth=1048&originalHeight=800&width=800 800w, https://cdn.shopify.com/b/shopify-brochure2-assets/2cc9891ed1b544cdbd548c289d1632cb.jpg?originalWidth=1048&originalHeight=800&width=1000 1000w",
+        "sizes": "(min-width: 1600px) 567px, (min-width: 1200px) 35vw, (min-width: 900px) 471px, (min-width: 640px) 405px, 256px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "[transform:_translateZ(0px)]",
+        "max-lg:h-full",
+        "max-lg:w-auto"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/268717f14ffc87467a9aeb1e6f5a7719.webp?originalWidth=1046&originalHeight=800",
+        "alt": "Photo of customer making purchase via mobile checkout at fashion brand Kit and Ace",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1046",
+        "height": "800",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/268717f14ffc87467a9aeb1e6f5a7719.webp?originalWidth=1046&originalHeight=800&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/268717f14ffc87467a9aeb1e6f5a7719.webp?originalWidth=1046&originalHeight=800&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/268717f14ffc87467a9aeb1e6f5a7719.webp?originalWidth=1046&originalHeight=800&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/268717f14ffc87467a9aeb1e6f5a7719.webp?originalWidth=1046&originalHeight=800&width=800 800w, https://cdn.shopify.com/b/shopify-brochure2-assets/268717f14ffc87467a9aeb1e6f5a7719.webp?originalWidth=1046&originalHeight=800&width=1000 1000w",
+        "sizes": "(min-width: 1600px) 567px, (min-width: 1200px) 35vw, (min-width: 900px) 471px, (min-width: 640px) 405px, 256px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "focus-visible:outline-offset-[-3px]",
+        "block",
+        "relative"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "/editions/all",
+        "target": "_blank",
+        "rel": "noreferrer"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "pointer-events-none",
+        "relative",
+        "z-0",
+        "will-change-transform"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/fa083860a79e66e2bf4936af0b9923e7.png?originalWidth=1801&originalHeight=1801",
+        "alt": "Editions Summer 2024",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1801",
+        "height": "1801",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/fa083860a79e66e2bf4936af0b9923e7.png?originalWidth=1801&originalHeight=1801&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/fa083860a79e66e2bf4936af0b9923e7.png?originalWidth=1801&originalHeight=1801&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/fa083860a79e66e2bf4936af0b9923e7.png?originalWidth=1801&originalHeight=1801&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/fa083860a79e66e2bf4936af0b9923e7.png?originalWidth=1801&originalHeight=1801&width=800 800w, https://cdn.shopify.com/b/shopify-brochure2-assets/fa083860a79e66e2bf4936af0b9923e7.png?originalWidth=1801&originalHeight=1801&width=1000 1000w, https://cdn.shopify.com/b/shopify-brochure2-assets/fa083860a79e66e2bf4936af0b9923e7.png?originalWidth=1801&originalHeight=1801&width=1200 1200w, https://cdn.shopify.com/b/shopify-brochure2-assets/fa083860a79e66e2bf4936af0b9923e7.png?originalWidth=1801&originalHeight=1801&width=1400 1400w, https://cdn.shopify.com/b/shopify-brochure2-assets/fa083860a79e66e2bf4936af0b9923e7.png?originalWidth=1801&originalHeight=1801&width=1600 1600w, https://cdn.shopify.com/b/shopify-brochure2-assets/fa083860a79e66e2bf4936af0b9923e7.png?originalWidth=1801&originalHeight=1801&width=1800 1800w",
+        "sizes": "(min-width: 1600px) 222px, (min-width: 900px) 14vw, (min-width: 640px) 28vw, 175px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "brooklinen.com",
+      "attributes": {
+        "href": "https://brooklinen.com/",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/be?country=be&lang=en",
+        "data-component-name": "region-be-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "carawayhome.com",
+      "attributes": {
+        "href": "https://www.carawayhome.com/",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "richtext",
+        "text-t3"
+      ],
+      "text": "Grow around the world",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Deutsch",
+      "attributes": {
+        "lang": "de",
+        "href": "/at?country=at&lang=de",
+        "data-component-name": "region-at-language-de"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "thesill.com",
+      "attributes": {
+        "href": "https://www.thesill.com/",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "tabindex": "0"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "pointer-events-none",
+        "relative",
+        "z-0",
+        "will-change-transform"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/eebdb4cd2612ffb220ced6a604a5eed5.png?originalWidth=1801&originalHeight=1800",
+        "alt": "Editions Winter 2023",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1801",
+        "height": "1800",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/eebdb4cd2612ffb220ced6a604a5eed5.png?originalWidth=1801&originalHeight=1800&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/eebdb4cd2612ffb220ced6a604a5eed5.png?originalWidth=1801&originalHeight=1800&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/eebdb4cd2612ffb220ced6a604a5eed5.png?originalWidth=1801&originalHeight=1800&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/eebdb4cd2612ffb220ced6a604a5eed5.png?originalWidth=1801&originalHeight=1800&width=800 800w, https://cdn.shopify.com/b/shopify-brochure2-assets/eebdb4cd2612ffb220ced6a604a5eed5.png?originalWidth=1801&originalHeight=1800&width=1000 1000w, https://cdn.shopify.com/b/shopify-brochure2-assets/eebdb4cd2612ffb220ced6a604a5eed5.png?originalWidth=1801&originalHeight=1800&width=1200 1200w, https://cdn.shopify.com/b/shopify-brochure2-assets/eebdb4cd2612ffb220ced6a604a5eed5.png?originalWidth=1801&originalHeight=1800&width=1400 1400w, https://cdn.shopify.com/b/shopify-brochure2-assets/eebdb4cd2612ffb220ced6a604a5eed5.png?originalWidth=1801&originalHeight=1800&width=1600 1600w, https://cdn.shopify.com/b/shopify-brochure2-assets/eebdb4cd2612ffb220ced6a604a5eed5.png?originalWidth=1801&originalHeight=1800&width=1800 1800w",
+        "sizes": "(min-width: 1600px) 222px, (min-width: 900px) 14vw, (min-width: 640px) 28vw, 175px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Taxes",
+      "attributes": {
+        "href": "/tax"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "relative",
+        "z-[1]",
+        "w-6",
+        "h-[1.1rem]",
+        "transition-opacity",
+        "sm:w-10",
+        "sm:h-[1.8rem]",
+        "md:w-8",
+        "md:h-[1.4rem]",
+        "lg:w-10",
+        "lg:h-[1.8rem]",
+        "transition-transform",
+        "ease-in",
+        "opacity-60"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/dc2669381c95b83588445a4aa4401214.png"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "hidden",
+        "lg:inline-flex",
+        "w-[max-content]",
+        "px-4",
+        "py-3",
+        "items-center",
+        "gap-3",
+        "mb-4",
+        "bg-white/20",
+        "rounded",
+        "shadow-dev-label-container",
+        "hover:bg-[#4A659A]"
+      ],
+      "text": "Build apps",
+      "attributes": {
+        "data-component-name": "cta-build-apps",
+        "href": "https://shopify.dev/building-for-the-app-store",
+        "rel": "noopener noreferrer",
+        "target": "_blank"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link"
+      ],
+      "text": "Shopify Editions150+ updates to Shopify, twice a year.",
+      "attributes": {
+        "href": "/editions"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Français",
+      "attributes": {
+        "lang": "fr",
+        "href": "/fr?country=fr&lang=fr",
+        "data-component-name": "region-fr-language-fr"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "h-full",
+        "mx-auto",
+        "duration-500",
+        "object-contain",
+        "xs:scale-[1.1]",
+        "sm:scale-[1.25]",
+        "md:scale-[0.8]",
+        "lg:scale-[0.93]",
+        "xl:scale-[1.03]",
+        "opacity-100"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/64809df6a89121d7102d083e2c906364.png?originalWidth=1454&originalHeight=1730",
+        "alt": "Interactive animation of Shopify’s point-of-sale hardware",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1454",
+        "height": "1730",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/64809df6a89121d7102d083e2c906364.png?originalWidth=1454&originalHeight=1730&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/64809df6a89121d7102d083e2c906364.png?originalWidth=1454&originalHeight=1730&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/64809df6a89121d7102d083e2c906364.png?originalWidth=1454&originalHeight=1730&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/64809df6a89121d7102d083e2c906364.png?originalWidth=1454&originalHeight=1730&width=800 800w, https://cdn.shopify.com/b/shopify-brochure2-assets/64809df6a89121d7102d083e2c906364.png?originalWidth=1454&originalHeight=1730&width=1000 1000w, https://cdn.shopify.com/b/shopify-brochure2-assets/64809df6a89121d7102d083e2c906364.png?originalWidth=1454&originalHeight=1730&width=1200 1200w, https://cdn.shopify.com/b/shopify-brochure2-assets/64809df6a89121d7102d083e2c906364.png?originalWidth=1454&originalHeight=1730&width=1400 1400w",
+        "sizes": "(min-width: 900px) 33vw, 100vw"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "richtext",
+        "text-t3",
+        "inline-block",
+        "text-pretty"
+      ],
+      "text": "Sell here, there, and everywhere",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Norge",
+      "attributes": {
+        "lang": "nb",
+        "href": "/no?country=no&lang=nb",
+        "data-component-name": "region-no-language-nb"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "https://www.linkedin.com/company/shopify",
+        "rel": "me nofollow noopener noreferrer",
+        "target": "_blank",
+        "aria-label": "External source: LinkedIn (Opens in a new window)"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "absolute",
+        "inset-0",
+        "object-cover"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/cf513e7e66200e46908943f6de71de56.jpg?originalWidth=406&originalHeight=452",
+        "alt": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "406",
+        "height": "452",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/cf513e7e66200e46908943f6de71de56.jpg?originalWidth=406&originalHeight=452&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/cf513e7e66200e46908943f6de71de56.jpg?originalWidth=406&originalHeight=452&width=400 400w",
+        "sizes": "200px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Shopify Magic",
+      "attributes": {
+        "data-component-name": "cta-magic",
+        "href": "/magic"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Point of Sale",
+      "attributes": {
+        "href": "/pos"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "gap-y-1",
+        "max-sm:flex",
+        "max-sm:flex-col",
+        "max-sm:min-h-[176px]",
+        "sm:max-lg:grid",
+        "sm:max-lg:grid-cols-[1.5fr_1fr]",
+        "sm:max-lg:grid-rows-[auto]",
+        "sm:max-lg:gap-x-3",
+        "sm:max-lg:min-h-[129px]",
+        "max-lg:border",
+        "max-lg:rounded-2xl",
+        "max-lg:h-full",
+        "max-lg:p-6",
+        "lg:flex",
+        "lg:flex-col",
+        "lg:w-[190px]",
+        "max-lg:relative",
+        "max-lg:overflow-clip",
+        "max-lg:bg-shade-95",
+        "max-lg:border",
+        "max-lg:border-[#19272A]",
+        "max-sm:before:w-[213px]",
+        "max-sm:before:h-[115px]",
+        "max-sm:before:left-0",
+        "max-sm:before:top-0",
+        "max-sm:before:-translate-y-1/2",
+        "sm:max-lg:before:-left-1/4",
+        "sm:max-lg:before:top-1/4",
+        "sm:max-lg:before:w-[289px]",
+        "sm:max-lg:before:h-[231px]",
+        "max-lg:before:absolute",
+        "max-lg:before:pointer-events-none",
+        "max-lg:before:rounded-289px",
+        "max-lg:before:bg-linear-[91deg]",
+        "max-lg:before:from-[rgba(17,52,57,0.50)]",
+        "max-lg:before:from-[2.27%]",
+        "max-lg:before:to-[rgba(15,41,49,0.50)]",
+        "max-lg:before:to-[98.62%]",
+        "max-lg:before:mix-blend-mode-exclusion",
+        "max-lg:before:blur-[100px]",
+        "max-sm:after:left-0",
+        "max-sm:after:-translate-x-1/4",
+        "max-sm:after:bottom-0",
+        "max-sm:after:translate-y-1/2",
+        "sm:max-lg:after:top-1/2",
+        "sm:max-lg:after:-translate-y-1/2",
+        "max-lg:after:absolute",
+        "max-lg:after:pointer-events-none",
+        "max-lg:after:w-[174px]",
+        "max-lg:after:h-[193px]",
+        "max-lg:after:bg-radial-[156.58%_114.72%_at_50%_100%]",
+        "max-lg:[li:first-child_&]:after:from-[rgba(9,78,255,0.30)]",
+        "max-lg:after:from-[0%]",
+        "max-lg:[li:last-child_&]:after:from-[rgba(115,55,232,0.43)]",
+        "max-lg:after:to-[rgba(0,0,0,0.00)]",
+        "max-lg:after:to-[100%]",
+        "max-lg:after:mix-blend-mode-exclusion",
+        "max-lg:after:blur-[50px]",
+        "max-lg:after:right-0"
+      ],
+      "text": "World's best checkoutProven to convert better.",
+      "attributes": {
+        "href": "/checkout"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "relative",
+        "z-10",
+        "w-[118px]",
+        "aspect-[3.333]",
+        "rounded",
+        "max-sm:mt-auto",
+        "sm:row-start-[span_2]",
+        "sm:self-center",
+        "sm:justify-self-end",
+        "sm:w-[100px]",
+        "sm:max-lg:justify-self-center",
+        "max-lg:shadow-[0_8px_48px_0_rgba(24,24,27,0.24),_0_4px_8px_0_rgba(24,24,27,0.16)]",
+        "md:w-[133px]",
+        "lg:hidden"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/ecabe88f01662a8048799d22f2c6aa99.svg",
+        "alt": "World's best checkout"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/pe?country=pe&lang=en",
+        "data-component-name": "region-pe-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Shopify App Store",
+      "attributes": {
+        "data-component-name": "cta-app-store",
+        "href": "https://apps.shopify.com/",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/tr?country=tr&lang=en",
+        "data-component-name": "region-tr-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Privacy policy",
+      "attributes": {
+        "href": "/legal/privacy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Advertising & Campaigns",
+      "attributes": {
+        "href": "/marketing"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "w-full",
+        "h-full",
+        "object-cover",
+        "lg:hover:scale-125",
+        "lg:transition-transform",
+        "lg:duration-500"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "Get started fast",
+        "decoding": "async",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/35d24a52160348807e95f1d335e9e295.png?width=421",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/35d24a52160348807e95f1d335e9e295.png?width=842 2x"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Blog",
+      "attributes": {
+        "href": "/blog"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "inline-block",
+        "self-center",
+        "overflow-hidden",
+        "max-w-full",
+        "ring-inset",
+        "rounded-button",
+        "font-button-font",
+        "font-button-weight",
+        "tracking-button-tracking",
+        "transition-all",
+        "duration-150",
+        "focus-visible:outline-2",
+        "focus-visible:outline-offset-2",
+        "focus-visible:outline-state-focus",
+        "focus-visible:outline",
+        "border-2",
+        "text-button-dark-primary-text",
+        "bg-button-dark-primary-bg",
+        "border-button-dark-primary-border",
+        "ring-button-dark-primary-border",
+        "hover:text-button-dark-primary-text-hover",
+        "hover:bg-button-dark-primary-bg-hover",
+        "hover:border-button-dark-primary-border-hover",
+        "hover:ring-button-dark-primary-border-hover",
+        "focus:text-button-dark-primary-text-focus",
+        "focus:bg-button-dark-primary-bg-focus",
+        "focus:border-button-dark-primary-border-focus",
+        "focus:ring-button-dark-primary-border-focus",
+        "active:text-button-dark-primary-text-active",
+        "active:bg-button-dark-primary-bg-active",
+        "active:border-button-dark-primary-border-active",
+        "active:ring-button-dark-primary-border-active",
+        "disabled:text-button-dark-primary-text-disabled",
+        "disabled:bg-button-dark-primary-bg-disabled",
+        "disabled:border-button-dark-primary-border-disabled",
+        "disabled:ring-button-dark-primary-border-disabled",
+        "py-2",
+        "px-5",
+        "text-base",
+        "whitespace-nowrap"
+      ],
+      "text": "Start for free",
+      "attributes": {
+        "href": "https://admin.shopify.com/signup?locale=en&language=en&signup_page=https%3A%2F%2Fwww.shopify.com%2F&signup_types%5B%5D=paid_trial_experience",
+        "data-component-name": "start-free-trial",
+        "data-mode": "dark",
+        "target": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "thirstyturtl.com",
+      "attributes": {
+        "href": "https://thirstyturtl.com/",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "focus-visible:outline-offset-[-3px]",
+        "block",
+        "relative"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "/editions/all",
+        "target": "_blank",
+        "rel": "noreferrer"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Sitemap",
+      "attributes": {
+        "href": "/sitemap"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link"
+      ],
+      "text": "Shopify App StoreLargest commerce ecosystem",
+      "attributes": {
+        "href": "https://apps.shopify.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "jp.bonaventura.shop",
+      "attributes": {
+        "href": "https://jp.bonaventura.shop/",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "absolute",
+        "object-contain",
+        "w-[312px]",
+        "h-[128px]",
+        "-translate-x-full",
+        "-translate-y-1/2",
+        "top-0"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/c759c61b160a763d6a93ef1aebd07d6a.svg"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Developer docs",
+      "attributes": {
+        "href": "https://shopify.dev/docs"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "w-full",
+        "h-full",
+        "object-cover",
+        "lg:hover:scale-125",
+        "lg:transition-transform",
+        "lg:duration-500"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "Switch to Shopify",
+        "decoding": "async",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/b4995abc3f73dd8442f579e10023a4df.png?width=421",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/b4995abc3f73dd8442f579e10023a4df.png?width=842 2x"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Čeština",
+      "attributes": {
+        "lang": "cs",
+        "href": "/cz?country=cz&lang=cs",
+        "data-component-name": "region-cz-language-cs"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Shopify Checkout",
+      "attributes": {
+        "data-component-name": "cta-checkout",
+        "href": "/checkout"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "[transform:_translateZ(0px)]",
+        "max-lg:h-full",
+        "max-lg:w-auto"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/b3a10e2014c5b6cd44f2bc4a893ffc75.webp?originalWidth=454&originalHeight=800",
+        "alt": "Photo of employee at clothing brand Kirrin Finch using Shopify inventory tools on mobile to fulfill shirt order",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "454",
+        "height": "800",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/b3a10e2014c5b6cd44f2bc4a893ffc75.webp?originalWidth=454&originalHeight=800&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/b3a10e2014c5b6cd44f2bc4a893ffc75.webp?originalWidth=454&originalHeight=800&width=400 400w",
+        "sizes": "(min-width: 1600px) 246px, (min-width: 1200px) 15vw, (min-width: 900px) 204px, (min-width: 640px) 176px, 111px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "pointer-events-none",
+        "relative",
+        "z-0",
+        "will-change-transform"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/8782debac7f146d30584d6b0e5958709.png?originalWidth=1801&originalHeight=1800",
+        "alt": "Editions Summer 2023",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1801",
+        "height": "1800",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/8782debac7f146d30584d6b0e5958709.png?originalWidth=1801&originalHeight=1800&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/8782debac7f146d30584d6b0e5958709.png?originalWidth=1801&originalHeight=1800&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/8782debac7f146d30584d6b0e5958709.png?originalWidth=1801&originalHeight=1800&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/8782debac7f146d30584d6b0e5958709.png?originalWidth=1801&originalHeight=1800&width=800 800w, https://cdn.shopify.com/b/shopify-brochure2-assets/8782debac7f146d30584d6b0e5958709.png?originalWidth=1801&originalHeight=1800&width=1000 1000w, https://cdn.shopify.com/b/shopify-brochure2-assets/8782debac7f146d30584d6b0e5958709.png?originalWidth=1801&originalHeight=1800&width=1200 1200w, https://cdn.shopify.com/b/shopify-brochure2-assets/8782debac7f146d30584d6b0e5958709.png?originalWidth=1801&originalHeight=1800&width=1400 1400w, https://cdn.shopify.com/b/shopify-brochure2-assets/8782debac7f146d30584d6b0e5958709.png?originalWidth=1801&originalHeight=1800&width=1600 1600w, https://cdn.shopify.com/b/shopify-brochure2-assets/8782debac7f146d30584d6b0e5958709.png?originalWidth=1801&originalHeight=1800&width=1800 1800w",
+        "sizes": "(min-width: 1600px) 222px, (min-width: 900px) 14vw, (min-width: 640px) 28vw, 175px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Shop App",
+      "attributes": {
+        "href": "/shop"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "inline-block",
+        "self-center",
+        "overflow-hidden",
+        "max-w-full",
+        "px-button-px",
+        "py-button-py",
+        "ring-inset",
+        "rounded-button",
+        "text-button-size",
+        "font-button-font",
+        "font-button-weight",
+        "tracking-button-tracking",
+        "focus-visible:outline-2",
+        "focus-visible:outline-offset-2",
+        "focus-visible:outline-state-focus",
+        "focus-visible:outline",
+        "border-2",
+        "text-button-dark-primary-text",
+        "bg-button-dark-primary-bg",
+        "border-button-dark-primary-border",
+        "ring-button-dark-primary-border",
+        "hover:text-button-dark-primary-text-hover",
+        "hover:bg-button-dark-primary-bg-hover",
+        "hover:border-button-dark-primary-border-hover",
+        "hover:ring-button-dark-primary-border-hover",
+        "focus:text-button-dark-primary-text-focus",
+        "focus:bg-button-dark-primary-bg-focus",
+        "focus:border-button-dark-primary-border-focus",
+        "focus:ring-button-dark-primary-border-focus",
+        "active:text-button-dark-primary-text-active",
+        "active:bg-button-dark-primary-bg-active",
+        "active:border-button-dark-primary-border-active",
+        "active:ring-button-dark-primary-border-active",
+        "disabled:text-button-dark-primary-text-disabled",
+        "disabled:bg-button-dark-primary-bg-disabled",
+        "disabled:border-button-dark-primary-border-disabled",
+        "disabled:ring-button-dark-primary-border-disabled",
+        "transition-transform",
+        "duration-300",
+        "translate-y-[-200%]",
+        "motion-reduce:transition-none",
+        "focus:translate-y-0"
+      ],
+      "text": "Skip to Content",
+      "attributes": {
+        "href": "#main",
+        "data-component-name": "button",
+        "data-mode": "dark",
+        "target": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/ph?country=ph&lang=en",
+        "data-component-name": "region-ph-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "[transform:_translateZ(0px)]",
+        "max-lg:h-full",
+        "max-lg:w-auto"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/c65bc0c2daf1df2c109d1f9c14444a57.webp?originalWidth=1045&originalHeight=800",
+        "alt": "Image of Glossier website selling beauty products",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1045",
+        "height": "800",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/c65bc0c2daf1df2c109d1f9c14444a57.webp?originalWidth=1045&originalHeight=800&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/c65bc0c2daf1df2c109d1f9c14444a57.webp?originalWidth=1045&originalHeight=800&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/c65bc0c2daf1df2c109d1f9c14444a57.webp?originalWidth=1045&originalHeight=800&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/c65bc0c2daf1df2c109d1f9c14444a57.webp?originalWidth=1045&originalHeight=800&width=800 800w, https://cdn.shopify.com/b/shopify-brochure2-assets/c65bc0c2daf1df2c109d1f9c14444a57.webp?originalWidth=1045&originalHeight=800&width=1000 1000w",
+        "sizes": "(min-width: 1600px) 567px, (min-width: 1200px) 35vw, (min-width: 900px) 471px, (min-width: 640px) 405px, 256px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Free tools",
+      "attributes": {
+        "href": "/tools"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "text-xl",
+        "leading-[20px]",
+        "font-medium",
+        "mb-6",
+        "text-white"
+      ],
+      "text": "Support",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Shipping",
+      "attributes": {
+        "href": "/shipping"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "flex",
+        "h-12",
+        "w-12",
+        "cursor-pointer",
+        "select-none",
+        "flex-col",
+        "items-center",
+        "justify-center",
+        "gap-1"
+      ],
+      "text": "",
+      "attributes": {
+        "aria-label": "Menu",
+        "aria-expanded": "false",
+        "aria-controls": "MobileDrawer",
+        "aria-haspopup": "true",
+        "type": "button",
+        "data-component-name": "navigation-toggle-open"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "object-cover",
+        "w-full",
+        "transition-all",
+        "duration-500",
+        "absolute",
+        "w-full",
+        "h-full",
+        "inset-0",
+        "opacity-0",
+        "z-0"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/669022e522248e4ab88aeeb1165486d0.jpg?originalWidth=571&originalHeight=744",
+        "alt": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "571",
+        "height": "744",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/669022e522248e4ab88aeeb1165486d0.jpg?originalWidth=571&originalHeight=744&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/669022e522248e4ab88aeeb1165486d0.jpg?originalWidth=571&originalHeight=744&width=400 400w",
+        "sizes": "25vw"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/ca?country=ca&lang=en",
+        "data-component-name": "region-ca-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Deutsch",
+      "attributes": {
+        "lang": "de",
+        "href": "/de?country=de&lang=de",
+        "data-component-name": "region-de-language-de"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "text-xl",
+        "leading-[20px]",
+        "font-medium",
+        "mb-6",
+        "text-white"
+      ],
+      "text": "Shopify",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "w-11",
+        "h-[50px]",
+        "text-white"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "#main",
+        "aria-label": "Back to the top"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "onlyny.com",
+      "attributes": {
+        "href": "https://onlyny.com/",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Privacy Choices",
+      "attributes": {
+        "href": "https://privacy.shopify.com/en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Shopify Editions",
+      "attributes": {
+        "href": "/editions"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h1",
+      "id": "",
+      "classes": [
+        "richtext",
+        "text-dsp",
+        "mb-lg",
+        "md:mb-2xl"
+      ],
+      "text": "Be the nextbig thing",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Customer Accounts",
+      "attributes": {
+        "href": "/customer-accounts"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Shopify mobile app",
+      "attributes": {
+        "data-component-name": "cta-mobile",
+        "href": "/mobile"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/ng?country=ng&lang=en",
+        "data-component-name": "region-ng-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Themes",
+      "attributes": {
+        "href": "https://themes.shopify.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "rowingblazers.com",
+      "attributes": {
+        "href": "https://rowingblazers.com/",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/dk?country=dk&lang=en",
+        "data-component-name": "region-dk-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "text-lg",
+        "font-medium"
+      ],
+      "text": "Choose a region & language",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Lithuanian",
+      "attributes": {
+        "lang": "lt",
+        "href": "/lt?country=lt&lang=lt",
+        "data-component-name": "region-lt-language-lt"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Legal",
+      "attributes": {
+        "href": "/legal"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/pl?country=pl&lang=en",
+        "data-component-name": "region-pl-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Get a stunning store",
+      "attributes": {
+        "data-component-name": "cta-online",
+        "href": "/online"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "App Store",
+      "attributes": {
+        "href": "https://apps.shopify.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/ar?country=ar&lang=en",
+        "data-component-name": "region-ar-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "hidden",
+        "lg:inline-flex",
+        "w-[max-content]",
+        "px-4",
+        "py-3",
+        "items-center",
+        "gap-3",
+        "mb-4",
+        "bg-white/20",
+        "rounded",
+        "shadow-dev-label-container",
+        "hover:bg-[#4A659A]"
+      ],
+      "text": "Create custom storefronts",
+      "attributes": {
+        "data-component-name": "cta-custom-storefronts",
+        "href": "/online#custom-options"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "richtext",
+        "text-t4",
+        "mb-md"
+      ],
+      "text": "Shopify has your back",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Español",
+      "attributes": {
+        "lang": "es",
+        "href": "/cl?country=cl&lang=es",
+        "data-component-name": "region-cl-language-es"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/mx?country=mx&lang=en",
+        "data-component-name": "region-mx-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "B2B",
+      "attributes": {
+        "href": "/plus/solutions/b2b-ecommerce"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "relative",
+        "z-10",
+        "w-[70px]",
+        "aspect-square",
+        "max-sm:translate-y-2.5",
+        "max-sm:-mt-2.5",
+        "sm:w-[80px]",
+        "sm:self-center",
+        "sm:justify-self-end",
+        "sm:row-start-[span_2]",
+        "sm:max-lg:justify-self-center",
+        "lg:hidden"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/bed4594e2c394553b2f03d9da43cb685.png?width=80",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/bed4594e2c394553b2f03d9da43cb685.png?width=160 2x",
+        "alt": "Sidekick"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Service status",
+      "attributes": {
+        "href": "https://shopifystatus.com"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Português",
+      "attributes": {
+        "lang": "pt",
+        "href": "/br?country=br&lang=pt",
+        "data-component-name": "region-br-language-pt"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "w-full",
+        "h-auto",
+        "select-none",
+        "pointer-events-none"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/988b6738089b476b12bb11624047cbee.png?originalWidth=1200&originalHeight=778",
+        "alt": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1200",
+        "height": "778",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/988b6738089b476b12bb11624047cbee.png?originalWidth=1200&originalHeight=778&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/988b6738089b476b12bb11624047cbee.png?originalWidth=1200&originalHeight=778&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/988b6738089b476b12bb11624047cbee.png?originalWidth=1200&originalHeight=778&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/988b6738089b476b12bb11624047cbee.png?originalWidth=1200&originalHeight=778&width=800 800w, https://cdn.shopify.com/b/shopify-brochure2-assets/988b6738089b476b12bb11624047cbee.png?originalWidth=1200&originalHeight=778&width=1000 1000w",
+        "sizes": "(min-width: 1200px) 800px, 600px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "w-full",
+        "h-auto",
+        "select-none",
+        "pointer-events-none"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/d18b1ff1c3fc52ffc4c735129b88c00a.jpg?originalWidth=532&originalHeight=1230",
+        "alt": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "532",
+        "height": "1230",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/d18b1ff1c3fc52ffc4c735129b88c00a.jpg?originalWidth=532&originalHeight=1230&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/d18b1ff1c3fc52ffc4c735129b88c00a.jpg?originalWidth=532&originalHeight=1230&width=400 400w",
+        "sizes": "(min-width: 1200px) 400px, 200px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "What is Shopify?",
+      "attributes": {
+        "href": "/blog/what-is-shopify"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Shopify Admin",
+      "attributes": {
+        "data-component-name": "cta-admin",
+        "href": "/manage"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "multichannel integration",
+      "attributes": {
+        "data-component-name": "cta-channels",
+        "href": "/channels"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/lt?country=lt&lang=en",
+        "data-component-name": "region-lt-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "whitespace-nowrap",
+        "hover:underline",
+        "text-white"
+      ],
+      "text": "Log in",
+      "attributes": {
+        "href": "/login?ui_locales=en",
+        "data-component-name": "login"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "richtext",
+        "text-t4"
+      ],
+      "text": "The world’s best-converting checkout",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Analytics",
+      "attributes": {
+        "href": "/analytics"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/fi?country=fi&lang=en",
+        "data-component-name": "region-fi-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/hk-en?country=hk&lang=en",
+        "data-component-name": "region-hk-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "overflow-hidden",
+        "max-w-full",
+        "px-button-px",
+        "py-button-py",
+        "ring-inset",
+        "rounded-button",
+        "font-button-font",
+        "font-button-weight",
+        "tracking-button-tracking",
+        "duration-150",
+        "focus-visible:outline-2",
+        "focus-visible:outline-offset-2",
+        "focus-visible:outline-state-focus",
+        "focus-visible:outline",
+        "md:px-button-lg-px",
+        "md:py-button-lg-py",
+        "text-button-lg-size",
+        "border-2",
+        "border-button-dark-primary-border",
+        "ring-button-dark-primary-border",
+        "hover:border-button-dark-primary-border-hover",
+        "hover:ring-button-dark-primary-border-hover",
+        "focus:text-button-dark-primary-text-focus",
+        "focus:bg-button-dark-primary-bg-focus",
+        "focus:border-button-dark-primary-border-focus",
+        "focus:ring-button-dark-primary-border-focus",
+        "active:text-button-dark-primary-text-active",
+        "active:bg-button-dark-primary-bg-active",
+        "active:border-button-dark-primary-border-active",
+        "active:ring-button-dark-primary-border-active",
+        "disabled:text-button-dark-primary-text-disabled",
+        "disabled:bg-button-dark-primary-bg-disabled",
+        "disabled:border-button-dark-primary-border-disabled",
+        "disabled:ring-button-dark-primary-border-disabled",
+        "w-full",
+        "sm:w-auto",
+        "justify-center",
+        "items-center",
+        "gap-x-4",
+        "text-white",
+        "text-center",
+        "self-start",
+        "bg-[rgba(255,255,255,0.15)]",
+        "md:bg-transparent",
+        "transition-colors",
+        "group",
+        "hover:bg-white",
+        "hover:text-black",
+        "md:hover:bg-white/15",
+        "md:hover:text-white",
+        "animate-fade-in-200ms-linear",
+        "hidden",
+        "sm:block"
+      ],
+      "text": "Why we build Shopify",
+      "attributes": {
+        "type": "button",
+        "data-component-name": "video-modal-button",
+        "aria-haspopup": "dialog"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "[transform:_translateZ(0px)]",
+        "max-lg:h-full",
+        "max-lg:w-auto"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/e103a64d117a2736cc4ff269828fe5ef.webp?originalWidth=1032&originalHeight=800",
+        "alt": "Photo of customer on phone buying product bundle from skincare brand Thirsty Turtl",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1032",
+        "height": "800",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/e103a64d117a2736cc4ff269828fe5ef.webp?originalWidth=1032&originalHeight=800&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/e103a64d117a2736cc4ff269828fe5ef.webp?originalWidth=1032&originalHeight=800&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/e103a64d117a2736cc4ff269828fe5ef.webp?originalWidth=1032&originalHeight=800&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/e103a64d117a2736cc4ff269828fe5ef.webp?originalWidth=1032&originalHeight=800&width=800 800w, https://cdn.shopify.com/b/shopify-brochure2-assets/e103a64d117a2736cc4ff269828fe5ef.webp?originalWidth=1032&originalHeight=800&width=1000 1000w",
+        "sizes": "(min-width: 1600px) 567px, (min-width: 1200px) 35vw, (min-width: 900px) 471px, (min-width: 640px) 405px, 256px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "gap-y-1",
+        "max-sm:flex",
+        "max-sm:flex-col",
+        "max-sm:min-h-[176px]",
+        "sm:max-lg:grid",
+        "sm:max-lg:grid-cols-[1.5fr_1fr]",
+        "sm:max-lg:grid-rows-[auto]",
+        "sm:max-lg:gap-x-3",
+        "sm:max-lg:min-h-[129px]",
+        "max-lg:border",
+        "max-lg:rounded-2xl",
+        "max-lg:h-full",
+        "max-lg:p-6",
+        "lg:flex",
+        "lg:flex-col",
+        "lg:w-[190px]",
+        "max-lg:relative",
+        "max-lg:overflow-clip",
+        "max-lg:bg-shade-95",
+        "max-lg:border",
+        "max-lg:border-[#19272A]",
+        "max-sm:before:w-[213px]",
+        "max-sm:before:h-[115px]",
+        "max-sm:before:left-0",
+        "max-sm:before:top-0",
+        "max-sm:before:-translate-y-1/2",
+        "sm:max-lg:before:-left-1/4",
+        "sm:max-lg:before:top-1/4",
+        "sm:max-lg:before:w-[289px]",
+        "sm:max-lg:before:h-[231px]",
+        "max-lg:before:absolute",
+        "max-lg:before:pointer-events-none",
+        "max-lg:before:rounded-289px",
+        "max-lg:before:bg-linear-[91deg]",
+        "max-lg:before:from-[rgba(17,52,57,0.50)]",
+        "max-lg:before:from-[2.27%]",
+        "max-lg:before:to-[rgba(15,41,49,0.50)]",
+        "max-lg:before:to-[98.62%]",
+        "max-lg:before:mix-blend-mode-exclusion",
+        "max-lg:before:blur-[100px]",
+        "max-sm:after:left-0",
+        "max-sm:after:-translate-x-1/4",
+        "max-sm:after:bottom-0",
+        "max-sm:after:translate-y-1/2",
+        "sm:max-lg:after:top-1/2",
+        "sm:max-lg:after:-translate-y-1/2",
+        "max-lg:after:absolute",
+        "max-lg:after:pointer-events-none",
+        "max-lg:after:w-[174px]",
+        "max-lg:after:h-[193px]",
+        "max-lg:after:bg-radial-[156.58%_114.72%_at_50%_100%]",
+        "max-lg:[li:first-child_&]:after:from-[rgba(9,78,255,0.30)]",
+        "max-lg:after:from-[0%]",
+        "max-lg:[li:last-child_&]:after:from-[rgba(115,55,232,0.43)]",
+        "max-lg:after:to-[rgba(0,0,0,0.00)]",
+        "max-lg:after:to-[100%]",
+        "max-lg:after:mix-blend-mode-exclusion",
+        "max-lg:after:blur-[50px]",
+        "max-lg:after:right-0"
+      ],
+      "text": "SidekickYour commerce-obsessed AI assistant.",
+      "attributes": {
+        "href": "/sidekick"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "[transform:_translateZ(0px)]",
+        "max-lg:h-full",
+        "max-lg:w-auto"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/f11495397635517ec5ee47c2b360dd04.webp?originalWidth=1032&originalHeight=800",
+        "alt": "Image of Super Smalls website selling jewelry for kids",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1032",
+        "height": "800",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/f11495397635517ec5ee47c2b360dd04.webp?originalWidth=1032&originalHeight=800&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/f11495397635517ec5ee47c2b360dd04.webp?originalWidth=1032&originalHeight=800&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/f11495397635517ec5ee47c2b360dd04.webp?originalWidth=1032&originalHeight=800&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/f11495397635517ec5ee47c2b360dd04.webp?originalWidth=1032&originalHeight=800&width=800 800w, https://cdn.shopify.com/b/shopify-brochure2-assets/f11495397635517ec5ee47c2b360dd04.webp?originalWidth=1032&originalHeight=800&width=1000 1000w",
+        "sizes": "(min-width: 1600px) 567px, (min-width: 1200px) 35vw, (min-width: 900px) 471px, (min-width: 640px) 405px, 256px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "self-center",
+        "overflow-hidden",
+        "max-w-full",
+        "px-button-px",
+        "py-button-py",
+        "ring-inset",
+        "rounded-button",
+        "font-button-font",
+        "font-button-weight",
+        "tracking-button-tracking",
+        "transition-all",
+        "duration-150",
+        "focus-visible:outline-2",
+        "focus-visible:outline-offset-2",
+        "focus-visible:outline-state-focus",
+        "focus-visible:outline",
+        "md:px-button-lg-px",
+        "md:py-button-lg-py",
+        "text-button-lg-size",
+        "border-2",
+        "text-button-dark-primary-text",
+        "bg-button-dark-primary-bg",
+        "border-button-dark-primary-border",
+        "ring-button-dark-primary-border",
+        "hover:text-button-dark-primary-text-hover",
+        "hover:bg-button-dark-primary-bg-hover",
+        "hover:border-button-dark-primary-border-hover",
+        "hover:ring-button-dark-primary-border-hover",
+        "focus:text-button-dark-primary-text-focus",
+        "focus:bg-button-dark-primary-bg-focus",
+        "focus:border-button-dark-primary-border-focus",
+        "focus:ring-button-dark-primary-border-focus",
+        "active:text-button-dark-primary-text-active",
+        "active:bg-button-dark-primary-bg-active",
+        "active:border-button-dark-primary-border-active",
+        "active:ring-button-dark-primary-border-active",
+        "disabled:text-button-dark-primary-text-disabled",
+        "disabled:bg-button-dark-primary-bg-disabled",
+        "disabled:border-button-dark-primary-border-disabled",
+        "disabled:ring-button-dark-primary-border-disabled",
+        "block",
+        "w-full",
+        "text-center",
+        "sm:w-auto",
+        "sm:text-left"
+      ],
+      "text": "Start for free",
+      "attributes": {
+        "href": "https://admin.shopify.com/signup?locale=en&language=en&signup_page=https%3A%2F%2Fwww.shopify.com%2F&signup_types%5B%5D=paid_trial_experience",
+        "data-component-name": "button",
+        "data-mode": "dark",
+        "target": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "main",
+      "id": "main",
+      "classes": [
+        "focus-visible:outline-none"
+      ],
+      "text": "Be the nextbig thingBe the nextstore they line up forbigthingonetowatchcategorycreatorunicornstartuphouseholdnameglobalempiresoloflierstoretheylineupforDream big, build fast, and grow far on Shopify.Start for freeWhy we build ShopifyWhy we build ShopifyThe one commerce platform behind it allSell online and in person.Sell locally and globally.Sell direct and wholesale.Sell on desktop and mobile.glossier.comthesill.comvacation.incaurabora.comkitandace.comsupersmalls.comhappymondaycoffee.comonlyny.",
+      "attributes": {
+        "role": "main",
+        "id": "main",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Polski",
+      "attributes": {
+        "lang": "pl",
+        "href": "/pl?country=pl&lang=pl",
+        "data-component-name": "region-pl-language-pl"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "[transform:_translateZ(0px)]",
+        "max-lg:h-full",
+        "max-lg:w-auto"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/92b0585e60e00efb6ceaf2aec6a66027.webp?originalWidth=1046&originalHeight=800",
+        "alt": "Image of Vacation Inc website selling sunscreen",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1046",
+        "height": "800",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/92b0585e60e00efb6ceaf2aec6a66027.webp?originalWidth=1046&originalHeight=800&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/92b0585e60e00efb6ceaf2aec6a66027.webp?originalWidth=1046&originalHeight=800&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/92b0585e60e00efb6ceaf2aec6a66027.webp?originalWidth=1046&originalHeight=800&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/92b0585e60e00efb6ceaf2aec6a66027.webp?originalWidth=1046&originalHeight=800&width=800 800w, https://cdn.shopify.com/b/shopify-brochure2-assets/92b0585e60e00efb6ceaf2aec6a66027.webp?originalWidth=1046&originalHeight=800&width=1000 1000w",
+        "sizes": "(min-width: 1600px) 567px, (min-width: 1200px) 35vw, (min-width: 900px) 471px, (min-width: 640px) 405px, 256px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "German",
+      "attributes": {
+        "lang": "de",
+        "href": "/be-de?country=be&lang=de",
+        "data-component-name": "region-be-language-de"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "footer",
+      "id": "",
+      "classes": [
+        "relative",
+        "py-20",
+        "px-8",
+        "gap-y-14",
+        "font-sans",
+        "max-sm:flex",
+        "max-sm:flex-col",
+        "sm:grid",
+        "sm:grid-cols-3",
+        "sm:gap-x-gutter",
+        "sm:px-margin",
+        "md:grid-cols-5",
+        "xl:px-auto-xl",
+        "bg-black",
+        "text-shade-40"
+      ],
+      "text": "ShopifyWhat is Shopify?Shopify EditionsCareersInvestorsNewsroomSustainabilityEcosystemDeveloper docsTheme StoreApp StorePartnersAffiliatesResourcesBlogCompare ShopifyGuidesCoursesFree toolsChangelogSupportShopify Help CenterCommunity ForumHire a partnerService statusUSA|EnglishArgentinaEspañol|EnglishAustraliaEnglishAustriaDeutsch|EnglishBelarusRussian|EnglishBelgiumNederlands|German|Français|EnglishBrazilPortuguês|EnglishBulgariaBulgarian|EnglishCanadaEnglish|FrançaisChileEspañol|EnglishColombi",
+      "attributes": {
+        "data-component-name": "footer"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "[transform:_translateZ(0px)]",
+        "max-lg:h-full",
+        "max-lg:w-auto"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/c10c68f8cde3ae725cb4286678280226.webp?originalWidth=454&originalHeight=800",
+        "alt": "Photo of employee standing behind counter at Happy Monday Coffee Roasters with Shopify hardware for in-person selling",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "454",
+        "height": "800",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/c10c68f8cde3ae725cb4286678280226.webp?originalWidth=454&originalHeight=800&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/c10c68f8cde3ae725cb4286678280226.webp?originalWidth=454&originalHeight=800&width=400 400w",
+        "sizes": "(min-width: 1600px) 246px, (min-width: 1200px) 15vw, (min-width: 900px) 204px, (min-width: 640px) 176px, 111px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/de?country=de&lang=en",
+        "data-component-name": "region-de-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "ไทย",
+      "attributes": {
+        "lang": "th",
+        "href": "/th?country=th&lang=th",
+        "data-component-name": "region-th-language-th"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Indonesian",
+      "attributes": {
+        "lang": "id",
+        "href": "/id-id?country=id&lang=id",
+        "data-component-name": "region-id-language-id"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Nederlands",
+      "attributes": {
+        "lang": "nl",
+        "href": "/be?country=be&lang=nl",
+        "data-component-name": "region-be-language-nl"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Shopify Markets",
+      "attributes": {
+        "data-component-name": "cta-markets",
+        "href": "/international"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "focus-visible:outline-offset-[-3px]",
+        "block",
+        "relative"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "/editions/all",
+        "target": "_blank",
+        "rel": "noreferrer"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/hu?country=hu&lang=en",
+        "data-component-name": "region-hu-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "object-cover",
+        "w-full",
+        "transition-all",
+        "duration-500",
+        "w-full",
+        "h-full",
+        "opacity-100",
+        "z-10"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/742068a6e1f7a94ba0ee51e40bea7226.jpg?originalWidth=562&originalHeight=750",
+        "alt": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "562",
+        "height": "750",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/742068a6e1f7a94ba0ee51e40bea7226.jpg?originalWidth=562&originalHeight=750&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/742068a6e1f7a94ba0ee51e40bea7226.jpg?originalWidth=562&originalHeight=750&width=400 400w",
+        "sizes": "25vw"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/ch?country=ch&lang=en",
+        "data-component-name": "region-ch-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Sidekick",
+      "attributes": {
+        "href": "/magic"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "[transform:_translateZ(0px)]",
+        "max-lg:h-full",
+        "max-lg:w-auto"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/f478c242ac029c5f9116252ae2a8e2e1.webp?originalWidth=424&originalHeight=800",
+        "alt": "Image of mobile website for Caraway selling kitchenware",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "424",
+        "height": "800",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/f478c242ac029c5f9116252ae2a8e2e1.webp?originalWidth=424&originalHeight=800&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/f478c242ac029c5f9116252ae2a8e2e1.webp?originalWidth=424&originalHeight=800&width=400 400w",
+        "sizes": "(min-width: 1600px) 246px, (min-width: 1200px) 15vw, (min-width: 900px) 204px, (min-width: 640px) 176px, 111px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "object-cover",
+        "w-full",
+        "transition-all",
+        "duration-500",
+        "absolute",
+        "w-full",
+        "h-full",
+        "inset-0",
+        "opacity-0",
+        "z-0"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/ce0048c94b712ae773a1f6371ced6303.jpg?originalWidth=576&originalHeight=747",
+        "alt": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "576",
+        "height": "747",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/ce0048c94b712ae773a1f6371ced6303.jpg?originalWidth=576&originalHeight=747&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/ce0048c94b712ae773a1f6371ced6303.jpg?originalWidth=576&originalHeight=747&width=400 400w",
+        "sizes": "25vw"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "kitandace.com",
+      "attributes": {
+        "href": "https://www.kitandace.com/",
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+        "tabindex": "-1"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/?country=us&lang=en",
+        "data-component-name": "region-us-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "[transform:_translateZ(0px)]",
+        "max-lg:h-full",
+        "max-lg:w-auto"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/e919a4c2c7484b87699b2e6f5d020690.webp?originalWidth=454&originalHeight=800",
+        "alt": "Image of Aura Bora mobile website selling canned drinks",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "454",
+        "height": "800",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/e919a4c2c7484b87699b2e6f5d020690.webp?originalWidth=454&originalHeight=800&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/e919a4c2c7484b87699b2e6f5d020690.webp?originalWidth=454&originalHeight=800&width=400 400w",
+        "sizes": "(min-width: 1600px) 246px, (min-width: 1200px) 15vw, (min-width: 900px) 204px, (min-width: 640px) 176px, 111px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "conversion-heading",
+      "classes": [
+        "richtext",
+        "text-t3"
+      ],
+      "text": "Start selling in no time",
+      "attributes": {
+        "id": "conversion-heading"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "absolute",
+        "object-contain",
+        "w-[288px]",
+        "h-[172px]",
+        "-translate-y-1/2",
+        "left-full",
+        "top-0"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/0c0c5226a7fa616d89d03874a2308670.svg"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/ro?country=ro&lang=en",
+        "data-component-name": "region-ro-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "object-cover",
+        "w-full",
+        "transition-all",
+        "duration-500",
+        "absolute",
+        "w-full",
+        "h-full",
+        "inset-0",
+        "opacity-0",
+        "z-0"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/300722606d1783ce51852b40d584070f.jpg?originalWidth=576&originalHeight=746",
+        "alt": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "576",
+        "height": "746",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/300722606d1783ce51852b40d584070f.jpg?originalWidth=576&originalHeight=746&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/300722606d1783ce51852b40d584070f.jpg?originalWidth=576&originalHeight=746&width=400 400w",
+        "sizes": "25vw"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "flex",
+        "items-center",
+        "text-white",
+        "hover:text-white"
+      ],
+      "text": "Pricing",
+      "attributes": {
+        "href": "/pricing"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Deutsch",
+      "attributes": {
+        "lang": "de",
+        "href": "/ch?country=ch&lang=de",
+        "data-component-name": "region-ch-language-de"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "bg-transparent",
+        "mx-auto",
+        "md:inline-block",
+        "text-[#E0E0E0]",
+        "hover:text-white"
+      ],
+      "text": "USA|English",
+      "attributes": {
+        "aria-controls": "regionSelector",
+        "aria-expanded": "false",
+        "aria-haspopup": "true",
+        "type": "button",
+        "data-component-name": "region-selector-open",
+        "tabindex": "0",
+        "aria-label": "Region Navigation. Current: USA"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "relative",
+        "z-[1]",
+        "w-6",
+        "h-[1.1rem]",
+        "transition-opacity",
+        "sm:w-10",
+        "sm:h-[1.8rem]",
+        "md:w-8",
+        "md:h-[1.4rem]",
+        "lg:w-10",
+        "lg:h-[1.8rem]",
+        "transition-transform",
+        "ease-in",
+        "opacity-60"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/7fd378060668fbb746a61d562bd40dc9.png"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Workflow Automation",
+      "attributes": {
+        "href": "/flow"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "text-xl",
+        "leading-[20px]",
+        "font-medium",
+        "mb-6",
+        "text-white"
+      ],
+      "text": "Ecosystem",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/my?country=my&lang=en",
+        "data-component-name": "region-my-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Russian",
+      "attributes": {
+        "lang": "ru",
+        "href": "/by?country=by&lang=ru",
+        "data-component-name": "region-by-language-ru"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "hidden",
+        "lg:inline-flex",
+        "w-[max-content]",
+        "px-4",
+        "py-3",
+        "items-center",
+        "gap-3",
+        "mb-4",
+        "bg-white/20",
+        "rounded",
+        "shadow-dev-label-container",
+        "hover:bg-[#4A659A]"
+      ],
+      "text": "Extend checkout",
+      "attributes": {
+        "data-component-name": "cta-extend-checkout",
+        "href": "/checkout#developer-platform"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "richtext",
+        "text-t2",
+        "mx-auto",
+        "text-center",
+        "md:w-3/4",
+        "lg:w-2/3",
+        "xl:w-1/2",
+        "text-pretty",
+        "pb-[3px]"
+      ],
+      "text": "There’s no better place for you to build",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "absolute",
+        "object-contain",
+        "w-[580px]",
+        "h-[76px]",
+        "-translate-x-1/2",
+        "-translate-y-full",
+        "left-1/2",
+        "top-0"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/833df85b2f84dbf6e98d06acd5483591.svg"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "focus-visible:outline-offset-[-3px]",
+        "block",
+        "relative"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "/editions/all",
+        "target": "_blank",
+        "rel": "noreferrer"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Social & Marketplaces",
+      "attributes": {
+        "href": "/channels"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "inline-block",
+        "shrink-0",
+        "relative",
+        "z-20"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "/",
+        "data-component-name": "logo-home"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/uk?country=gb&lang=en",
+        "data-component-name": "region-gb-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Español",
+      "attributes": {
+        "lang": "es",
+        "href": "/co?country=co&lang=es",
+        "data-component-name": "region-co-language-es"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/au?country=au&lang=en",
+        "data-component-name": "region-au-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/in?country=in&lang=en",
+        "data-component-name": "region-in-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Newsroom",
+      "attributes": {
+        "href": "/news"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "absolute",
+        "inset-0",
+        "object-cover"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/1d40849c5137319b5f80efc99e33bff9.jpg?originalWidth=406&originalHeight=452",
+        "alt": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "406",
+        "height": "452",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/1d40849c5137319b5f80efc99e33bff9.jpg?originalWidth=406&originalHeight=452&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/1d40849c5137319b5f80efc99e33bff9.jpg?originalWidth=406&originalHeight=452&width=400 400w",
+        "sizes": "200px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Email & Customer Chat",
+      "attributes": {
+        "href": "/marketing-automation-tools"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [
+        "richtext",
+        "text-t4",
+        "mb-md"
+      ],
+      "text": "Shopify keeps you at the cutting edge",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "Dansk",
+      "attributes": {
+        "lang": "da",
+        "href": "/dk?country=dk&lang=da",
+        "data-component-name": "region-dk-language-da"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "text-sm",
+        "hover:underline",
+        "text-zinc-400"
+      ],
+      "text": "English",
+      "attributes": {
+        "lang": "en",
+        "href": "/nz?country=nz&lang=en",
+        "data-component-name": "region-nz-language-en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "object-cover",
+        "w-full",
+        "transition-all",
+        "duration-500",
+        "absolute",
+        "w-full",
+        "h-full",
+        "inset-0",
+        "opacity-0",
+        "z-0"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/890dbeb471a10637528a72179b12bfa9.jpg?originalWidth=575&originalHeight=795",
+        "alt": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "575",
+        "height": "795",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/890dbeb471a10637528a72179b12bfa9.jpg?originalWidth=575&originalHeight=795&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/890dbeb471a10637528a72179b12bfa9.jpg?originalWidth=575&originalHeight=795&width=400 400w",
+        "sizes": "25vw"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "relative",
+        "z-[1]",
+        "w-6",
+        "h-[1.1rem]",
+        "transition-opacity",
+        "sm:w-10",
+        "sm:h-[1.8rem]",
+        "md:w-8",
+        "md:h-[1.4rem]",
+        "lg:w-10",
+        "lg:h-[1.8rem]",
+        "transition-transform",
+        "ease-in",
+        "opacity-60"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/4142eddf07530c57040f91cc1bb2b5d0.png"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "relative",
+        "z-[1]",
+        "w-6",
+        "h-[1.1rem]",
+        "transition-opacity",
+        "sm:w-10",
+        "sm:h-[1.8rem]",
+        "md:w-8",
+        "md:h-[1.4rem]",
+        "lg:w-10",
+        "lg:h-[1.8rem]",
+        "transition-transform",
+        "ease-in",
+        "opacity-60"
+      ],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/b1debcf2c15172ecfe86b0d30d664ad3.png"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "footer",
+      "id": "",
+      "classes": [
+        "[&_a]:underline",
+        "mt-4",
+        "text-sm",
+        "md:mt-8",
+        "md:text-lg"
+      ],
+      "text": "Jessica WiseCEO,Hell Babes",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link"
+      ],
+      "text": "Shopify.devDev docs, CLI, and more",
+      "attributes": {
+        "href": "https://shopify.dev"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "mr-4",
+        "text-base",
+        "underline",
+        "text-white"
+      ],
+      "text": "Start for free",
+      "attributes": {
+        "href": "https://admin.shopify.com/signup?locale=en&language=en&signup_page=https%3A%2F%2Fwww.shopify.com%2F&signup_types%5B%5D=paid_trial_experience",
+        "data-component-name": "start-free-trial",
+        "aria-label": "External source: Start for free"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "pointer-events-none",
+        "relative",
+        "z-0",
+        "will-change-transform"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/19921ffd6712ba93c947645a87772d55.png?originalWidth=1800&originalHeight=1800",
+        "alt": "Editions Winter 2024",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1800",
+        "height": "1800",
+        "srcset": "https://cdn.shopify.com/b/shopify-brochure2-assets/19921ffd6712ba93c947645a87772d55.png?originalWidth=1800&originalHeight=1800&width=200 200w, https://cdn.shopify.com/b/shopify-brochure2-assets/19921ffd6712ba93c947645a87772d55.png?originalWidth=1800&originalHeight=1800&width=400 400w, https://cdn.shopify.com/b/shopify-brochure2-assets/19921ffd6712ba93c947645a87772d55.png?originalWidth=1800&originalHeight=1800&width=600 600w, https://cdn.shopify.com/b/shopify-brochure2-assets/19921ffd6712ba93c947645a87772d55.png?originalWidth=1800&originalHeight=1800&width=800 800w, https://cdn.shopify.com/b/shopify-brochure2-assets/19921ffd6712ba93c947645a87772d55.png?originalWidth=1800&originalHeight=1800&width=1000 1000w, https://cdn.shopify.com/b/shopify-brochure2-assets/19921ffd6712ba93c947645a87772d55.png?originalWidth=1800&originalHeight=1800&width=1200 1200w, https://cdn.shopify.com/b/shopify-brochure2-assets/19921ffd6712ba93c947645a87772d55.png?originalWidth=1800&originalHeight=1800&width=1400 1400w, https://cdn.shopify.com/b/shopify-brochure2-assets/19921ffd6712ba93c947645a87772d55.png?originalWidth=1800&originalHeight=1800&width=1600 1600w",
+        "sizes": "(min-width: 1600px) 222px, (min-width: 900px) 14vw, (min-width: 640px) 28vw, 175px"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Investors",
+      "attributes": {
+        "href": "https://investors.shopify.com"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/67583e03fbb03b2f502951e163150c8f.svg"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "level3-link",
+        "flex",
+        "items-center",
+        "sm:items-start",
+        "gap-x-4",
+        "py-2.5",
+        "will-change-[opacity]",
+        "max-sm:text-base",
+        "[@media(max-height:771px)_and_(min-width:1200px)]:py-1.5"
+      ],
+      "text": "Checkout",
+      "attributes": {
+        "href": "/checkout"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Shopify Capital",
+      "attributes": {
+        "data-component-name": "cta-lending",
+        "href": "/capital"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "href": "https://www.pinterest.com/shopify/",
+        "rel": "me nofollow noopener noreferrer",
+        "target": "_blank",
+        "aria-label": "External source: Pinterest (Opens in a new window)"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Shopify Help Center",
+      "attributes": {
+        "href": "https://help.shopify.com/en"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "transition-colors",
+        "duration-200",
+        "hover:text-white"
+      ],
+      "text": "Guides",
+      "attributes": {
+        "href": "/blog/topics/guides"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/b5f6adb00b3b5bba327b9ee4327c098c.png?originalWidth=923&originalHeight=873"
+      },
+      "computedStyles": {}
+    }
+  ]
+}

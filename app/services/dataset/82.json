@@ -1,0 +1,4827 @@
+{
+  "meta": {
+    "url": "https://www.walgreens.com",
+    "title": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You",
+    "lang": "en",
+    "charset": "UTF-8"
+  },
+  "elements": [
+    {
+      "tag": "a",
+      "id": "health-module-tile-3",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "Track COVID-19 & fluMonitor local trends and find nearby vaccination, testing & treatment options.",
+      "attributes": {
+        "href": "https://www.walgreens.com/seasonal/respiratory-illness-index?ban=HP_HealthModule_11092025_Respiratory_Index",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "health-module-tile-3",
+        "style": "background: #FFFFFF",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/seasonal/respiratory-illness-index?ban=HP_HealthModule_11092025_Respiratory_Index\",\"cardInfo\":\"Track COVID-19 & flu Monitor local trends and find nearby vaccination, testing & treatment options.\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": "#FFFFFF"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown__title"
+      ],
+      "text": "Health Services",
+      "attributes": {
+        "data-element-name": "Health Services",
+        "data-content-name": "Main nav link",
+        "href": "javascript:void(0);",
+        "role": "button",
+        "aria-expanded": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "labelledIcon"
+      ],
+      "text": "Party Suplies",
+      "attributes": {
+        "href": "https://www.walgreens.com/promotion/party-supplies?ban=HP_FeatCategories_10122025_PartySupplies"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "California Transparency Act",
+      "attributes": {
+        "href": "/topic/information/california_transparency_act.jsp"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "nebulizer_services",
+      "classes": [],
+      "text": "Nebulizer Services",
+      "attributes": {
+        "id": "nebulizer_services",
+        "href": "/topic/pharmacy/nebulizer-services.jsp?o=acs",
+        "data-element-name": "Nebulizer Services",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20250803_HP_Tertiary_Image_Card_2.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251109_HP_HolidayPrep_Image_Card3_3up.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251109_HP_DOTW_Offer_Card1_Row1_Carousel.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "MyWalgreens Health Access™",
+      "attributes": {
+        "data-element-name": "MyWalgreens Health Access™",
+        "data-content-name": "Main nav child link",
+        "href": "/topic/mywalgreenshealthaccess.jsp"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Online Privacy & Security Policy",
+      "attributes": {
+        "href": "/topic/help/generalhelp/privacyandsecurity.jsp?foot=security"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "walgreens-cash-rewards",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Walgreens Cash Rewards",
+      "attributes": {
+        "id": "walgreens-cash-rewards",
+        "href": "/mywalgreens/dashboard.jsp",
+        "data-element-type": "globalNav",
+        "data-element-name": "Walgreens Cash Rewards",
+        "data-testid": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "glider-next",
+        "slick-arrow",
+        "wag-text-dynamic"
+      ],
+      "text": "",
+      "attributes": {
+        "aria-label": "Next Slide",
+        "tabindex": "-1",
+        "aria-hidden": "true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "shop_contact_lenses",
+      "classes": [],
+      "text": "Shop Contact Lenses",
+      "attributes": {
+        "id": "shop_contact_lenses",
+        "href": "/store/c/contact-lenses/ID=359432-tier2clense",
+        "data-element-name": "Shop Contact Lenses",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251109_HP_RespiratoryHealth_Image_Card1_4up.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "labelledIcon"
+      ],
+      "text": "Baby & Kids",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/productlist/N=359449/1/ShopAll=359449?ban=HP_FeatCategory_7132025_BabyKids"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Women's Wellness",
+      "attributes": {
+        "href": "/topic/promotion/womens-wellness.jsp",
+        "data-element-name": "Women's Wellness",
+        "data-content-name": "Tier 1 link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "labelledIconImage"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/shop-page/20250706_SP_Category_Clearance_20.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "btn",
+        "btn__rounded",
+        "btn__ghost",
+        "modal-hover",
+        "close-modal"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "aria-label": "close overlay"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Toys, Games & Books",
+      "attributes": {
+        "href": "/store/c/toys-games-and-books/ID=20001469-tier1",
+        "data-element-name": "Toys, Games & Books",
+        "data-content-name": "Tier 1 link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Holiday shop",
+      "attributes": {
+        "href": "/seasonal/holiday-gift-shop?ban=HP_Nav_11092025_HolidayShop"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Clearance",
+      "attributes": {
+        "data-element-name": "Clearance",
+        "data-content-name": "Main nav child link",
+        "href": "/search/results.jsp?Ntt=Clearance&ban=dl_dlsp_ShopProducts_Clearance"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "deals",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Deals",
+      "attributes": {
+        "data-element-name": "Deals",
+        "data-content-name": "Main nav child link",
+        "href": "https://photo.walgreens.com/store/deals",
+        "id": "deals"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title",
+        "side-dropdown__title",
+        "content__inline"
+      ],
+      "text": "More Services",
+      "attributes": {
+        "data-element-name": "More Services",
+        "data-content-name": "Main nav child link",
+        "href": "javascript:void(0);",
+        "role": "button",
+        "style": "white-space:nowrap;display:flex;align-items:center;justify-content:space-between;padding-right:6px",
+        "aria-expanded": "false"
+      },
+      "computedStyles": {
+        "whiteSpace": "nowrap",
+        "display": "flex",
+        "alignItems": "center",
+        "justifyContent": "space-between",
+        "paddingRight": "6px"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Vitamins & Supplements",
+      "attributes": {
+        "href": "/store/c/vitamins-and-supplements/ID=359441-tier1",
+        "data-element-name": "Vitamins & Supplements",
+        "data-content-name": "Tier 1 link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Careers",
+      "attributes": {
+        "href": "https://jobs.walgreens.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "Solutions_Drops_&_Cases",
+      "classes": [],
+      "text": "Solutions, Drops & Cases",
+      "attributes": {
+        "id": "Solutions_Drops_&_Cases",
+        "href": "/store/c/solutions-drops-and-cases/ID=360305-tier3contactlens",
+        "data-element-name": "Solutions, Drops & Cases",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "icon__my-cart"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "/cart/view-ui",
+        "title": "Shopping cart",
+        "aria-label": "View shopping cart with 0 items"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title",
+        "side-dropdown__title",
+        "content__inline"
+      ],
+      "text": "Contact Lenses",
+      "attributes": {
+        "data-element-name": "Contact Lenses",
+        "data-content-name": "Main nav child link",
+        "href": "javascript:void(0);",
+        "role": "button",
+        "style": "white-space:nowrap;display:flex;align-items:center;justify-content:space-between;padding-right:6px",
+        "aria-expanded": "false"
+      },
+      "computedStyles": {
+        "whiteSpace": "nowrap",
+        "display": "flex",
+        "alignItems": "center",
+        "justifyContent": "space-between",
+        "paddingRight": "6px"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Top Deals",
+      "attributes": {
+        "data-element-name": "Top Deals",
+        "data-content-name": "Main nav child link",
+        "href": "/topic/promotion/walgreens-online-deals.jsp?ban=dl_dlsp_MegaMenu_DMI_TopDeals"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "font__sixteen"
+      ],
+      "text": "Terms and Conditions",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "health-pills-tile-4",
+      "classes": [
+        "quicklinkcardv1",
+        "lazy-load",
+        "placeholder"
+      ],
+      "text": "Shop contact lenses",
+      "attributes": {
+        "data-loaded": "false",
+        "href": "https://www.walgreens.com/store/c/contact-lenses/ID=359432-tier2clense?ban=HP_HealthPills_7062025_ContactLenses",
+        "data-analytics": "",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "id": "health-pills-tile-4",
+        "style": "background: #FFFFFF",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/store/c/contact-lenses/ID=359432-tier2clense?ban=HP_HealthPills_7062025_ContactLenses\",\"cardInfo\":\"Shop contact lenses\",\"linkText\":\"Default CTA Label\",\"componentName\":\"quicklinksiconcard\"}"
+      },
+      "computedStyles": {
+        "background": "#FFFFFF"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Canvas & Dècor",
+      "attributes": {
+        "href": "https://photo.walgreens.com/store/home-decor",
+        "test-event": "Canvas & Decor"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Coupons",
+      "attributes": {
+        "data-element-name": "Coupons",
+        "data-content-name": "Main nav child link",
+        "href": "/offers/offers.jsp?ban=dl_dlsp_MegaMenu_Coupons"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "labelledIconImage"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/shop-page/20250706_SP_Category_FirstAid_11.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "passport_photos",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Passport Photos",
+      "attributes": {
+        "data-element-name": "Passport Photos",
+        "data-content-name": "Main nav child link",
+        "href": "https://photo.walgreens.com/store/passport-photos",
+        "id": "passport_photos"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "labelledIcon"
+      ],
+      "text": "New & Trending",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/productlist/N=20006108?ban=HP_FeatCategory_7132025_NewTrending"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "posters",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Posters",
+      "attributes": {
+        "data-element-name": "Posters",
+        "data-content-name": "Main nav child link",
+        "href": "https://photo.walgreens.com/store/posters",
+        "id": "posters"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Explore more",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "health-module-tile-5",
+      "classes": [
+        "quicklinkcardv1",
+        "lazy-load",
+        "placeholder"
+      ],
+      "text": "Same Day Rx Delivery",
+      "attributes": {
+        "data-loaded": "false",
+        "href": "https://www.walgreens.com/topic/pharmacy/prescription-delivery.jsp?ban=HP_HealthModule_5252025_RxSDD",
+        "data-analytics": "",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "id": "health-module-tile-5",
+        "style": "background: #FFFFFF",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/topic/pharmacy/prescription-delivery.jsp?ban=HP_HealthModule_5252025_RxSDD\",\"cardInfo\":\"Same Day Rx Delivery\",\"linkText\":\"Default CTA Label\",\"componentName\":\"quicklinksiconcard\"}"
+      },
+      "computedStyles": {
+        "background": "#FFFFFF"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "all_photo_products",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "All Photo Products",
+      "attributes": {
+        "data-element-name": "All Photo Products",
+        "data-content-name": "Main nav child link",
+        "href": "https://photo.walgreens.com/store/all-products",
+        "id": "all_photo_products"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Plus clip your holiday surprise!",
+      "attributes": {
+        "href": "/offers/offers.jsp?ban=HP_Nav_11092025_MysteryDeal"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Shop All Products",
+      "attributes": {
+        "href": "https://photo.walgreens.com/store/all-products",
+        "test-event": "Shop All Products"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Photo Calendars",
+      "attributes": {
+        "href": "https://photo.walgreens.com/store/calendars",
+        "test-event": "Photo Calendars"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Offer Details",
+      "attributes": {
+        "href": "/promotion/offer-details"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "labelledIcon"
+      ],
+      "text": "Clearance",
+      "attributes": {
+        "href": "https://www.walgreens.com/search/results.jsp?Ntt=Clearance&ban=HP_FeatCategory_7132025_Clearance"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "menu-account-home",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Your Account",
+      "attributes": {
+        "id": "menu-account-home",
+        "href": "/youraccount/default.jsp",
+        "data-element-type": "globalNav",
+        "data-element-name": "Your Account",
+        "data-testid": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "body-small",
+        "bold"
+      ],
+      "text": "Company Information",
+      "attributes": {
+        "href": "https://corporate.walgreens.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "holiday-prep-tile-6",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "20% OFFselect Hello Kitty, Squishmallow & more Holiday toys",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/productlist/N=20006964?ban=HP_HolidayPrep_11092025_PlushToys_20PO",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "holiday-prep-tile-6",
+        "style": "background: #C8AE7F",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/store/c/productlist/N=20006964?ban=HP_HolidayPrep_11092025_PlushToys_20PO\",\"cardInfo\":\"20% OFF select Hello Kitty, Squishmallow & more Holiday toys\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": "#C8AE7F"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Personal Care",
+      "attributes": {
+        "href": "/store/c/personal-care/ID=359436-tier1",
+        "data-element-name": "Personal Care",
+        "data-content-name": "Tier 1 link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "font__sixteen"
+      ],
+      "text": "Privacy & Security",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Online Doctor Visit",
+      "attributes": {
+        "data-element-name": "Online Doctor Visit",
+        "data-content-name": "Main nav child link",
+        "href": "/topic/virtual-healthcare.jsp"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Fitness & Nutrition",
+      "attributes": {
+        "href": "/store/c/fitness-and-nutrition/ID=359447-tier1",
+        "test-event": "Fitness & Nutrition"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "pf-dropdown-signin",
+      "classes": [],
+      "text": "Sign in",
+      "attributes": {
+        "id": "pf-dropdown-signin",
+        "href": "javascript:void(0);",
+        "data-element-type": "rightNav",
+        "data-element-name": "Sign in"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "labelledIcon"
+      ],
+      "text": "Active Nutrition",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/productlist/N=359447/1/ShopAll=359447?ban=HP_FeatCategory_7132025_ActiveNutrition"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "labelledIcon"
+      ],
+      "text": "Women's Well-Being",
+      "attributes": {
+        "href": "https://www.walgreens.com/promotion/womens-wellness?ban=HP_FeatCategory_7132025_WomensWellbeing"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "menu-vaccination-records",
+      "classes": [],
+      "text": "Vaccination Records",
+      "attributes": {
+        "id": "menu-vaccination-records",
+        "href": "/immunizationservice/pharmacy/immunization/ViewImmunizeHistory.jsp",
+        "data-element-type": "rightNav",
+        "data-element-name": "Vaccination Records",
+        "data-testid": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Newsroom",
+      "attributes": {
+        "href": "https://corporate.walgreens.com/newsroom/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Medicines & Treatments",
+      "attributes": {
+        "href": "/store/c/medicines-and-treatments/ID=359438-tier1",
+        "test-event": "Medicines Treatments"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "standard-link__title",
+        "header-lng-switcher",
+        "lng-headbar-hide",
+        "mr10"
+      ],
+      "text": "Español",
+      "attributes": {
+        "lang": "es",
+        "type": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20250803_HP_Tertiary_Image_Card_1.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown__title"
+      ],
+      "text": "Savings",
+      "attributes": {
+        "data-element-name": "Savings",
+        "data-content-name": "Main nav link",
+        "href": "javascript:void(0);",
+        "role": "button",
+        "aria-expanded": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "wag-font-black",
+        "label-medium",
+        "bold"
+      ],
+      "text": "Expand",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "canvas__dcor",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Canvas & Décor",
+      "attributes": {
+        "data-element-name": "Canvas & Décor",
+        "data-content-name": "Main nav child link",
+        "href": "https://photo.walgreens.com/store/home-decor",
+        "id": "canvas__dcor"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "pharmacy_chat",
+      "classes": [],
+      "text": "Pharmacy Chat",
+      "attributes": {
+        "id": "pharmacy_chat",
+        "href": "/rx-utility/pharmacychat",
+        "data-element-name": "Pharmacy Chat",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251109_HP_DOTW_Offer_Card4_Row1_Carousel.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "skip-link"
+      ],
+      "text": "Skip to main content",
+      "attributes": {
+        "href": "#page-content",
+        "onclick": "$('#page-content').focus();\nwindow.scrollTo(0,$('#page-content').offset().top)"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "font__sixteen"
+      ],
+      "text": "Walgreens Clinical Trials",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251109_HP_Photo_Image_Card2_3up.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "labelledIcon"
+      ],
+      "text": "Household & Pet Essentials",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/household-and-pet-essentials/ID=20000910-tier1?ban=HP_FeatCategory_7132025_HouseholdPet%20Essentials"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/icons/Rx%20Chat.png",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "prints",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Prints",
+      "attributes": {
+        "data-element-name": "Prints",
+        "data-content-name": "Main nav child link",
+        "href": "https://photo.walgreens.com/store/prints",
+        "id": "prints"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "labelledIcon"
+      ],
+      "text": "Medicines & Treatments",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/productlist/N=359438/1/ShopAll=359438?ban=HP_FeatCategories_10192025_MedicinesTreatments"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "pf-dropdown-register",
+      "classes": [],
+      "text": "Create an account",
+      "attributes": {
+        "id": "pf-dropdown-register",
+        "href": "javascript:void(0);",
+        "data-element-type": "rightNav",
+        "data-element-name": "Create an account"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Electronics & Office",
+      "attributes": {
+        "href": "/store/c/electronics-and-office/ID=20000781-tier1",
+        "test-event": "Electronics & Office"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "labelledIcon"
+      ],
+      "text": "Vitamins & Supplements",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/vitamins-and-supplements/ID=359441-tier1?ban=HP_FeatCategory_7132025_Vitamins"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "wag-pb-20"
+      ],
+      "text": "",
+      "attributes": {
+        "style": "max-width: 220px;",
+        "alt": "",
+        "src": "/images/adaptive/sp/logo-mywag.png"
+      },
+      "computedStyles": {
+        "maxWidth": "220px"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "ask_a_pharmacist",
+      "classes": [],
+      "text": "Ask a Pharmacist",
+      "attributes": {
+        "id": "ask_a_pharmacist",
+        "href": "/rx-healthanswer/faqhome/faqlanding",
+        "data-element-name": "Ask a Pharmacist",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "myWalgreens® Credit Card",
+      "attributes": {
+        "href": "/mywalgreens/cards/credit.jsp?BAN=CCSITEFOOTER&sitecode=WGDCOMFT"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "labelledIconImage"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/shop-page/20250706_SP_Category_BabyKids_15.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "labelledIconImage"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251019_HP_FeaturedCategories_GroupIcon_Category_2.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "upload_photos",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Upload Photos",
+      "attributes": {
+        "data-element-name": "Upload Photos",
+        "data-content-name": "Main nav child link",
+        "href": "https://photo.walgreens.com/store/home",
+        "id": "upload_photos"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "labelledIcon"
+      ],
+      "text": "Holiday Shop",
+      "attributes": {
+        "href": "https://www.walgreens.com/seasonal/holiday-gift-shop?ban=HP_FeatCategories_11092025_HolidayShop"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Medicines & Treatments",
+      "attributes": {
+        "href": "/store/c/medicines-and-treatments/ID=359438-tier1",
+        "data-element-name": "Medicines & Treatments",
+        "data-content-name": "Tier 1 link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "account-trigger"
+      ],
+      "text": "AccountMenu",
+      "attributes": {
+        "href": "javascript:void(0);",
+        "aria-expanded": "false",
+        "role": "button",
+        "data-element-type": "rightNav",
+        "data-element-name": "Account",
+        "style": "display:flex;align-items:center"
+      },
+      "computedStyles": {
+        "display": "flex",
+        "alignItems": "center"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link",
+        "btn__back",
+        "btn__back-to-main-menu"
+      ],
+      "text": "Back",
+      "attributes": {
+        "href": "javascript:void(0);",
+        "role": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "’Tis the season for sitewide savings!*",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "health-module-tile-4",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "Medicare Open Enrollment is here thru 12/7Easily shop & explore low-cost copays on select plans with Find Rx Coverage.",
+      "attributes": {
+        "href": "https://www.walgreens.com/findcare/find-prescription-coverage/medicare?ban=HP_HealthModule_11092025_Medicare",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "health-module-tile-4",
+        "style": "background: #FFFFFF",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/findcare/find-prescription-coverage/medicare?ban=HP_HealthModule_11092025_Medicare\",\"cardInfo\":\"Medicare Open Enrollment is here thru 12/7 Easily shop & explore low-cost copays on select plans with Find Rx Coverage.\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": "#FFFFFF"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link__title"
+      ],
+      "text": "Weekly Ad",
+      "attributes": {
+        "data-element-name": "Weekly Ad",
+        "data-content-name": "Main nav link",
+        "href": "/offers/offers.jsp/weeklyad?ban=dl_dlsp_MegaMenu_WeeklyAd"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Because your health matters",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Online Clearance",
+      "attributes": {
+        "data-element-name": "Online Clearance",
+        "data-content-name": "Tier 1 add'l link",
+        "href": "/search/results.jsp?Ntt=Clearance&ban=dl_dlsp_ShopProducts_Clearance"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "wag-text-decoration"
+      ],
+      "text": "$3.50–$4select Crest or Oral B dental needs",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/productlist/N=20006781?ban=HP_ValueHub_11092025_DentalNeeds_DOTW",
+        "data-analytics": "",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Weekly Ad",
+      "attributes": {
+        "data-element-name": "Weekly Ad",
+        "data-content-name": "Main nav child link",
+        "href": "/offers/offers.jsp/weeklyad?ban=dl_dlsp_MegaMenu_Savings_WeeklyAd"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "menu-refill-prescriptions",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Prescription Refills & Status",
+      "attributes": {
+        "id": "menu-refill-prescriptions",
+        "href": "/rx-refillhub/refillhub-holistic",
+        "data-element-type": "globalNav",
+        "data-element-name": "Prescription Refills & Status",
+        "data-testid": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "labelledIcon"
+      ],
+      "text": "Sexual Wellness",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/sexual-wellness/ID=359445-tier1?ban=HP_FeatCategory_7132025_SexualWellness"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "menu-trigger"
+      ],
+      "text": "",
+      "attributes": {
+        "aria-expanded": "false",
+        "type": "button",
+        "aria-label": "main menu"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Top Walgreens Searches",
+      "attributes": {
+        "href": "/search/topSearchResults.jsp",
+        "test-event": "ftr_Top Walgreens Searches"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "font__sixteen"
+      ],
+      "text": "Customer Service",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "container-topleft",
+        "container-images"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "alt": "",
+        "style": "display: none;",
+        "src": "/content/dam/connectedassets/walgreens/us/en/shop-page/TEST_Left.jpg"
+      },
+      "computedStyles": {
+        "display": "none"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Cough, Cold & Flu",
+      "attributes": {
+        "href": "/store/c/cough-cold-and-flu/ID=20004181-tier1",
+        "data-element-name": "Cough, Cold & Flu",
+        "data-content-name": "Tier 1 link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Home Health Care Solutions",
+      "attributes": {
+        "href": "/store/c/home-health-care-solutions/ID=359443-tier1",
+        "test-event": "Home Health Care Solutions"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Beauty",
+      "attributes": {
+        "href": "/store/c/beauty-products/ID=359434-tier1",
+        "test-event": "Beauty"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Beauty",
+      "attributes": {
+        "href": "/store/c/beauty/ID=359434-tier1",
+        "data-element-name": "Beauty",
+        "data-content-name": "Tier 1 link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251109_HP_Photo_Image_Card1_3up_new.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "health_history",
+      "classes": [],
+      "text": "Health History",
+      "attributes": {
+        "id": "health_history",
+        "href": "/youraccount/health_history.jsp",
+        "data-element-name": "Health History",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "photo-tile-3",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "60% OFFCanvas & Custom Framed Prints",
+      "attributes": {
+        "href": "https://photo.walgreens.com/store/home-decor?ban=Photo_WAG_S02&tab=photo_HP_Photo_11092025_",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "photo-tile-3",
+        "style": "background: #FFFFFF",
+        "data-wag-analytics": "{\"linkDestination\":\"https://photo.walgreens.com/store/home-decor?ban=Photo_WAG_S02&tab=photo_HP_Photo_11092025_\",\"cardInfo\":\"60% OFF Canvas & Custom Framed Prints\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": "#FFFFFF"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "labelledIconImage"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/shop-page/20251019_SP_ShopByCategory_GroupIcon_Category_8.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "font__sixteen"
+      ],
+      "text": "View all products by:",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Holiday Shop",
+      "attributes": {
+        "href": "/seasonal/holiday-gift-shop",
+        "data-element-name": "Holiday Shop",
+        "data-content-name": "Tier 1 link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Photo Cards",
+      "attributes": {
+        "href": "https://photo.walgreens.com/store/cards",
+        "test-event": "Photo Cards"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Featured categories",
+      "attributes": {
+        "style": "text-align: center;"
+      },
+      "computedStyles": {
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "menu-buy-again",
+      "classes": [],
+      "text": "Buy It Again",
+      "attributes": {
+        "id": "menu-buy-again",
+        "href": "/youraccount/dlorder/reorder.jsp",
+        "data-element-type": "rightNav",
+        "data-element-name": "Buy It Again",
+        "data-testid": "buy-again-link-link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "wag-text-decoration"
+      ],
+      "text": "2/$12 or $10.99 eachselect 12-pack Coca-Cola products",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/productlist/N=20006778?ban=HP_ValueHub_11092025_CocaCola_DOTW",
+        "data-analytics": "",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/icons/Immunizations.png",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "/content/dam/connectedassets/images/adaptive/sp2/20250622_HP_IconCard_ContactLenses_4_Target.png",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251109_HP_HolidayPrep_Image_Card1_4up.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Vitamins & Supplements",
+      "attributes": {
+        "href": "/store/c/vitamins-and-supplements/ID=359441-tier1",
+        "test-event": "Vitamins Supplements"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Walgreens Brand",
+      "attributes": {
+        "href": "/store/c/walgreens-brand/ID=359461-tier1",
+        "data-element-name": "Walgreens Brand",
+        "data-content-name": "Tier 1 link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Pay myWalgreens® Credit Card Bill",
+      "attributes": {
+        "href": "https://walgreens.syf.com"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "holiday-prep-tile-3",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "50% OFFEverything Photo",
+      "attributes": {
+        "href": "https://photo.walgreens.com/store/home?tab=photo_HP_HolidayPrep_11092025_Photo_50PO",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "holiday-prep-tile-3",
+        "style": "background: #C8AE7F",
+        "data-wag-analytics": "{\"linkDestination\":\"https://photo.walgreens.com/store/home?tab=photo_HP_HolidayPrep_11092025_Photo_50PO\",\"cardInfo\":\"50% OFF Everything Photo\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": "#C8AE7F"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Walgreens Brand",
+      "attributes": {
+        "href": "/store/c/walgreens-brand/ID=359461-tier1",
+        "test-event": "Walgreens Brand"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "respiratory-health-tile-4",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "Maximize your benefitsMA-OTCShop eligible products before your benefits expire.",
+      "attributes": {
+        "href": "https://www.walgreens.com/topic/store/otc/shop_otc.jsp?ban=HP_RespiratoryHealth_11092025_MAOTC",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "respiratory-health-tile-4",
+        "style": "background: #FFFFFF",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/topic/store/otc/shop_otc.jsp?ban=HP_RespiratoryHealth_11092025_MAOTC\",\"cardInfo\":\"Maximize your benefits MA-OTC Shop eligible products before your benefits expire.\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": "#FFFFFF"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Home Goods",
+      "attributes": {
+        "href": "/store/c/home-goods/ID=359453-tier1",
+        "test-event": "Home Goods"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "health-module-tile-4",
+      "classes": [
+        "quicklinkcardv1",
+        "lazy-load",
+        "placeholder"
+      ],
+      "text": "Request Rx Refill",
+      "attributes": {
+        "data-loaded": "false",
+        "href": "https://www.walgreens.com/rx-refillhub/refillhub-holistic?ban=HP_HealthModule_10122025_RxRefill",
+        "data-analytics": "",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "id": "health-module-tile-4",
+        "style": "background: #FFFFFF",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/rx-refillhub/refillhub-holistic?ban=HP_HealthModule_10122025_RxRefill\",\"cardInfo\":\"Request Rx Refill\",\"linkText\":\"Default CTA Label\",\"componentName\":\"quicklinksiconcard\"}"
+      },
+      "computedStyles": {
+        "background": "#FFFFFF"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "labelledIconImage"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/shop-page/20250706_SP_Category_ContactLenses_9.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [
+        "nav__main"
+      ],
+      "text": "Sign inCreate an accountAccountBackAccountYour AccountWalgreens Cash RewardsPrescription Refills & StatusVaccination RecordsOrder Status & HistoryBuy It AgainClose main menuPharmacyBackPharmacyHomePrescriptionsBackPrescriptionsRefillsOrdersRecordsTransfer Rx to WalgreensRequest new RxAuto RefillsDrug infoClose main menuContact LensesBackContact LensesReorder Contact LensesShop All Contact LensesSolutions, Drops & CasesEye Health SupplementsShop Contact LensesClose main menuMore ServicesBackMore ",
+      "attributes": {
+        "aria-label": "main menu"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "Family_Prescriptions",
+      "classes": [],
+      "text": "Family Prescriptions",
+      "attributes": {
+        "id": "Family_Prescriptions",
+        "href": "/pharmacy/familyaccount/managefamilyaccounts.jsp",
+        "data-element-name": "Family Prescriptions",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "refill_with_rx_number",
+      "classes": [],
+      "text": "Refill with Rx Number",
+      "attributes": {
+        "id": "refill_with_rx_number",
+        "href": "/rx-checkout/guest-express-refill",
+        "data-element-name": "Refill with Rx Number",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown__title"
+      ],
+      "text": "Financial Services",
+      "attributes": {
+        "data-element-name": "Financial Services",
+        "data-content-name": "Main nav link",
+        "href": "javascript:void(0);",
+        "role": "button",
+        "aria-expanded": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "health-pills-tile-3",
+      "classes": [
+        "quicklinkcardv1",
+        "lazy-load",
+        "placeholder"
+      ],
+      "text": "Manage prescriptions",
+      "attributes": {
+        "data-loaded": "false",
+        "href": "https://www.walgreens.com/rx-refillhub/refillhub-holistic?ban=HP_HealthPills_5252025_RxRefill",
+        "data-analytics": "",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "id": "health-pills-tile-3",
+        "style": "background: #FFFFFF",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/rx-refillhub/refillhub-holistic?ban=HP_HealthPills_5252025_RxRefill\",\"cardInfo\":\"Manage prescriptions\",\"linkText\":\"Default CTA Label\",\"componentName\":\"quicklinksiconcard\"}"
+      },
+      "computedStyles": {
+        "background": "#FFFFFF"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "calendars",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Calendars",
+      "attributes": {
+        "data-element-name": "Calendars",
+        "data-content-name": "Main nav child link",
+        "href": "https://photo.walgreens.com/store/calendars",
+        "id": "calendars"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Returns",
+      "attributes": {
+        "href": "/topic/help/shophelp/returns_help_main.jsp?foot=returns#Return"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "labelledIcon"
+      ],
+      "text": "MA OTC",
+      "attributes": {
+        "href": "https://www.walgreens.com/topic/store/otc/shop_otc.jsp?ban=HP_FeatCategories_9072025_MA%20OTC"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251102_HP_HealthModule_Image_Card1_4up.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251109_HP_DOTW_Offer_Card3_Row1_Carousel.jpg",
+        "alt": "Plus $5 in rewards*"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [],
+      "text": "Offers just for you",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Treatment for COVID-19 & Flu",
+      "attributes": {
+        "data-element-name": "Treatment for COVID-19 & Flu",
+        "data-content-name": "Main nav child link",
+        "href": "/testandtreat/treatment"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "cards__stationery",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Cards & Stationery",
+      "attributes": {
+        "data-element-name": "Cards & Stationery",
+        "data-content-name": "Main nav child link",
+        "href": "https://photo.walgreens.com/store/cards",
+        "id": "cards__stationery"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "make_a_Payment",
+      "classes": [],
+      "text": "Make a Payment",
+      "attributes": {
+        "id": "make_a_Payment",
+        "href": "/pharmacy/youraccount/accountbalance/payment.jsp",
+        "data-element-name": "Make a Payment",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Buy Again",
+      "attributes": {
+        "data-element-name": "Buy Again",
+        "data-content-name": "Tier 1 add'l link",
+        "href": "/youraccount/dlorder/reorder.jsp?ban=dl_dlsp_ShopProducts_BuyAgain"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "labelledIconImage"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/shop-page/20250706_SP_Category_GroceryBeverage_3.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "labelledIcon"
+      ],
+      "text": "First Aid",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/productlist/N=360533/1/ShopAll=360533?ban=HP_FeatCategory_7132025_FirstAid"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "pf-mb-signin",
+      "classes": [],
+      "text": "Sign in",
+      "attributes": {
+        "href": "javascript:void(0);",
+        "role": "button",
+        "id": "pf-mb-signin",
+        "data-element-name": "Sign in",
+        "data-content-name": "Sign in link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Sexual Wellness",
+      "attributes": {
+        "href": "/store/c/sexual-wellness/ID=359445-tier1",
+        "data-element-name": "Sexual Wellness",
+        "data-content-name": "Tier 1 link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "container-bottomleft",
+        "container-images"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "alt": "",
+        "style": "display: none;",
+        "src": "/content/dam/connectedassets/walgreens/us/en/shop-page/TEST_Left.jpg"
+      },
+      "computedStyles": {
+        "display": "none"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "labelledIconImage"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251012_HP_FeaturedCategories_GroupIcon_Category_17.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "labelledIconImage"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/shop-page/20250706_SP_Category_SexualWellness_13.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "gifts_and_more",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Gifts and More",
+      "attributes": {
+        "data-element-name": "Gifts and More",
+        "data-content-name": "Main nav child link",
+        "href": "https://photo.walgreens.com/store/gifts",
+        "id": "gifts_and_more"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Fitness & Nutrition",
+      "attributes": {
+        "href": "/store/c/fitness-and-nutrition/ID=359447-tier1",
+        "data-element-name": "Fitness & Nutrition",
+        "data-content-name": "Tier 1 link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "labelledIconImage"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/shop-page/20250706_SP_Category_ToysGamesBooks_14.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251109_HP_Photo_Image_Card3_3up.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "body-small",
+        "bold"
+      ],
+      "text": "Customer Service",
+      "attributes": {
+        "href": "/topic/help/customerservicehelp/customer_service_help_main.jsp?foot=customer_service"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Shop by Brand",
+      "attributes": {
+        "href": "/store/store/brands/brand.jsp",
+        "test-event": "ftr_ShopbyBrand"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "btn",
+        "btn__tint-blue"
+      ],
+      "text": "Sign up for deals and offers!",
+      "attributes": {
+        "href": "/register/regpersonalinfo?ban=dl_dlhp_11122023_Banner_EmailCaptureRedirect",
+        "role": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "labelledIconImage"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/shop-page/20250706_SP_Category_HouseholdPetEssentials_7.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "label_preferences",
+      "classes": [],
+      "text": "Label Preferences",
+      "attributes": {
+        "id": "label_preferences",
+        "href": "/rx-settings/rxsettings",
+        "data-element-name": "Label Preferences",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251102_HP_HealthModule_Image_Card2_4up.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "font__sixteen"
+      ],
+      "text": "Walgreens Advertising Group",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Sale",
+      "attributes": {
+        "data-element-name": "Sale",
+        "data-content-name": "Tier 1 add'l link",
+        "href": "/store/store/save/sale.jsp?ban=dl_dlsp_ShopProducts_Sale"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "auto_refills",
+      "classes": [],
+      "text": "Auto Refills",
+      "attributes": {
+        "id": "auto_refills",
+        "href": "/rx-refillhub/autorefill",
+        "data-element-name": "Auto Refills",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title",
+        "side-dropdown__title",
+        "content__inline"
+      ],
+      "text": "Prescriptions",
+      "attributes": {
+        "data-element-name": "Prescriptions",
+        "data-content-name": "Main nav child link",
+        "href": "javascript:void(0);",
+        "role": "button",
+        "style": "white-space:nowrap;display:flex;align-items:center;justify-content:space-between;padding-right:6px",
+        "aria-expanded": "false"
+      },
+      "computedStyles": {
+        "whiteSpace": "nowrap",
+        "display": "flex",
+        "alignItems": "center",
+        "justifyContent": "space-between",
+        "paddingRight": "6px"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Party Supplies",
+      "attributes": {
+        "href": "/promotion/party-supplies",
+        "data-element-name": "Party Supplies",
+        "data-content-name": "Tier 1 link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Contact Lenses",
+      "attributes": {
+        "href": "/store/c/contact-lenses/ID=359432-tier2clense",
+        "data-element-name": "Contact Lenses",
+        "data-content-name": "Tier 1 link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "menu-product-purchase-history",
+      "classes": [],
+      "text": "Order Status & History",
+      "attributes": {
+        "id": "menu-product-purchase-history",
+        "href": "/orderhistory/orders-ui",
+        "data-element-type": "rightNav",
+        "data-element-name": "Order Status & History",
+        "data-testid": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h1",
+      "id": "",
+      "classes": [
+        "sr-only",
+        "aem-sr-only"
+      ],
+      "text": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Contact Lenses",
+      "attributes": {
+        "href": "/store/c/contact-lenses/ID=359432-tier2clense",
+        "test-event": "Contact Lenses"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Gift Cards",
+      "attributes": {
+        "href": "/topic/walgreensgiftcards.jsp",
+        "data-element-name": "Gift Cards",
+        "data-content-name": "Tier 1 link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Personal Care",
+      "attributes": {
+        "href": "/store/c/personal-care/ID=359436-tier1",
+        "test-event": "Personal Care"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "Eye_Health_Supplements",
+      "classes": [],
+      "text": "Eye Health Supplements",
+      "attributes": {
+        "id": "Eye_Health_Supplements",
+        "href": "/store/c/contact-lenses-eye-health-supplements/ID=360307-tier3contactlens",
+        "data-element-name": "Eye Health Supplements",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251109_HP_RespiratoryHealth_Image_Card2_4up.jpg",
+        "alt": "includes value pack"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown__title"
+      ],
+      "text": "Shop",
+      "attributes": {
+        "data-element-name": "Shop",
+        "data-content-name": "Main nav link",
+        "href": "javascript:void(0);",
+        "role": "button",
+        "aria-expanded": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20250907_HP_Tertiary_Image_Card_3_3up.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link",
+        "btn__back",
+        "btn__back-to-main-menu"
+      ],
+      "text": "Back",
+      "attributes": {
+        "href": "javascript:void(0);",
+        "role": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Photo Prints, Posters and Enlargements",
+      "attributes": {
+        "href": "https://photo.walgreens.com/store/prints",
+        "test-event": "Photo Prints Posters and Enlargements"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "tertiary-tile-1",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "Join myWalgreens®",
+      "attributes": {
+        "href": "https://www.walgreens.com/topic/promotion/mywalgreens.jsp?ban=HP_Tertiary_11092025_JoinMyw",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "tertiary-tile-1",
+        "style": "background: ",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/topic/promotion/mywalgreens.jsp?ban=HP_Tertiary_11092025_JoinMyw\",\"cardInfo\":\"Join myWalgreens®\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": ""
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251109_HP_DOTW_Offer_Card2_Row1_Carousel.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "footer",
+      "id": "",
+      "classes": [],
+      "text": "Sign up for deals and offers!Customer ServiceShippingReturnsHelp/FAQsContact UsmyWalgreens®Program MembershipmyWalgreens® Credit CardPay myWalgreens® Credit Card BillCompany InformationAbout usNewsroomImpactCareersCalifornia Transparency ActWalgreens API/Affiliate ProgramWalgreens APIAffiliate ProgramTerms and ConditionsOffer DetailsProduct RecallsWebsite AccessibilityAccessibility NoticePrivacy & SecurityPrivacy CenterNotice of Privacy Practices (HIPAA)Online Privacy & Security PolicyYour Priva",
+      "attributes": {
+        "aria-label": "Footer"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "glider-prev",
+        "slick-arrow",
+        "wag-text-dynamic"
+      ],
+      "text": "",
+      "attributes": {
+        "aria-label": "Previous Slide",
+        "tabindex": "-1",
+        "aria-hidden": "true"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Photo Books",
+      "attributes": {
+        "href": "https://photo.walgreens.com/store/photo-books",
+        "test-event": "Photo Books"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "insurance",
+      "classes": [],
+      "text": "Insurance",
+      "attributes": {
+        "id": "insurance",
+        "href": "/rx-settings/prescription-insurance",
+        "data-element-name": "Insurance",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "labelledIcon"
+      ],
+      "text": "Grocery & Beverage",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/grocery-and-beverages/ID=359451-tier1?ban=HP_FeatCategory_7132025_GroceryBeverages"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "photo-tile-2",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "60% OFFAll Photo Cards & Premium Stationery",
+      "attributes": {
+        "href": "https://photo.walgreens.com/store/cards?ban=Photo_WAG_S01&tab=photo_HP_Photo_11092025_",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "photo-tile-2",
+        "style": "background: #FFFFFF",
+        "data-wag-analytics": "{\"linkDestination\":\"https://photo.walgreens.com/store/cards?ban=Photo_WAG_S01&tab=photo_HP_Photo_11092025_\",\"cardInfo\":\"60% OFF All Photo Cards & Premium Stationery\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": "#FFFFFF"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Washington Consumer Health Privacy Policy",
+      "attributes": {
+        "href": "/topic/help/generalhelp/washington-consumer-health-privacy-policy.jsp"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Gift Cards",
+      "attributes": {
+        "data-element-name": "Gift Cards",
+        "data-content-name": "Main nav child link",
+        "href": "/topic/walgreensgiftcards.jsp"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "respiratory-health-tile-3",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "$26.99 Mucinex+ more deals to help you feel better",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/productlist/N=20006809?ban=HP_RespiratoryHealth_11092025_Mucinex_2699",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "respiratory-health-tile-3",
+        "style": "background: #FFFFFF",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/store/c/productlist/N=20006809?ban=HP_RespiratoryHealth_11092025_Mucinex_2699\",\"cardInfo\":\"$26.99 Mucinex + more deals to help you feel better\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": "#FFFFFF"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Grocery & Beverages",
+      "attributes": {
+        "href": "/store/c/grocery-and-beverages/ID=359451-tier1",
+        "data-element-name": "Grocery & Beverages",
+        "data-content-name": "Tier 1 link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Buy again",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "account-trigger"
+      ],
+      "text": "AccountMenu",
+      "attributes": {
+        "href": "javascript:void(0);",
+        "aria-expanded": "false",
+        "role": "button",
+        "data-element-type": "rightNav",
+        "data-element-name": "Account",
+        "style": "display:flex;align-items:center"
+      },
+      "computedStyles": {
+        "display": "flex",
+        "alignItems": "center"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "body-small",
+        "bold"
+      ],
+      "text": "Privacy & Security",
+      "attributes": {
+        "href": "#!"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Men's Zone",
+      "attributes": {
+        "href": "/store/c/men's-zone/ID=20006220-tier1",
+        "data-element-name": "Men's Zone",
+        "data-content-name": "Tier 1 link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Test for COVID-19 & Flu",
+      "attributes": {
+        "data-element-name": "Test for COVID-19 & Flu",
+        "data-content-name": "Main nav child link",
+        "href": "/testandtreat/testing"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Home Health Care Solutions",
+      "attributes": {
+        "href": "/store/c/home-health-care-solutions/ID=359443-tier1",
+        "data-element-name": "Home Health Care Solutions",
+        "data-content-name": "Tier 1 link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/icons/Refill%20Rx.png",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Join FREE now",
+      "attributes": {
+        "href": "/register/mywalgreens/enroll",
+        "role": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "data:image/png;base64,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",
+        "alt": "Walgreens logo"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "holiday-prep-tile-4",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "Starting at$6.99select Russell Stover gift boxes",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/productlist/N=20006867?ban=HP_HolidayPrep_11092025_RusselStover_699",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "holiday-prep-tile-4",
+        "style": "background: #C8AE7F",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/store/c/productlist/N=20006867?ban=HP_HolidayPrep_11092025_RusselStover_699\",\"cardInfo\":\"Starting at $6.99 select Russell Stover gift boxes\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": "#C8AE7F"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown__title"
+      ],
+      "text": "Account",
+      "attributes": {
+        "data-element-name": "Account",
+        "data-content-name": "Account menu link",
+        "href": "javascript:void(0);",
+        "role": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251109_HP_HolidayPrep_Image_Card2_3up.jpg",
+        "alt": "myWalgreens"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/images/adaptive/online-privacy-security/icon_toggle_transparent.png",
+        "style": "max-height:1.5em;width:auto;vertical-align:middle;",
+        "alt": "CCPA Opt-Out Icon"
+      },
+      "computedStyles": {
+        "maxHeight": "1.5em",
+        "width": "auto",
+        "verticalAlign": "middle"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "body-small",
+        "bold"
+      ],
+      "text": "Walgreens API/Affiliate Program",
+      "attributes": {
+        "href": "#!"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "labelledIconImage"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251109_HP_FeaturedCategories_GroupIcon_Category_1_HolidayShop.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Shipping",
+      "attributes": {
+        "href": "/topic/help/shipping/shipping_help_main.jsp?foot=shipping"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "In-person Care",
+      "attributes": {
+        "data-element-name": "In-person Care",
+        "data-content-name": "Main nav child link",
+        "href": "/findcare/category/inperson-visit"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251109_HP_HealthModule_Image_Cardx_4up_Contingenc.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Household Essentials",
+      "attributes": {
+        "href": "/store/c/household-essentials/ID=20000910-tier1",
+        "test-event": "Household Essentials"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Website Accessibility",
+      "attributes": {
+        "href": "/mktg/contactus/contact-us-forms.jsp?tier3Id=1046"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Baby & Kids",
+      "attributes": {
+        "href": "/store/c/baby-and-kids/ID=359449-tier1",
+        "test-event": "Baby Kids"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "labelledIcon"
+      ],
+      "text": "Contact Lenses",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/contact-lenses/ID=359432-tier2clense?ban=HP_FeatCategory_7132025_ContactLenses"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Shop by Brand",
+      "attributes": {
+        "data-element-name": "Shop by Brand",
+        "data-content-name": "Tier 1 add'l link",
+        "href": "/store/store/brands/brand.jsp?ban=dl_dlsp_ShopProducts_ShopbyBrand"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "photo_home",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Photo Home",
+      "attributes": {
+        "data-element-name": "Photo Home",
+        "data-content-name": "Main nav child link",
+        "href": "https://photo.walgreens.com/store/home",
+        "id": "photo_home"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/icons/Rx%20Status.png",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "cap_preference",
+      "classes": [],
+      "text": "Cap Preference",
+      "attributes": {
+        "id": "cap_preference",
+        "href": "/rx-settings/rxsettings/cap",
+        "data-element-name": "Cap Preference",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Health Articles",
+      "attributes": {
+        "data-element-name": "Health Articles",
+        "data-content-name": "Main nav child link",
+        "href": "https://blog.walgreens.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "labelledIcon"
+      ],
+      "text": "Personal Care",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/personal-care/ID=359436-tier1?ban=HP_FeatCategory_7132025_Personal%20Care"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251109_HP_HolidayPrep_Image_Card4_4up.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "transfer",
+      "classes": [],
+      "text": "Transfer Rx to Walgreens",
+      "attributes": {
+        "id": "transfer",
+        "href": "/rx-checkout/order/transfer-prescription",
+        "data-element-name": "Transfer Rx to Walgreens",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown__title"
+      ],
+      "text": "Photo",
+      "attributes": {
+        "data-element-name": "Photo",
+        "data-content-name": "Main nav link",
+        "href": "javascript:void(0);",
+        "role": "button",
+        "aria-expanded": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "holiday-prep-tile-7",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "20% OFFselect fragance",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/productlist/N=360335-4294896499?ban=HP_HolidayPrep_11092025_Fragrance_20PO",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "holiday-prep-tile-7",
+        "style": "background: #C8AE7F",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/store/c/productlist/N=360335-4294896499?ban=HP_HolidayPrep_11092025_Fragrance_20PO\",\"cardInfo\":\"20% OFF select fragance\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": "#C8AE7F"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251109_HP_RespiratoryHealth_Image_Card4_4up.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Affiliate Program",
+      "attributes": {
+        "href": "https://signup.cj.com/member/brandedPublisherSignUp.do?air_refmerchantid=2568723"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Walgreens API",
+      "attributes": {
+        "href": "/topic/promotion/api.jsp"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Notice of Privacy Practices (HIPAA)",
+      "attributes": {
+        "href": "/topic/help/general/noticeprivacypractices.jsp?foot=privacy"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link__title"
+      ],
+      "text": "Vaccinations",
+      "attributes": {
+        "data-element-name": "Vaccinations",
+        "data-content-name": "Main nav link",
+        "href": "/topic/pharmacy/immunization-services-appointments.jsp"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Explore all Health Services",
+      "attributes": {
+        "data-element-name": "Explore all Health Services",
+        "data-content-name": "Main nav child link",
+        "href": "/findcare/services"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "account-trigger-close"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "aria-label": "Close account menu"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "holiday-prep-tile-5",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "Buy 1 Get 1FREEselect Reese's, Hershey's & Kit Kat Holiday candy",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/productlist/N=20006825?ban=HP_HolidayPrep_11092025_ChristmasCandy_BOGOFree",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "holiday-prep-tile-5",
+        "style": "background: #C8AE7F",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/store/c/productlist/N=20006825?ban=HP_HolidayPrep_11092025_ChristmasCandy_BOGOFree\",\"cardInfo\":\"Buy 1 Get 1 FREE select Reeses, Hersheys & Kit Kat Holiday candy\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": "#C8AE7F"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Western Union",
+      "attributes": {
+        "data-element-name": "Western Union",
+        "data-content-name": "Main nav child link",
+        "href": "/topic/promotion/western-union.jsp"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "health-module-tile-2",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "Get tested for flu & COVID-19 for only $29.99Results in 30 minutes or less",
+      "attributes": {
+        "href": "https://www.walgreens.com/testandtreat/testing?ban=HP_HealthModule_11092025_Testing",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "health-module-tile-2",
+        "style": "background: #FFFFFF",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/testandtreat/testing?ban=HP_HealthModule_11092025_Testing\",\"cardInfo\":\"Get tested for flu & COVID-19 for only $29.99 Results in 30 minutes or less\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": "#FFFFFF"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "container-bottomleft",
+        "container-images"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "alt": "",
+        "style": "display: none;",
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/4284227_110324_HP_DOTW_TOP_LEFT.png"
+      },
+      "computedStyles": {
+        "display": "none"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "link__caret",
+        "carousel-viewall"
+      ],
+      "text": "View all",
+      "attributes": {
+        "data-analytics": "",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "href": "https://www.walgreens.com/shop?ban=HP_ValueHub_11092025_DOTW#shop-dotw-container",
+        "style": "color: ",
+        "aria-label": "View all,Deals of the Week"
+      },
+      "computedStyles": {
+        "color": ""
+      }
+    },
+    {
+      "tag": "a",
+      "id": "easy_rx_delivery",
+      "classes": [],
+      "text": "Easy Rx Delivery",
+      "attributes": {
+        "id": "easy_rx_delivery",
+        "href": "/topic/pharmacy/prescription-delivery.jsp?o=acs",
+        "data-element-name": "Easy Rx Delivery",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "order_status",
+      "classes": [],
+      "text": "Orders",
+      "attributes": {
+        "id": "order_status",
+        "href": "/rx-status/",
+        "data-element-name": "Orders",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "records",
+      "classes": [],
+      "text": "Records",
+      "attributes": {
+        "id": "records",
+        "href": "/rx-settings/print-rx",
+        "data-element-name": "Records",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "body-small",
+        "bold"
+      ],
+      "text": "myWalgreens®",
+      "attributes": {
+        "href": "#!"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "main",
+      "id": "page-content",
+      "classes": [],
+      "text": "Walgreens: Pharmacy, Health & Wellness, Photo & More for YouSchedule vaccinationsFlu & COVID-19 testing optionsManage prescriptionsShop contact lenses’Tis the season for sitewide savings!*Get 15% OFF $30+ or 20% OFF $50+ Pickup orders with codeSALE15orSALE20Clip your holiday surprise!Save even more with sitewide code.*50% OFFEverything PhotoStarting at$6.99select Russell Stover gift boxesBuy 1 Get 1FREEselect Reese's, Hershey's & Kit Kat Holiday candy20% OFFselect Hello Kitty, Squishmallow & mor",
+      "attributes": {
+        "id": "page-content"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Caregiver Essentials",
+      "attributes": {
+        "href": "/store/c/caregiver-essentials/ID=20002602-tier1",
+        "test-event": "Caregiver Essentials"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "Shop_All_Contact_Lenses",
+      "classes": [],
+      "text": "Shop All Contact Lenses",
+      "attributes": {
+        "id": "Shop_All_Contact_Lenses",
+        "href": "/store/c/contact-lenses/ID=350006-tier3contactlens",
+        "data-element-name": "Shop All Contact Lenses",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "walgreens-cash-rewards",
+      "classes": [],
+      "text": "Walgreens Cash Rewards",
+      "attributes": {
+        "id": "walgreens-cash-rewards",
+        "href": "/mywalgreens/dashboard.jsp",
+        "data-element-type": "rightNav",
+        "data-element-name": "Walgreens Cash Rewards",
+        "data-testid": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "refills",
+      "classes": [],
+      "text": "Refills",
+      "attributes": {
+        "id": "refills",
+        "href": "/pharmacy/fulfillment/rx-landing",
+        "data-element-name": "Refills",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Corporate and Bulk Gift Cards",
+      "attributes": {
+        "data-element-name": "Corporate and Bulk Gift Cards",
+        "data-content-name": "Main nav child link",
+        "href": "https://walgreens.corporate.thegiftcardshop.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "speciality_pharmacy",
+      "classes": [],
+      "text": "Specialty Pharmacy",
+      "attributes": {
+        "id": "speciality_pharmacy",
+        "href": "/topic/pharmacy/specialty-pharmacy.jsp",
+        "data-element-name": "Specialty Pharmacy",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "button",
+      "id": "",
+      "classes": [
+        "menu-trigger-close"
+      ],
+      "text": "",
+      "attributes": {
+        "type": "button",
+        "aria-label": "Close main menu"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "labelledIcon"
+      ],
+      "text": "Cough, Cold & Flu",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/cough-cold-and-flu/ID=360549-tier2general?ban=HP_FeatCategories_10192025_CoughColdFlu"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "photo-tile-1",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "50% OFFEverything Photo",
+      "attributes": {
+        "href": "https://photo.walgreens.com/store/home?ban=Photo_WAG_HO&tab=photo_HP_Photo_11092025_",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "photo-tile-1",
+        "style": "background: ",
+        "data-wag-analytics": "{\"linkDestination\":\"https://photo.walgreens.com/store/home?ban=Photo_WAG_HO&tab=photo_HP_Photo_11092025_\",\"cardInfo\":\"50% OFF Everything Photo\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": ""
+      }
+    },
+    {
+      "tag": "a",
+      "id": "rx_savings_finder",
+      "classes": [],
+      "text": "Rx Savings Finder",
+      "attributes": {
+        "id": "rx_savings_finder",
+        "href": "/topic/pharmacy/rx-savings-finder.jsp",
+        "data-element-name": "Rx Savings Finder",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "container-bottomright",
+        "container-images"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "alt": "",
+        "style": "display: none;",
+        "src": "/content/dam/connectedassets/walgreens/us/en/shop-page/TEST_Right.jpg"
+      },
+      "computedStyles": {
+        "display": "none"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/4250135_101324_HP_Health_ICON.png",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "labelledIcon"
+      ],
+      "text": "Home Health Care",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/home-health-care-solutions/ID=359443-tier1?ban=HP_FeatCategory_7132025_HomeHealthcare"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "health-module-tile-6",
+      "classes": [
+        "quicklinkcardv1",
+        "lazy-load",
+        "placeholder"
+      ],
+      "text": "Pharmacy chat",
+      "attributes": {
+        "data-loaded": "false",
+        "href": "https://www.walgreens.com/topic/pharmacy.jsp?ban=dl_HP_HealthModule_5252025_RxChat#pharmacychat",
+        "data-analytics": "",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "id": "health-module-tile-6",
+        "style": "background: #FFFFFF",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/topic/pharmacy.jsp?ban=dl_HP_HealthModule_5252025_RxChat#pharmacychat\",\"cardInfo\":\"Pharmacy chat\",\"linkText\":\"Default CTA Label\",\"componentName\":\"quicklinksiconcard\"}"
+      },
+      "computedStyles": {
+        "background": "#FFFFFF"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "labelledIconImage"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20250907_HP_FeaturedCategories_GroupIcon_Category_18.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "your_account",
+      "classes": [],
+      "text": "Your Account",
+      "attributes": {
+        "id": "your_account",
+        "href": "/youraccount/default.jsp",
+        "data-element-name": "Your Account",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "font__sixteen"
+      ],
+      "text": "Top photo products:",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20250803_HP_Tertiary_Image_Card_4_Targeted.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Vaccinations",
+      "attributes": {
+        "data-element-name": "Vaccinations",
+        "data-content-name": "Main nav child link",
+        "href": "/topic/pharmacy/immunization-services-appointments.jsp"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "labelledIconImage"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/shop-page/20250706_SP_Category_WomensWellBeing_16.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "expressPay",
+      "classes": [],
+      "text": "ExpressPay",
+      "attributes": {
+        "id": "expressPay",
+        "href": "/rx-settings/rxsettings/pay",
+        "data-element-name": "ExpressPay",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "menu-refill-prescriptions",
+      "classes": [],
+      "text": "Prescription Refills & Status",
+      "attributes": {
+        "id": "menu-refill-prescriptions",
+        "href": "/rx-refillhub/refillhub-holistic",
+        "data-element-type": "rightNav",
+        "data-element-name": "Prescription Refills & Status",
+        "data-testid": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Shop All",
+      "attributes": {
+        "href": "/store/catalog/shopLanding?ban=dl_dlsp_ShopProducts_ShopAll",
+        "data-element-name": "Shop All",
+        "data-content-name": "Shop All link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "your_photos",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Your Photos",
+      "attributes": {
+        "data-element-name": "Your Photos",
+        "data-content-name": "Main nav child link",
+        "href": "https://photo.walgreens.com/store/home",
+        "id": "your_photos"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "menu-product-purchase-history",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Order Status & History",
+      "attributes": {
+        "id": "menu-product-purchase-history",
+        "href": "/orderhistory/orders-ui",
+        "data-element-type": "globalNav",
+        "data-element-name": "Order Status & History",
+        "data-testid": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "body-small",
+        "bold"
+      ],
+      "text": "Walgreens Advertising Group",
+      "attributes": {
+        "href": "https://www.walgreensadvertisinggroup.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "labelledIconImage"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/shop-page/20250706_SP_Category_Beauty_6.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "header",
+      "id": "",
+      "classes": [],
+      "text": "Extra 20% OFF $50+ Pickup orders with code SALE20Plus clip your holiday surprise!Holiday shopAccountMenuAccountSign inCreate an accountYour AccountWalgreens Cash RewardsPrescription Refills & StatusVaccination RecordsOrder Status & HistoryBuy It AgainSign inCreate an accountAccountBackAccountYour AccountWalgreens Cash RewardsPrescription Refills & StatusVaccination RecordsOrder Status & HistoryBuy It AgainClose main menuPharmacyBackPharmacyHomePrescriptionsBackPrescriptionsRefillsOrdersRecordsTr",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "getting_started",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Home",
+      "attributes": {
+        "data-element-name": "Home",
+        "data-content-name": "Main nav child link",
+        "href": "/pharmacy/fulfillment/rx-landing?flow=rxhomelanding",
+        "id": "getting_started"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "respiratory-health-tile-1",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "Buy 1 Get 150% OFFselect Walgreens brands products",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/store/family_products.jsp?pluCode=4121&ban=HP_RespiratoryHealth_11092025_OB_BOGO50",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "respiratory-health-tile-1",
+        "style": "background: #FFFFFF",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/store/store/family_products.jsp?pluCode=4121&ban=HP_RespiratoryHealth_11092025_OB_BOGO50\",\"cardInfo\":\"Buy 1 Get 1 50% OFF select Walgreens brands products\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": "#FFFFFF"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "labelledIcon"
+      ],
+      "text": "Toys, Games & Books",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/toys-games-and-books/ID=20001469-tier1?ban=HP_FeatCategory_7132025_ToysGamesBooks"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "container-topleft",
+        "container-images"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "alt": "",
+        "style": "display: none;",
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/4284227_110324_HP_DOTW_TOP_LEFT.png"
+      },
+      "computedStyles": {
+        "display": "none"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251109_HP_HolidayPrep_Image_Card2_4up.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Walgreens.com/Offerdetails",
+      "attributes": {
+        "aria-label": "Walgreens.com Offer Details",
+        "href": "/promotion/offer-details"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "font__sixteen"
+      ],
+      "text": "myWalgreens®",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Incontinence",
+      "attributes": {
+        "href": "/store/c/incontinence/ID=20006889-tier1",
+        "data-element-name": "Incontinence",
+        "data-content-name": "Tier 1 link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "tertiary-tile-4",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "Unlock your offerstarting at $50 rewards* with the myWalgreens® Credit Card. Learn how.",
+      "attributes": {
+        "href": "https://www.walgreens.com/mywalgreens/cards/credit.jsp?BAN=CCHPTile&sitecode=WGDCOMHPT&ban=HP_Tertiary_11092025_CreditCardLTO",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "tertiary-tile-4",
+        "style": "background: ",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/mywalgreens/cards/credit.jsp?BAN=CCHPTile&sitecode=WGDCOMHPT&ban=HP_Tertiary_11092025_CreditCardLTO\",\"cardInfo\":\"Unlock your offer starting at $50 rewards* with the myWalgreens® Credit Card. Learn how.\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": ""
+      }
+    },
+    {
+      "tag": "a",
+      "id": "health-pills-tile-1",
+      "classes": [
+        "quicklinkcardv1",
+        "lazy-load",
+        "placeholder"
+      ],
+      "text": "Schedule vaccinations",
+      "attributes": {
+        "data-loaded": "false",
+        "href": "https://www.walgreens.com/findcare/schedule-vaccine?ban=HP_HealthPills_5252025_Vaccines",
+        "data-analytics": "",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "id": "health-pills-tile-1",
+        "style": "background: #FFFFFF",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/findcare/schedule-vaccine?ban=HP_HealthPills_5252025_Vaccines\",\"cardInfo\":\"Schedule vaccinations\",\"linkText\":\"Default CTA Label\",\"componentName\":\"quicklinksiconcard\"}"
+      },
+      "computedStyles": {
+        "background": "#FFFFFF"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "drug_info",
+      "classes": [],
+      "text": "Drug info",
+      "attributes": {
+        "id": "drug_info",
+        "href": "/rx-druginfo/pharmacy/finddrug/druginfosearch",
+        "data-element-name": "Drug info",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "About us",
+      "attributes": {
+        "href": "https://corporate.walgreens.com/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Accessibility Notice",
+      "attributes": {
+        "href": "/topic/information/access-to-services.jsp"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "btn__back",
+        "btn__back-to-lvl-2-menu"
+      ],
+      "text": "Back",
+      "attributes": {
+        "href": "javascript:void(0);",
+        "role": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "logo-contain"
+      ],
+      "text": "",
+      "attributes": {
+        "href": "/",
+        "aria-label": "Walgreens Home"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Grocery",
+      "attributes": {
+        "href": "/store/c/grocery/ID=359451-tier1",
+        "test-event": "Grocery"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "labelledIcon"
+      ],
+      "text": "Beauty",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/beauty-products/ID=359434-tier1?ban=HP_FeatCategory_7132025_Beauty"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "body-small",
+        "bold"
+      ],
+      "text": "Terms and Conditions",
+      "attributes": {
+        "href": "#!"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "Reorder_Contact_Lenses",
+      "classes": [],
+      "text": "Reorder Contact Lenses",
+      "attributes": {
+        "id": "Reorder_Contact_Lenses",
+        "href": "/youraccount/clhistory/contactlenshist.jsp",
+        "data-element-name": "Reorder Contact Lenses",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "request_new",
+      "classes": [],
+      "text": "Request new Rx",
+      "attributes": {
+        "id": "request_new",
+        "href": "/rx-checkout/order/enter-prescription",
+        "data-element-name": "Request new Rx",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Sexual Wellness",
+      "attributes": {
+        "href": "/store/c/sexual-wellness/ID=359445-tier1",
+        "test-event": "Sexual Wellness"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251102_HP_HealthModule_Image_Card4_4up.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "labelledIconImage"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/shop-page/20250706_SP_Category_ActiveNutrition_10.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Privacy Center",
+      "attributes": {
+        "href": "/privacycenter"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "btn__back-to-main-menu",
+        "hidden-button",
+        "hide-on-desktop"
+      ],
+      "text": "Close main menu",
+      "attributes": {
+        "href": "javascript:void(0);",
+        "role": "button"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "health-pills-tile-2",
+      "classes": [
+        "quicklinkcardv1",
+        "lazy-load",
+        "placeholder"
+      ],
+      "text": "Flu & COVID-19 testing options",
+      "attributes": {
+        "data-loaded": "false",
+        "href": "https://www.walgreens.com/testandtreat/testing?ban=HP_HealthPills_10052025_Covid19Testing",
+        "data-analytics": "",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "id": "health-pills-tile-2",
+        "style": "background: #FFFFFF",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/testandtreat/testing?ban=HP_HealthPills_10052025_Covid19Testing\",\"cardInfo\":\"Flu & COVID-19 testing options\",\"linkText\":\"Default CTA Label\",\"componentName\":\"quicklinksiconcard\"}"
+      },
+      "computedStyles": {
+        "background": "#FFFFFF"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "tertiary-tile-3",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "Get it fasterTry 30-Minute Pickup or 1-Hour Delivery FREE on $35+.",
+      "attributes": {
+        "href": "https://www.walgreens.com/store-services/same-day-delivery?ban=HP_Tertiary_11092025_Pickup_Delivery",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "tertiary-tile-3",
+        "style": "background: ",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/store-services/same-day-delivery?ban=HP_Tertiary_11092025_Pickup_Delivery\",\"cardInfo\":\"Get it faster Try 30-Minute Pickup or 1-Hour Delivery FREE on $35+.\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": ""
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/icons/COVID%20Testing.png",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Find Rx Coverage",
+      "attributes": {
+        "data-element-name": "Find Rx Coverage",
+        "data-content-name": "Main nav child link",
+        "href": "/findcare/find-prescription-coverage"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Gift Cards",
+      "attributes": {
+        "href": "/store/c/gift-cards/ID=20001459-tier1",
+        "test-event": "Gift Cards"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Toys, Games & Books",
+      "attributes": {
+        "href": "/store/c/toys-games-and-books/ID=20001469-tier1",
+        "test-event": "Toys, Games & Books"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "emails_notifications",
+      "classes": [],
+      "text": "Emails & Notifications",
+      "attributes": {
+        "id": "emails_notifications",
+        "href": "/youraccount/communication_preferences.jsp",
+        "data-element-name": "Emails & Notifications",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "font__sixteen"
+      ],
+      "text": "Company Information",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "health-module-tile-3",
+      "classes": [
+        "quicklinkcardv1",
+        "lazy-load",
+        "placeholder"
+      ],
+      "text": "Check Rx Status",
+      "attributes": {
+        "data-loaded": "false",
+        "href": "https://www.walgreens.com/rx-status/?ban=HP_HealthModule_10122025_RxStatus",
+        "data-analytics": "",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "id": "health-module-tile-3",
+        "style": "background: #FFFFFF",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/rx-status/?ban=HP_HealthModule_10122025_RxStatus\",\"cardInfo\":\"Check Rx Status\",\"linkText\":\"Default CTA Label\",\"componentName\":\"quicklinksiconcard\"}"
+      },
+      "computedStyles": {
+        "background": "#FFFFFF"
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "labelledIconImage"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/shop-page/20250706_SP_Category_VitaminsSupplements_4.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Product Recalls",
+      "attributes": {
+        "href": "/topic/information/recall.jsp"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "labelledIconImage"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/shop-page/20250706_SP_Category_NewTrending_19.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "wag-text-decoration"
+      ],
+      "text": "4/10 or $4.49 eachselect Tide Simply, Downy, Bounce, Febreze or Mr. Clean household products",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/productlist/N=20006779?ban=HP_ValueHub_11092025_HouseholdProducts_DOTW",
+        "data-analytics": "",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Help/FAQs",
+      "attributes": {
+        "href": "/topic/help/default.jsp?foot=help"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "container-topright",
+        "container-images"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "alt": "",
+        "style": "display: none;",
+        "src": "/content/dam/connectedassets/walgreens/us/en/shop-page/TEST_Right.jpg"
+      },
+      "computedStyles": {
+        "display": "none"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Baby & Kids",
+      "attributes": {
+        "href": "/store/c/baby-and-kids/ID=359449-tier1",
+        "data-element-name": "Baby & Kids",
+        "data-content-name": "Tier 1 link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Impact",
+      "attributes": {
+        "href": "https://corporate.walgreens.com/impact/"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "pf-mb-register",
+      "classes": [],
+      "text": "Create an account",
+      "attributes": {
+        "href": "javascript:void(0);",
+        "role": "button",
+        "id": "pf-mb-register",
+        "data-element-name": "Create an account",
+        "data-content-name": "Create an account link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251109_HP_HolidayPrep_Image_Card3_4up.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Program Membership",
+      "attributes": {
+        "href": "/topic/promotion/mywalgreens.jsp"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "labelledIconImage"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251019_HP_FeaturedCategories_GroupIcon_Category_8.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "font__sixteen"
+      ],
+      "text": "PRICING PROMISE:",
+      "attributes": {
+        "style": "display: inline;"
+      },
+      "computedStyles": {
+        "display": "inline"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "menu-buy-again",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Buy It Again",
+      "attributes": {
+        "id": "menu-buy-again",
+        "href": "/youraccount/dlorder/reorder.jsp",
+        "data-element-type": "globalNav",
+        "data-element-name": "Buy It Again",
+        "data-testid": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "tertiary-tile-2",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "Download the app for FREERefill. Shop. Save. All in the app.",
+      "attributes": {
+        "href": "https://www.walgreens.com/promotion/walgreens-app?ban=HP_Tertiary_11092025_AppDownload",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "tertiary-tile-2",
+        "style": "background: ",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/promotion/walgreens-app?ban=HP_Tertiary_11092025_AppDownload\",\"cardInfo\":\"Download the app for FREE Refill. Shop. Save. All in the app.\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": ""
+      }
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251109_HP_HolidayPrep_Image_Card1_3up.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Reloadable Debit Cards",
+      "attributes": {
+        "data-element-name": "Reloadable Debit Cards",
+        "data-content-name": "Main nav child link",
+        "href": "/topic/promotion/reloadablecards.jsp"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [
+        "font__sixteen"
+      ],
+      "text": "Walgreens API/Affiliate Program",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "dropdown__title"
+      ],
+      "text": "Pharmacy",
+      "attributes": {
+        "data-element-name": "Pharmacy",
+        "data-content-name": "Main nav link",
+        "href": "javascript:void(0);",
+        "role": "button",
+        "aria-expanded": "false"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "holiday-prep-tile-2",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "Clip your holiday surprise!Save even more with sitewide code.*",
+      "attributes": {
+        "href": "https://www.walgreens.com/offers/offers.jsp?ban=HP_HolidayPrep_11092025_MysteryDeal",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "holiday-prep-tile-2",
+        "style": "background: #C8AE7F",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/offers/offers.jsp?ban=HP_HolidayPrep_11092025_MysteryDeal\",\"cardInfo\":\"myWalgreens | Clip your holiday surprise! Save even more with sitewide code.*\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": "#C8AE7F"
+      }
+    },
+    {
+      "tag": "nav",
+      "id": "",
+      "classes": [
+        "nav__top"
+      ],
+      "text": "AccountMenuAccountSign inCreate an accountYour AccountWalgreens Cash RewardsPrescription Refills & StatusVaccination RecordsOrder Status & HistoryBuy It AgainSign inCreate an accountAccountBackAccountYour AccountWalgreens Cash RewardsPrescription Refills & StatusVaccination RecordsOrder Status & HistoryBuy It AgainClose main menuPharmacyBackPharmacyHomePrescriptionsBackPrescriptionsRefillsOrdersRecordsTransfer Rx to WalgreensRequest new RxAuto RefillsDrug infoClose main menuContact LensesBackCon",
+      "attributes": {
+        "aria-label": "Top navigation with the logo, search field, account and cart"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "container-topright",
+        "container-images"
+      ],
+      "text": "",
+      "attributes": {
+        "loading": "lazy",
+        "alt": "",
+        "style": "display: none;",
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/4284227_110324_HP_DOTW_TOP_RIGHT.png"
+      },
+      "computedStyles": {
+        "display": "none"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Photo Gifts",
+      "attributes": {
+        "href": "https://photo.walgreens.com/store/gifts",
+        "test-event": "Photo Gifts"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Pet",
+      "attributes": {
+        "href": "/store/c/pet/ID=20000612-tier1",
+        "test-event": "Pet"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Extra 20% OFF $50+ Pickup orders with code SALE20",
+      "attributes": {
+        "href": "/store/c/productlist/N=20006000?ban=HP_Nav_11092025_PickupSitewide_SALE20"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Clinical Trials",
+      "attributes": {
+        "data-element-name": "Clinical Trials",
+        "data-content-name": "Main nav child link",
+        "href": "/health-services/clinical-trials"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/images/adaptive/livestyleguide/v5/icons/Branding.svg",
+        "alt": "Walgreens: Trusted since 1901"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "holiday-prep-tile-1",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "’Tis the season for sitewide savings!*Get 15% OFF $30+ or 20% OFF $50+ Pickup orders with codeSALE15orSALE20",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/productlist/N=20006000?ban=HP_HolidayPrep_11092025_PickupSitewide_SALE15SALE20",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "holiday-prep-tile-1",
+        "style": "background: #C8AE7F",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/store/c/productlist/N=20006000?ban=HP_HolidayPrep_11092025_PickupSitewide_SALE15SALE20\",\"cardInfo\":\"Tis the season for sitewide savings!* Get 15% OFF $30+ or 20% OFF $50+ Pickup orders with code SALE15 or SALE20\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": "#C8AE7F"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Financial Services Home",
+      "attributes": {
+        "data-element-name": "Financial Services Home",
+        "data-content-name": "Main nav child link",
+        "href": "/topic/financial-services/overview.jsp"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Same Day Pickup",
+      "attributes": {
+        "href": "https://photo.walgreens.com/store/same-day-pickup",
+        "test-event": "Same Day Pickup"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "home_delivery_pharmacy",
+      "classes": [],
+      "text": "Mail Service Pharmacy",
+      "attributes": {
+        "id": "home_delivery_pharmacy",
+        "href": "/rx-settings/home-delivery-pharmacy",
+        "data-element-name": "Mail Service Pharmacy",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/homepage/images/20251109_HP_RespiratoryHealth_Image_Card3_4up.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Scarlet® Bank Account",
+      "attributes": {
+        "data-element-name": "Scarlet® Bank Account",
+        "data-content-name": "Main nav child link",
+        "href": "/mywalgreens/cards/debit.jsp"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "wag-text-decoration"
+      ],
+      "text": "Buy 1 get 2 FREEselect Walgreens food storage bags",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/productlist/N=20006785?ban=HP_ValueHub_11092025_OBFoodStorage_DOTW",
+        "data-analytics": "",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": [
+        "labelledIconImage"
+      ],
+      "text": "",
+      "attributes": {
+        "src": "/content/dam/connectedassets/walgreens/us/en/shop-page/20250706_SP_Category_PersonalCare_5.jpg",
+        "alt": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title",
+        "side-dropdown__title",
+        "content__inline"
+      ],
+      "text": "Settings",
+      "attributes": {
+        "data-element-name": "Settings",
+        "data-content-name": "Main nav child link",
+        "href": "javascript:void(0);",
+        "role": "button",
+        "style": "white-space:nowrap;display:flex;align-items:center;justify-content:space-between;padding-right:6px",
+        "aria-expanded": "false"
+      },
+      "computedStyles": {
+        "whiteSpace": "nowrap",
+        "display": "flex",
+        "alignItems": "center",
+        "justifyContent": "space-between",
+        "paddingRight": "6px"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "menu-vaccination-records",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Vaccination Records",
+      "attributes": {
+        "id": "menu-vaccination-records",
+        "href": "/immunizationservice/pharmacy/immunization/ViewImmunizeHistory.jsp",
+        "data-element-type": "globalNav",
+        "data-element-name": "Vaccination Records",
+        "data-testid": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "",
+      "classes": [],
+      "text": "Make holiday memories, save those memories",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "body-small",
+        "bold"
+      ],
+      "text": "Walgreens Clinical Trials",
+      "attributes": {
+        "href": "/topic/clinical-trials.jsp"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "standard-link"
+      ],
+      "text": "Household & Pet Essentials",
+      "attributes": {
+        "href": "/store/c/household-and-pet-essentials/ID=20000910-tier1",
+        "data-element-name": "Household & Pet Essentials",
+        "data-content-name": "Tier 1 link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "menu-account-home",
+      "classes": [],
+      "text": "Your Account",
+      "attributes": {
+        "id": "menu-account-home",
+        "href": "/youraccount/default.jsp",
+        "data-element-type": "rightNav",
+        "data-element-name": "Your Account",
+        "data-testid": ""
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "h2",
+      "id": "myWalgreens-membership.",
+      "classes": [
+        "wag-pt-20"
+      ],
+      "text": "To clip coupons, you'll need a myWalgreens membership.",
+      "attributes": {
+        "id": "myWalgreens-membership."
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "Photo - Prints",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "Photo Books",
+      "attributes": {
+        "data-element-name": "Photo Books",
+        "data-content-name": "Main nav child link",
+        "href": "https://photo.walgreens.com/store/photo-books",
+        "id": "Photo - Prints"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "medication_compounding",
+      "classes": [],
+      "text": "Medication Compounding",
+      "attributes": {
+        "id": "medication_compounding",
+        "href": "/topic/pharmacy/compounding.jsp?o=acs",
+        "data-element-name": "Medication Compounding",
+        "data-content-name": "Main nav submenu link"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "respiratory-health-tile-2",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "Buy 1 Get 1FREEselect same-brand vitamins",
+      "attributes": {
+        "href": "https://www.walgreens.com/store/c/productlist/N=20006808?ban=HP_RespiratoryHealth_11092025_Vitamins_BOGO50",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "respiratory-health-tile-2",
+        "style": "background: #FFFFFF",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/store/c/productlist/N=20006808?ban=HP_RespiratoryHealth_11092025_Vitamins_BOGO50\",\"cardInfo\":\"includes value pack | Buy 1 Get 1 FREE select same-brand vitamins\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": "#FFFFFF"
+      }
+    },
+    {
+      "tag": "a",
+      "id": "health-module-tile-1",
+      "classes": [
+        "quicklinkcard-link",
+        "wag-card",
+        "lazy-load",
+        "card",
+        "card__basic",
+        "wag-p-0",
+        "placeholder",
+        "has-link"
+      ],
+      "text": "Get vaccinated. Get rewarded.20% OFF your next in-store purchase as a myWalgreens® member*",
+      "attributes": {
+        "href": "https://www.walgreens.com/findcare/schedule-vaccine?ban=HP_HealthModule_11092025_Vaccines",
+        "onclick": "WAGAnalytics.handleLinkClickWithAnalytics(event, this); return false;",
+        "data-loaded": "false",
+        "id": "health-module-tile-1",
+        "style": "background: #FFFFFF",
+        "data-wag-analytics": "{\"linkDestination\":\"https://www.walgreens.com/findcare/schedule-vaccine?ban=HP_HealthModule_11092025_Vaccines\",\"cardInfo\":\"Get vaccinated. Get rewarded. 20% OFF your next in-store purchase as a myWalgreens® member*\",\"linkText\":\"Default Text\",\"componentName\":\"quicklinkimagecard\"}"
+      },
+      "computedStyles": {
+        "background": "#FFFFFF"
+      }
+    },
+    {
+      "tag": "h3",
+      "id": "",
+      "classes": [],
+      "text": "Recently viewed items",
+      "attributes": {},
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Your Privacy Choices",
+      "attributes": {
+        "href": "/topic/donotsellmyinfo.jsp?o=acs",
+        "data-element-name": "Your Privacy Choices",
+        "data-element-type": "footerNav"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [],
+      "text": "Contact Us",
+      "attributes": {
+        "href": "/mktg/contactus/contact-us-landing.jsp?foot=contact_us"
+      },
+      "computedStyles": {}
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": [
+        "lvl-2-link__title"
+      ],
+      "text": "myWalgreens® Credit Card",
+      "attributes": {
+        "data-element-name": "myWalgreens® Credit Card",
+        "data-content-name": "Main nav child link",
+        "href": "/mywalgreens/cards/credit.jsp?BAN=GLNAV&sitecode=WGDCOMNAV"
+      },
+      "computedStyles": {}
+    }
+  ]
+}
