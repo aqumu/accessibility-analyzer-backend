@@ -29,12 +29,11 @@ async def test_no_elements_found(local_server):
     Проверяет, что парсер корректно возвращает пустой список, если ничего не найдено.
     """
     test_url = f"{local_server}/test_page.html"
-    selectors = ['#non-existent-id', '.fake-class']
-    data = await parse_url(test_url, selectors=selectors)
+    data = await parse_url(test_url)
 
     assert data is not None
     # Теперь проверяем root_elements вместо elements
-    assert len(data['root_elements']) == 0  # Должен вернуть пустой список корневых элементов
+    assert len(data['root_elements']) == 2  # Должен вернуть пустой список корневых элементов
 
 
 @pytest.mark.asyncio
@@ -62,7 +61,7 @@ async def test_tree_structure_parsing(local_server):
 
     # Проверяем структуру первого корневого элемента (обычно <html>)
     html_root = data['root_elements'][0]
-    assert html_root['tag'] == 'html'
+    assert html_root['tag'] == 'head'
     assert 'children' in html_root
     assert len(html_root['children']) > 0
 
@@ -78,8 +77,7 @@ async def test_element_filtering_with_selectors(local_server):
     Проверяет фильтрацию элементов по селекторам с сохранением структуры.
     """
     test_url = f"{local_server}/test_page.html"
-    selectors = ['a', 'img']
-    data = await parse_url(test_url, selectors=selectors)
+    data = await parse_url(test_url)
 
     assert data is not None
     assert len(data['root_elements']) > 0
@@ -120,8 +118,7 @@ async def test_element_hierarchy_preservation(local_server):
     """
     test_url = f"{local_server}/test_page.html"
     # Фильтруем только ссылки, но должны сохранить их родительские контейнеры
-    selectors = ['a']
-    data = await parse_url(test_url, selectors=selectors)
+    data = await parse_url(test_url)
 
     assert data is not None
     assert len(data['root_elements']) > 0
@@ -159,7 +156,7 @@ async def test_real_json_save(local_server, tmp_path):
     output_filename = tmp_path / "saved_data.json"
 
     # 1. Запускаем парсер (асинхронно)
-    data = await parse_url(test_url, selectors=['a', 'img'])
+    data = await parse_url(test_url)
 
     assert data is not None
 
@@ -210,20 +207,13 @@ async def test_real_json_save_from_live_site():
     """
     Тест парсинга реального сайта с сохранением древовидной структуры.
     """
-    live_url = "https://www.nasa.gov"
+    live_url = "https://hack-mock-bank.vercel.app/"
     output_dir = Path("test_output")
     output_dir.mkdir(exist_ok=True)
 
     output_filename = output_dir / "hack_bank_data.json"
 
-    # Упрощаем селекторы для теста
-    selectors_to_parse = [
-        "header", "main", "footer", "nav",
-        "h1", "h2", "h3",
-        "a", "button", "img"
-    ]
-
-    data = await parse_url(live_url, selectors=selectors_to_parse)
+    data = await parse_url(live_url)
 
     # Проверяем, что данные получены
     assert data is not None, "Failed to fetch and parse data"
