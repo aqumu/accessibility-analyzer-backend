@@ -822,6 +822,7 @@ def test_full_feature_example():
 
 # test_parse_and_write_dto.py
 import json
+from pathlib import Path
 
 # Путь к файлу с "сырыми" данными элементов (представим, что это массив JSON-объектов)
 INPUT_FILE_PATH = "testspack/test_parser/test_output/hack_bank_data.json"
@@ -830,79 +831,76 @@ OUTPUT_FILE_PATH = "testspack/test_parser/test_output/dto_output.txt"
 
 def test_parse_json_file_and_write_dto():
     """
-    Тест: читает JSON из hack_bank_data.json, преобразует в DTO и записывает результат в другой файл.
+    Тест: читает JSON, преобразует в DocumentModel через DocumentFactory,
+    разворачивает DOM в плоский список и записывает детали в файл.
     """
-    # 1. Читаем содержимое файла
-    with open(INPUT_FILE_PATH, 'r', encoding='utf-8') as f:
-        json_string_content = f.read()
 
-    # 2. Преобразуем строку в Python-объект (предполагаем, что это валидный JSON)
+    input_path = Path(INPUT_FILE_PATH)
+    output_path = Path(OUTPUT_FILE_PATH)
+
+    # --- 1. Читаем содержимое JSON ---
+    assert input_path.exists(), f"Файл {input_path} не найден"
+
+    json_string = input_path.read_text(encoding="utf-8")
+
     try:
-        parsed_data = json.loads(json_string_content)
-        print("JSON успешно разобран из файла.")
+        parsed_data = json.loads(json_string)
     except json.JSONDecodeError as e:
-        print(f"Ошибка при парсинге JSON из файла {INPUT_FILE_PATH}: {e}")
-        raise e
+        raise AssertionError(f"Ошибка при чтении JSON: {e}")
 
-    # 3. Преобразуем в DTO с помощью DocumentFactory
-    #    DocumentFactory.load_from_json ожидает формат:
-    #    {"elements": [...], "url": "...", "lang": "...", "parse_errors": "..."}
-    #    или хотя бы {"elements": [...]}
+    # --- 2. Преобразуем в DocumentModel ---
     document_model = DocumentFactory.load_from_json(parsed_data)
 
-    # 4. Записываем текстовое представление DTO в выходной файл
-    with open(OUTPUT_FILE_PATH, 'w', encoding='utf-8') as f:
-        f.write("Текстовое представление DocumentModel DTO:\n")
-        f.write("=" * 50 + "\n")
-        f.write("\n\n")
-        f.write("Информация о документе:\n")
-        f.write("\n\n")
-        f.write("Количество элементов в плоском списке: " + str(len(document_model.elements)) + "\n")
-        f.write("Количество элементов в корневом узле: " + str(len(document_model.root.children)) + "\n")
+    # --- 3. Записываем данные о модели ---
+    with output_path.open("w", encoding="utf-8") as f:
+        f.write("DOCUMENT MODEL DTO DUMP\n")
+        f.write("=" * 60 + "\n\n")
 
-        f.write("\n--- Детали ВСЕХ элементов ---\n")
-        for i, elem in enumerate(document_model.elements):
-            f.write(f"\n--- Элемент {i + 1} ---\n")
-            f.write(f"Тег: {elem.tag}\n")
-            f.write(f"Текст: {elem.text}\n")
-            f.write(f"Alt: {elem.alt}\n")
-            f.write(f"Title: {elem.title}\n")
-            f.write(f"Placeholder: {elem.placeholder}\n")
-            f.write(f"Ширина: {elem.width}\n")
-            f.write(f"Высота: {elem.height}\n")
-            f.write(f"Позиция (top, left): {elem.top}, {elem.left}\n")
-            f.write(f"Глубина: {elem.depth}\n")
-            f.write(f"Кол-во детей: {elem.num_children}\n")
-            f.write(f"Размер шрифта: {elem.fontSize}\n")
-            f.write(f"Жирность шрифта: {elem.fontWeight}\n")
-            f.write(f"Цвет текста: {elem.color}\n")
-            f.write(f"Цвет фона: {elem.backgroundColor}\n")
-            f.write(f"Позиционирование: {elem.position}\n")
-            f.write(f"Отображение: {elem.display}\n")
-            f.write(f"Выравнивание текста: {elem.textAlign}\n")
-            f.write(f"Прозрачность: {elem.opacity}\n")
-            f.write(f"Интервал между буквами: {elem.letterSpacing}\n")
-            f.write(f"Высота строки: {elem.lineHeight}\n")
-            f.write(f"Стили (styles dict): {elem.styles}\n")
-            f.write(f"Семантика: {elem.semantics}\n")
-            f.write(f"Интерактивность: {elem.interaction}\n")
-            f.write(f"Макет: {elem.layout}\n")
-            f.write(f"Форма: {elem.form}\n")
-            f.write(f"Медиа: {elem.media}\n")
-            f.write(f"DOM Path: {elem.dom_path}\n")
-            f.write(f"Количество детей: {len(elem.children)}\n")
-            f.write(f"Полное представление элемента:\n{repr(elem)}\n")
-            f.write("-" * 30 + "\n")  # Разделитель между элементами
+        # Информация о документе
+        f.write("Document Info:\n")
+        f.write(f"Title: {document_model.info.title}\n")
+        f.write(f"Lang: {document_model.info.lang}\n")
+        f.write(f"Parse errors: {document_model.info.parse_errors}\n")
+        f.write("\n")
 
-    # 5. Проверяем, что файл был создан и не пуст
-    import os
-    assert os.path.exists(OUTPUT_FILE_PATH), f"Выходной файл {OUTPUT_FILE_PATH} не был создан."
-    assert os.path.getsize(OUTPUT_FILE_PATH) > 0, f"Выходной файл {OUTPUT_FILE_PATH} пустой."
+        # Техническая статистика
+        f.write("STATS:\n")
+        f.write(f"Total elements (flat): {len(document_model.elements)}\n")
+        f.write(f"Root children count: {len(document_model.root.children)}\n")
+        f.write("\n")
 
-    print(f"DTO успешно преобразованы и записаны в {OUTPUT_FILE_PATH}")
-    print(f"Количество элементов в DTO: {len(document_model.elements)}")
-    if document_model.elements:
-        print(f"Детали всех элементов записаны в {OUTPUT_FILE_PATH}")
+        # Все элементы
+        f.write("--- ALL ELEMENTS ---\n")
+
+        for i, elem in enumerate(document_model.elements, start=1):
+            f.write(f"\n### Element {i} ###\n")
+            f.write(f"tag: {elem.tag}\n")
+            f.write(f"text: {elem.text}\n")
+            f.write(f"node_id: {elem.node_id}\n")
+
+            # DOM путь (если есть)
+            if hasattr(elem, "get_path"):
+                try:
+                    f.write(f"path: {elem.get_path()}\n")
+                except Exception:
+                    f.write("path: <error calculating path>\n")
+
+            f.write(f"children count: {len(elem.children)}\n")
+            f.write(f"parent: {elem.parent.tag if elem.parent else None}\n")
+
+            # ПОЛНЫЕ данные узла — автоматически
+            f.write("\n--- RAW NODE DATA ---\n")
+            for key, value in vars(elem).items():
+                f.write(f"{key}: {value}\n")
+
+            f.write("-" * 40 + "\n")
+
+    # --- 4. Проверяем корректность вывода ---
+    assert output_path.exists(), "Выходной файл не создан"
+    assert output_path.stat().st_size > 0, "Выходной файл пустой"
+
+    print(f"DTO успешно записан → {output_path}")
+    print(f"Всего элементов: {len(document_model.elements)}")
 
 
 if __name__ == "__main__":

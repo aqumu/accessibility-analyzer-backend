@@ -197,45 +197,13 @@ class FormInfo:
 # ---------------------------
 # Основной класс элемента DOM
 # ---------------------------
+from typing import Any, Dict, List, Optional
+import uuid
+
+
 @dataclass
 class ElementNode:
-    """
-    Основной класс, представляющий элемент DOM.
-    Содержит всю информацию об элементе, необходимую для анализа доступности.
-
-    Атрибуты:
-        tag (str): HTML тег элемента
-        text (Optional[str]): Текстовое содержимое элемента
-        alt (Optional[str]): Альтернативный текст (для img и других элементов)
-        title (Optional[str]): Атрибут title
-        placeholder (Optional[str]): Плейсхолдер (для input, textarea)
-        width (Optional[str]): Ширина элемента
-        height (Optional[str]): Высота элемента
-        top (Optional[str]): Позиция сверху
-        left (Optional[str]): Позиция слева
-        depth (Optional[int]): Глубина вложенности в DOM (из нового формата)
-        num_children (Optional[int]): Количество дочерних элементов (из нового формата)
-        fontSize (Optional[str]): Размер шрифта
-        fontWeight (Optional[str]): Жирность шрифта
-        lineHeight (Optional[str]): Высота строки
-        opacity (Optional[str]): Прозрачность
-        letterSpacing (Optional[str]): Интервал между буквами
-        color (Optional[str]): Цвет текста
-        backgroundColor (Optional[str]): Цвет фона
-        position (Optional[str]): Позиционирование
-        display (Optional[str]): Отображение
-        textAlign (Optional[str]): Выравнивание текста
-        styles (Dict[str, Any]): Словарь всех стилевых свойств (для удобства)
-        computed (Dict[str, Any]): Вычисленные стили (оставлен для расширения)
-        pseudo (Dict[str, Any]): Псевдо-элементы (оставлен для расширения)
-        semantics (Optional[NodeSemantics]): Семантическая информация
-        interaction (Optional[NodeInteraction]): Информация об интерактивности
-        layout (Optional[NodeLayout]): Информация о расположении
-        form (Optional[FormInfo]): Информация о форме (если элемент формы)
-        media (Optional[MediaInfo]): Информация о медиа (если медиа-элемент)
-        dom_path (Optional[str]): Путь к элементу в DOM (оставлен для расширения)
-        children (List[ElementNode]): Список дочерних элементов
-    """
+    # --- Основные поля ---
     tag: str
 
     text: Optional[str] = None
@@ -272,124 +240,80 @@ class ElementNode:
     media: Optional[MediaInfo] = None
 
     dom_path: Optional[str] = None
+
+    # --- Иерархия и вспомогательные поля ---
+    parent: Optional[ElementNode] = field(default=None, repr=False, compare=False)
     children: List[ElementNode] = field(default_factory=list)
+    attributes: Dict[str, Any] = field(default_factory=dict)
+    classes: List[str] = field(default_factory=list)
+    node_id: str = field(default_factory=lambda: str(uuid.uuid4()))
 
+    # -------------------------------------------------
+    # Создание из JSON (новый формат парсера)
+    # -------------------------------------------------
     @classmethod
-    def from_json(cls, data: Dict[str, Any]) -> "ElementNode":
+    def from_json(cls, data: Dict[str, Any], parent: Optional[ElementNode] = None) -> ElementNode:
         """
-        Создает экземпляр ElementNode из JSON-данных в новом формате.
-
-        Args:
-            data (Dict[str, Any]): Словарь с JSON-данными элемента из нового формата
-
-        Returns:
-            ElementNode: Экземпляр элемента DOM
-
-        Пример входных данных:
-        {
-            "tag": "button",
-            "text": "Нажми меня",
-            "alt": null,
-            "title": "Кнопка для отправки формы",
-            "placeholder": null,
-            "width": "120px",
-            "height": "40px",
-            "top": "80px",
-            "left": "50px",
-            "fontSize": "16px",
-            "fontWeight": "500",
-            "lineHeight": "1.5",
-            "opacity": "0.95",
-            "letterSpacing": "0.5px",
-            "color": "rgb(255, 255, 255)",
-            "backgroundColor": "rgb(0, 123, 255)",
-            "position": "relative",
-            "display": "inline-block",
-            "textAlign": "center",
-            "depth": 3,
-            "num_children": 1
-        }
+        Построить ElementNode из JSON, который возвращает твой парсер.
+        Ожидает, что data может содержать:
+          - tag, id, classes, text, attributes, computedStyles, children, depth, index, parent_id, pseudo, semantics, interaction, layout, form, media
         """
-        # Collect data from JSON
         tag = data.get("tag", "")
-        text = data.get("text")
-        alt = data.get("alt")
-        title = data.get("title")
-        placeholder = data.get("placeholder")
+        attributes = dict(data.get("attributes", {}) or {})
+        classes = data.get("classes", []) or []
+        element_id = data.get("id") or attributes.get("id")  # предпочитаем data["id"] если есть
+        text = data.get("text") or attributes.get("text") or ""
+        computed_styles = dict(data.get("computedStyles", {}) or {})
+        pseudo = dict(data.get("pseudo", {}) or {})
 
-        width = data.get("width")
-        height = data.get("height")
-        top = data.get("top")
-        left = data.get("left")
+        # Структурные поля
         depth = data.get("depth")
-        num_children = data.get("num_children")
+        index = data.get("index")
+        parent_id = data.get("parent_id")
 
-        font_size = data.get("fontSize")
-        font_weight = data.get("fontWeight")
-        line_height = data.get("lineHeight")
-        opacity = data.get("opacity")
-        letter_spacing = data.get("letterSpacing")
-        color = data.get("color")
-        background_color = data.get("backgroundColor")
-        position = data.get("position")
-        display = data.get("display")
-        text_align = data.get("textAlign")
+        # Количество детей (из данных или посчитать)
+        children_data = data.get("children", []) or []
+        num_children = data.get("num_children", len(children_data) if children_data is not None else 0)
 
-        all_styles = {
-            key: value for key, value in {
-                "color": color,
-                "backgroundColor": background_color,
-                "fontSize": font_size,
-                "fontWeight": font_weight,
-                "lineHeight": line_height,
-                "letterSpacing": letter_spacing,
-                "position": position,
-                "display": display,
-                "textAlign": text_align,
-                "width": width,
-                "height": height,
-                "top": top,
-                "left": left,
-                "opacity": opacity
-            }.items() if value is not None
-        }
+        # Извлечение отдельных стилевых свойств (если есть)
+        font_size = computed_styles.get("fontSize")
+        font_weight = computed_styles.get("fontWeight")
+        line_height = computed_styles.get("lineHeight")
+        opacity = computed_styles.get("opacity")
+        letter_spacing = computed_styles.get("letterSpacing")
+        color = computed_styles.get("color")
+        background_color = computed_styles.get("backgroundColor")
+        position = computed_styles.get("position")
+        display = computed_styles.get("display")
+        text_align = computed_styles.get("textAlign")
 
-        semantics = None
-        if "semantics" in data:
-            semantics = NodeSemantics(**data["semantics"])
+        # Размеры/позиции — сначала из attributes, затем из computedStyles
+        width = attributes.get("width") or computed_styles.get("width")
+        height = attributes.get("height") or computed_styles.get("height")
+        top = attributes.get("top") or computed_styles.get("top")
+        left = attributes.get("left") or computed_styles.get("left")
 
-        interaction = None
-        if "interaction" in data:
-            interaction = NodeInteraction(**data["interaction"])
+        # Объединяем стили (computedStyles имеет приоритет, но оставляем все)
+        styles = {**computed_styles}
+        # Доп. поля из attributes (например inline width/height) — добавляем, если существуют
+        for key in ("width", "height", "top", "left", "opacity"):
+            if attributes.get(key) is not None:
+                styles[key] = attributes.get(key)
 
-        layout = None
-        if "layout" in data:
-            layout = NodeLayout(**data["layout"])
-        else:
-            layout = NodeLayout(depth=depth, num_children=num_children)
+        # Семантика/interaction/layout/form/media — если есть, пробуем создать/скопировать
+        semantics = data.get("semantics")
+        interaction = data.get("interaction")
+        layout = data.get("layout")
+        form = data.get("form")
+        media = data.get("media")
 
-        form = None
-        if "form" in data:
-            form = FormInfo(**data["form"])
-
-        media = None
-        if tag in ["img", "video", "audio", "canvas"]:
-            media = MediaInfo(
-                alt=alt,
-                title=title,
-            )
-
-        children = [
-            ElementNode.from_json(child_data)
-            for child_data in data.get("children", [])
-        ]
-
-        return cls(
+        # Создаём сам узел
+        node = cls(
             tag=tag,
             text=text,
-            alt=alt,
-            title=title,
-            placeholder=placeholder,
+            alt=attributes.get("alt"),
+            title=attributes.get("title"),
+            placeholder=attributes.get("placeholder"),
             width=width,
             height=height,
             top=top,
@@ -406,15 +330,67 @@ class ElementNode:
             position=position,
             display=display,
             textAlign=text_align,
-            styles=all_styles,
+            styles=styles,
+            computed=computed_styles,
+            pseudo=pseudo,
             semantics=semantics,
             interaction=interaction,
             layout=layout,
             form=form,
             media=media,
-            children=children
+            dom_path=data.get("dom_path") or (f"{parent.dom_path}/{tag}" if parent and parent.dom_path else None),
+            parent=parent,
+            children=[],  # заполним ниже
+            attributes=attributes,
+            classes=classes,
+            node_id=element_id or str(uuid.uuid4())
         )
 
+        # Рекурсивно создаём детей и назначаем parent
+        for child_data in children_data:
+            child_node = cls.from_json(child_data, parent=node)
+            node.children.append(child_node)
+
+        # Обновляем num_children, если нужно
+        node.num_children = len(node.children)
+
+        return node
+
+    # -------------------------------------------------
+    # Получить CSS-like путь (удобно для логов)
+    # -------------------------------------------------
+    def get_path(self) -> str:
+        parts: List[str] = []
+        node: Optional[ElementNode] = self
+        while node is not None:
+            part = node.tag or "?"
+            # добавить id или классы если есть
+            if node.attributes.get("id"):
+                part += f"#{node.attributes.get('id')}"
+            elif node.node_id:
+                # не выводим UUID всегда — только по желанию; закомментировано по умолчанию
+                # part += f"@{node.node_id[:8]}"
+                pass
+
+            if node.classes:
+                cls_string = ".".join([c for c in node.classes if c])
+                if cls_string:
+                    part += f".{cls_string}"
+
+            parts.append(part)
+            node = node.parent
+        return " > ".join(reversed(parts))
+
+    # -------------------------------------------------
+    # Читаемый вывод для логов/тестов
+    # -------------------------------------------------
+    def __repr__(self) -> str:
+        parent_tag = self.parent.tag if self.parent else None
+        text_preview = (self.text[:30] + "...") if self.text and len(self.text) > 30 else (self.text or "")
+        return (
+            f"ElementNode(tag='{self.tag}', text='{text_preview}', "
+            f"children={len(self.children)}, parent='{parent_tag}', id='{self.node_id}')"
+        )
 
 # ---------------------------
 # Document Model
@@ -435,57 +411,50 @@ class DocumentModel:
     elements: List[ElementNode] = field(default_factory=list)
 
 
-# ---------------------------
-# Document Factory
-# ---------------------------
 class DocumentFactory:
+
+    @staticmethod
+    def flatten_tree(node: ElementNode) -> List[ElementNode]:
+        """Разворачивает дерево в плоский список."""
+        result = [node]
+        for child in node.children:
+            result.extend(DocumentFactory.flatten_tree(child))
+        return result
 
     @staticmethod
     def load_from_json(data: Dict[str, Any]) -> DocumentModel:
         """
-        Создает DocumentModel из JSON-данных в новом формате.
-
-        Args:
-            data (Dict[str, Any]): JSON-данные документа в новом формате
-
-        Returns:
-            DocumentModel: Модель документа, готовая для анализа доступности
-
-        Пример входных данных:
-        {
-            "elements": [
-                {
-                    "tag": "h1",
-                    "text": "Главный заголовок",
-                    ...
-                },
-                {
-                    "tag": "button",
-                    "text": "Кнопка",
-                    ...
-                }
-            ]
-        }
+        Загружает DOM из JSON (новый формат)
+        и разворачивает дерево в плоскую структуру.
         """
+
+        # --- META ---
+        meta = data.get("meta", {})
+
         doc_info = DocumentInfo(
-            title=data.get("url", "Analyzed Document"),
-            lang=data.get("lang", "en"),
+            title=meta.get("title", "Analyzed Document"),
+            lang=meta.get("lang", "en"),
             parse_errors=data.get("parse_errors", [])
         )
 
-        elements = [
+        # --- Root HTML elements ---
+        root_nodes = [
             ElementNode.from_json(element_data)
-            for element_data in data.get("elements", [])
+            for element_data in data.get("root_elements", [])
         ]
 
-        root_node = ElementNode(
+        # Создаем виртуальный корень
+        virtual_root = ElementNode(
             tag="virtual_root",
             text="",
-            children=elements
+            children=root_nodes
         )
+
+        # --- Flatten ---
+        elements_flat = DocumentFactory.flatten_tree(virtual_root)
 
         return DocumentModel(
             info=doc_info,
-            root=root_node,
-            elements=elements
+            root=virtual_root,
+            elements=elements_flat
         )
