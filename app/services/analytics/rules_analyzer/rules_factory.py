@@ -18,8 +18,15 @@ from app.services.analytics.data_group.data_group import (
 # WCAG rules:
 from app.services.analytics.rules_analyzer.rule_auto_start_sound import RuleMediaAutoplay
 from app.services.analytics.rules_analyzer.rule_3_1_1_language import Rule311Language
+from app.services.analytics.rules_analyzer.rule_contrast import Rule143ContrastMinimum
+from app.services.analytics.rules_analyzer.rule_empty_link import Rule244LinkPurpose
+from app.services.analytics.rules_analyzer.rule_focus_order import Rule243FocusOrder
+from app.services.analytics.rules_analyzer.rule_focus_visible import Rule247FocusVisible
+from app.services.analytics.rules_analyzer.rule_heading_structure import Rule131HeadingsStructure
+from app.services.analytics.rules_analyzer.rule_media import Rule122CaptionsMedia
 from app.services.analytics.rules_analyzer.rule_paceholder import RulePlaceholderWithoutLabel
 from app.services.analytics.rules_analyzer.rule_tables_sh import RuleTableNoHeaders
+from app.services.analytics.rules_analyzer.rule_title import Rule412IFrameTitle
 from app.services.analytics.rules_analyzer.rules_aria_label import RuleAriaIncorrectUsage
 from app.services.analytics.rules_analyzer.rule_label import Rule131Label
 from app.services.analytics.rules_analyzer.rule_alt_atribute import Rule111MissingAlt
@@ -41,12 +48,12 @@ class RulesFactory:
         # Маппинг "тип данных → список классов правил"
         self.RULES_MAP = {
             ImageData: [Rule111MissingAlt],
-            MediaData: [RuleMediaAutoplay],
+            MediaData: [RuleMediaAutoplay, Rule122CaptionsMedia, Rule412IFrameTitle],
             FormFieldData: [RulePlaceholderWithoutLabel, Rule131Label],
             TableData: [RuleTableNoHeaders],
-            InteractiveData: [Rule412LinkPurpose],
-            HeadingData: [],  # пока пусто
-            StyleData: [],    # пока пусто
+            InteractiveData: [Rule412LinkPurpose, Rule244LinkPurpose, Rule243FocusOrder],
+            HeadingData: [Rule131HeadingsStructure],
+            StyleData: [Rule143ContrastMinimum, Rule247FocusVisible],
             AriaData: [RuleAriaIncorrectUsage],
             DocumentStructureData: [Rule311Language],
         }
