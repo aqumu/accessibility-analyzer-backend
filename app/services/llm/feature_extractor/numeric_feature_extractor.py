@@ -2,7 +2,7 @@ import numpy as np
 from sklearn.preprocessing import StandardScaler
 import os
 import json
-from app.services.accessibility.json_parser import DocumentModel, ElementNode
+from app.services.analytics.json_parser.models import DocumentModel, ElementNode
 from app.services.llm.config import FEATURE_MAPPING
 
 

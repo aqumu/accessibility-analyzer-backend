@@ -1,5 +1,5 @@
 import numpy as np
-from app.services.accessibility.json_parser import DocumentModel, ElementNode
+from app.services.analytics.json_parser.models import DocumentModel, ElementNode
 from app.services.llm.config import FEATURE_MAPPING, CATEGORICAL_VOCABULARIES
 
 
