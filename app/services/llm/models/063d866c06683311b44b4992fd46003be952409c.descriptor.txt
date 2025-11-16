@@ -1,3 +1,0 @@
-Module: https://tfhub.dev/google/universal-sentence-encoder/4
-Download Time: 2025-11-15 13:20:14.434122
-Downloader Hostname: WIN-JIAPO75RLQ1 (PID:18976)
