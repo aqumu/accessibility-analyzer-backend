@@ -10,19 +10,20 @@ VECTOR_SIZE = 512
 def setup_model_cache():
     """
     Настраивает директорию для кэширования моделей TensorFlow Hub.
-    Если по указанному пути существует файл, он будет удален.
+    Эта функция выполняется при импорте модуля.
     """
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     cache_dir = os.path.join(base_dir, MODELS_DIR)
     
-    # Если по пути кэша существует файл, удаляем его
     if os.path.exists(cache_dir) and not os.path.isdir(cache_dir):
         print(f"Warning: Found a file at the cache path {cache_dir}. Removing it.")
         os.remove(cache_dir)
     
-    # Создаем директорию, если она не существует
     os.makedirs(cache_dir, exist_ok=True)
     os.environ['TFHUB_CACHE_DIR'] = cache_dir
+
+# Выполняем настройку кеша при импорте модуля
+setup_model_cache()
 
 def _flatten_and_extract_text(elements: list[ElementNode], embed):
     text_features = []
@@ -63,8 +64,7 @@ if __name__ == '__main__':
     import json
     from app.services.analytics.json_parser.models import DocumentFactory
     try:
-        setup_model_cache()
-        
+        # setup_model_cache() теперь вызывается автоматически при импорте
         example_json_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'dataset', '1.json')
         
         with open(example_json_path, 'r', encoding='utf-8') as f:
