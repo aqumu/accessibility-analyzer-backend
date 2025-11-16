@@ -1,18 +1,53 @@
+import os
+import sys
+import tempfile
+import atexit
+import shutil
+
+# =================================================================================
+print("="*80, file=sys.stderr)
+print("--- RUNNING FINAL VERSION OF text_feature_extractor.py ---", file=sys.stderr)
+print("--- This version uses a TEMPORARY, RANDOM directory for the cache. ---", file=sys.stderr)
+print("="*80, file=sys.stderr)
+# =================================================================================
+
 import tensorflow_hub as hub
 import numpy as np
-import os
+from pathlib import Path
 from app.services.analytics.json_parser.models import DocumentModel, ElementNode
 
-MODELS_DIR = 'models'
 MODEL_URL = "https://tfhub.dev/google/universal-sentence-encoder/4"
 VECTOR_SIZE = 512
+TEMP_CACHE_DIR = None
 
 def setup_model_cache():
-    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    cache_dir = os.path.join(base_dir, MODELS_DIR)
-    
-    os.makedirs(cache_dir, exist_ok=True)
-    os.environ['TFHUB_CACHE_DIR'] = cache_dir
+    """
+    Создает временную, уникальную директорию для кэша TensorFlow Hub
+    и регистрирует ее для удаления при завершении работы программы.
+    """
+    global TEMP_CACHE_DIR
+    try:
+        # Создаем временную директорию с уникальным именем
+        TEMP_CACHE_DIR = tempfile.mkdtemp(prefix="tfhub_cache_")
+        os.environ['TFHUB_CACHE_DIR'] = TEMP_CACHE_DIR
+        print(f"--- Using temporary cache directory: {TEMP_CACHE_DIR} ---", file=sys.stderr)
+    except Exception as e:
+        print(f"FATAL ERROR: Could not create temporary directory: {e}", file=sys.stderr)
+        # Если даже это не удалось, прекращаем работу
+        sys.exit(1)
+
+def cleanup_cache():
+    """Удаляет временную директорию кэша."""
+    global TEMP_CACHE_DIR
+    if TEMP_CACHE_DIR and os.path.exists(TEMP_CACHE_DIR):
+        print(f"--- Cleaning up temporary cache directory: {TEMP_CACHE_DIR} ---", file=sys.stderr)
+        shutil.rmtree(TEMP_CACHE_DIR, ignore_errors=True)
+
+# Выполняем настройку кеша при импорте модуля
+setup_model_cache()
+# Регистрируем функцию очистки, которая будет вызвана при выходе из Python
+atexit.register(cleanup_cache)
+
 
 def _flatten_and_extract_text(elements: list[ElementNode], embed):
     text_features = []
@@ -51,10 +86,8 @@ def extract_text_features(document_model: DocumentModel):
 
 if __name__ == '__main__':
     import json
-    from app.services.accessibility.json_parser import DocumentFactory
+    from app.services.analytics.json_parser.models import DocumentFactory
     try:
-        setup_model_cache()
-        
         example_json_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'dataset', '1.json')
         
         with open(example_json_path, 'r', encoding='utf-8') as f:

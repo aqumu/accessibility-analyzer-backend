@@ -2,7 +2,7 @@ import json
 from app.services.llm.predictor import predict_usability
 
 # 1. Загрузите ваш JSON (например, из файла или тела HTTP-запроса)
-with open('app/services/dataset/6.json', 'r', encoding='utf-8') as f:
+with open('debug_raw_data.json', 'r', encoding='utf-8') as f:
     site_data_json = json.load(f)
 
 # 2. Вызовите функцию для получения предсказания

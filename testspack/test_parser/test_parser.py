@@ -207,7 +207,7 @@ async def test_real_json_save_from_live_site():
     """
     Тест парсинга реального сайта с сохранением древовидной структуры.
     """
-    live_url = "https://hack-mock-bank.vercel.app/"
+    live_url = "https://sistema-hack-mtscase-mock-6joi.vercel.app/"
     output_dir = Path("test_output")
     output_dir.mkdir(exist_ok=True)
 

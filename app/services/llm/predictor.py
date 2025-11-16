@@ -4,7 +4,7 @@ from tensorflow import keras
 from typing import Dict, Any
 
 from app.services.analytics.json_parser.models import DocumentFactory
-from app.services.llm.feature_extractor.text_feature_extractor import extract_text_features, setup_model_cache
+from app.services.llm.feature_extractor.text_feature_extractor import extract_text_features
 from app.services.llm.feature_extractor.numeric_feature_extractor import extract_numeric_features
 from app.services.llm.feature_extractor.color_feature_extractor import extract_color_features
 from app.services.llm.feature_extractor.categorical_feature_extractor import extract_categorical_features
@@ -31,10 +31,6 @@ def _load_model():
         if not os.path.exists(model_path):
             raise FileNotFoundError(f"Обученная модель не найдена по пути: {model_path}. "
                                     f"Пожалуйста, сначала обучите модель, запустив train.py.")
-        
-        # Настройка кэша для TF-Hub модели перед загрузкой основной модели
-        print("--- Настройка кэша для TF-Hub модели ---")
-        setup_model_cache()
         
         print(f"--- Загрузка модели из {model_path} ---")
         _model = keras.models.load_model(model_path)

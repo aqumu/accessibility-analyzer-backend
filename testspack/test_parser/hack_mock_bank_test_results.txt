@@ -1,9 +1,9 @@
 ======================================================================
 📋 ОТЧЕТ О ПРОВЕРКЕ ДОСТУПНОСТИ ВЕБ-САЙТА
 ======================================================================
-Дата проверки: 2025-11-16 12:32:45
+Дата проверки: 2025-11-16 14:59:06
 
-✅ УСПЕШНО: Создана модель с 83 элементами
+✅ УСПЕШНО: Создана модель с 84 элементами
 📄 Информация о документе:
    - Заголовок: Банк Пример — главная
    - Язык: 
@@ -25,6 +25,10 @@
 
 ⚠️ RuleMediaAutoplay: ОШИБКА ВЫПОЛНЕНИЯ - 'RuleMediaAutoplay' object has no attribute 'analyze'
 
+⚠️ Rule122CaptionsMedia: ОШИБКА ВЫПОЛНЕНИЯ - 'Rule122CaptionsMedia' object has no attribute 'analyze'
+
+⚠️ Rule412IFrameTitle: ОШИБКА ВЫПОЛНЕНИЯ - 'Rule412IFrameTitle' object has no attribute 'analyze'
+
 ⚠️ RulePlaceholderWithoutLabel: ОШИБКА ВЫПОЛНЕНИЯ - 'RulePlaceholderWithoutLabel' object has no attribute 'analyze'
 
 ⚠️ Rule131Label: ОШИБКА ВЫПОЛНЕНИЯ - 'Rule131Label' object has no attribute 'analyze'
@@ -33,14 +37,24 @@
 
 ⚠️ Rule412LinkPurpose: ОШИБКА ВЫПОЛНЕНИЯ - 'Rule412LinkPurpose' object has no attribute 'analyze'
 
+⚠️ Rule244LinkPurpose: ОШИБКА ВЫПОЛНЕНИЯ - 'Rule244LinkPurpose' object has no attribute 'analyze'
+
+⚠️ Rule243FocusOrder: ОШИБКА ВЫПОЛНЕНИЯ - 'Rule243FocusOrder' object has no attribute 'analyze'
+
+⚠️ Rule131HeadingsStructure: ОШИБКА ВЫПОЛНЕНИЯ - 'Rule131HeadingsStructure' object has no attribute 'analyze'
+
+⚠️ Rule143ContrastMinimum: ОШИБКА ВЫПОЛНЕНИЯ - 'Rule143ContrastMinimum' object has no attribute 'analyze'
+
+⚠️ Rule247FocusVisible: ОШИБКА ВЫПОЛНЕНИЯ - 'Rule247FocusVisible' object has no attribute 'analyze'
+
 ⚠️ RuleAriaIncorrectUsage: ОШИБКА ВЫПОЛНЕНИЯ - 'RuleAriaIncorrectUsage' object has no attribute 'analyze'
 
 ⚠️ Rule311Language: ОШИБКА ВЫПОЛНЕНИЯ - 'Rule311Language' object has no attribute 'analyze'
 
 ============================================================
 🎯 ИТОГОВАЯ СВОДКА:
-   📊 Всего элементов на странице: 83
-   🔧 Проверено правил: 8
+   📊 Всего элементов на странице: 84
+   🔧 Проверено правил: 15
    ❌ Всего проблем найдено: 0
 
 🎉 ОТЛИЧНО! Все проверки пройдены успешно!

@@ -1,8 +1,8 @@
 {
   "meta": {
-    "url": "https://hack-mock-bank.vercel.app/",
-    "title": "Банк Пример — главная",
-    "lang": "",
+    "url": "https://sistema-hack-mtscase-mock-6joi.vercel.app/",
+    "title": "mock-hack-site-2",
+    "lang": "en",
     "charset": "UTF-8"
   },
   "root_elements": [
@@ -10,7 +10,7 @@
       "tag": "head",
       "id": null,
       "classes": [],
-      "text": "Банк Пример — главная",
+      "text": "mock-hack-site-2",
       "attributes": {},
       "computedStyles": {},
       "depth": 0,
@@ -23,11 +23,27 @@
           "classes": [],
           "text": "",
           "attributes": {
-            "charset": "utf-8"
+            "charset": "UTF-8"
           },
           "computedStyles": {},
           "depth": 1,
           "index": 0,
+          "parent_id": null,
+          "children": []
+        },
+        {
+          "tag": "link",
+          "id": null,
+          "classes": [],
+          "text": "",
+          "attributes": {
+            "rel": "icon",
+            "type": "image/svg+xml",
+            "href": "/vite.svg"
+          },
+          "computedStyles": {},
+          "depth": 1,
+          "index": 1,
           "parent_id": null,
           "children": []
         },
@@ -38,11 +54,11 @@
           "text": "",
           "attributes": {
             "name": "viewport",
-            "content": "width=device-width,initial-scale=1"
+            "content": "width=device-width, initial-scale=1.0"
           },
           "computedStyles": {},
           "depth": 1,
-          "index": 1,
+          "index": 2,
           "parent_id": null,
           "children": []
         },
@@ -50,11 +66,27 @@
           "tag": "title",
           "id": null,
           "classes": [],
-          "text": "Банк Пример — главная",
+          "text": "mock-hack-site-2",
           "attributes": {},
           "computedStyles": {},
           "depth": 1,
-          "index": 2,
+          "index": 3,
+          "parent_id": null,
+          "children": []
+        },
+        {
+          "tag": "script",
+          "id": null,
+          "classes": [],
+          "text": "",
+          "attributes": {
+            "type": "module",
+            "crossorigin": "",
+            "src": "/assets/index-C8y3e30Q.js"
+          },
+          "computedStyles": {},
+          "depth": 1,
+          "index": 4,
           "parent_id": null,
           "children": []
         },
@@ -65,11 +97,12 @@
           "text": "",
           "attributes": {
             "rel": "stylesheet",
-            "href": "index.css"
+            "crossorigin": "",
+            "href": "/assets/index-CnZjPj5w.css"
           },
           "computedStyles": {},
           "depth": 1,
-          "index": 3,
+          "index": 5,
           "parent_id": null,
           "children": []
         }
@@ -79,37 +112,20 @@
       "tag": "body",
       "id": null,
       "classes": [],
-      "text": "Банк Пример\n        Надёжный банк с 1890\n      \n    \n\n    \n      Продукты\n      О банке\n      Контакты\n       \n    \n  \n\n  \n    \n      \n        Онлайн-банк для бизнеса и частных лиц\n        Ваши финансы — под контролем \n        Откройте счёт за 5 минут\n        Удобное управление счетами, переводы и инвестиции — всё в одном приложении.\n\n        \n           \n          Открыть счёт \n          Перевести \n        \n\n         \n      \n\n      \n        Быстрый вход\n        \n          \n             \n       ",
+      "text": "ГлавнаяВрачиУслугиКонтактыЗапись на приём к врачуНаши врачи Иванов Иван Иванович, врач терапевтАндрей Андреев Андреевич, врач офтальмолог Дмитрий Дмитриев Дмитриевич, главврачВидео-инструкцииВаш браузер не поддерживает видео.Выберите врачаТерапевтХирургОфтальмологКардиологОтправить заявкуПреимущества больницы Быстрая запись на приёмДипломированные специалисты мирового уровня Современные корпуса и палатыЗагруженность поликлиникПланируемая загруженность по часамВремяЗагрузка08:0010:0012:0014:0016:",
       "attributes": {},
-      "computedStyles": {
-        "fontFamily": "\"Inter\", \"Helvetica Neue\", Arial, sans-serif",
-        "background": "var(--secondary)",
-        "color": "var(--text)",
-        "margin": "0",
-        "padding": "0",
-        "lineHeight": "1.6"
-      },
+      "computedStyles": {},
       "depth": 0,
       "index": 1,
       "parent_id": null,
       "children": [
         {
-          "tag": "header",
-          "id": null,
-          "classes": [
-            "header"
-          ],
-          "text": "Банк Пример\n        Надёжный банк с 1890\n      \n    \n\n    \n      Продукты\n      О банке\n      Контакты",
+          "tag": "div",
+          "id": "root",
+          "classes": [],
+          "text": "ГлавнаяВрачиУслугиКонтактыЗапись на приём к врачуНаши врачи Иванов Иван Иванович, врач терапевтАндрей Андреев Андреевич, врач офтальмолог Дмитрий Дмитриев Дмитриевич, главврачВидео-инструкцииВаш браузер не поддерживает видео.Выберите врачаТерапевтХирургОфтальмологКардиологОтправить заявкуПреимущества больницы Быстрая запись на приёмДипломированные специалисты мирового уровня Современные корпуса и палатыЗагруженность поликлиникПланируемая загруженность по часамВремяЗагрузка08:0010:0012:0014:0016:",
           "attributes": {},
-          "computedStyles": {
-            "background": "var(--primary)",
-            "color": "var(--white)",
-            "display": "flex",
-            "alignItems": "center",
-            "justifyContent": "space-between",
-            "padding": "20px 48px",
-            "boxShadow": "0 2px 8px rgba(0, 0, 0, 0.1)"
-          },
+          "computedStyles": {},
           "depth": 1,
           "index": 0,
           "parent_id": null,
@@ -118,223 +134,37 @@
               "tag": "div",
               "id": null,
               "classes": [
-                "logo"
+                "min-h-screen",
+                "bg-gray-50",
+                "text-gray-500",
+                "p-6",
+                "pt-24"
               ],
-              "text": "Банк Пример\n        Надёжный банк с 1890",
-              "attributes": {},
-              "computedStyles": {
-                "display": "flex",
-                "alignItems": "center",
-                "gap": "12px"
-              },
-              "depth": 2,
-              "index": 0,
-              "parent_id": null,
-              "children": [
-                {
-                  "tag": "img",
-                  "id": null,
-                  "classes": [],
-                  "text": "",
-                  "attributes": {
-                    "src": "/images/logo-bank.svg",
-                    "alt": ""
-                  },
-                  "computedStyles": {},
-                  "depth": 3,
-                  "index": 0,
-                  "parent_id": null,
-                  "children": []
-                },
-                {
-                  "tag": "div",
-                  "id": null,
-                  "classes": [],
-                  "text": "Банк Пример\n        Надёжный банк с 1890",
-                  "attributes": {},
-                  "computedStyles": {},
-                  "depth": 3,
-                  "index": 2,
-                  "parent_id": null,
-                  "children": [
-                    {
-                      "tag": "div",
-                      "id": null,
-                      "classes": [
-                        "bank-name"
-                      ],
-                      "text": "Банк Пример",
-                      "attributes": {},
-                      "computedStyles": {
-                        "fontWeight": "800",
-                        "fontSize": "20px"
-                      },
-                      "depth": 4,
-                      "index": 0,
-                      "parent_id": null,
-                      "children": []
-                    },
-                    {
-                      "tag": "div",
-                      "id": null,
-                      "classes": [
-                        "bank-sub"
-                      ],
-                      "text": "Надёжный банк с 1890",
-                      "attributes": {},
-                      "computedStyles": {
-                        "fontSize": "12px",
-                        "color": "rgba(255, 255, 255, 0.8)"
-                      },
-                      "depth": 4,
-                      "index": 1,
-                      "parent_id": null,
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "tag": "nav",
-              "id": null,
-              "classes": [],
-              "text": "Продукты\n      О банке\n      Контакты",
+              "text": "ГлавнаяВрачиУслугиКонтактыЗапись на приём к врачуНаши врачи Иванов Иван Иванович, врач терапевтАндрей Андреев Андреевич, врач офтальмолог Дмитрий Дмитриев Дмитриевич, главврачВидео-инструкцииВаш браузер не поддерживает видео.Выберите врачаТерапевтХирургОфтальмологКардиологОтправить заявкуПреимущества больницы Быстрая запись на приёмДипломированные специалисты мирового уровня Современные корпуса и палатыЗагруженность поликлиникПланируемая загруженность по часамВремяЗагрузка08:0010:0012:0014:0016:",
               "attributes": {},
               "computedStyles": {},
               "depth": 2,
-              "index": 1,
-              "parent_id": null,
+              "index": 0,
+              "parent_id": "root",
               "children": [
                 {
-                  "tag": "a",
-                  "id": null,
-                  "classes": [],
-                  "text": "Продукты",
-                  "attributes": {
-                    "href": "#products"
-                  },
-                  "computedStyles": {
-                    "color": "rgba(255, 255, 255, 0.9)",
-                    "textDecoration": "none",
-                    "marginLeft": "18px",
-                    "fontWeight": "600",
-                    "transition": "opacity 0.2s"
-                  },
-                  "depth": 3,
-                  "index": 0,
-                  "parent_id": null,
-                  "children": []
-                },
-                {
-                  "tag": "a",
-                  "id": null,
-                  "classes": [],
-                  "text": "О банке",
-                  "attributes": {
-                    "href": "#about"
-                  },
-                  "computedStyles": {
-                    "color": "rgba(255, 255, 255, 0.9)",
-                    "textDecoration": "none",
-                    "marginLeft": "18px",
-                    "fontWeight": "600",
-                    "transition": "opacity 0.2s"
-                  },
-                  "depth": 3,
-                  "index": 1,
-                  "parent_id": null,
-                  "children": []
-                },
-                {
-                  "tag": "a",
-                  "id": null,
-                  "classes": [],
-                  "text": "Контакты",
-                  "attributes": {
-                    "href": "#contacts"
-                  },
-                  "computedStyles": {
-                    "color": "rgba(255, 255, 255, 0.9)",
-                    "textDecoration": "none",
-                    "marginLeft": "18px",
-                    "fontWeight": "600",
-                    "transition": "opacity 0.2s"
-                  },
-                  "depth": 3,
-                  "index": 2,
-                  "parent_id": null,
-                  "children": []
-                },
-                {
-                  "tag": "a",
+                  "tag": "nav",
                   "id": null,
                   "classes": [
-                    "empty-link"
+                    "fixed",
+                    "top-0",
+                    "left-0",
+                    "w-full",
+                    "p-4",
+                    "bg-blue-700",
+                    "text-blue-100",
+                    "rounded-b-2xl",
+                    "shadow",
+                    "flex",
+                    "gap-6",
+                    "z-50"
                   ],
-                  "text": "",
-                  "attributes": {
-                    "href": "#"
-                  },
-                  "computedStyles": {
-                    "color": "rgba(255, 255, 255, 0.9)",
-                    "textDecoration": "none",
-                    "marginLeft": "18px",
-                    "fontWeight": "600",
-                    "transition": "opacity 0.2s"
-                  },
-                  "depth": 3,
-                  "index": 3,
-                  "parent_id": null,
-                  "children": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "tag": "main",
-          "id": null,
-          "classes": [],
-          "text": "Онлайн-банк для бизнеса и частных лиц\n        Ваши финансы — под контролем \n        Откройте счёт за 5 минут\n        Удобное управление счетами, переводы и инвестиции — всё в одном приложении.\n\n        \n           \n          Открыть счёт \n          Перевести \n        \n\n         \n      \n\n      \n        Быстрый вход\n        \n          \n             \n          \n          \n             \n          \n          \n            \n              Выберите счёт\n              Текущий\n            \n          \n     ",
-          "attributes": {},
-          "computedStyles": {
-            "maxWidth": "1100px",
-            "margin": "40px auto",
-            "padding": "0 24px"
-          },
-          "depth": 1,
-          "index": 1,
-          "parent_id": null,
-          "children": [
-            {
-              "tag": "section",
-              "id": null,
-              "classes": [
-                "hero"
-              ],
-              "text": "Онлайн-банк для бизнеса и частных лиц\n        Ваши финансы — под контролем \n        Откройте счёт за 5 минут\n        Удобное управление счетами, переводы и инвестиции — всё в одном приложении.\n\n        \n           \n          Открыть счёт \n          Перевести \n        \n\n         \n      \n\n      \n        Быстрый вход\n        \n          \n             \n          \n          \n             \n          \n          \n            \n              Выберите счёт\n              Текущий\n            \n          \n     ",
-              "attributes": {
-                "aria-label": "Главный блок"
-              },
-              "computedStyles": {
-                "background": "var(--white)",
-                "borderRadius": "16px",
-                "boxShadow": "0 8px 32px rgba(0, 0, 0, 0.04)",
-                "display": "grid",
-                "gridTemplateColumns": "1fr 360px",
-                "gap": "24px",
-                "padding": "36px"
-              },
-              "depth": 2,
-              "index": 0,
-              "parent_id": null,
-              "children": [
-                {
-                  "tag": "div",
-                  "id": null,
-                  "classes": [],
-                  "text": "Онлайн-банк для бизнеса и частных лиц\n        Ваши финансы — под контролем \n        Откройте счёт за 5 минут\n        Удобное управление счетами, переводы и инвестиции — всё в одном приложении.\n\n        \n           \n          Открыть счёт \n          Перевести",
+                  "text": "ГлавнаяВрачиУслугиКонтакты",
                   "attributes": {},
                   "computedStyles": {},
                   "depth": 3,
@@ -342,208 +172,111 @@
                   "parent_id": null,
                   "children": [
                     {
-                      "tag": "h1",
+                      "tag": "a",
                       "id": null,
-                      "classes": [],
-                      "text": "Онлайн-банк для бизнеса и частных лиц",
-                      "attributes": {},
-                      "computedStyles": {
-                        "fontSize": "28px",
-                        "margin": "0"
+                      "classes": [
+                        "hover:underline"
+                      ],
+                      "text": "Главная",
+                      "attributes": {
+                        "href": "#"
                       },
+                      "computedStyles": {},
                       "depth": 4,
                       "index": 0,
                       "parent_id": null,
                       "children": []
                     },
                     {
-                      "tag": "h1",
+                      "tag": "a",
                       "id": null,
-                      "classes": [],
-                      "text": "Ваши финансы — под контролем",
-                      "attributes": {},
-                      "computedStyles": {
-                        "fontSize": "28px",
-                        "margin": "0"
+                      "classes": [
+                        "hover:underline"
+                      ],
+                      "text": "Врачи",
+                      "attributes": {
+                        "href": "#"
                       },
+                      "computedStyles": {},
                       "depth": 4,
                       "index": 1,
                       "parent_id": null,
                       "children": []
                     },
                     {
-                      "tag": "h3",
+                      "tag": "a",
                       "id": null,
-                      "classes": [],
-                      "text": "Откройте счёт за 5 минут",
-                      "attributes": {},
-                      "computedStyles": {
-                        "fontSize": "20px",
-                        "color": "var(--primary)"
+                      "classes": [
+                        "hover:underline"
+                      ],
+                      "text": "Услуги",
+                      "attributes": {
+                        "href": "#"
                       },
+                      "computedStyles": {},
+                      "depth": 4,
+                      "index": 2,
+                      "parent_id": null,
+                      "children": []
+                    },
+                    {
+                      "tag": "a",
+                      "id": null,
+                      "classes": [
+                        "hover:underline"
+                      ],
+                      "text": "Контакты",
+                      "attributes": {
+                        "href": "#"
+                      },
+                      "computedStyles": {},
                       "depth": 4,
                       "index": 3,
                       "parent_id": null,
                       "children": []
-                    },
-                    {
-                      "tag": "p",
-                      "id": null,
-                      "classes": [
-                        "muted"
-                      ],
-                      "text": "Удобное управление счетами, переводы и инвестиции — всё в одном приложении.",
-                      "attributes": {},
-                      "computedStyles": {
-                        "color": "var(--muted)"
-                      },
-                      "depth": 4,
-                      "index": 4,
-                      "parent_id": null,
-                      "children": []
-                    },
-                    {
-                      "tag": "div",
-                      "id": null,
-                      "classes": [
-                        "cta"
-                      ],
-                      "text": "Открыть счёт \n          Перевести",
-                      "attributes": {},
-                      "computedStyles": {
-                        "display": "flex",
-                        "gap": "12px",
-                        "margin": "16px 0"
-                      },
-                      "depth": 4,
-                      "index": 5,
-                      "parent_id": null,
-                      "children": [
-                        {
-                          "tag": "button",
-                          "id": null,
-                          "classes": [
-                            "btn"
-                          ],
-                          "text": "",
-                          "attributes": {
-                            "aria-hidden": "true"
-                          },
-                          "computedStyles": {
-                            "background": "var(--primary)",
-                            "color": "var(--white)",
-                            "border": "none",
-                            "padding": "12px 20px",
-                            "borderRadius": "8px",
-                            "fontWeight": "600",
-                            "cursor": "pointer",
-                            "boxShadow": "0 2px 6px rgba(0, 0, 0, 0.1)",
-                            "transition": "background 0.2s"
-                          },
-                          "depth": 5,
-                          "index": 0,
-                          "parent_id": null,
-                          "children": []
-                        },
-                        {
-                          "tag": "button",
-                          "id": null,
-                          "classes": [
-                            "btn"
-                          ],
-                          "text": "Открыть счёт",
-                          "attributes": {
-                            "role": "link"
-                          },
-                          "computedStyles": {
-                            "background": "var(--primary)",
-                            "color": "var(--white)",
-                            "border": "none",
-                            "padding": "12px 20px",
-                            "borderRadius": "8px",
-                            "fontWeight": "600",
-                            "cursor": "pointer",
-                            "boxShadow": "0 2px 6px rgba(0, 0, 0, 0.1)",
-                            "transition": "background 0.2s"
-                          },
-                          "depth": 5,
-                          "index": 2,
-                          "parent_id": null,
-                          "children": []
-                        },
-                        {
-                          "tag": "button",
-                          "id": null,
-                          "classes": [
-                            "btn"
-                          ],
-                          "text": "Перевести",
-                          "attributes": {
-                            "tabindex": "3"
-                          },
-                          "computedStyles": {
-                            "background": "var(--primary)",
-                            "color": "var(--white)",
-                            "border": "none",
-                            "padding": "12px 20px",
-                            "borderRadius": "8px",
-                            "fontWeight": "600",
-                            "cursor": "pointer",
-                            "boxShadow": "0 2px 6px rgba(0, 0, 0, 0.1)",
-                            "transition": "background 0.2s"
-                          },
-                          "depth": 5,
-                          "index": 4,
-                          "parent_id": null,
-                          "children": []
-                        }
-                      ]
-                    },
-                    {
-                      "tag": "iframe",
-                      "id": null,
-                      "classes": [],
-                      "text": "",
-                      "attributes": {
-                        "src": "https://www.example.com/financial-widget",
-                        "width": "100%",
-                        "height": "200"
-                      },
-                      "computedStyles": {},
-                      "depth": 4,
-                      "index": 6,
-                      "parent_id": null,
-                      "children": []
                     }
                   ]
                 },
                 {
-                  "tag": "aside",
+                  "tag": "header",
                   "id": null,
                   "classes": [
-                    "form-card"
+                    "text-3xl",
+                    "font-bold",
+                    "mb-6",
+                    "text-gray-700"
                   ],
-                  "text": "Быстрый вход\n        \n          \n             \n          \n          \n             \n          \n          \n            \n              Выберите счёт\n              Текущий\n            \n          \n           \n          Секретная подсказка \n        \n\n        \n          \n          Ваш браузер не поддерживает видео.",
+                  "text": "Запись на приём к врачу",
                   "attributes": {},
-                  "computedStyles": {
-                    "background": "#f9fbfe",
-                    "borderRadius": "12px",
-                    "display": "flex",
-                    "flexDirection": "column",
-                    "gap": "16px",
-                    "padding": "20px",
-                    "boxShadow": "0 2px 10px rgba(0, 0, 0, 0.05)",
-                    "boxSizing": "border-box"
-                  },
+                  "computedStyles": {},
                   "depth": 3,
                   "index": 1,
+                  "parent_id": null,
+                  "children": []
+                },
+                {
+                  "tag": "section",
+                  "id": null,
+                  "classes": [
+                    "mt-6"
+                  ],
+                  "text": "Наши врачи Иванов Иван Иванович, врач терапевтАндрей Андреев Андреевич, врач офтальмолог Дмитрий Дмитриев Дмитриевич, главврач",
+                  "attributes": {},
+                  "computedStyles": {},
+                  "depth": 3,
+                  "index": 2,
                   "parent_id": null,
                   "children": [
                     {
                       "tag": "h2",
                       "id": null,
-                      "classes": [],
-                      "text": "Быстрый вход",
+                      "classes": [
+                        "text-xl",
+                        "font-semibold",
+                        "mb-2",
+                        "text-gray-500"
+                      ],
+                      "text": "Наши врачи",
                       "attributes": {},
                       "computedStyles": {},
                       "depth": 4,
@@ -552,10 +285,13 @@
                       "children": []
                     },
                     {
-                      "tag": "form",
+                      "tag": "div",
                       "id": null,
-                      "classes": [],
-                      "text": "Выберите счёт\n              Текущий\n            \n          \n           \n          Секретная подсказка",
+                      "classes": [
+                        "flex",
+                        "gap-4"
+                      ],
+                      "text": "Иванов Иван Иванович, врач терапевтАндрей Андреев Андреевич, врач офтальмолог Дмитрий Дмитриев Дмитриевич, главврач",
                       "attributes": {},
                       "computedStyles": {},
                       "depth": 4,
@@ -565,197 +301,186 @@
                         {
                           "tag": "div",
                           "id": null,
-                          "classes": [
-                            "form-row"
-                          ],
-                          "text": "",
+                          "classes": [],
+                          "text": "Иванов Иван Иванович, врач терапевт",
                           "attributes": {},
-                          "computedStyles": {
-                            "marginBottom": "12px"
-                          },
+                          "computedStyles": {},
                           "depth": 5,
                           "index": 0,
                           "parent_id": null,
                           "children": [
                             {
-                              "tag": "input",
+                              "tag": "img",
                               "id": null,
-                              "classes": [],
+                              "classes": [
+                                "w-32",
+                                "h-32",
+                                "object-cover",
+                                "rounded"
+                              ],
                               "text": "",
                               "attributes": {
-                                "type": "text",
-                                "name": "user",
-                                "placeholder": "Логин"
+                                "alt": "На фото статный, бородатый мужчина в черном пиджаке, в кармане пиджака носовой платок, на голове шляпа из флиса и с пером, на лице очки, в ухе серёжка",
+                                "src": "doctor.jpeg"
                               },
-                              "computedStyles": {
-                                "width": "100%",
-                                "padding": "10px",
-                                "border": "1px solid #d7dee8",
-                                "borderRadius": "6px",
-                                "background": "var(--white)"
-                              },
+                              "computedStyles": {},
                               "depth": 6,
                               "index": 0,
                               "parent_id": null,
                               "children": []
-                            }
-                          ]
-                        },
-                        {
-                          "tag": "div",
-                          "id": null,
-                          "classes": [
-                            "form-row"
-                          ],
-                          "text": "",
-                          "attributes": {},
-                          "computedStyles": {
-                            "marginBottom": "12px"
-                          },
-                          "depth": 5,
-                          "index": 1,
-                          "parent_id": null,
-                          "children": [
+                            },
                             {
-                              "tag": "input",
+                              "tag": "p",
                               "id": null,
                               "classes": [],
-                              "text": "",
-                              "attributes": {
-                                "type": "password",
-                                "name": "pass",
-                                "placeholder": "Пароль"
-                              },
-                              "computedStyles": {
-                                "width": "100%",
-                                "padding": "10px",
-                                "border": "1px solid #d7dee8",
-                                "borderRadius": "6px",
-                                "background": "var(--white)"
-                              },
+                              "text": "Иванов Иван Иванович, врач терапевт",
+                              "attributes": {},
+                              "computedStyles": {},
                               "depth": 6,
-                              "index": 0,
+                              "index": 1,
                               "parent_id": null,
                               "children": []
                             }
                           ]
-                        },
-                        {
-                          "tag": "div",
-                          "id": null,
-                          "classes": [
-                            "form-row"
-                          ],
-                          "text": "Выберите счёт\n              Текущий",
-                          "attributes": {},
-                          "computedStyles": {
-                            "marginBottom": "12px"
-                          },
-                          "depth": 5,
-                          "index": 2,
-                          "parent_id": null,
-                          "children": [
-                            {
-                              "tag": "select",
-                              "id": null,
-                              "classes": [],
-                              "text": "Выберите счёт\n              Текущий",
-                              "attributes": {
-                                "name": "account"
-                              },
-                              "computedStyles": {
-                                "width": "100%",
-                                "padding": "10px",
-                                "border": "1px solid #d7dee8",
-                                "borderRadius": "6px",
-                                "background": "var(--white)"
-                              },
-                              "depth": 6,
-                              "index": 0,
-                              "parent_id": null,
-                              "children": [
-                                {
-                                  "tag": "option",
-                                  "id": null,
-                                  "classes": [],
-                                  "text": "Выберите счёт",
-                                  "attributes": {},
-                                  "computedStyles": {},
-                                  "depth": 7,
-                                  "index": 0,
-                                  "parent_id": null,
-                                  "children": []
-                                },
-                                {
-                                  "tag": "option",
-                                  "id": null,
-                                  "classes": [],
-                                  "text": "Текущий",
-                                  "attributes": {},
-                                  "computedStyles": {},
-                                  "depth": 7,
-                                  "index": 1,
-                                  "parent_id": null,
-                                  "children": []
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "tag": "button",
-                          "id": null,
-                          "classes": [
-                            "btn-full"
-                          ],
-                          "text": "",
-                          "attributes": {
-                            "type": "submit"
-                          },
-                          "computedStyles": {
-                            "width": "100%",
-                            "padding": "12px",
-                            "borderRadius": "8px",
-                            "background": "var(--primary)",
-                            "border": "none",
-                            "color": "var(--white)",
-                            "fontWeight": "700"
-                          },
-                          "depth": 5,
-                          "index": 3,
-                          "parent_id": null,
-                          "children": []
                         },
                         {
                           "tag": "div",
                           "id": null,
                           "classes": [],
-                          "text": "Секретная подсказка",
-                          "attributes": {
-                            "aria-hidden": "false"
-                          },
-                          "computedStyles": {
-                            "display": "none"
-                          },
+                          "text": "Андрей Андреев Андреевич, врач офтальмолог",
+                          "attributes": {},
+                          "computedStyles": {},
                           "depth": 5,
-                          "index": 5,
+                          "index": 1,
                           "parent_id": null,
-                          "children": []
+                          "children": [
+                            {
+                              "tag": "img",
+                              "id": null,
+                              "classes": [
+                                "w-32",
+                                "h-32",
+                                "object-cover",
+                                "rounded"
+                              ],
+                              "text": "",
+                              "attributes": {
+                                "alt": "Андрей Андреев Андреевич, офтальмолог",
+                                "src": "doctor.jpeg"
+                              },
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 0,
+                              "parent_id": null,
+                              "children": []
+                            },
+                            {
+                              "tag": "p",
+                              "id": null,
+                              "classes": [],
+                              "text": "Андрей Андреев Андреевич, врач офтальмолог",
+                              "attributes": {},
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 1,
+                              "parent_id": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "id": null,
+                          "classes": [],
+                          "text": "Дмитрий Дмитриев Дмитриевич, главврач",
+                          "attributes": {},
+                          "computedStyles": {},
+                          "depth": 5,
+                          "index": 2,
+                          "parent_id": null,
+                          "children": [
+                            {
+                              "tag": "img",
+                              "id": null,
+                              "classes": [
+                                "w-32",
+                                "h-32",
+                                "object-cover",
+                                "rounded"
+                              ],
+                              "text": "",
+                              "attributes": {
+                                "src": "doctor.jpg"
+                              },
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 0,
+                              "parent_id": null,
+                              "children": []
+                            },
+                            {
+                              "tag": "p",
+                              "id": null,
+                              "classes": [],
+                              "text": "Дмитрий Дмитриев Дмитриевич, главврач",
+                              "attributes": {},
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 1,
+                              "parent_id": null,
+                              "children": []
+                            }
+                          ]
                         }
                       ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "section",
+                  "id": null,
+                  "classes": [
+                    "mt-6"
+                  ],
+                  "text": "Видео-инструкцииВаш браузер не поддерживает видео.",
+                  "attributes": {},
+                  "computedStyles": {},
+                  "depth": 3,
+                  "index": 3,
+                  "parent_id": null,
+                  "children": [
+                    {
+                      "tag": "h2",
+                      "id": null,
+                      "classes": [
+                        "text-xl",
+                        "font-semibold",
+                        "mb-2",
+                        "text-gray-500"
+                      ],
+                      "text": "Видео-инструкции",
+                      "attributes": {},
+                      "computedStyles": {},
+                      "depth": 4,
+                      "index": 0,
+                      "parent_id": null,
+                      "children": []
                     },
                     {
                       "tag": "video",
                       "id": null,
-                      "classes": [],
+                      "classes": [
+                        "w-full",
+                        "rounded"
+                      ],
                       "text": "Ваш браузер не поддерживает видео.",
                       "attributes": {
-                        "controls": "",
-                        "autoplay": ""
+                        "autoplay": "",
+                        "controls": ""
                       },
                       "computedStyles": {},
                       "depth": 4,
-                      "index": 2,
+                      "index": 1,
                       "parent_id": null,
                       "children": [
                         {
@@ -764,7 +489,7 @@
                           "classes": [],
                           "text": "Ваш браузер не поддерживает видео.",
                           "attributes": {
-                            "src": "/media/intro.mp4",
+                            "src": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
                             "type": "video/mp4"
                           },
                           "computedStyles": {},
@@ -776,35 +501,18 @@
                       ]
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "tag": "section",
-              "id": null,
-              "classes": [
-                "features"
-              ],
-              "text": "Наши преимущества\n      \n        \n             \n            Безопасность\n            Ваши деньги защищены многоуровневой концепцией.\n          \n          \n            \n            Поддержка 24/7\n            Мы всегда на связи.\n          \n          \n             \n            Быстрые переводы\n            Переводы внутри банка — мгновенно.",
-              "attributes": {
-                "aria-labelledby": "featuresTitle"
-              },
-              "computedStyles": {
-                "marginTop": "40px"
-              },
-              "depth": 2,
-              "index": 1,
-              "parent_id": null,
-              "children": [
+                },
                 {
-                  "tag": "h2",
-                  "id": "featuresTitle",
+                  "tag": "div",
+                  "id": null,
                   "classes": [],
-                  "text": "Наши преимущества",
-                  "attributes": {},
+                  "text": "",
+                  "attributes": {
+                    "aria-live": "polite"
+                  },
                   "computedStyles": {},
                   "depth": 3,
-                  "index": 0,
+                  "index": 4,
                   "parent_id": null,
                   "children": []
                 },
@@ -812,198 +520,108 @@
                   "tag": "div",
                   "id": null,
                   "classes": [
-                    "features-grid"
+                    "grid",
+                    "gap-4",
+                    "max-w-xl",
+                    "mt-6"
                   ],
-                  "text": "Безопасность\n            Ваши деньги защищены многоуровневой концепцией.\n          \n          \n            \n            Поддержка 24/7\n            Мы всегда на связи.\n          \n          \n             \n            Быстрые переводы\n            Переводы внутри банка — мгновенно.",
+                  "text": "Выберите врачаТерапевтХирургОфтальмологКардиологОтправить заявку",
                   "attributes": {},
-                  "computedStyles": {
-                    "display": "grid",
-                    "gridTemplateColumns": "repeat(auto-fit, minmax(280px, 1fr))",
-                    "gap": "20px"
-                  },
+                  "computedStyles": {},
                   "depth": 3,
-                  "index": 1,
+                  "index": 5,
                   "parent_id": null,
                   "children": [
                     {
-                      "tag": "article",
+                      "tag": "input",
                       "id": null,
                       "classes": [
-                        "feature"
+                        "border",
+                        "p-2",
+                        "rounded",
+                        "bg-white",
+                        "text-gray-300"
                       ],
-                      "text": "Безопасность\n            Ваши деньги защищены многоуровневой концепцией.",
-                      "attributes": {},
-                      "computedStyles": {
-                        "background": "var(--white)",
-                        "borderRadius": "12px",
-                        "padding": "20px",
-                        "boxShadow": "0 2px 8px rgba(0, 0, 0, 0.04)",
-                        "textAlign": "center"
+                      "text": "",
+                      "attributes": {
+                        "placeholder": "ФИО пациента",
+                        "type": "text"
                       },
+                      "computedStyles": {},
                       "depth": 4,
                       "index": 0,
                       "parent_id": null,
-                      "children": [
-                        {
-                          "tag": "img",
-                          "id": null,
-                          "classes": [],
-                          "text": "",
-                          "attributes": {
-                            "src": "./lock.png",
-                            "alt": ""
-                          },
-                          "computedStyles": {
-                            "width": "64px",
-                            "height": "64px",
-                            "marginBottom": "12px"
-                          },
-                          "depth": 5,
-                          "index": 0,
-                          "parent_id": null,
-                          "children": []
-                        },
-                        {
-                          "tag": "h3",
-                          "id": null,
-                          "classes": [],
-                          "text": "Безопасность",
-                          "attributes": {},
-                          "computedStyles": {},
-                          "depth": 5,
-                          "index": 2,
-                          "parent_id": null,
-                          "children": []
-                        },
-                        {
-                          "tag": "p",
-                          "id": null,
-                          "classes": [
-                            "muted"
-                          ],
-                          "text": "Ваши деньги защищены многоуровневой концепцией.",
-                          "attributes": {},
-                          "computedStyles": {
-                            "color": "var(--muted)"
-                          },
-                          "depth": 5,
-                          "index": 3,
-                          "parent_id": null,
-                          "children": []
-                        }
-                      ]
+                      "children": []
                     },
                     {
-                      "tag": "article",
+                      "tag": "input",
                       "id": null,
                       "classes": [
-                        "feature"
+                        "border",
+                        "p-2",
+                        "rounded",
+                        "bg-white",
+                        "text-gray-300"
                       ],
-                      "text": "Поддержка 24/7\n            Мы всегда на связи.",
-                      "attributes": {},
-                      "computedStyles": {
-                        "background": "var(--white)",
-                        "borderRadius": "12px",
-                        "padding": "20px",
-                        "boxShadow": "0 2px 8px rgba(0, 0, 0, 0.04)",
-                        "textAlign": "center"
+                      "text": "",
+                      "attributes": {
+                        "placeholder": "Дата рождения",
+                        "type": "text"
                       },
+                      "computedStyles": {},
                       "depth": 4,
                       "index": 1,
                       "parent_id": null,
-                      "children": [
-                        {
-                          "tag": "img",
-                          "id": null,
-                          "classes": [],
-                          "text": "",
-                          "attributes": {
-                            "src": "./support.png",
-                            "alt": "иконка"
-                          },
-                          "computedStyles": {
-                            "width": "64px",
-                            "height": "64px",
-                            "marginBottom": "12px"
-                          },
-                          "depth": 5,
-                          "index": 0,
-                          "parent_id": null,
-                          "children": []
-                        },
-                        {
-                          "tag": "h3",
-                          "id": null,
-                          "classes": [],
-                          "text": "Поддержка 24/7",
-                          "attributes": {},
-                          "computedStyles": {},
-                          "depth": 5,
-                          "index": 1,
-                          "parent_id": null,
-                          "children": []
-                        },
-                        {
-                          "tag": "p",
-                          "id": null,
-                          "classes": [
-                            "muted"
-                          ],
-                          "text": "Мы всегда на связи.",
-                          "attributes": {},
-                          "computedStyles": {
-                            "color": "var(--muted)"
-                          },
-                          "depth": 5,
-                          "index": 2,
-                          "parent_id": null,
-                          "children": []
-                        }
-                      ]
+                      "children": []
                     },
                     {
-                      "tag": "article",
+                      "tag": "select",
                       "id": null,
                       "classes": [
-                        "feature"
+                        "border",
+                        "p-2",
+                        "rounded",
+                        "bg-white",
+                        "text-gray-300"
                       ],
-                      "text": "Быстрые переводы\n            Переводы внутри банка — мгновенно.",
+                      "text": "Выберите врачаТерапевтХирургОфтальмологКардиолог",
                       "attributes": {},
-                      "computedStyles": {
-                        "background": "var(--white)",
-                        "borderRadius": "12px",
-                        "padding": "20px",
-                        "boxShadow": "0 2px 8px rgba(0, 0, 0, 0.04)",
-                        "textAlign": "center"
-                      },
+                      "computedStyles": {},
                       "depth": 4,
                       "index": 2,
                       "parent_id": null,
                       "children": [
                         {
-                          "tag": "img",
+                          "tag": "option",
                           "id": null,
                           "classes": [],
-                          "text": "",
+                          "text": "Выберите врача",
                           "attributes": {
-                            "src": "./lightning.png",
-                            "alt": ""
+                            "value": ""
                           },
-                          "computedStyles": {
-                            "width": "64px",
-                            "height": "64px",
-                            "marginBottom": "12px"
-                          },
+                          "computedStyles": {},
                           "depth": 5,
                           "index": 0,
                           "parent_id": null,
                           "children": []
                         },
                         {
-                          "tag": "h3",
+                          "tag": "option",
                           "id": null,
                           "classes": [],
-                          "text": "Быстрые переводы",
+                          "text": "Терапевт",
+                          "attributes": {},
+                          "computedStyles": {},
+                          "depth": 5,
+                          "index": 1,
+                          "parent_id": null,
+                          "children": []
+                        },
+                        {
+                          "tag": "option",
+                          "id": null,
+                          "classes": [],
+                          "text": "Хирург",
                           "attributes": {},
                           "computedStyles": {},
                           "depth": 5,
@@ -1012,118 +630,130 @@
                           "children": []
                         },
                         {
-                          "tag": "p",
+                          "tag": "option",
                           "id": null,
-                          "classes": [
-                            "muted"
-                          ],
-                          "text": "Переводы внутри банка — мгновенно.",
+                          "classes": [],
+                          "text": "Офтальмолог",
                           "attributes": {},
-                          "computedStyles": {
-                            "color": "var(--muted)"
-                          },
+                          "computedStyles": {},
                           "depth": 5,
                           "index": 3,
                           "parent_id": null,
                           "children": []
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "tag": "section",
-              "id": null,
-              "classes": [
-                "rates"
-              ],
-              "text": "Курсы валют\n      \n        USD76.23\n        EUR82.10",
-              "attributes": {},
-              "computedStyles": {},
-              "depth": 2,
-              "index": 2,
-              "parent_id": null,
-              "children": [
-                {
-                  "tag": "h2",
-                  "id": null,
-                  "classes": [],
-                  "text": "Курсы валют",
-                  "attributes": {},
-                  "computedStyles": {},
-                  "depth": 3,
-                  "index": 0,
-                  "parent_id": null,
-                  "children": []
-                },
-                {
-                  "tag": "table",
-                  "id": null,
-                  "classes": [],
-                  "text": "USD76.23\n        EUR82.10",
-                  "attributes": {},
-                  "computedStyles": {
-                    "width": "100%",
-                    "borderCollapse": "collapse",
-                    "background": "var(--white)",
-                    "borderRadius": "8px",
-                    "overflow": "hidden",
-                    "marginTop": "16px"
-                  },
-                  "depth": 3,
-                  "index": 1,
-                  "parent_id": null,
-                  "children": [
-                    {
-                      "tag": "tr",
-                      "id": null,
-                      "classes": [],
-                      "text": "USD76.23",
-                      "attributes": {},
-                      "computedStyles": {},
-                      "depth": 4,
-                      "index": 0,
-                      "parent_id": null,
-                      "children": [
-                        {
-                          "tag": "td",
-                          "id": null,
-                          "classes": [],
-                          "text": "USD",
-                          "attributes": {},
-                          "computedStyles": {
-                            "padding": "12px 16px",
-                            "borderBottom": "1px solid #eef3f8"
-                          },
-                          "depth": 5,
-                          "index": 0,
-                          "parent_id": null,
-                          "children": []
                         },
                         {
-                          "tag": "td",
+                          "tag": "option",
                           "id": null,
                           "classes": [],
-                          "text": "76.23",
+                          "text": "Кардиолог",
                           "attributes": {},
-                          "computedStyles": {
-                            "padding": "12px 16px",
-                            "borderBottom": "1px solid #eef3f8"
-                          },
+                          "computedStyles": {},
                           "depth": 5,
-                          "index": 1,
+                          "index": 4,
                           "parent_id": null,
                           "children": []
                         }
                       ]
                     },
                     {
-                      "tag": "tr",
+                      "tag": "button",
                       "id": null,
-                      "classes": [],
-                      "text": "EUR82.10",
+                      "classes": [
+                        "px-4",
+                        "py-2",
+                        "bg-yellow-300",
+                        "text-white",
+                        "rounded-xl",
+                        "shadow"
+                      ],
+                      "text": "",
+                      "attributes": {},
+                      "computedStyles": {},
+                      "depth": 4,
+                      "index": 3,
+                      "parent_id": null,
+                      "children": []
+                    },
+                    {
+                      "tag": "div",
+                      "id": null,
+                      "classes": [
+                        "p-4",
+                        "mt-4",
+                        "bg-blue-600",
+                        "text-blue-200",
+                        "rounded-2xl",
+                        "cursor-pointer"
+                      ],
+                      "text": "Отправить заявку",
+                      "attributes": {},
+                      "computedStyles": {},
+                      "depth": 4,
+                      "index": 4,
+                      "parent_id": null,
+                      "children": []
+                    },
+                    {
+                      "tag": "textarea",
+                      "id": null,
+                      "classes": [
+                        "border",
+                        "p-2",
+                        "rounded",
+                        "bg-white",
+                        "text-gray-300"
+                      ],
+                      "text": "",
+                      "attributes": {
+                        "rows": "4",
+                        "placeholder": "Опишите симптомы"
+                      },
+                      "computedStyles": {},
+                      "depth": 4,
+                      "index": 5,
+                      "parent_id": null,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "section",
+                  "id": null,
+                  "classes": [
+                    "mt-6"
+                  ],
+                  "text": "Преимущества больницы Быстрая запись на приёмДипломированные специалисты мирового уровня Современные корпуса и палаты",
+                  "attributes": {},
+                  "computedStyles": {},
+                  "depth": 3,
+                  "index": 6,
+                  "parent_id": null,
+                  "children": [
+                    {
+                      "tag": "h2",
+                      "id": null,
+                      "classes": [
+                        "text-xl",
+                        "font-semibold",
+                        "mb-2",
+                        "text-gray-500"
+                      ],
+                      "text": "Преимущества больницы",
+                      "attributes": {},
+                      "computedStyles": {},
+                      "depth": 4,
+                      "index": 0,
+                      "parent_id": null,
+                      "children": []
+                    },
+                    {
+                      "tag": "div",
+                      "id": null,
+                      "classes": [
+                        "flex",
+                        "gap-4"
+                      ],
+                      "text": "Быстрая запись на приёмДипломированные специалисты мирового уровня Современные корпуса и палаты",
                       "attributes": {},
                       "computedStyles": {},
                       "depth": 4,
@@ -1131,84 +761,741 @@
                       "parent_id": null,
                       "children": [
                         {
-                          "tag": "td",
+                          "tag": "div",
                           "id": null,
-                          "classes": [],
-                          "text": "EUR",
+                          "classes": [
+                            "flex",
+                            "flex-col",
+                            "justify-center",
+                            "items-center",
+                            "center"
+                          ],
+                          "text": "Быстрая запись на приём",
                           "attributes": {},
-                          "computedStyles": {
-                            "padding": "12px 16px",
-                            "borderBottom": "1px solid #eef3f8"
-                          },
+                          "computedStyles": {},
+                          "depth": 5,
+                          "index": 0,
+                          "parent_id": null,
+                          "children": [
+                            {
+                              "tag": "img",
+                              "id": null,
+                              "classes": [
+                                "w-32",
+                                "h-32",
+                                "object-cover",
+                                "rounded"
+                              ],
+                              "text": "",
+                              "attributes": {
+                                "alt": "На фото статный, бородатый мужчина в черном пиджаке, в кармане пиджака носовой платок, на голове шляпа из флиса и с пером, на лице очки, в ухе серёжка",
+                                "src": "clock.png"
+                              },
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 0,
+                              "parent_id": null,
+                              "children": []
+                            },
+                            {
+                              "tag": "p",
+                              "id": null,
+                              "classes": [],
+                              "text": "Быстрая запись на приём",
+                              "attributes": {},
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 1,
+                              "parent_id": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "id": null,
+                          "classes": [
+                            "flex",
+                            "flex-col",
+                            "justify-center",
+                            "items-center",
+                            "center"
+                          ],
+                          "text": "Дипломированные специалисты мирового уровня",
+                          "attributes": {},
+                          "computedStyles": {},
+                          "depth": 5,
+                          "index": 1,
+                          "parent_id": null,
+                          "children": [
+                            {
+                              "tag": "img",
+                              "id": null,
+                              "classes": [
+                                "w-32",
+                                "h-32",
+                                "object-cover",
+                                "rounded"
+                              ],
+                              "text": "",
+                              "attributes": {
+                                "alt": "Андрей Андреев Андреевич, офтальмолог",
+                                "src": "diploma.png"
+                              },
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 0,
+                              "parent_id": null,
+                              "children": []
+                            },
+                            {
+                              "tag": "p",
+                              "id": null,
+                              "classes": [],
+                              "text": "Дипломированные специалисты мирового уровня",
+                              "attributes": {},
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 1,
+                              "parent_id": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "id": null,
+                          "classes": [
+                            "flex",
+                            "flex-col",
+                            "justify-center",
+                            "items-center",
+                            "center"
+                          ],
+                          "text": "Современные корпуса и палаты",
+                          "attributes": {},
+                          "computedStyles": {},
+                          "depth": 5,
+                          "index": 2,
+                          "parent_id": null,
+                          "children": [
+                            {
+                              "tag": "img",
+                              "id": null,
+                              "classes": [
+                                "w-32",
+                                "h-32",
+                                "object-cover",
+                                "rounded"
+                              ],
+                              "text": "",
+                              "attributes": {
+                                "src": "bubble-ice-tea.png"
+                              },
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 0,
+                              "parent_id": null,
+                              "children": []
+                            },
+                            {
+                              "tag": "p",
+                              "id": null,
+                              "classes": [],
+                              "text": "Современные корпуса и палаты",
+                              "attributes": {},
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 1,
+                              "parent_id": null,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "id": null,
+                  "classes": [
+                    "mt-6",
+                    "p-4",
+                    "rounded-xl",
+                    "bg-white",
+                    "text-gray-300",
+                    "border"
+                  ],
+                  "text": "Загруженность поликлиник",
+                  "attributes": {},
+                  "computedStyles": {},
+                  "depth": 3,
+                  "index": 7,
+                  "parent_id": null,
+                  "children": [
+                    {
+                      "tag": "h2",
+                      "id": null,
+                      "classes": [
+                        "text-xl",
+                        "font-semibold",
+                        "mb-2",
+                        "text-gray-500"
+                      ],
+                      "text": "Загруженность поликлиник",
+                      "attributes": {},
+                      "computedStyles": {},
+                      "depth": 4,
+                      "index": 0,
+                      "parent_id": null,
+                      "children": []
+                    },
+                    {
+                      "tag": "div",
+                      "id": null,
+                      "classes": [
+                        "flex",
+                        "gap-4"
+                      ],
+                      "text": "",
+                      "attributes": {},
+                      "computedStyles": {},
+                      "depth": 4,
+                      "index": 1,
+                      "parent_id": null,
+                      "children": [
+                        {
+                          "tag": "div",
+                          "id": null,
+                          "classes": [
+                            "w-8",
+                            "h-8",
+                            "rounded-full",
+                            "bg-green-400"
+                          ],
+                          "text": "",
+                          "attributes": {},
+                          "computedStyles": {},
                           "depth": 5,
                           "index": 0,
                           "parent_id": null,
                           "children": []
                         },
                         {
-                          "tag": "td",
+                          "tag": "div",
                           "id": null,
-                          "classes": [],
-                          "text": "82.10",
+                          "classes": [
+                            "w-8",
+                            "h-8",
+                            "rounded-full",
+                            "bg-yellow-400"
+                          ],
+                          "text": "",
                           "attributes": {},
-                          "computedStyles": {
-                            "padding": "12px 16px",
-                            "borderBottom": "1px solid #eef3f8"
-                          },
+                          "computedStyles": {},
                           "depth": 5,
                           "index": 1,
+                          "parent_id": null,
+                          "children": []
+                        },
+                        {
+                          "tag": "div",
+                          "id": null,
+                          "classes": [
+                            "w-8",
+                            "h-8",
+                            "rounded-full",
+                            "bg-red-500"
+                          ],
+                          "text": "",
+                          "attributes": {},
+                          "computedStyles": {},
+                          "depth": 5,
+                          "index": 2,
                           "parent_id": null,
                           "children": []
                         }
                       ]
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "tag": "section",
-              "id": null,
-              "classes": [
-                "news"
-              ],
-              "text": "Новости\n      \n        Новый тариф для VIP-клиентов\n        Узнайте подробности",
-              "attributes": {},
-              "computedStyles": {
-                "marginTop": "40px"
-              },
-              "depth": 2,
-              "index": 3,
-              "parent_id": null,
-              "children": [
-                {
-                  "tag": "h2",
-                  "id": null,
-                  "classes": [],
-                  "text": "Новости",
-                  "attributes": {},
-                  "computedStyles": {},
-                  "depth": 3,
-                  "index": 0,
-                  "parent_id": null,
-                  "children": []
                 },
                 {
-                  "tag": "article",
+                  "tag": "section",
                   "id": null,
-                  "classes": [],
-                  "text": "Новый тариф для VIP-клиентов\n        Узнайте подробности",
+                  "classes": [
+                    "mt-6",
+                    "p-4",
+                    "bg-white",
+                    "text-gray-300",
+                    "rounded-xl",
+                    "border"
+                  ],
+                  "text": "Планируемая загруженность по часамВремяЗагрузка08:0010:0012:0014:0016:00",
                   "attributes": {},
                   "computedStyles": {},
                   "depth": 3,
-                  "index": 1,
+                  "index": 8,
+                  "parent_id": null,
+                  "children": [
+                    {
+                      "tag": "h2",
+                      "id": null,
+                      "classes": [
+                        "text-xl",
+                        "font-semibold",
+                        "mb-2",
+                        "text-gray-500"
+                      ],
+                      "text": "Планируемая загруженность по часам",
+                      "attributes": {},
+                      "computedStyles": {},
+                      "depth": 4,
+                      "index": 0,
+                      "parent_id": null,
+                      "children": []
+                    },
+                    {
+                      "tag": "table",
+                      "id": null,
+                      "classes": [
+                        "w-full",
+                        "text-left",
+                        "border"
+                      ],
+                      "text": "ВремяЗагрузка08:0010:0012:0014:0016:00",
+                      "attributes": {},
+                      "computedStyles": {},
+                      "depth": 4,
+                      "index": 1,
+                      "parent_id": null,
+                      "children": [
+                        {
+                          "tag": "tr",
+                          "id": null,
+                          "classes": [
+                            "border-b"
+                          ],
+                          "text": "ВремяЗагрузка",
+                          "attributes": {},
+                          "computedStyles": {},
+                          "depth": 5,
+                          "index": 0,
+                          "parent_id": null,
+                          "children": [
+                            {
+                              "tag": "th",
+                              "id": null,
+                              "classes": [
+                                "p-2"
+                              ],
+                              "text": "Время",
+                              "attributes": {},
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 0,
+                              "parent_id": null,
+                              "children": []
+                            },
+                            {
+                              "tag": "th",
+                              "id": null,
+                              "classes": [
+                                "p-2"
+                              ],
+                              "text": "Загрузка",
+                              "attributes": {},
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 1,
+                              "parent_id": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "tr",
+                          "id": null,
+                          "classes": [],
+                          "text": "08:00",
+                          "attributes": {},
+                          "computedStyles": {},
+                          "depth": 5,
+                          "index": 1,
+                          "parent_id": null,
+                          "children": [
+                            {
+                              "tag": "td",
+                              "id": null,
+                              "classes": [
+                                "p-2"
+                              ],
+                              "text": "08:00",
+                              "attributes": {},
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 0,
+                              "parent_id": null,
+                              "children": []
+                            },
+                            {
+                              "tag": "td",
+                              "id": null,
+                              "classes": [
+                                "p-2",
+                                "bg-green-400"
+                              ],
+                              "text": "",
+                              "attributes": {},
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 1,
+                              "parent_id": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "tr",
+                          "id": null,
+                          "classes": [],
+                          "text": "10:00",
+                          "attributes": {},
+                          "computedStyles": {},
+                          "depth": 5,
+                          "index": 2,
+                          "parent_id": null,
+                          "children": [
+                            {
+                              "tag": "td",
+                              "id": null,
+                              "classes": [
+                                "p-2"
+                              ],
+                              "text": "10:00",
+                              "attributes": {},
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 0,
+                              "parent_id": null,
+                              "children": []
+                            },
+                            {
+                              "tag": "td",
+                              "id": null,
+                              "classes": [
+                                "p-2",
+                                "bg-yellow-400"
+                              ],
+                              "text": "",
+                              "attributes": {},
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 1,
+                              "parent_id": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "tr",
+                          "id": null,
+                          "classes": [],
+                          "text": "12:00",
+                          "attributes": {},
+                          "computedStyles": {},
+                          "depth": 5,
+                          "index": 3,
+                          "parent_id": null,
+                          "children": [
+                            {
+                              "tag": "td",
+                              "id": null,
+                              "classes": [
+                                "p-2"
+                              ],
+                              "text": "12:00",
+                              "attributes": {},
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 0,
+                              "parent_id": null,
+                              "children": []
+                            },
+                            {
+                              "tag": "td",
+                              "id": null,
+                              "classes": [
+                                "p-2",
+                                "bg-red-500"
+                              ],
+                              "text": "",
+                              "attributes": {},
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 1,
+                              "parent_id": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "tr",
+                          "id": null,
+                          "classes": [],
+                          "text": "14:00",
+                          "attributes": {},
+                          "computedStyles": {},
+                          "depth": 5,
+                          "index": 4,
+                          "parent_id": null,
+                          "children": [
+                            {
+                              "tag": "td",
+                              "id": null,
+                              "classes": [
+                                "p-2"
+                              ],
+                              "text": "14:00",
+                              "attributes": {},
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 0,
+                              "parent_id": null,
+                              "children": []
+                            },
+                            {
+                              "tag": "td",
+                              "id": null,
+                              "classes": [
+                                "p-2",
+                                "bg-green-400"
+                              ],
+                              "text": "",
+                              "attributes": {},
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 1,
+                              "parent_id": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "tr",
+                          "id": null,
+                          "classes": [],
+                          "text": "16:00",
+                          "attributes": {},
+                          "computedStyles": {},
+                          "depth": 5,
+                          "index": 5,
+                          "parent_id": null,
+                          "children": [
+                            {
+                              "tag": "td",
+                              "id": null,
+                              "classes": [
+                                "p-2"
+                              ],
+                              "text": "16:00",
+                              "attributes": {},
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 0,
+                              "parent_id": null,
+                              "children": []
+                            },
+                            {
+                              "tag": "td",
+                              "id": null,
+                              "classes": [
+                                "p-2",
+                                "bg-red-500"
+                              ],
+                              "text": "",
+                              "attributes": {},
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 1,
+                              "parent_id": null,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "section",
+                  "id": null,
+                  "classes": [
+                    "mt-6",
+                    "p-4",
+                    "bg-white",
+                    "text-gray-300",
+                    "rounded-xl",
+                    "border"
+                  ],
+                  "text": "Новости поликлиникиОткрыт новый кабинет профилактики сердечно-сосудистых заболеваний.Поступило новое оборудование для офтальмологии.Изменён график работы регистратуры по выходным.",
+                  "attributes": {},
+                  "computedStyles": {},
+                  "depth": 3,
+                  "index": 9,
+                  "parent_id": null,
+                  "children": [
+                    {
+                      "tag": "h2",
+                      "id": null,
+                      "classes": [
+                        "text-xl",
+                        "font-semibold",
+                        "text-gray-500",
+                        "mb-2"
+                      ],
+                      "text": "Новости поликлиники",
+                      "attributes": {},
+                      "computedStyles": {},
+                      "depth": 4,
+                      "index": 0,
+                      "parent_id": null,
+                      "children": []
+                    },
+                    {
+                      "tag": "ul",
+                      "id": null,
+                      "classes": [
+                        "list-disc",
+                        "pl-6",
+                        "flex",
+                        "gap-6"
+                      ],
+                      "text": "Открыт новый кабинет профилактики сердечно-сосудистых заболеваний.Поступило новое оборудование для офтальмологии.Изменён график работы регистратуры по выходным.",
+                      "attributes": {},
+                      "computedStyles": {},
+                      "depth": 4,
+                      "index": 1,
+                      "parent_id": null,
+                      "children": [
+                        {
+                          "tag": "div",
+                          "id": null,
+                          "classes": [
+                            "h-50"
+                          ],
+                          "text": "Открыт новый кабинет профилактики сердечно-сосудистых заболеваний.",
+                          "attributes": {},
+                          "computedStyles": {},
+                          "depth": 5,
+                          "index": 0,
+                          "parent_id": null,
+                          "children": [
+                            {
+                              "tag": "img",
+                              "id": null,
+                              "classes": [],
+                              "text": "",
+                              "attributes": {
+                                "alt": ""
+                              },
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 0,
+                              "parent_id": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "id": null,
+                          "classes": [
+                            "h-50"
+                          ],
+                          "text": "Поступило новое оборудование для офтальмологии.",
+                          "attributes": {},
+                          "computedStyles": {},
+                          "depth": 5,
+                          "index": 1,
+                          "parent_id": null,
+                          "children": [
+                            {
+                              "tag": "img",
+                              "id": null,
+                              "classes": [],
+                              "text": "",
+                              "attributes": {
+                                "alt": ""
+                              },
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 0,
+                              "parent_id": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "id": null,
+                          "classes": [
+                            "h-50"
+                          ],
+                          "text": "Изменён график работы регистратуры по выходным.",
+                          "attributes": {},
+                          "computedStyles": {},
+                          "depth": 5,
+                          "index": 2,
+                          "parent_id": null,
+                          "children": [
+                            {
+                              "tag": "img",
+                              "id": null,
+                              "classes": [],
+                              "text": "",
+                              "attributes": {
+                                "alt": ""
+                              },
+                              "computedStyles": {},
+                              "depth": 6,
+                              "index": 0,
+                              "parent_id": null,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "footer",
+                  "id": null,
+                  "classes": [
+                    "mt-10",
+                    "p-6",
+                    "bg-blue-900",
+                    "text-blue-100",
+                    "rounded-2xl",
+                    "shadow-inner"
+                  ],
+                  "text": "Городская поликлиника №24Все права не защищены © 2025Телефон: +7 (999) 123-45-67",
+                  "attributes": {},
+                  "computedStyles": {},
+                  "depth": 3,
+                  "index": 10,
                   "parent_id": null,
                   "children": [
                     {
                       "tag": "h3",
                       "id": null,
-                      "classes": [],
-                      "text": "Новый тариф для VIP-клиентов",
+                      "classes": [
+                        "text-lg",
+                        "font-semibold",
+                        "mb-2"
+                      ],
+                      "text": "Городская поликлиника №24",
                       "attributes": {},
                       "computedStyles": {},
                       "depth": 4,
@@ -1220,169 +1507,36 @@
                       "tag": "p",
                       "id": null,
                       "classes": [
-                        "muted"
+                        "text-sm"
                       ],
-                      "text": "Узнайте подробности",
+                      "text": "Все права не защищены © 2025",
                       "attributes": {},
-                      "computedStyles": {
-                        "color": "var(--muted)"
-                      },
+                      "computedStyles": {},
                       "depth": 4,
                       "index": 1,
                       "parent_id": null,
-                      "children": [
-                        {
-                          "tag": "a",
-                          "id": null,
-                          "classes": [],
-                          "text": "",
-                          "attributes": {
-                            "href": "#"
-                          },
-                          "computedStyles": {},
-                          "depth": 5,
-                          "index": 0,
-                          "parent_id": null,
-                          "children": []
-                        }
-                      ]
+                      "children": []
+                    },
+                    {
+                      "tag": "p",
+                      "id": null,
+                      "classes": [
+                        "text-sm",
+                        "mt-1"
+                      ],
+                      "text": "Телефон: +7 (999) 123-45-67",
+                      "attributes": {},
+                      "computedStyles": {},
+                      "depth": 4,
+                      "index": 2,
+                      "parent_id": null,
+                      "children": []
                     }
                   ]
                 }
               ]
-            },
-            {
-              "tag": "section",
-              "id": null,
-              "classes": [
-                "services"
-              ],
-              "text": "Полезные сервисы\n      Инструмент онлайн \n      Связаться с нами",
-              "attributes": {},
-              "computedStyles": {
-                "marginTop": "40px"
-              },
-              "depth": 2,
-              "index": 4,
-              "parent_id": null,
-              "children": [
-                {
-                  "tag": "h2",
-                  "id": null,
-                  "classes": [],
-                  "text": "Полезные сервисы",
-                  "attributes": {},
-                  "computedStyles": {},
-                  "depth": 3,
-                  "index": 0,
-                  "parent_id": null,
-                  "children": []
-                },
-                {
-                  "tag": "div",
-                  "id": null,
-                  "classes": [
-                    "flat-card"
-                  ],
-                  "text": "Инструмент онлайн",
-                  "attributes": {
-                    "role": "button"
-                  },
-                  "computedStyles": {
-                    "background": "var(--white)",
-                    "padding": "12px 18px",
-                    "borderRadius": "8px",
-                    "display": "inline-block",
-                    "boxShadow": "0 2px 8px rgba(0, 0, 0, 0.05)",
-                    "cursor": "pointer",
-                    "marginRight": "8px"
-                  },
-                  "depth": 3,
-                  "index": 1,
-                  "parent_id": null,
-                  "children": []
-                },
-                {
-                  "tag": "a",
-                  "id": null,
-                  "classes": [],
-                  "text": "Связаться с нами",
-                  "attributes": {
-                    "href": "#contacts",
-                    "tabindex": "-1"
-                  },
-                  "computedStyles": {},
-                  "depth": 3,
-                  "index": 3,
-                  "parent_id": null,
-                  "children": []
-                }
-              ]
             }
           ]
-        },
-        {
-          "tag": "footer",
-          "id": null,
-          "classes": [],
-          "text": "© 1890–2025 Банк Пример",
-          "attributes": {},
-          "computedStyles": {
-            "marginTop": "60px",
-            "padding": "24px",
-            "textAlign": "center",
-            "color": "var(--muted)",
-            "background": "var(--white)",
-            "boxShadow": "0 -2px 8px rgba(0, 0, 0, 0.04)"
-          },
-          "depth": 1,
-          "index": 2,
-          "parent_id": null,
-          "children": [
-            {
-              "tag": "p",
-              "id": null,
-              "classes": [],
-              "text": "© 1890–2025 Банк Пример",
-              "attributes": {},
-              "computedStyles": {},
-              "depth": 2,
-              "index": 0,
-              "parent_id": null,
-              "children": []
-            },
-            {
-              "tag": "a",
-              "id": null,
-              "classes": [],
-              "text": "",
-              "attributes": {
-                "href": "/help",
-                "aria-hidden": "true"
-              },
-              "computedStyles": {},
-              "depth": 2,
-              "index": 1,
-              "parent_id": null,
-              "children": []
-            }
-          ]
-        },
-        {
-          "tag": "div",
-          "id": null,
-          "classes": [],
-          "text": "Сервер обновлён",
-          "attributes": {
-            "hidden": "",
-            "role": "status",
-            "aria-live": "polite"
-          },
-          "computedStyles": {},
-          "depth": 1,
-          "index": 3,
-          "parent_id": null,
-          "children": []
         }
       ]
     }
