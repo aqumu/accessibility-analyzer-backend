@@ -16,6 +16,7 @@ from app.services.analytics.json_parser.models import DocumentFactory
 from app.services.report_generator import generate_report
 import pprint
 from pydantic import BaseModel, HttpUrl
+from app.services.llm.predictor import predict_usability
 
 
 router = APIRouter()
@@ -174,20 +175,24 @@ async def analyze_webpage_background(
         # 3. Выполнить анализ доступности
         analysis_result = run_wcag_analysis(document)
 
-        # 4. Сформировать полный отчёт
+        # 4. Получить оценку юзабилити
+        usability_score = predict_usability(raw_json)
+
+        # 5. Сформировать полный отчёт
         report = {
             "url": url,
+            "usability_score": f"{usability_score:.2f}",
             **analysis_result
         }
 
-        # 5. (Опционально) сохранить в БД — раскомментируйте при реализации
+        # 6. (Опционально) сохранить в БД — раскомментируйте при реализации
         # await save_run_result(run_id, {"analysis_report": report})
 
         # Для отладки — выводим в консоль
         print("=== WCAG ANALYSIS REPORT ===")
         pprint.pprint(report)
 
-        # 6. Завершить выполнение
+        # 7. Завершить выполнение
         await update_run_status(run_id, RunStatus.completed)
         await update_webpage_status(webpage_id, RunStatus.completed)
         await state_manager.set_completed(UUID(run_id))
