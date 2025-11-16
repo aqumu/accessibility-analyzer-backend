@@ -33,7 +33,7 @@
 2. **Создайте и активируйте виртуальное окружение:**
    ```bash
    python -m venv venv
-   source venv/bin/activate  # Для Windows: venv\Scripts\activate
+   venv/bin/activate  # Для Windows: venv\Scripts\activate
    ```
 
 3. **Установите зависимости:**
