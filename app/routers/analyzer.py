@@ -25,39 +25,52 @@ router = APIRouter()
 #                PUBLIC ENDPOINT: START ANALYSIS
 # ============================================================
 
+from app.services.llm.predictor import predict_usability
+
 @router.post("/webpages/analyze", response_model=dict)
-async def analyze_webpage(
-    payload: WebpageCreate,
-    background_tasks: BackgroundTasks,
-    user_id=Depends(verify_token),
-):
+async def analyze_webpage(payload: WebpageCreate):
     try:
-        # 1. Upsert webpage (JSON-safe)
-        webpage = await upsert_webpage_record(user_id, payload.url)
+        # 1. Парсим URL
+        raw_json = await parse_url(str(payload.url))
+        if raw_json is None:
+            raise RuntimeError("Parser returned None (URL unreachable or invalid).")
 
-        # 2. Create in-memory run record
-        run = await create_run_record(user_id, webpage["id"])
+        # 2. Преобразуем в DocumentModel
+        document = DocumentFactory.load_from_json(raw_json)
 
-        # 3. Initialize in-memory state
-        await state_manager.create_run_state(run["id"], webpage["id"], user_id)
+        # 3. Выполняем WCAG-анализ
+        analysis_result = run_wcag_analysis(document)
 
-        # 4. Start background analysis task
-        background_tasks.add_task(
-            analyze_webpage_background,
-            run_id=run["id"],
-            webpage_id=webpage["id"],
-            url=str(payload.url),
-        )
+        # 4. Формируем полный отчёт анализа
+        report = {
+            "url": str(payload.url),
+            **analysis_result
+        }
 
-        # 5. Return JSON-safe response
-        return jsonable_encoder({
-            "webpage_id": webpage["id"],
-            "run_id": run["id"],
-            "status": "pending",
-        })
+        # ------------------------------
+        # 5. LLM-Предсказание юзабилити
+        # ------------------------------
+        # передаём "сырые" данные документа в LLM
+        try:
+            usability_score = predict_usability(raw_json)
+        except Exception as llm_error:
+            # если что-то пошло не так в LLM — не ломаем анализ
+            usability_score = None
+
+        # 6. Добавляем в отчёт
+        report["usability_score"] = usability_score
+
+        # 7. Возвращаем результат
+        return {
+            "status": "completed",
+            "report": report
+        }
 
     except Exception as e:
         raise HTTPException(status_code=400, detail=str(e))
+
+
+
 
 
 # ============================================================
