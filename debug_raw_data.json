@@ -1,0 +1,1390 @@
+{
+  "meta": {
+    "url": "https://hack-mock-bank.vercel.app/",
+    "title": "Банк Пример — главная",
+    "lang": "",
+    "charset": "UTF-8"
+  },
+  "root_elements": [
+    {
+      "tag": "head",
+      "id": null,
+      "classes": [],
+      "text": "Банк Пример — главная",
+      "attributes": {},
+      "computedStyles": {},
+      "depth": 0,
+      "index": 0,
+      "parent_id": null,
+      "children": [
+        {
+          "tag": "meta",
+          "id": null,
+          "classes": [],
+          "text": "",
+          "attributes": {
+            "charset": "utf-8"
+          },
+          "computedStyles": {},
+          "depth": 1,
+          "index": 0,
+          "parent_id": null,
+          "children": []
+        },
+        {
+          "tag": "meta",
+          "id": null,
+          "classes": [],
+          "text": "",
+          "attributes": {
+            "name": "viewport",
+            "content": "width=device-width,initial-scale=1"
+          },
+          "computedStyles": {},
+          "depth": 1,
+          "index": 1,
+          "parent_id": null,
+          "children": []
+        },
+        {
+          "tag": "title",
+          "id": null,
+          "classes": [],
+          "text": "Банк Пример — главная",
+          "attributes": {},
+          "computedStyles": {},
+          "depth": 1,
+          "index": 2,
+          "parent_id": null,
+          "children": []
+        },
+        {
+          "tag": "link",
+          "id": null,
+          "classes": [],
+          "text": "",
+          "attributes": {
+            "rel": "stylesheet",
+            "href": "index.css"
+          },
+          "computedStyles": {},
+          "depth": 1,
+          "index": 3,
+          "parent_id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "tag": "body",
+      "id": null,
+      "classes": [],
+      "text": "Банк Пример\n        Надёжный банк с 1890\n      \n    \n\n    \n      Продукты\n      О банке\n      Контакты\n       \n    \n  \n\n  \n    \n      \n        Онлайн-банк для бизнеса и частных лиц\n        Ваши финансы — под контролем \n        Откройте счёт за 5 минут\n        Удобное управление счетами, переводы и инвестиции — всё в одном приложении.\n\n        \n           \n          Открыть счёт \n          Перевести \n        \n\n         \n      \n\n      \n        Быстрый вход\n        \n          \n             \n       ",
+      "attributes": {},
+      "computedStyles": {
+        "fontFamily": "\"Inter\", \"Helvetica Neue\", Arial, sans-serif",
+        "background": "var(--secondary)",
+        "color": "var(--text)",
+        "margin": "0",
+        "padding": "0",
+        "lineHeight": "1.6"
+      },
+      "depth": 0,
+      "index": 1,
+      "parent_id": null,
+      "children": [
+        {
+          "tag": "header",
+          "id": null,
+          "classes": [
+            "header"
+          ],
+          "text": "Банк Пример\n        Надёжный банк с 1890\n      \n    \n\n    \n      Продукты\n      О банке\n      Контакты",
+          "attributes": {},
+          "computedStyles": {
+            "background": "var(--primary)",
+            "color": "var(--white)",
+            "display": "flex",
+            "alignItems": "center",
+            "justifyContent": "space-between",
+            "padding": "20px 48px",
+            "boxShadow": "0 2px 8px rgba(0, 0, 0, 0.1)"
+          },
+          "depth": 1,
+          "index": 0,
+          "parent_id": null,
+          "children": [
+            {
+              "tag": "div",
+              "id": null,
+              "classes": [
+                "logo"
+              ],
+              "text": "Банк Пример\n        Надёжный банк с 1890",
+              "attributes": {},
+              "computedStyles": {
+                "display": "flex",
+                "alignItems": "center",
+                "gap": "12px"
+              },
+              "depth": 2,
+              "index": 0,
+              "parent_id": null,
+              "children": [
+                {
+                  "tag": "img",
+                  "id": null,
+                  "classes": [],
+                  "text": "",
+                  "attributes": {
+                    "src": "/images/logo-bank.svg",
+                    "alt": ""
+                  },
+                  "computedStyles": {},
+                  "depth": 3,
+                  "index": 0,
+                  "parent_id": null,
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "id": null,
+                  "classes": [],
+                  "text": "Банк Пример\n        Надёжный банк с 1890",
+                  "attributes": {},
+                  "computedStyles": {},
+                  "depth": 3,
+                  "index": 2,
+                  "parent_id": null,
+                  "children": [
+                    {
+                      "tag": "div",
+                      "id": null,
+                      "classes": [
+                        "bank-name"
+                      ],
+                      "text": "Банк Пример",
+                      "attributes": {},
+                      "computedStyles": {
+                        "fontWeight": "800",
+                        "fontSize": "20px"
+                      },
+                      "depth": 4,
+                      "index": 0,
+                      "parent_id": null,
+                      "children": []
+                    },
+                    {
+                      "tag": "div",
+                      "id": null,
+                      "classes": [
+                        "bank-sub"
+                      ],
+                      "text": "Надёжный банк с 1890",
+                      "attributes": {},
+                      "computedStyles": {
+                        "fontSize": "12px",
+                        "color": "rgba(255, 255, 255, 0.8)"
+                      },
+                      "depth": 4,
+                      "index": 1,
+                      "parent_id": null,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "nav",
+              "id": null,
+              "classes": [],
+              "text": "Продукты\n      О банке\n      Контакты",
+              "attributes": {},
+              "computedStyles": {},
+              "depth": 2,
+              "index": 1,
+              "parent_id": null,
+              "children": [
+                {
+                  "tag": "a",
+                  "id": null,
+                  "classes": [],
+                  "text": "Продукты",
+                  "attributes": {
+                    "href": "#products"
+                  },
+                  "computedStyles": {
+                    "color": "rgba(255, 255, 255, 0.9)",
+                    "textDecoration": "none",
+                    "marginLeft": "18px",
+                    "fontWeight": "600",
+                    "transition": "opacity 0.2s"
+                  },
+                  "depth": 3,
+                  "index": 0,
+                  "parent_id": null,
+                  "children": []
+                },
+                {
+                  "tag": "a",
+                  "id": null,
+                  "classes": [],
+                  "text": "О банке",
+                  "attributes": {
+                    "href": "#about"
+                  },
+                  "computedStyles": {
+                    "color": "rgba(255, 255, 255, 0.9)",
+                    "textDecoration": "none",
+                    "marginLeft": "18px",
+                    "fontWeight": "600",
+                    "transition": "opacity 0.2s"
+                  },
+                  "depth": 3,
+                  "index": 1,
+                  "parent_id": null,
+                  "children": []
+                },
+                {
+                  "tag": "a",
+                  "id": null,
+                  "classes": [],
+                  "text": "Контакты",
+                  "attributes": {
+                    "href": "#contacts"
+                  },
+                  "computedStyles": {
+                    "color": "rgba(255, 255, 255, 0.9)",
+                    "textDecoration": "none",
+                    "marginLeft": "18px",
+                    "fontWeight": "600",
+                    "transition": "opacity 0.2s"
+                  },
+                  "depth": 3,
+                  "index": 2,
+                  "parent_id": null,
+                  "children": []
+                },
+                {
+                  "tag": "a",
+                  "id": null,
+                  "classes": [
+                    "empty-link"
+                  ],
+                  "text": "",
+                  "attributes": {
+                    "href": "#"
+                  },
+                  "computedStyles": {
+                    "color": "rgba(255, 255, 255, 0.9)",
+                    "textDecoration": "none",
+                    "marginLeft": "18px",
+                    "fontWeight": "600",
+                    "transition": "opacity 0.2s"
+                  },
+                  "depth": 3,
+                  "index": 3,
+                  "parent_id": null,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "main",
+          "id": null,
+          "classes": [],
+          "text": "Онлайн-банк для бизнеса и частных лиц\n        Ваши финансы — под контролем \n        Откройте счёт за 5 минут\n        Удобное управление счетами, переводы и инвестиции — всё в одном приложении.\n\n        \n           \n          Открыть счёт \n          Перевести \n        \n\n         \n      \n\n      \n        Быстрый вход\n        \n          \n             \n          \n          \n             \n          \n          \n            \n              Выберите счёт\n              Текущий\n            \n          \n     ",
+          "attributes": {},
+          "computedStyles": {
+            "maxWidth": "1100px",
+            "margin": "40px auto",
+            "padding": "0 24px"
+          },
+          "depth": 1,
+          "index": 1,
+          "parent_id": null,
+          "children": [
+            {
+              "tag": "section",
+              "id": null,
+              "classes": [
+                "hero"
+              ],
+              "text": "Онлайн-банк для бизнеса и частных лиц\n        Ваши финансы — под контролем \n        Откройте счёт за 5 минут\n        Удобное управление счетами, переводы и инвестиции — всё в одном приложении.\n\n        \n           \n          Открыть счёт \n          Перевести \n        \n\n         \n      \n\n      \n        Быстрый вход\n        \n          \n             \n          \n          \n             \n          \n          \n            \n              Выберите счёт\n              Текущий\n            \n          \n     ",
+              "attributes": {
+                "aria-label": "Главный блок"
+              },
+              "computedStyles": {
+                "background": "var(--white)",
+                "borderRadius": "16px",
+                "boxShadow": "0 8px 32px rgba(0, 0, 0, 0.04)",
+                "display": "grid",
+                "gridTemplateColumns": "1fr 360px",
+                "gap": "24px",
+                "padding": "36px"
+              },
+              "depth": 2,
+              "index": 0,
+              "parent_id": null,
+              "children": [
+                {
+                  "tag": "div",
+                  "id": null,
+                  "classes": [],
+                  "text": "Онлайн-банк для бизнеса и частных лиц\n        Ваши финансы — под контролем \n        Откройте счёт за 5 минут\n        Удобное управление счетами, переводы и инвестиции — всё в одном приложении.\n\n        \n           \n          Открыть счёт \n          Перевести",
+                  "attributes": {},
+                  "computedStyles": {},
+                  "depth": 3,
+                  "index": 0,
+                  "parent_id": null,
+                  "children": [
+                    {
+                      "tag": "h1",
+                      "id": null,
+                      "classes": [],
+                      "text": "Онлайн-банк для бизнеса и частных лиц",
+                      "attributes": {},
+                      "computedStyles": {
+                        "fontSize": "28px",
+                        "margin": "0"
+                      },
+                      "depth": 4,
+                      "index": 0,
+                      "parent_id": null,
+                      "children": []
+                    },
+                    {
+                      "tag": "h1",
+                      "id": null,
+                      "classes": [],
+                      "text": "Ваши финансы — под контролем",
+                      "attributes": {},
+                      "computedStyles": {
+                        "fontSize": "28px",
+                        "margin": "0"
+                      },
+                      "depth": 4,
+                      "index": 1,
+                      "parent_id": null,
+                      "children": []
+                    },
+                    {
+                      "tag": "h3",
+                      "id": null,
+                      "classes": [],
+                      "text": "Откройте счёт за 5 минут",
+                      "attributes": {},
+                      "computedStyles": {
+                        "fontSize": "20px",
+                        "color": "var(--primary)"
+                      },
+                      "depth": 4,
+                      "index": 3,
+                      "parent_id": null,
+                      "children": []
+                    },
+                    {
+                      "tag": "p",
+                      "id": null,
+                      "classes": [
+                        "muted"
+                      ],
+                      "text": "Удобное управление счетами, переводы и инвестиции — всё в одном приложении.",
+                      "attributes": {},
+                      "computedStyles": {
+                        "color": "var(--muted)"
+                      },
+                      "depth": 4,
+                      "index": 4,
+                      "parent_id": null,
+                      "children": []
+                    },
+                    {
+                      "tag": "div",
+                      "id": null,
+                      "classes": [
+                        "cta"
+                      ],
+                      "text": "Открыть счёт \n          Перевести",
+                      "attributes": {},
+                      "computedStyles": {
+                        "display": "flex",
+                        "gap": "12px",
+                        "margin": "16px 0"
+                      },
+                      "depth": 4,
+                      "index": 5,
+                      "parent_id": null,
+                      "children": [
+                        {
+                          "tag": "button",
+                          "id": null,
+                          "classes": [
+                            "btn"
+                          ],
+                          "text": "",
+                          "attributes": {
+                            "aria-hidden": "true"
+                          },
+                          "computedStyles": {
+                            "background": "var(--primary)",
+                            "color": "var(--white)",
+                            "border": "none",
+                            "padding": "12px 20px",
+                            "borderRadius": "8px",
+                            "fontWeight": "600",
+                            "cursor": "pointer",
+                            "boxShadow": "0 2px 6px rgba(0, 0, 0, 0.1)",
+                            "transition": "background 0.2s"
+                          },
+                          "depth": 5,
+                          "index": 0,
+                          "parent_id": null,
+                          "children": []
+                        },
+                        {
+                          "tag": "button",
+                          "id": null,
+                          "classes": [
+                            "btn"
+                          ],
+                          "text": "Открыть счёт",
+                          "attributes": {
+                            "role": "link"
+                          },
+                          "computedStyles": {
+                            "background": "var(--primary)",
+                            "color": "var(--white)",
+                            "border": "none",
+                            "padding": "12px 20px",
+                            "borderRadius": "8px",
+                            "fontWeight": "600",
+                            "cursor": "pointer",
+                            "boxShadow": "0 2px 6px rgba(0, 0, 0, 0.1)",
+                            "transition": "background 0.2s"
+                          },
+                          "depth": 5,
+                          "index": 2,
+                          "parent_id": null,
+                          "children": []
+                        },
+                        {
+                          "tag": "button",
+                          "id": null,
+                          "classes": [
+                            "btn"
+                          ],
+                          "text": "Перевести",
+                          "attributes": {
+                            "tabindex": "3"
+                          },
+                          "computedStyles": {
+                            "background": "var(--primary)",
+                            "color": "var(--white)",
+                            "border": "none",
+                            "padding": "12px 20px",
+                            "borderRadius": "8px",
+                            "fontWeight": "600",
+                            "cursor": "pointer",
+                            "boxShadow": "0 2px 6px rgba(0, 0, 0, 0.1)",
+                            "transition": "background 0.2s"
+                          },
+                          "depth": 5,
+                          "index": 4,
+                          "parent_id": null,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "iframe",
+                      "id": null,
+                      "classes": [],
+                      "text": "",
+                      "attributes": {
+                        "src": "https://www.example.com/financial-widget",
+                        "width": "100%",
+                        "height": "200"
+                      },
+                      "computedStyles": {},
+                      "depth": 4,
+                      "index": 6,
+                      "parent_id": null,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "aside",
+                  "id": null,
+                  "classes": [
+                    "form-card"
+                  ],
+                  "text": "Быстрый вход\n        \n          \n             \n          \n          \n             \n          \n          \n            \n              Выберите счёт\n              Текущий\n            \n          \n           \n          Секретная подсказка \n        \n\n        \n          \n          Ваш браузер не поддерживает видео.",
+                  "attributes": {},
+                  "computedStyles": {
+                    "background": "#f9fbfe",
+                    "borderRadius": "12px",
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "gap": "16px",
+                    "padding": "20px",
+                    "boxShadow": "0 2px 10px rgba(0, 0, 0, 0.05)",
+                    "boxSizing": "border-box"
+                  },
+                  "depth": 3,
+                  "index": 1,
+                  "parent_id": null,
+                  "children": [
+                    {
+                      "tag": "h2",
+                      "id": null,
+                      "classes": [],
+                      "text": "Быстрый вход",
+                      "attributes": {},
+                      "computedStyles": {},
+                      "depth": 4,
+                      "index": 0,
+                      "parent_id": null,
+                      "children": []
+                    },
+                    {
+                      "tag": "form",
+                      "id": null,
+                      "classes": [],
+                      "text": "Выберите счёт\n              Текущий\n            \n          \n           \n          Секретная подсказка",
+                      "attributes": {},
+                      "computedStyles": {},
+                      "depth": 4,
+                      "index": 1,
+                      "parent_id": null,
+                      "children": [
+                        {
+                          "tag": "div",
+                          "id": null,
+                          "classes": [
+                            "form-row"
+                          ],
+                          "text": "",
+                          "attributes": {},
+                          "computedStyles": {
+                            "marginBottom": "12px"
+                          },
+                          "depth": 5,
+                          "index": 0,
+                          "parent_id": null,
+                          "children": [
+                            {
+                              "tag": "input",
+                              "id": null,
+                              "classes": [],
+                              "text": "",
+                              "attributes": {
+                                "type": "text",
+                                "name": "user",
+                                "placeholder": "Логин"
+                              },
+                              "computedStyles": {
+                                "width": "100%",
+                                "padding": "10px",
+                                "border": "1px solid #d7dee8",
+                                "borderRadius": "6px",
+                                "background": "var(--white)"
+                              },
+                              "depth": 6,
+                              "index": 0,
+                              "parent_id": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "id": null,
+                          "classes": [
+                            "form-row"
+                          ],
+                          "text": "",
+                          "attributes": {},
+                          "computedStyles": {
+                            "marginBottom": "12px"
+                          },
+                          "depth": 5,
+                          "index": 1,
+                          "parent_id": null,
+                          "children": [
+                            {
+                              "tag": "input",
+                              "id": null,
+                              "classes": [],
+                              "text": "",
+                              "attributes": {
+                                "type": "password",
+                                "name": "pass",
+                                "placeholder": "Пароль"
+                              },
+                              "computedStyles": {
+                                "width": "100%",
+                                "padding": "10px",
+                                "border": "1px solid #d7dee8",
+                                "borderRadius": "6px",
+                                "background": "var(--white)"
+                              },
+                              "depth": 6,
+                              "index": 0,
+                              "parent_id": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "id": null,
+                          "classes": [
+                            "form-row"
+                          ],
+                          "text": "Выберите счёт\n              Текущий",
+                          "attributes": {},
+                          "computedStyles": {
+                            "marginBottom": "12px"
+                          },
+                          "depth": 5,
+                          "index": 2,
+                          "parent_id": null,
+                          "children": [
+                            {
+                              "tag": "select",
+                              "id": null,
+                              "classes": [],
+                              "text": "Выберите счёт\n              Текущий",
+                              "attributes": {
+                                "name": "account"
+                              },
+                              "computedStyles": {
+                                "width": "100%",
+                                "padding": "10px",
+                                "border": "1px solid #d7dee8",
+                                "borderRadius": "6px",
+                                "background": "var(--white)"
+                              },
+                              "depth": 6,
+                              "index": 0,
+                              "parent_id": null,
+                              "children": [
+                                {
+                                  "tag": "option",
+                                  "id": null,
+                                  "classes": [],
+                                  "text": "Выберите счёт",
+                                  "attributes": {},
+                                  "computedStyles": {},
+                                  "depth": 7,
+                                  "index": 0,
+                                  "parent_id": null,
+                                  "children": []
+                                },
+                                {
+                                  "tag": "option",
+                                  "id": null,
+                                  "classes": [],
+                                  "text": "Текущий",
+                                  "attributes": {},
+                                  "computedStyles": {},
+                                  "depth": 7,
+                                  "index": 1,
+                                  "parent_id": null,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "button",
+                          "id": null,
+                          "classes": [
+                            "btn-full"
+                          ],
+                          "text": "",
+                          "attributes": {
+                            "type": "submit"
+                          },
+                          "computedStyles": {
+                            "width": "100%",
+                            "padding": "12px",
+                            "borderRadius": "8px",
+                            "background": "var(--primary)",
+                            "border": "none",
+                            "color": "var(--white)",
+                            "fontWeight": "700"
+                          },
+                          "depth": 5,
+                          "index": 3,
+                          "parent_id": null,
+                          "children": []
+                        },
+                        {
+                          "tag": "div",
+                          "id": null,
+                          "classes": [],
+                          "text": "Секретная подсказка",
+                          "attributes": {
+                            "aria-hidden": "false"
+                          },
+                          "computedStyles": {
+                            "display": "none"
+                          },
+                          "depth": 5,
+                          "index": 5,
+                          "parent_id": null,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "video",
+                      "id": null,
+                      "classes": [],
+                      "text": "Ваш браузер не поддерживает видео.",
+                      "attributes": {
+                        "controls": "",
+                        "autoplay": ""
+                      },
+                      "computedStyles": {},
+                      "depth": 4,
+                      "index": 2,
+                      "parent_id": null,
+                      "children": [
+                        {
+                          "tag": "source",
+                          "id": null,
+                          "classes": [],
+                          "text": "Ваш браузер не поддерживает видео.",
+                          "attributes": {
+                            "src": "/media/intro.mp4",
+                            "type": "video/mp4"
+                          },
+                          "computedStyles": {},
+                          "depth": 5,
+                          "index": 0,
+                          "parent_id": null,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "id": null,
+              "classes": [
+                "features"
+              ],
+              "text": "Наши преимущества\n      \n        \n             \n            Безопасность\n            Ваши деньги защищены многоуровневой концепцией.\n          \n          \n            \n            Поддержка 24/7\n            Мы всегда на связи.\n          \n          \n             \n            Быстрые переводы\n            Переводы внутри банка — мгновенно.",
+              "attributes": {
+                "aria-labelledby": "featuresTitle"
+              },
+              "computedStyles": {
+                "marginTop": "40px"
+              },
+              "depth": 2,
+              "index": 1,
+              "parent_id": null,
+              "children": [
+                {
+                  "tag": "h2",
+                  "id": "featuresTitle",
+                  "classes": [],
+                  "text": "Наши преимущества",
+                  "attributes": {},
+                  "computedStyles": {},
+                  "depth": 3,
+                  "index": 0,
+                  "parent_id": null,
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "id": null,
+                  "classes": [
+                    "features-grid"
+                  ],
+                  "text": "Безопасность\n            Ваши деньги защищены многоуровневой концепцией.\n          \n          \n            \n            Поддержка 24/7\n            Мы всегда на связи.\n          \n          \n             \n            Быстрые переводы\n            Переводы внутри банка — мгновенно.",
+                  "attributes": {},
+                  "computedStyles": {
+                    "display": "grid",
+                    "gridTemplateColumns": "repeat(auto-fit, minmax(280px, 1fr))",
+                    "gap": "20px"
+                  },
+                  "depth": 3,
+                  "index": 1,
+                  "parent_id": null,
+                  "children": [
+                    {
+                      "tag": "article",
+                      "id": null,
+                      "classes": [
+                        "feature"
+                      ],
+                      "text": "Безопасность\n            Ваши деньги защищены многоуровневой концепцией.",
+                      "attributes": {},
+                      "computedStyles": {
+                        "background": "var(--white)",
+                        "borderRadius": "12px",
+                        "padding": "20px",
+                        "boxShadow": "0 2px 8px rgba(0, 0, 0, 0.04)",
+                        "textAlign": "center"
+                      },
+                      "depth": 4,
+                      "index": 0,
+                      "parent_id": null,
+                      "children": [
+                        {
+                          "tag": "img",
+                          "id": null,
+                          "classes": [],
+                          "text": "",
+                          "attributes": {
+                            "src": "./lock.png",
+                            "alt": ""
+                          },
+                          "computedStyles": {
+                            "width": "64px",
+                            "height": "64px",
+                            "marginBottom": "12px"
+                          },
+                          "depth": 5,
+                          "index": 0,
+                          "parent_id": null,
+                          "children": []
+                        },
+                        {
+                          "tag": "h3",
+                          "id": null,
+                          "classes": [],
+                          "text": "Безопасность",
+                          "attributes": {},
+                          "computedStyles": {},
+                          "depth": 5,
+                          "index": 2,
+                          "parent_id": null,
+                          "children": []
+                        },
+                        {
+                          "tag": "p",
+                          "id": null,
+                          "classes": [
+                            "muted"
+                          ],
+                          "text": "Ваши деньги защищены многоуровневой концепцией.",
+                          "attributes": {},
+                          "computedStyles": {
+                            "color": "var(--muted)"
+                          },
+                          "depth": 5,
+                          "index": 3,
+                          "parent_id": null,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "article",
+                      "id": null,
+                      "classes": [
+                        "feature"
+                      ],
+                      "text": "Поддержка 24/7\n            Мы всегда на связи.",
+                      "attributes": {},
+                      "computedStyles": {
+                        "background": "var(--white)",
+                        "borderRadius": "12px",
+                        "padding": "20px",
+                        "boxShadow": "0 2px 8px rgba(0, 0, 0, 0.04)",
+                        "textAlign": "center"
+                      },
+                      "depth": 4,
+                      "index": 1,
+                      "parent_id": null,
+                      "children": [
+                        {
+                          "tag": "img",
+                          "id": null,
+                          "classes": [],
+                          "text": "",
+                          "attributes": {
+                            "src": "./support.png",
+                            "alt": "иконка"
+                          },
+                          "computedStyles": {
+                            "width": "64px",
+                            "height": "64px",
+                            "marginBottom": "12px"
+                          },
+                          "depth": 5,
+                          "index": 0,
+                          "parent_id": null,
+                          "children": []
+                        },
+                        {
+                          "tag": "h3",
+                          "id": null,
+                          "classes": [],
+                          "text": "Поддержка 24/7",
+                          "attributes": {},
+                          "computedStyles": {},
+                          "depth": 5,
+                          "index": 1,
+                          "parent_id": null,
+                          "children": []
+                        },
+                        {
+                          "tag": "p",
+                          "id": null,
+                          "classes": [
+                            "muted"
+                          ],
+                          "text": "Мы всегда на связи.",
+                          "attributes": {},
+                          "computedStyles": {
+                            "color": "var(--muted)"
+                          },
+                          "depth": 5,
+                          "index": 2,
+                          "parent_id": null,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "article",
+                      "id": null,
+                      "classes": [
+                        "feature"
+                      ],
+                      "text": "Быстрые переводы\n            Переводы внутри банка — мгновенно.",
+                      "attributes": {},
+                      "computedStyles": {
+                        "background": "var(--white)",
+                        "borderRadius": "12px",
+                        "padding": "20px",
+                        "boxShadow": "0 2px 8px rgba(0, 0, 0, 0.04)",
+                        "textAlign": "center"
+                      },
+                      "depth": 4,
+                      "index": 2,
+                      "parent_id": null,
+                      "children": [
+                        {
+                          "tag": "img",
+                          "id": null,
+                          "classes": [],
+                          "text": "",
+                          "attributes": {
+                            "src": "./lightning.png",
+                            "alt": ""
+                          },
+                          "computedStyles": {
+                            "width": "64px",
+                            "height": "64px",
+                            "marginBottom": "12px"
+                          },
+                          "depth": 5,
+                          "index": 0,
+                          "parent_id": null,
+                          "children": []
+                        },
+                        {
+                          "tag": "h3",
+                          "id": null,
+                          "classes": [],
+                          "text": "Быстрые переводы",
+                          "attributes": {},
+                          "computedStyles": {},
+                          "depth": 5,
+                          "index": 2,
+                          "parent_id": null,
+                          "children": []
+                        },
+                        {
+                          "tag": "p",
+                          "id": null,
+                          "classes": [
+                            "muted"
+                          ],
+                          "text": "Переводы внутри банка — мгновенно.",
+                          "attributes": {},
+                          "computedStyles": {
+                            "color": "var(--muted)"
+                          },
+                          "depth": 5,
+                          "index": 3,
+                          "parent_id": null,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "id": null,
+              "classes": [
+                "rates"
+              ],
+              "text": "Курсы валют\n      \n        USD76.23\n        EUR82.10",
+              "attributes": {},
+              "computedStyles": {},
+              "depth": 2,
+              "index": 2,
+              "parent_id": null,
+              "children": [
+                {
+                  "tag": "h2",
+                  "id": null,
+                  "classes": [],
+                  "text": "Курсы валют",
+                  "attributes": {},
+                  "computedStyles": {},
+                  "depth": 3,
+                  "index": 0,
+                  "parent_id": null,
+                  "children": []
+                },
+                {
+                  "tag": "table",
+                  "id": null,
+                  "classes": [],
+                  "text": "USD76.23\n        EUR82.10",
+                  "attributes": {},
+                  "computedStyles": {
+                    "width": "100%",
+                    "borderCollapse": "collapse",
+                    "background": "var(--white)",
+                    "borderRadius": "8px",
+                    "overflow": "hidden",
+                    "marginTop": "16px"
+                  },
+                  "depth": 3,
+                  "index": 1,
+                  "parent_id": null,
+                  "children": [
+                    {
+                      "tag": "tr",
+                      "id": null,
+                      "classes": [],
+                      "text": "USD76.23",
+                      "attributes": {},
+                      "computedStyles": {},
+                      "depth": 4,
+                      "index": 0,
+                      "parent_id": null,
+                      "children": [
+                        {
+                          "tag": "td",
+                          "id": null,
+                          "classes": [],
+                          "text": "USD",
+                          "attributes": {},
+                          "computedStyles": {
+                            "padding": "12px 16px",
+                            "borderBottom": "1px solid #eef3f8"
+                          },
+                          "depth": 5,
+                          "index": 0,
+                          "parent_id": null,
+                          "children": []
+                        },
+                        {
+                          "tag": "td",
+                          "id": null,
+                          "classes": [],
+                          "text": "76.23",
+                          "attributes": {},
+                          "computedStyles": {
+                            "padding": "12px 16px",
+                            "borderBottom": "1px solid #eef3f8"
+                          },
+                          "depth": 5,
+                          "index": 1,
+                          "parent_id": null,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "tr",
+                      "id": null,
+                      "classes": [],
+                      "text": "EUR82.10",
+                      "attributes": {},
+                      "computedStyles": {},
+                      "depth": 4,
+                      "index": 1,
+                      "parent_id": null,
+                      "children": [
+                        {
+                          "tag": "td",
+                          "id": null,
+                          "classes": [],
+                          "text": "EUR",
+                          "attributes": {},
+                          "computedStyles": {
+                            "padding": "12px 16px",
+                            "borderBottom": "1px solid #eef3f8"
+                          },
+                          "depth": 5,
+                          "index": 0,
+                          "parent_id": null,
+                          "children": []
+                        },
+                        {
+                          "tag": "td",
+                          "id": null,
+                          "classes": [],
+                          "text": "82.10",
+                          "attributes": {},
+                          "computedStyles": {
+                            "padding": "12px 16px",
+                            "borderBottom": "1px solid #eef3f8"
+                          },
+                          "depth": 5,
+                          "index": 1,
+                          "parent_id": null,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "id": null,
+              "classes": [
+                "news"
+              ],
+              "text": "Новости\n      \n        Новый тариф для VIP-клиентов\n        Узнайте подробности",
+              "attributes": {},
+              "computedStyles": {
+                "marginTop": "40px"
+              },
+              "depth": 2,
+              "index": 3,
+              "parent_id": null,
+              "children": [
+                {
+                  "tag": "h2",
+                  "id": null,
+                  "classes": [],
+                  "text": "Новости",
+                  "attributes": {},
+                  "computedStyles": {},
+                  "depth": 3,
+                  "index": 0,
+                  "parent_id": null,
+                  "children": []
+                },
+                {
+                  "tag": "article",
+                  "id": null,
+                  "classes": [],
+                  "text": "Новый тариф для VIP-клиентов\n        Узнайте подробности",
+                  "attributes": {},
+                  "computedStyles": {},
+                  "depth": 3,
+                  "index": 1,
+                  "parent_id": null,
+                  "children": [
+                    {
+                      "tag": "h3",
+                      "id": null,
+                      "classes": [],
+                      "text": "Новый тариф для VIP-клиентов",
+                      "attributes": {},
+                      "computedStyles": {},
+                      "depth": 4,
+                      "index": 0,
+                      "parent_id": null,
+                      "children": []
+                    },
+                    {
+                      "tag": "p",
+                      "id": null,
+                      "classes": [
+                        "muted"
+                      ],
+                      "text": "Узнайте подробности",
+                      "attributes": {},
+                      "computedStyles": {
+                        "color": "var(--muted)"
+                      },
+                      "depth": 4,
+                      "index": 1,
+                      "parent_id": null,
+                      "children": [
+                        {
+                          "tag": "a",
+                          "id": null,
+                          "classes": [],
+                          "text": "",
+                          "attributes": {
+                            "href": "#"
+                          },
+                          "computedStyles": {},
+                          "depth": 5,
+                          "index": 0,
+                          "parent_id": null,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "section",
+              "id": null,
+              "classes": [
+                "services"
+              ],
+              "text": "Полезные сервисы\n      Инструмент онлайн \n      Связаться с нами",
+              "attributes": {},
+              "computedStyles": {
+                "marginTop": "40px"
+              },
+              "depth": 2,
+              "index": 4,
+              "parent_id": null,
+              "children": [
+                {
+                  "tag": "h2",
+                  "id": null,
+                  "classes": [],
+                  "text": "Полезные сервисы",
+                  "attributes": {},
+                  "computedStyles": {},
+                  "depth": 3,
+                  "index": 0,
+                  "parent_id": null,
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "id": null,
+                  "classes": [
+                    "flat-card"
+                  ],
+                  "text": "Инструмент онлайн",
+                  "attributes": {
+                    "role": "button"
+                  },
+                  "computedStyles": {
+                    "background": "var(--white)",
+                    "padding": "12px 18px",
+                    "borderRadius": "8px",
+                    "display": "inline-block",
+                    "boxShadow": "0 2px 8px rgba(0, 0, 0, 0.05)",
+                    "cursor": "pointer",
+                    "marginRight": "8px"
+                  },
+                  "depth": 3,
+                  "index": 1,
+                  "parent_id": null,
+                  "children": []
+                },
+                {
+                  "tag": "a",
+                  "id": null,
+                  "classes": [],
+                  "text": "Связаться с нами",
+                  "attributes": {
+                    "href": "#contacts",
+                    "tabindex": "-1"
+                  },
+                  "computedStyles": {},
+                  "depth": 3,
+                  "index": 3,
+                  "parent_id": null,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "footer",
+          "id": null,
+          "classes": [],
+          "text": "© 1890–2025 Банк Пример",
+          "attributes": {},
+          "computedStyles": {
+            "marginTop": "60px",
+            "padding": "24px",
+            "textAlign": "center",
+            "color": "var(--muted)",
+            "background": "var(--white)",
+            "boxShadow": "0 -2px 8px rgba(0, 0, 0, 0.04)"
+          },
+          "depth": 1,
+          "index": 2,
+          "parent_id": null,
+          "children": [
+            {
+              "tag": "p",
+              "id": null,
+              "classes": [],
+              "text": "© 1890–2025 Банк Пример",
+              "attributes": {},
+              "computedStyles": {},
+              "depth": 2,
+              "index": 0,
+              "parent_id": null,
+              "children": []
+            },
+            {
+              "tag": "a",
+              "id": null,
+              "classes": [],
+              "text": "",
+              "attributes": {
+                "href": "/help",
+                "aria-hidden": "true"
+              },
+              "computedStyles": {},
+              "depth": 2,
+              "index": 1,
+              "parent_id": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "id": null,
+          "classes": [],
+          "text": "Сервер обновлён",
+          "attributes": {
+            "hidden": "",
+            "role": "status",
+            "aria-live": "polite"
+          },
+          "computedStyles": {},
+          "depth": 1,
+          "index": 3,
+          "parent_id": null,
+          "children": []
+        }
+      ]
+    }
+  ]
+}
