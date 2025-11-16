@@ -1,0 +1,50 @@
+======================================================================
+📋 ОТЧЕТ О ПРОВЕРКЕ ДОСТУПНОСТИ ВЕБ-САЙТА
+======================================================================
+Дата проверки: 2025-11-16 11:12:40
+
+✅ УСПЕШНО: Создана модель с 83 элементами
+📄 Информация о документе:
+   - Заголовок: Банк Пример — главная
+   - Язык: 
+   - URL: https://hack-mock-bank.vercel.app/
+
+📊 СТАТИСТИКА ПО ГРУППАМ:
+   - Изображения: 4 элементов
+   - Поля форм: 3 элементов
+   - Интерактивные элементы: 14 элементов
+   - Медиа элементы: 2 элементов
+   - Заголовки: 12 элементов
+   - Таблицы: 7 элементов
+   - ARIA элементы: 6 элементов
+
+🔍 РЕЗУЛЬТАТЫ ПРОВЕРКИ ДОСТУПНОСТИ:
+============================================================
+
+⚠️ Rule111MissingAlt: ОШИБКА ВЫПОЛНЕНИЯ - 'Rule111MissingAlt' object has no attribute 'analyze'
+
+⚠️ RuleMediaAutoplay: ОШИБКА ВЫПОЛНЕНИЯ - 'RuleMediaAutoplay' object has no attribute 'analyze'
+
+⚠️ RulePlaceholderWithoutLabel: ОШИБКА ВЫПОЛНЕНИЯ - 'RulePlaceholderWithoutLabel' object has no attribute 'analyze'
+
+⚠️ Rule131Label: ОШИБКА ВЫПОЛНЕНИЯ - 'Rule131Label' object has no attribute 'analyze'
+
+⚠️ RuleTableNoHeaders: ОШИБКА ВЫПОЛНЕНИЯ - 'RuleTableNoHeaders' object has no attribute 'analyze'
+
+⚠️ Rule412LinkPurpose: ОШИБКА ВЫПОЛНЕНИЯ - 'Rule412LinkPurpose' object has no attribute 'analyze'
+
+⚠️ RuleAriaIncorrectUsage: ОШИБКА ВЫПОЛНЕНИЯ - 'RuleAriaIncorrectUsage' object has no attribute 'analyze'
+
+⚠️ Rule311Language: ОШИБКА ВЫПОЛНЕНИЯ - 'Rule311Language' object has no attribute 'analyze'
+
+============================================================
+🎯 ИТОГОВАЯ СВОДКА:
+   📊 Всего элементов на странице: 83
+   🔧 Проверено правил: 8
+   ❌ Всего проблем найдено: 0
+
+🎉 ОТЛИЧНО! Все проверки пройдены успешно!
+
+======================================================================
+Проверка завершена
+======================================================================

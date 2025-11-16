@@ -63,49 +63,142 @@ async def analyze_webpage(
 #          BACKGROUND EXECUTION: NEW PARSER PIPELINE
 # ============================================================
 
+# ... (все импорты остались прежними)
+
+from app.services.analytics.rules_analyzer.rules_factory import RulesFactory
+from app.services.analytics.data_group.data_group import DataGroupExtractor
+from app.services.analytics.rules_analyzer.analyzer import RuleViolation  # Замените на реальный путь
+from typing import List, Dict, Any, cast
+
+
+
+# ============================================================
+#          PURE FUNCTION: WCAG ANALYSIS LOGIC
+# ============================================================
+
+def run_wcag_analysis(document) -> Dict[str, Any]:
+    """
+    Pure function that runs all WCAG rules on a DocumentModel
+    and returns a structured report.
+    """
+    extractor = DataGroupExtractor()
+    factory = RulesFactory(extractor)
+
+    # Собираем все уникальные классы правил
+    all_rule_classes = set()
+    for rule_list in factory.RULES_MAP.values():
+        all_rule_classes.update(rule_list)
+
+    rule_instances = [RuleClass() for RuleClass in all_rule_classes]
+
+    # Карта для поиска элементов по node_id
+    element_map = {el.node_id: el for el in document.elements}
+
+    passed_rules: List[Dict[str, Any]] = []
+    failed_rules: List[Dict[str, Any]] = []
+
+    for rule in rule_instances:
+        try:
+            violations: List[RuleViolation] = rule.check(document)
+            rule_info = {
+                "rule_id": getattr(rule, "id", rule.__class__.__name__),
+                "description": getattr(rule, "description", "No description"),
+            }
+
+            if not violations:
+                passed_rules.append(rule_info)
+            else:
+                enriched_violations = []
+                for v in violations:
+                    element = element_map.get(v.element_id)
+                    enriched_violations.append({
+                        "message": v.message,
+                        "element_id": v.element_id,
+                        "element_path": element.get_path() if element else "N/A",
+                        "element_tag": element.tag if element else None,
+                    })
+                failed_rules.append({
+                    **rule_info,
+                    "violations_count": len(violations),
+                    "violations": enriched_violations,
+                })
+
+        except Exception as e:
+            # Обработка ошибок внутри правила
+            failed_rules.append({
+                "rule_id": getattr(rule, "id", rule.__class__.__name__),
+                "description": getattr(rule, "description", "No description"),
+                "violations_count": 1,
+                "violations": [{
+                    "message": f"Rule execution error: {str(e)}",
+                    "element_id": "N/A",
+                    "element_path": "N/A",
+                    "element_tag": None,
+                }]
+            })
+
+    return {
+        "summary": {
+            "total_rules": len(rule_instances),
+            "passed_rules": len(passed_rules),
+            "failed_rules": len(failed_rules),
+            "total_violations": sum(fr["violations_count"] for fr in failed_rules),
+        },
+        "passed": passed_rules,
+        "failed": failed_rules,
+    }
+
+
+# ============================================================
+#          BACKGROUND EXECUTION: COORDINATOR
+# ============================================================
+
 async def analyze_webpage_background(
     run_id: str,
     webpage_id: str,
-    url: HttpUrl,
+    url: str,
 ):
     try:
-        # Mark running
         await update_run_status(run_id, RunStatus.running)
         await update_webpage_status(webpage_id, RunStatus.running)
         await state_manager.set_running(UUID(run_id))
 
-        # 1. Parse webpage into raw structured DOM JSON (in-memory only)
-        raw_json = await parse_url(str(url))
-
+        # 1. Получить JSON-представление страницы
+        raw_json = await parse_url(url)
         if raw_json is None:
             raise RuntimeError("Parser returned None (URL unreachable or invalid).")
 
-        # 2. Convert to DocumentModel
+        # 2. Преобразовать в DocumentModel
         document = DocumentFactory.load_from_json(raw_json)
 
-        # 3. Run analyzers
-        # analyzer_results = run_model_analyzers(document)
+        # 3. Выполнить анализ доступности
+        analysis_result = run_wcag_analysis(document)
 
-        # 4. Generate report for frontend
-        # report = generate_report(analyzer_results)
+        # 4. Сформировать полный отчёт
+        report = {
+            "url": url,
+            **analysis_result
+        }
 
-        # 5. Store ONLY the report in DB
-        # save_payload = {
-        #     "analysis_report": report,
-        # }
+        # 5. (Опционально) сохранить в БД — раскомментируйте при реализации
+        # await save_run_result(run_id, {"analysis_report": report})
 
-        # await save_run_result(run_id, save_payload)
+        # Для отладки — выводим в консоль
+        print("=== WCAG ANALYSIS REPORT ===")
+        pprint.pprint(report)
 
-        # Mark completed
+        # 6. Завершить выполнение
         await update_run_status(run_id, RunStatus.completed)
         await update_webpage_status(webpage_id, RunStatus.completed)
         await state_manager.set_completed(UUID(run_id))
 
     except Exception as e:
-        await update_run_status(run_id, RunStatus.failed, str(e))
+        error_msg = str(e)
+        await update_run_status(run_id, RunStatus.failed, error_msg)
         await update_webpage_status(webpage_id, RunStatus.failed)
-        await state_manager.set_failed(UUID(run_id), str(e))
-
+        await state_manager.set_failed(UUID(run_id), error_msg)
+        import traceback
+        traceback.print_exc()
 
 
 # ============================================================
