@@ -1,10 +1,13 @@
 import os
 import sys
+import tempfile
+import atexit
+import shutil
 
 # =================================================================================
 print("="*80, file=sys.stderr)
-print("--- RUNNING LATEST VERSION OF text_feature_extractor.py ---", file=sys.stderr)
-print("--- This version caches models in the USER'S HOME DIRECTORY. ---", file=sys.stderr)
+print("--- RUNNING FINAL VERSION OF text_feature_extractor.py ---", file=sys.stderr)
+print("--- This version uses a TEMPORARY, RANDOM directory for the cache. ---", file=sys.stderr)
 print("="*80, file=sys.stderr)
 # =================================================================================
 
@@ -15,39 +18,36 @@ from app.services.analytics.json_parser.models import DocumentModel, ElementNode
 
 MODEL_URL = "https://tfhub.dev/google/universal-sentence-encoder/4"
 VECTOR_SIZE = 512
+TEMP_CACHE_DIR = None
 
 def setup_model_cache():
     """
-    Настраивает директорию для кэширования моделей в домашней директории пользователя,
-    чтобы избежать конфликтов внутри проекта.
+    Создает временную, уникальную директорию для кэша TensorFlow Hub
+    и регистрирует ее для удаления при завершении работы программы.
     """
+    global TEMP_CACHE_DIR
     try:
-        # Используем Path.home() для получения домашней директории
-        cache_dir = Path.home() / ".tfhub_cache_accessibility_analyzer"
-        
-        # Проверяем, не существует ли по этому пути файл
-        if cache_dir.exists() and not cache_dir.is_dir():
-            print(f"Warning: Found a file at the cache path {cache_dir}. Removing it.", file=sys.stderr)
-            os.remove(cache_dir)
-        
-        # Создаем директорию, если она не существует
-        os.makedirs(cache_dir, exist_ok=True)
-        
-        # Устанавливаем переменную окружения
-        os.environ['TFHUB_CACHE_DIR'] = str(cache_dir)
-        print(f"--- TensorFlow Hub cache directory is set to: {cache_dir} ---", file=sys.stderr)
-
+        # Создаем временную директорию с уникальным именем
+        TEMP_CACHE_DIR = tempfile.mkdtemp(prefix="tfhub_cache_")
+        os.environ['TFHUB_CACHE_DIR'] = TEMP_CACHE_DIR
+        print(f"--- Using temporary cache directory: {TEMP_CACHE_DIR} ---", file=sys.stderr)
     except Exception as e:
-        print(f"FATAL ERROR in setup_model_cache: {e}", file=sys.stderr)
-        # В случае ошибки используем временную директорию
-        import tempfile
-        fallback_dir = tempfile.mkdtemp()
-        os.environ['TFHUB_CACHE_DIR'] = fallback_dir
-        print(f"--- Fallback TF Hub cache directory is set to: {fallback_dir} ---", file=sys.stderr)
+        print(f"FATAL ERROR: Could not create temporary directory: {e}", file=sys.stderr)
+        # Если даже это не удалось, прекращаем работу
+        sys.exit(1)
 
+def cleanup_cache():
+    """Удаляет временную директорию кэша."""
+    global TEMP_CACHE_DIR
+    if TEMP_CACHE_DIR and os.path.exists(TEMP_CACHE_DIR):
+        print(f"--- Cleaning up temporary cache directory: {TEMP_CACHE_DIR} ---", file=sys.stderr)
+        shutil.rmtree(TEMP_CACHE_DIR, ignore_errors=True)
 
 # Выполняем настройку кеша при импорте модуля
 setup_model_cache()
+# Регистрируем функцию очистки, которая будет вызвана при выходе из Python
+atexit.register(cleanup_cache)
+
 
 def _flatten_and_extract_text(elements: list[ElementNode], embed):
     text_features = []
