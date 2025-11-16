@@ -1,26 +1,50 @@
+import os
+import sys
+
+# =================================================================================
+print("="*80, file=sys.stderr)
+print("--- RUNNING LATEST VERSION OF text_feature_extractor.py ---", file=sys.stderr)
+print("--- This version caches models in the USER'S HOME DIRECTORY. ---", file=sys.stderr)
+print("="*80, file=sys.stderr)
+# =================================================================================
+
 import tensorflow_hub as hub
 import numpy as np
-import os
+from pathlib import Path
 from app.services.analytics.json_parser.models import DocumentModel, ElementNode
 
-MODELS_DIR = '.tfhub_cache'
 MODEL_URL = "https://tfhub.dev/google/universal-sentence-encoder/4"
 VECTOR_SIZE = 512
 
 def setup_model_cache():
     """
-    Настраивает директорию для кэширования моделей TensorFlow Hub.
-    Эта функция выполняется при импорте модуля.
+    Настраивает директорию для кэширования моделей в домашней директории пользователя,
+    чтобы избежать конфликтов внутри проекта.
     """
-    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    cache_dir = os.path.join(base_dir, MODELS_DIR)
-    
-    if os.path.exists(cache_dir) and not os.path.isdir(cache_dir):
-        print(f"Warning: Found a file at the cache path {cache_dir}. Removing it.")
-        os.remove(cache_dir)
-    
-    os.makedirs(cache_dir, exist_ok=True)
-    os.environ['TFHUB_CACHE_DIR'] = cache_dir
+    try:
+        # Используем Path.home() для получения домашней директории
+        cache_dir = Path.home() / ".tfhub_cache_accessibility_analyzer"
+        
+        # Проверяем, не существует ли по этому пути файл
+        if cache_dir.exists() and not cache_dir.is_dir():
+            print(f"Warning: Found a file at the cache path {cache_dir}. Removing it.", file=sys.stderr)
+            os.remove(cache_dir)
+        
+        # Создаем директорию, если она не существует
+        os.makedirs(cache_dir, exist_ok=True)
+        
+        # Устанавливаем переменную окружения
+        os.environ['TFHUB_CACHE_DIR'] = str(cache_dir)
+        print(f"--- TensorFlow Hub cache directory is set to: {cache_dir} ---", file=sys.stderr)
+
+    except Exception as e:
+        print(f"FATAL ERROR in setup_model_cache: {e}", file=sys.stderr)
+        # В случае ошибки используем временную директорию
+        import tempfile
+        fallback_dir = tempfile.mkdtemp()
+        os.environ['TFHUB_CACHE_DIR'] = fallback_dir
+        print(f"--- Fallback TF Hub cache directory is set to: {fallback_dir} ---", file=sys.stderr)
+
 
 # Выполняем настройку кеша при импорте модуля
 setup_model_cache()
@@ -64,7 +88,6 @@ if __name__ == '__main__':
     import json
     from app.services.analytics.json_parser.models import DocumentFactory
     try:
-        # setup_model_cache() теперь вызывается автоматически при импорте
         example_json_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'dataset', '1.json')
         
         with open(example_json_path, 'r', encoding='utf-8') as f:
