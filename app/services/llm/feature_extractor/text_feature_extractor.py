@@ -3,7 +3,7 @@ import numpy as np
 import os
 from app.services.analytics.json_parser.models import DocumentModel, ElementNode
 
-MODELS_DIR = 'models'
+MODELS_DIR = '.tfhub_cache'  # Изменено с 'models' для избежания конфликтов
 MODEL_URL = "https://tfhub.dev/google/universal-sentence-encoder/4"
 VECTOR_SIZE = 512
 
@@ -51,7 +51,7 @@ def extract_text_features(document_model: DocumentModel):
 
 if __name__ == '__main__':
     import json
-    from app.services.accessibility.json_parser import DocumentFactory
+    from app.services.analytics.json_parser.models import DocumentFactory
     try:
         setup_model_cache()
         
